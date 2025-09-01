@@ -1,4 +1,4 @@
-export const tanerMuratEntries: string[] = [
+export const tanerMuratEntries: string = `
 #Fiat Justitia
 Fiat Justitia, pereat mundus, et!
 Ya batsîn dúniya, ya bolsîn adalet,
@@ -336,5 +336,4 @@ Endí kabaátsíz wursam menden kettí gúnalar.
 Akîlnîñ oynatmasî, ófke demek alğîmak.
 Ófkelí insan ateş salîp bír kóyní ğagar
 Ğerkúresí tarlîkta ofkelí bolsa Tatar.
-  `
-];
+  `;
