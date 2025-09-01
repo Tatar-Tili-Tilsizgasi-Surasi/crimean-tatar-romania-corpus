@@ -27,8 +27,11 @@ const allRawText = [
   a, b, c, d, e, f, g, h, i, j, k, l, m, n, o, p, r, s, t, u, v, w, y, z
 ].join('\n');
 
+// Replace Ń and ń with ţ for orthographic normalization.
+const processedText = allRawText.replace(/Ń|ń/g, 'ţ');
+
 // Sort lines alphabetically, ignoring entries that might be just whitespace
-const sortedLines = allRawText
+const sortedLines = processedText
   .split('\n')
   .filter(line => line.trim() !== '')
   .sort((lineA, lineB) => lineA.localeCompare(lineB, 'tr'));
