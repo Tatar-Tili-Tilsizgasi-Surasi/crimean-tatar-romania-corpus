@@ -50,9 +50,9 @@ const EntryItem: React.FC<EntryItemProps> = ({ entry, showTranslations }) => {
       role={isExpandable ? "button" : undefined}
       aria-label={isExpandable ? (isExpanded ? `Collapse entry from ${entry.source}` : `Expand entry from ${entry.source}`) : undefined}
     >
-      <div className="flex items-start justify-between gap-4">
-        <p className="flex-1 whitespace-pre-wrap text-slate-800 break-words">{displayedText}</p>
-        <span className="flex-shrink-0 text-xs font-mono bg-slate-200 text-slate-500 px-2 py-1 rounded-md self-center">{entry.source}</span>
+      <div className="flex flex-col sm:flex-row items-start justify-between gap-2 sm:gap-4">
+        <p className="flex-1 w-full whitespace-pre-wrap text-slate-800 break-words">{displayedText}</p>
+        <span className="flex-shrink-0 text-xs font-mono bg-slate-200 text-slate-500 px-2 py-1 rounded-md self-end sm:self-center">{entry.source}</span>
       </div>
       {showTranslations && entry.translation && (
         <p className="text-slate-500 italic mt-2 pt-2 border-t border-slate-200 whitespace-pre-wrap break-words">

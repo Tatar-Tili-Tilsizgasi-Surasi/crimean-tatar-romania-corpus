@@ -1,12 +1,22 @@
 import React from 'react';
+import Menu from './Menu';
 
-const Header: React.FC = () => {
+type Page = 'corpus' | 'howto' | 'about';
+
+interface HeaderProps {
+    onNavigate: (page: Page) => void;
+}
+
+const Header: React.FC<HeaderProps> = ({ onNavigate }) => {
   return (
-    <header className="text-center">
-      <h1 className="text-4xl md:text-5xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-cyan-400 to-blue-500">
+    <header className="relative text-center">
+      <div className="absolute top-0 left-0">
+          <Menu onNavigate={onNavigate} />
+      </div>
+      <h1 className="text-3xl sm:text-4xl md:text-5xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-cyan-400 to-blue-500 pt-2">
         Crimean Tatar (Romania) Language Corpus
       </h1>
-      <p className="mt-3 text-lg text-slate-500">
+      <p className="mt-3 text-base sm:text-lg text-slate-500">
         A collection of text entries for Crimean Tatar (Romania).
       </p>
     </header>

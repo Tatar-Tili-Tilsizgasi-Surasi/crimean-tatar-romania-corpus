@@ -10,6 +10,7 @@ import { websiteEntries } from '../data/Taner_Murat/Website';
 import { peruzeliSalingakEntries } from '../data/Taner_Murat/Peruzeli_salingak';
 import { botDictionaryRawText } from '../data/bot_dictionary';
 import { ornDictionaryRawText } from '../data/orn_dictionary';
+import { misDictionaryRawText } from '../data/mis_dictionary';
 
 let idCounter = 0;
 
@@ -278,7 +279,7 @@ const createEntriesFromString = (textBlock: string, source: string): CorpusEntry
   });
 };
 
-const dictionaryData = createEntriesFromRawText(dictionaryRawText, 'Dictionary (Taner Murat, community)');
+const dictionaryData = createEntriesFromRawText(dictionaryRawText, 'Dictionary (Taner Murat)');
 const mikayilData = createEntriesFromString(mikayilEmineskuwEntries, 'Mikayil Emineskúw');
 const tanerData = createEntriesFromString(tanerMuratEntries, 'Taner Murat');
 const schillerData = createEntriesFromString(friedrichSchillerEntries, 'Friedrich Schiller');
@@ -289,11 +290,14 @@ const tanerWebsiteData = createEntriesFromString(websiteEntries, 'Taner Murat - 
 const tanerPeruzeliData = createEntriesFromString(peruzeliSalingakEntries, 'Taner Murat - Peruzeli salıncaq');
 const botDictionaryData = createEntriesFromLatinGroupedText(botDictionaryRawText, 'Botanical Dictionary (Taner Murat)');
 const ornDictionaryData = createEntriesFromLatinGroupedText(ornDictionaryRawText, 'Ornithological Dictionary (Taner Murat)');
+const misDictionaryData = createEntriesFromRawText(misDictionaryRawText, 'Dictionary (Missing terms added by the community)');
+
 
 export const corpus: CorpusEntry[] = [
   ...dictionaryData,
   ...botDictionaryData,
   ...ornDictionaryData,
+  ...misDictionaryData,
   ...mikayilData,
   ...tanerData,
   ...tanerFiatJustitiaData,
