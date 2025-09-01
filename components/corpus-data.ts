@@ -7,6 +7,13 @@ import { charlesBaudelaireEntries } from '../data/Charles_Baudelaire';
 
 let idCounter = 0;
 
+// List of part-of-speech abbreviations used to detect translations when '/' is missing.
+const posAbbreviations = [
+    's\\.', 'adj\\.', 'adv\\.', 'pron\\.', 'v\\.', 'interj\\.', 'prep\\.', 'conj\\.', 'num\\.', 'art\\.',
+    '\\(fiziol\\.\\)', '\\(muz\\.\\)', '\\(electr\\.\\)', '\\(antrop\\. f\\.\\)', '\\(fiz\\.\\)'
+];
+const posAbbreviationsRegex = new RegExp(`\\s+(${posAbbreviations.join('|')})`);
+
 const parseLine = (line: string): { text: string; translation?: string } => {
     const separatorIndex = line.lastIndexOf('/');
     let text, translation;
@@ -15,8 +22,16 @@ const parseLine = (line: string): { text: string; translation?: string } => {
         text = line.substring(0, separatorIndex).trim();
         translation = line.substring(separatorIndex + 1).trim() || undefined;
     } else {
-        text = line.trim();
-        translation = undefined;
+        const match = line.match(posAbbreviationsRegex);
+        
+        if (match && typeof match.index === 'number') {
+            const splitIndex = match.index;
+            text = line.substring(0, splitIndex).trim();
+            translation = line.substring(splitIndex).trim() || undefined;
+        } else {
+            text = line.trim();
+            translation = undefined;
+        }
     }
     return { text, translation };
 };
