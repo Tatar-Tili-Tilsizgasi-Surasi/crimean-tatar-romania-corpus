@@ -512,7 +512,7 @@ agaştaósken s. xilofil.
 agaştay adj. (d. materiale) de natură lemnoasă; asemănător cu lemnul; xiloid. 
 agaştokîsî s. (bot.) xilem. 
 ag-atîrîş I. adj. (ist.)(ak atîrîş-"separaŃia albă") elitist; nobil; autohton; indigen; băștinaș; neaoș. II. s., adj. (ist.)(ak atîrîş-"separaŃia albă") agatârş; elită; nobil; nobilime; autohton; indigen; băștinaș; tătar. 
-agîm s. 1. curent; curgere. 2. (geogr.) pantă; povârniş; versant; coastă. 3. înclinaŃie; vocaŃie; aptitudine; tendinŃă. // ●agîm anatîgaşî — priză electrică. ●agîm şebekesí — reŃea electrică. ●dalgalî / dulkunlî agîm — (electr.) curent alternativ. ●dogrî agîm — (electr.) curent continuu. ●hawa agîmî — curent de aer. ●istikra agîmî — curent de inducŃie. ●şagîlgan / elektrik agîm — curent electric. 
+agîm s. 1. curent; curgere. 2. (geogr.) pantă; povârniş; versant; coastă. 3. înclinaŃie; vocaŃie; aptitudine; tendinŃă. // ●agîm anatîgaşî — priză electrică. ●agîm şebekesí — reŃea electrică. ●dalgalî/dulkunlî agîm — (electr.) curent alternativ. ●dogrî agîm — (electr.) curent continuu. ●hawa agîmî — curent de aer. ●istikra agîmî — curent de inducŃie. ●şagîlgan/elektrik agîm — curent electric. 
 agîmsuw s. fluviu; râu. 
 agîn s. 1. incursiune; atac. 2. afluenŃă. // ●agîn etmek — a ataca. 
 agîn-agîn adv. valuri – valuri; buluc; droaie. 
