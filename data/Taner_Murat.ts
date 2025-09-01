@@ -124,7 +124,7 @@ Emelíñní gúller basar
 Túşúñ şeşek-şeşek aşar
 Yuwalanîrlar búlbúller
 Atîñ Tatar bolsa eger. 
-(Kóstenğe, 16 temmuz 2010)`
+(Kóstenğe, 16 temmuz 2010)`,
   `Ğerge toymagan
 Ğerge toymagan,
 Soy tamîrîn kurutkan
