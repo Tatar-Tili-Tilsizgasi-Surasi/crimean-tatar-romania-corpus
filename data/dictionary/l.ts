@@ -1,4 +1,4 @@
-const rawDictionaryText = `
+export const rawDictionaryText = `
 la s. (muz.) la. 
 labîz s. melodie. 
 labîzlî adj. melodic; melodios. 
