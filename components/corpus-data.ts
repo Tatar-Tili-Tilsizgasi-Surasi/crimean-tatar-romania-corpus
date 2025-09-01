@@ -10,7 +10,13 @@ let idCounter = 0;
 // List of part-of-speech abbreviations used to detect translations when '/' is missing.
 const posAbbreviations = [
     's\\.', 'adj\\.', 'adv\\.', 'pron\\.', 'v\\.', 'interj\\.', 'prep\\.', 'conj\\.', 'num\\.', 'art\\.',
-    '\\(fiziol\\.\\)', '\\(muz\\.\\)', '\\(electr\\.\\)', '\\(antrop\\. f\\.\\)', '\\(fiz\\.\\)'
+    '\\(fiziol\\.\\)', '\\(muz\\.\\)', '\\(electr\\.\\)', '\\(antrop\\. f\\.\\)', '\\(fiz\\.\\)',
+    // User-requested list markers and abbreviations
+    'etc\\.',
+    // Roman numerals (ordered from longest to shortest to prevent partial matches)
+    'X\\.', 'IX\\.', 'VIII\\.', 'VII\\.', 'VI\\.', 'V\\.', 'IV\\.', 'III\\.', 'II\\.', 'I\\.',
+    // Alphabetical list markers
+    'A\\.', 'B\\.', 'C\\.', 'D\\.', 'E\\.', 'F\\.', 'G\\.', 'H\\.'
 ];
 const posAbbreviationsRegex = new RegExp(`\\s+(${posAbbreviations.join('|')})`);
 
@@ -67,15 +73,19 @@ const processTextVariations = (rawText: string): string[] => {
 };
 
 const parseLine = (line: string): { text: string; translation?: string } => {
-    const separatorIndex = line.lastIndexOf('/');
-    let text, translation;
+    let text: string;
+    let translation: string | undefined;
+
+    // Use ' / ' as a more reliable separator for translations.
+    const separator = ' / ';
+    const separatorIndex = line.indexOf(separator);
 
     if (separatorIndex !== -1) {
         text = line.substring(0, separatorIndex).trim();
-        translation = line.substring(separatorIndex + 1).trim() || undefined;
+        translation = line.substring(separatorIndex + separator.length).trim() || undefined;
     } else {
+        // Fallback for lines without ' / ', might be translation-less or use POS abbreviations.
         const match = line.match(posAbbreviationsRegex);
-        
         if (match && typeof match.index === 'number') {
             const splitIndex = match.index;
             text = line.substring(0, splitIndex).trim();
@@ -83,6 +93,14 @@ const parseLine = (line: string): { text: string; translation?: string } => {
         } else {
             text = line.trim();
             translation = undefined;
+
+            // Handle entries with an empty translation marked by a final slash.
+            // This is for cases that didn't match ' / ' (e.g., no space before slash).
+            if (text.endsWith(' /')) {
+                text = text.substring(0, text.length - 2).trim();
+            } else if (text.endsWith('/')) {
+                text = text.substring(0, text.length - 1).trim();
+            }
         }
     }
 
