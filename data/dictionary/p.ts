@@ -1,4 +1,4 @@
-const rawDictionaryText = `
+export const rawDictionaryText = `
 Paçifik-altîn-ğawunkuşî s. (orn.) ploier de Pacific auriu (lat., Pluvialis fulva). 
 Paçifik-altîn-suwtorgayî s. (orn.) ploier de Pacific auriu (lat., Pluvialis fulva). 
 Paçifik-Dalayî/Paçifik-Deriyasî s. (hidron.) Oceanul Pacific. 
