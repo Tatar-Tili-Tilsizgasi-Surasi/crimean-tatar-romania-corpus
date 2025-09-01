@@ -1,4 +1,4 @@
-const rawDictionaryText = `
+export const rawDictionaryText = `
 raát I. adj. 1. liniştit; odihnit; relaxat. 2. comod; confortabil. II. s. linişte; tihnă; odihnă; relaxare. // ●raát bolmak  — a se linişti; a se odihni. ●raátí kalmamak — a nu mai avea linişte/tihnă/pace. ●raátín bîzmak — a strica pacea cuiva; a-i strica liniştea. 
 raátetken adj. reconfortant. 
 raátkana s. closet; toaletă. 
