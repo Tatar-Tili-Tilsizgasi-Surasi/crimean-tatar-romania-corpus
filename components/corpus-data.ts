@@ -7,7 +7,7 @@ import { charlesBaudelaireEntries } from '../data/Charles_Baudelaire';
 
 let idCounter = 0;
 
-const createEntries = (texts: string[], source: string): CorpusEntry[] => {
+const createEntriesFromArray = (texts: string[], source: string): CorpusEntry[] => {
   return texts.map(line => {
     const parts = line.split('\t');
     const text = parts[0];
@@ -21,11 +21,24 @@ const createEntries = (texts: string[], source: string): CorpusEntry[] => {
   });
 };
 
-const dictionaryData = createEntries(dictionaryEntries, 'Dictionary');
-const mikayilData = createEntries(mikayilEmineskuwEntries, 'Mikayil Emineskúw');
-const tanerData = createEntries(tanerMuratEntries, 'Taner Murat');
-const schillerData = createEntries(friedrichSchillerEntries, 'Friedrich Schiller');
-const baudelaireData = createEntries(charlesBaudelaireEntries, 'Charles Baudelaire');
+const createEntriesFromString = (textBlock: string, source: string): CorpusEntry[] => {
+  // Split by '#' at the beginning of a line, ignoring leading whitespace on the line.
+  const entries = textBlock.trim().split(/^\s*#\s*/m).filter(s => s.trim() !== '');
+  return entries.map(entry => {
+    return {
+      id: String(++idCounter),
+      text: entry.trim(),
+      translation: undefined,
+      source,
+    };
+  });
+};
+
+const dictionaryData = createEntriesFromArray(dictionaryEntries, 'Dictionary');
+const mikayilData = createEntriesFromString(mikayilEmineskuwEntries, 'Mikayil Emineskúw');
+const tanerData = createEntriesFromString(tanerMuratEntries, 'Taner Murat');
+const schillerData = createEntriesFromString(friedrichSchillerEntries, 'Friedrich Schiller');
+const baudelaireData = createEntriesFromString(charlesBaudelaireEntries, 'Charles Baudelaire');
 
 export const corpus: CorpusEntry[] = [
   ...dictionaryData,
