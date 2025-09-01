@@ -14,6 +14,58 @@ const posAbbreviations = [
 ];
 const posAbbreviationsRegex = new RegExp(`\\s+(${posAbbreviations.join('|')})`);
 
+const processWordVariations = (word: string): string[] => {
+    const slashParts = word.split('/');
+    let finalVariations: string[] = [];
+
+    const expandParentheses = (w: string): string[] => {
+        const match = w.match(/(.*?)\(([^)]+)\)(.*)/);
+        if (!match) {
+            return [w];
+        }
+        const [, prefix, optional, suffix] = match;
+        const withOptional = expandParentheses(prefix + optional + suffix);
+        const withoutOptional = expandParentheses(prefix + suffix);
+        return [...new Set([...withOptional, ...withoutOptional])];
+    };
+
+    slashParts.forEach(part => {
+        finalVariations.push(...expandParentheses(part));
+    });
+    
+    return [...new Set(finalVariations)];
+};
+
+const processTextVariations = (rawText: string): string[] => {
+    const trimmedText = rawText.trim();
+    if (!trimmedText) return [];
+    const wordList = trimmedText.split(/\s+/);
+
+    const wordVariations = wordList.map(processWordVariations);
+
+    // FIX: The original implementation of `cartesian` was a clever one-liner using `reduce`
+    // without an initial value. This caused TypeScript errors because the accumulator's type
+    // changes between the first and subsequent iterations, which `reduce`'s type signature
+    // does not support well. This has been replaced with a more explicit and type-safe
+    // implementation that correctly handles the initial state.
+    const cartesian = <T>(...a: T[][]): T[][] => {
+        if (!a || a.length === 0) {
+            return [];
+        }
+        const [head, ...tail] = a;
+        return tail.reduce(
+            (acc, current) => acc.flatMap(item => current.map(cItem => [...item, cItem])),
+            head.map(item => [item])
+        );
+    };
+
+    if (wordVariations.length === 0) return [];
+    
+    const combinations = cartesian(...wordVariations);
+    const result = combinations.map(combo => combo.join(' '));
+    return [...new Set(result)];
+};
+
 const parseLine = (line: string): { text: string; translation?: string } => {
     const separatorIndex = line.lastIndexOf('/');
     let text, translation;
@@ -46,9 +98,14 @@ const createEntriesFromRawText = (rawText: string, source: string): CorpusEntry[
       
       const mainEntryPart = mainAndSubEntries[0].trim();
       if (mainEntryPart) {
-        const { text, translation } = parseLine(mainEntryPart);
-        if (text) {
-          allEntries.push({ id: String(++idCounter), text, translation, source });
+        const { text: rawText, translation } = parseLine(mainEntryPart);
+        if (rawText) {
+          const texts = processTextVariations(rawText);
+          texts.forEach(text => {
+            if (text) {
+              allEntries.push({ id: String(++idCounter), text, translation, source });
+            }
+          });
         }
       }
 
@@ -59,23 +116,33 @@ const createEntriesFromRawText = (rawText: string, source: string): CorpusEntry[
         const subEntries = subEntryBlock.split(/[●•]/).filter(s => s.trim() !== '');
         subEntries.forEach(subEntry => {
           const subParts = subEntry.split('—');
-          const text = subParts[0].trim();
+          const rawText = subParts[0].trim();
           const translation = subParts.length > 1 ? subParts.slice(1).join('—').trim() : undefined;
           
-          if (text) {
-            allEntries.push({
-              id: String(++idCounter),
-              text: text,
-              translation,
-              source,
+          if (rawText) {
+            const texts = processTextVariations(rawText);
+            texts.forEach(text => {
+              if(text) {
+                allEntries.push({
+                  id: String(++idCounter),
+                  text: text,
+                  translation,
+                  source,
+                });
+              }
             });
           }
         });
       }
     } else {
-      const { text, translation } = parseLine(line);
-      if (text) {
-        allEntries.push({ id: String(++idCounter), text, translation, source });
+      const { text: rawText, translation } = parseLine(line);
+      if (rawText) {
+        const texts = processTextVariations(rawText);
+        texts.forEach(text => {
+          if (text) {
+            allEntries.push({ id: String(++idCounter), text, translation, source });
+          }
+        });
       }
     }
   });
