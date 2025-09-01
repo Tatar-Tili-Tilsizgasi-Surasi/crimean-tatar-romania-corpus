@@ -11,6 +11,9 @@ import { peruzeliSalingakEntries } from '../data/Taner_Murat/Peruzeli_salingak';
 import { botDictionaryRawText } from '../data/bot_dictionary';
 import { ornDictionaryRawText } from '../data/orn_dictionary';
 import { misDictionaryRawText } from '../data/mis_dictionary';
+import { ademMiskiyebicEntries } from '../data/Adem_Miskiyebic';
+import { uteKarsunEntries } from '../data/Ute_Karsun';
+import { geriyBekEntries } from '../data/Geriy_Bek';
 
 let idCounter = 0;
 
@@ -285,12 +288,15 @@ const tanerData = createEntriesFromString(tanerMuratEntries, 'Taner Murat');
 const schillerData = createEntriesFromString(friedrichSchillerEntries, 'Friedrich Schiller');
 const baudelaireData = createEntriesFromString(charlesBaudelaireEntries, 'Charles Baudelaire');
 const tanerFiatJustitiaData = createEntriesFromString(fiatJustitiaEntries, 'Taner Murat - Fiat Justitia');
-const tanerOtkenData = createEntriesFromString(otkenBirSaklaygaSewdamEntries, 'Taner Murat - Ötken bir saklayğa sewdam');
+const tanerOtkenData = createEntriesFromString(otkenBirSaklaygaSewdamEntries, 'Taner Murat - Ótken bír şaklayga sewdam');
 const tanerWebsiteData = createEntriesFromString(websiteEntries, 'Taner Murat - Website');
-const tanerPeruzeliData = createEntriesFromString(peruzeliSalingakEntries, 'Taner Murat - Peruzeli salıncaq');
+const tanerPeruzeliData = createEntriesFromString(peruzeliSalingakEntries, 'Taner Murat - Perúzelí salînğak');
 const botDictionaryData = createEntriesFromLatinGroupedText(botDictionaryRawText, 'Botanical Dictionary (Taner Murat)');
 const ornDictionaryData = createEntriesFromLatinGroupedText(ornDictionaryRawText, 'Ornithological Dictionary (Taner Murat)');
 const misDictionaryData = createEntriesFromRawText(misDictionaryRawText, 'Dictionary (Missing terms added by the community)');
+const ademMiskiyebicData = createEntriesFromString(ademMiskiyebicEntries, 'Adem Miskiyebiç');
+const uteKarsunData = createEntriesFromString(uteKarsunEntries, 'Úte Karsun');
+const geriyBekData = createEntriesFromString(geriyBekEntries, 'Geriy Bek');
 
 
 export const corpus: CorpusEntry[] = [
@@ -306,4 +312,7 @@ export const corpus: CorpusEntry[] = [
   ...tanerPeruzeliData,
   ...schillerData,
   ...baudelaireData,
+  ...ademMiskiyebicData,
+  ...uteKarsunData,
+  ...geriyBekData,
 ];

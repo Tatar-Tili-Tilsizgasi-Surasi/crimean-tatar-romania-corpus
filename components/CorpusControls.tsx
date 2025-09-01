@@ -131,8 +131,8 @@ const CorpusControls: React.FC<CorpusControlsProps> = ({
                 Total Words: <span className="text-cyan-400">{totalWordCount.toLocaleString()}</span>
             </div>
         </div>
-        <div className="flex items-center flex-wrap justify-center lg:justify-end gap-4 w-full lg:w-auto">
-          <div className="flex items-center gap-2">
+        <div className="flex flex-col md:flex-row items-center justify-center lg:justify-end gap-4 w-full lg:w-auto">
+          <div className="flex items-center gap-2 w-full md:w-auto justify-between">
             <label htmlFor="category-select" className="text-sm font-medium text-slate-700 whitespace-nowrap">Category</label>
             <select
               id="category-select"
@@ -146,7 +146,7 @@ const CorpusControls: React.FC<CorpusControlsProps> = ({
               ))}
             </select>
           </div>
-          <label htmlFor="show-translations" className="flex items-center cursor-pointer select-none">
+          <label htmlFor="show-translations" className="flex items-center cursor-pointer select-none w-full md:w-auto justify-between">
             <span className="mr-3 text-sm font-medium text-slate-700 whitespace-nowrap">Show Translations</span>
             <div className="relative">
                 <input
@@ -161,10 +161,10 @@ const CorpusControls: React.FC<CorpusControlsProps> = ({
                 <div className="dot absolute left-1 top-1 bg-white w-5 h-5 rounded-full transition-transform peer-checked:translate-x-full"></div>
             </div>
           </label>
-          <div className="relative" ref={exportMenuRef}>
+          <div className="relative w-full md:w-auto" ref={exportMenuRef}>
             <button
               onClick={() => setIsExportMenuOpen(!isExportMenuOpen)}
-              className="flex items-center gap-2 px-4 py-2 bg-slate-200 text-sm font-medium rounded-md hover:bg-slate-300 transition-colors"
+              className="flex items-center justify-center w-full gap-2 px-4 py-2 bg-slate-200 text-sm font-medium rounded-md hover:bg-slate-300 transition-colors"
               aria-haspopup="true"
               aria-expanded={isExportMenuOpen}
               aria-label="Export options"
