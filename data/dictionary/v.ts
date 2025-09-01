@@ -1,4 +1,4 @@
-const rawDictionaryText = `
+export const rawDictionaryText = `
 vaat s. promisiune; făgăduială. //●sízge bírşiy vaat et-almam — nu vă pot promite nimic. 
 vaatetmek v.t. a promite; a făgădui. 
 vaatetúwğí adj. promiŃător. 
