@@ -1,5 +1,6 @@
 export const tanerMuratEntries: string[] = [
-  'Fiat Justitia, pereat mundus, et!
+  'Fiat Justitia
+Fiat Justitia, pereat mundus, et!
 Ya batsîn dúniya, ya bolsîn adalet,
 Ya pítsín hakksîzlîk, ya kelsín felaket,
 Fiat Justitia, pereat mundus, et!
