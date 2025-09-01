@@ -9,18 +9,33 @@ const App: React.FC = () => {
   const entries: CorpusEntry[] = initialCorpus;
   const [searchQuery, setSearchQuery] = useState('');
   const [showTranslations, setShowTranslations] = useState(true);
+  const [selectedCategory, setSelectedCategory] = useState('All');
+
+  const categories = useMemo(() => {
+    const allSources = entries.map(entry => entry.source);
+    return ['All', ...Array.from(new Set(allSources))];
+  }, [entries]);
 
   const filteredEntries = useMemo(() => {
-    if (!searchQuery) {
-      return entries;
-    }
-    const lowerCaseQuery = searchQuery.toLowerCase();
-    return entries.filter(entry =>
-      entry.text.toLowerCase().includes(lowerCaseQuery) ||
-      entry.source.toLowerCase().includes(lowerCaseQuery) ||
-      (showTranslations && entry.translation && entry.translation.toLowerCase().includes(lowerCaseQuery))
-    );
-  }, [entries, searchQuery, showTranslations]);
+    return entries.filter(entry => {
+      // Category filter
+      if (selectedCategory !== 'All' && entry.source !== selectedCategory) {
+        return false;
+      }
+      
+      // Search query filter
+      if (!searchQuery) {
+        return true;
+      }
+
+      const lowerCaseQuery = searchQuery.toLowerCase();
+      return (
+        entry.text.toLowerCase().includes(lowerCaseQuery) ||
+        entry.source.toLowerCase().includes(lowerCaseQuery) ||
+        (showTranslations && entry.translation && entry.translation.toLowerCase().includes(lowerCaseQuery))
+      );
+    });
+  }, [entries, searchQuery, showTranslations, selectedCategory]);
 
   const totalWordCount = useMemo(() => {
     return entries.reduce((count, entry) => {
@@ -86,6 +101,9 @@ const App: React.FC = () => {
             onExportTxt={handleExportTxt}
             showTranslations={showTranslations}
             onShowTranslationsChange={setShowTranslations}
+            categories={categories}
+            selectedCategory={selectedCategory}
+            onCategoryChange={setSelectedCategory}
           />
           <CorpusList entries={filteredEntries} searchQuery={searchQuery} showTranslations={showTranslations} />
         </div>
