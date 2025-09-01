@@ -11,8 +11,6 @@ let idCounter = 0;
 const posAbbreviations = [
     's\\.', 'adj\\.', 'adv\\.', 'pron\\.', 'v\\.', 'interj\\.', 'prep\\.', 'conj\\.', 'num\\.', 'art\\.',
     '\\(fiziol\\.\\)', '\\(muz\\.\\)', '\\(electr\\.\\)', '\\(antrop\\. f\\.\\)', '\\(fiz\\.\\)',
-    // User-requested list markers and abbreviations
-    'etc\\.',
     // Roman numerals (ordered from longest to shortest to prevent partial matches)
     'X\\.', 'IX\\.', 'VIII\\.', 'VII\\.', 'VI\\.', 'V\\.', 'IV\\.', 'III\\.', 'II\\.', 'I\\.',
     // Alphabetical list markers
@@ -20,34 +18,58 @@ const posAbbreviations = [
 ];
 const posAbbreviationsRegex = new RegExp(`\\s+(${posAbbreviations.join('|')})`);
 
-const processWordVariations = (word: string): string[] => {
-    const slashParts = word.split('/');
-    let finalVariations: string[] = [];
-
-    const expandParentheses = (w: string): string[] => {
-        const match = w.match(/(.*?)\(([^)]+)\)(.*)/);
-        if (!match) {
-            return [w];
-        }
-        const [, prefix, optional, suffix] = match;
-        const withOptional = expandParentheses(prefix + optional + suffix);
-        const withoutOptional = expandParentheses(prefix + suffix);
-        return [...new Set([...withOptional, ...withoutOptional])];
-    };
-
-    slashParts.forEach(part => {
-        finalVariations.push(...expandParentheses(part));
-    });
-    
-    return [...new Set(finalVariations)];
-};
-
 const processTextVariations = (rawText: string): string[] => {
     const trimmedText = rawText.trim();
     if (!trimmedText) return [];
     const wordList = trimmedText.split(/\s+/);
 
+    const processWordVariations = (word: string): string[] => {
+        const slashParts = word.split('/');
+        let finalVariations: string[] = [];
+
+        const expandParentheses = (w: string): string[] => {
+            const match = w.match(/(.*?)\(([^)]+)\)(.*)/);
+            if (!match) {
+                return [w];
+            }
+            const [, prefix, optional, suffix] = match;
+            const withOptional = expandParentheses(prefix + optional + suffix);
+            const withoutOptional = expandParentheses(prefix + suffix);
+            return [...new Set([...withOptional, ...withoutOptional])];
+        };
+
+        slashParts.forEach(part => {
+            finalVariations.push(...expandParentheses(part));
+        });
+        
+        // Filter out empty or whitespace-only strings that might result from patterns like "word/" or "word()".
+        return [...new Set(finalVariations)].filter(v => v.trim());
+    };
+
     const wordVariations = wordList.map(processWordVariations);
+
+    // Group consecutive words that have alternatives (from slashes or parentheses).
+    // This handles cases like "tañ/saba/ şafak atmak" correctly by treating
+    // "tañ/saba/ şafak" as a single set of choices.
+    const groupedVariations: string[][] = [];
+    let currentGroup: string[] = [];
+
+    for (const variations of wordVariations) {
+        if (variations.length > 1) { // This word part had alternatives
+            currentGroup.push(...variations);
+        } else { // This word part had no alternatives
+            if (currentGroup.length > 0) {
+                groupedVariations.push([...new Set(currentGroup)]);
+                currentGroup = [];
+            }
+            if (variations.length > 0) { // Only push if there is content
+                groupedVariations.push(variations);
+            }
+        }
+    }
+    if (currentGroup.length > 0) {
+        groupedVariations.push([...new Set(currentGroup)]);
+    }
 
     // FIX: The original implementation of `cartesian` was a clever one-liner using `reduce`
     // without an initial value. This caused TypeScript errors because the accumulator's type
@@ -65,9 +87,9 @@ const processTextVariations = (rawText: string): string[] => {
         );
     };
 
-    if (wordVariations.length === 0) return [];
+    if (groupedVariations.length === 0) return [];
     
-    const combinations = cartesian(...wordVariations);
+    const combinations = cartesian(...groupedVariations);
     const result = combinations.map(combo => combo.join(' '));
     return [...new Set(result)];
 };
@@ -186,10 +208,15 @@ const createEntriesFromString = (textBlock: string, source: string): CorpusEntry
   // Split by '#' at the beginning of a line, ignoring leading whitespace on the line.
   const entries = textBlock.trim().split(/^\s*#\s*/m).filter(s => s.trim() !== '');
   return entries.map(entry => {
+    const trimmedEntry = entry.trim();
+    const parts = trimmedEntry.split('—');
+    const text = parts[0].trim();
+    const translation = parts.length > 1 ? parts.slice(1).join('—').trim() : undefined;
+
     return {
       id: String(++idCounter),
-      text: entry.trim(),
-      translation: undefined,
+      text,
+      translation,
       source,
     };
   });
