@@ -1,4 +1,4 @@
-const rawDictionaryText = `
+export const rawDictionaryText = `
 îgrîp s. năvod. 
 îkînma s. scremet; icnet; opintire. 
 îkînmak v.i. a se screme; a icni; a se opinti. 
