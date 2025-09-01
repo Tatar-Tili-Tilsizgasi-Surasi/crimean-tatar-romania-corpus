@@ -127,7 +127,7 @@ const App: React.FC = () => {
   };
 
   return (
-    <div className="min-h-screen container mx-auto p-2 sm:p-4 md:p-8 flex flex-col">
+    <div className="min-h-screen container mx-auto p-4 md:p-8 flex flex-col">
       <Header onNavigate={setCurrentPage} />
       <main className="flex-grow flex flex-col gap-4 sm:gap-8 mt-4 sm:mt-8">
         {renderContent()}
