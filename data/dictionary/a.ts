@@ -1,4 +1,4 @@
-const rawDictionaryText = `
+export const rawDictionaryText = `
 ádet s. 1. obicei; tradiŃie. 2. (fiziol.) menstruaŃie. // ●ádet bolmak — a se obişnui; a se împământeni (d. obiceiuri). ●ádet etmek — a se obişnui să…; a lua obiceiul să…; ●ádet kuwmak — a respecta tradiŃiile. ●ádetí bolmak — a obişnui; a avea obiceiul. // ●ádetím tuwul — nu obişnuiesc. ●burun-burundan kalgan ádet — obicei rămas din vechime. ●kadîmdan kelme ádetler — obiceiuri străvechi. ●yerlí/mahalliy ádetler — obiceiuri locale. 
 ádeta adv. îndeobşte; de obicei; de regulă. 
 ádetkuwgan s. tradiŃionalist. 
