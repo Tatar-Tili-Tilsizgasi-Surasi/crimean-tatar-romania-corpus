@@ -1,3 +1,3 @@
-export const rawDictionaryText = `Selâm aleyküm. /
-Sizniñ adıñız ne? /
+export const rawDictionaryText = `
+Şînğa s. (topon.) Xinjiang, China.
 `;
