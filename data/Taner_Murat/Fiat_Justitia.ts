@@ -1,4 +1,4 @@
-export const fiatJustitiaEntries: string = `
+export const tanerMuratEntries: string = `
 # Fiat Justitia
 Fiat Justitia, pereat mundus, et!
 Ya batsîn dúniya, ya bolsîn adalet,
