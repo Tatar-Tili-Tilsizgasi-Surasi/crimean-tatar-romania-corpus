@@ -598,7 +598,7 @@ ağensiya s. agenŃie. // ●ğolşîlík ağensiyasî — agenŃie de voiaj. �
 ağent s. agent; spion. //●haleket / trafik ağentí — agent de circulaŃie. 
 ağil adj. grabnic; urgent; presant. //●ağil şifalar! — însănătoşire grabnică!; ●ağil turum — situaŃie de urgenŃă. 
 ağiz I. adj. inapt; incapabil. II. s. 1. incapacitate; neputinŃa. 2. debilitate; slăbiciune. // ●ağiz kalmak — a fi incapabil să…; a nu fi în stare să…; a nu putea să…;
-ağî I. adj. 1. dureros. 2. amar; iute. 3. sfâşietor; înduioşător. II. s. 1. durere; usturime. 2. (d. gust) iuŃeală; amăreală. 3. (fig.) suferinŃă; mâhnire. // ●ağî bolmak — a ustura. ●ağîsîn íşíne kómmek a-şi ascunde durerea; a-şi înghiŃi durerea. ●ağîsîn şîgarmak — a-şi scoate un foc de la inimă; a se răzbuna. ●ağîsîn tartmak — a trage ponoasele; a suferi. // ●ğúrek ağîsî — (med.) durere de inimă. 
+ağî I. adj. 1. dureros. 2. amar; iute. 3. sfâşietor; înduioşător. II. s. 1. durere; usturime. 2. (d. gust) iuŃeală; amăreală. 3. (fig.) suferinŃă; mâhnire. // ●ağî bolmak — a ustura. ●ağîsîn íşíne kómmek — a-şi ascunde durerea; a-şi înghiŃi durerea. ●ağîsîn şîgarmak — a-şi scoate un foc de la inimă; a se răzbuna. ●ağîsîn tartmak — a trage ponoasele; a suferi. // ●ğúrek ağîsî — (med.) durere de inimă. 
 ağîgan adj. milos. 
 Ağîğa s. (topon.) ("Amara") Agigea (jud. ConstanŃa). 
 ağîkesken s. antidot; anticonvulsiv. 
