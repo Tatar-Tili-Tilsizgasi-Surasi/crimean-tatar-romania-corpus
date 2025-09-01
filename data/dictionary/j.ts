@@ -1,4 +1,4 @@
-const rawDictionaryText = `
+export const rawDictionaryText = `
 jagun I. num. (mong.) sută. II. s. (mil.) escadron; companie; centurie. 
 jagunbaşî s. (mil.) căpitan. 
 jagwar s. (zool.) jaguar (lat., Panthera onca). 
