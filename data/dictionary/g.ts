@@ -1,1 +1,3 @@
-export const rawDictionaryText = ``;
+export const rawDictionaryText = `
+Ğadîlar Bayramî s. Halloween
+`;
