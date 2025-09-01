@@ -510,7 +510,7 @@ agaş-şeleklígí s. (bot.) zmeur; zmeurar (lat., R ubus idaeus).
 agaştan adj. de lemn; din lemn; lemnos. // ●agaştan yasalgan kapî — uşă făcută din lemn. 
 agaştaósken s. xilofil. 
 agaştay adj. (d. materiale) de natură lemnoasă; asemănător cu lemnul; xiloid. 
-agaştokîs î s. (bot.) xilem. 
+agaştokîsî s. (bot.) xilem. 
 ag-atîrîş I. adj. (ist.)(ak atîrîş-"separaŃia albă") elitist; nobil; autohton; indigen; băștinaș; neaoș. II. s., adj. (ist.)(ak atîrîş-"separaŃia albă") agatârş; elită; nobil; nobilime; autohton; indigen; băștinaș; tătar. 
 agîm s. 1. curent; curgere. 2. (geogr.) pantă; povârniş; versant; coastă. 3. înclinaŃie; vocaŃie; aptitudine; tendinŃă. // ●agîm anatîgaşî — priză electrică. ●agîm şebekesí — reŃea electrică. ●dalgalî / dulkunlî agîm — (electr.) curent alternativ. ●dogrî agîm — (electr.) curent continuu. ●hawa agîmî — curent de aer. ●istikra agîmî — curent de inducŃie. ●şagîlgan / elektrik agîm — curent electric. 
 agîmsuw s. fluviu; râu. 
