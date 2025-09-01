@@ -11,7 +11,7 @@ interface CorpusListProps {
 const CorpusList: React.FC<CorpusListProps> = ({ entries, searchQuery, showTranslations }) => {
   if (entries.length === 0) {
     return (
-      <div className="flex-grow flex items-center justify-center text-center text-slate-500 p-8">
+      <div className="flex-grow flex items-center justify-center text-center text-slate-400 p-8">
         {searchQuery ? (
           <div>
             <h3 className="text-xl font-semibold">No Results Found</h3>

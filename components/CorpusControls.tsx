@@ -60,11 +60,11 @@ const CorpusControls: React.FC<CorpusControlsProps> = ({
   };
   
   return (
-    <div className="flex flex-col gap-4 mb-4 pb-4 border-b border-slate-700">
+    <div className="flex flex-col gap-4 mb-4 pb-4 border-b border-slate-200">
       <div>
         <div className="relative">
             <span className="absolute inset-y-0 left-0 flex items-center pl-3" aria-hidden="true">
-                <SearchIcon className="h-5 w-5 text-slate-500" />
+                <SearchIcon className="h-5 w-5 text-slate-400" />
             </span>
             <input
                 type="search"
@@ -72,7 +72,7 @@ const CorpusControls: React.FC<CorpusControlsProps> = ({
                 value={searchQuery}
                 onChange={(e) => onSearchChange(e.target.value)}
                 aria-label="Search corpus entries"
-                className="w-full p-2 pl-10 pr-12 bg-slate-800 border-2 border-slate-700 rounded-lg focus:outline-none focus:ring-2 focus:ring-cyan-500 focus:border-cyan-500 transition-colors"
+                className="w-full p-2 pl-10 pr-12 bg-white border-2 border-slate-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-cyan-500 focus:border-cyan-500 transition-colors"
             />
             <button
                 onClick={() => setIsKeyboardVisible(!isKeyboardVisible)}
@@ -88,7 +88,7 @@ const CorpusControls: React.FC<CorpusControlsProps> = ({
         )}
       </div>
       <div className="flex flex-col md:flex-row justify-between items-center gap-4">
-        <div className="text-slate-300 flex flex-wrap items-center justify-center text-center md:text-left md:justify-start gap-x-4 gap-y-2">
+        <div className="text-slate-700 flex flex-wrap items-center justify-center text-center md:text-left md:justify-start gap-x-4 gap-y-2">
             <div className="text-lg font-semibold">
                 {showFilteredCount ? (
                     <>
@@ -100,19 +100,19 @@ const CorpusControls: React.FC<CorpusControlsProps> = ({
                     </>
                 )}
             </div>
-            <div className="hidden md:block text-slate-600 font-light">|</div>
+            <div className="hidden md:block text-slate-400 font-light">|</div>
             <div className="text-lg font-semibold">
                 Total Words: <span className="text-cyan-400">{totalWordCount.toLocaleString()}</span>
             </div>
         </div>
         <div className="flex items-center flex-wrap justify-center md:justify-end gap-4">
           <div className="flex items-center gap-2">
-            <label htmlFor="category-select" className="text-sm font-medium text-slate-300">Category</label>
+            <label htmlFor="category-select" className="text-sm font-medium text-slate-700">Category</label>
             <select
               id="category-select"
               value={selectedCategory}
               onChange={(e) => onCategoryChange(e.target.value)}
-              className="bg-slate-700 border border-slate-600 rounded-md px-3 py-1.5 text-sm focus:outline-none focus:ring-2 focus:ring-cyan-500 focus:border-cyan-500 transition-colors"
+              className="bg-slate-200 border border-slate-300 rounded-md px-3 py-1.5 text-sm focus:outline-none focus:ring-2 focus:ring-cyan-500 focus:border-cyan-500 transition-colors"
               aria-label="Filter by category"
             >
               {categories.map(category => (
@@ -121,7 +121,7 @@ const CorpusControls: React.FC<CorpusControlsProps> = ({
             </select>
           </div>
           <label htmlFor="show-translations" className="flex items-center cursor-pointer select-none">
-            <span className="mr-3 text-sm font-medium text-slate-300">Show Translations</span>
+            <span className="mr-3 text-sm font-medium text-slate-700">Show Translations</span>
             <div className="relative">
                 <input
                     type="checkbox"
@@ -131,7 +131,7 @@ const CorpusControls: React.FC<CorpusControlsProps> = ({
                     onChange={(e) => onShowTranslationsChange(e.target.checked)}
                     aria-label="Show or hide translations"
                 />
-                <div className="block bg-slate-600 w-12 h-7 rounded-full peer-checked:bg-cyan-600 transition-colors"></div>
+                <div className="block bg-slate-300 w-12 h-7 rounded-full peer-checked:bg-cyan-600 transition-colors"></div>
                 <div className="dot absolute left-1 top-1 bg-white w-5 h-5 rounded-full transition-transform peer-checked:translate-x-full"></div>
             </div>
           </label>
@@ -139,7 +139,7 @@ const CorpusControls: React.FC<CorpusControlsProps> = ({
             <div className="flex items-center gap-2">
               <button
                 onClick={onExportJson}
-                className="flex items-center gap-2 px-4 py-2 bg-slate-600 text-sm font-medium rounded-md hover:bg-slate-500 transition-colors"
+                className="flex items-center gap-2 px-4 py-2 bg-slate-200 text-sm font-medium rounded-md hover:bg-slate-300 transition-colors"
                 aria-label={showTranslations ? "Export filtered entries with translations to JSON" : "Export filtered entries without translations to JSON"}
               >
                 <DownloadIcon className="h-4 w-4" />
@@ -147,14 +147,14 @@ const CorpusControls: React.FC<CorpusControlsProps> = ({
               </button>
               <button
                 onClick={onExportTxt}
-                className="flex items-center gap-2 px-4 py-2 bg-slate-600 text-sm font-medium rounded-md hover:bg-slate-500 transition-colors"
+                className="flex items-center gap-2 px-4 py-2 bg-slate-200 text-sm font-medium rounded-md hover:bg-slate-300 transition-colors"
                 aria-label={showTranslations ? "Export filtered entries with translations to TXT" : "Export filtered entries without translations to TXT"}
               >
                 <DownloadIcon className="h-4 w-4" />
                 Export TXT
               </button>
             </div>
-            <p className="text-xs text-slate-400 mt-1 text-right">
+            <p className="text-xs text-slate-500 mt-1 text-right">
               {showTranslations ? 'Exports include translations.' : 'Exports exclude translations.'}
             </p>
           </div>
