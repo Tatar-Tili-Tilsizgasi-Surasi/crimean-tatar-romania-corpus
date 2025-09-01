@@ -29,6 +29,9 @@ interface CorpusControlsProps {
   onExportTxt: () => void;
   showTranslations: boolean;
   onShowTranslationsChange: (show: boolean) => void;
+  categories: string[];
+  selectedCategory: string;
+  onCategoryChange: (category: string) => void;
 }
 
 const CorpusControls: React.FC<CorpusControlsProps> = ({
@@ -40,10 +43,13 @@ const CorpusControls: React.FC<CorpusControlsProps> = ({
   onExportJson,
   onExportTxt,
   showTranslations,
-  onShowTranslationsChange
+  onShowTranslationsChange,
+  categories,
+  selectedCategory,
+  onCategoryChange
 }) => {
   const [isKeyboardVisible, setIsKeyboardVisible] = useState(false);
-  const showFilteredCount = searchQuery && entryCount !== totalCount;
+  const showFilteredCount = searchQuery || selectedCategory !== 'All' || entryCount !== totalCount;
 
   const handleKeyPress = (char: string) => {
     onSearchChange(searchQuery + char);
@@ -99,7 +105,21 @@ const CorpusControls: React.FC<CorpusControlsProps> = ({
                 Total Words: <span className="text-cyan-400">{totalWordCount.toLocaleString()}</span>
             </div>
         </div>
-        <div className="flex items-center gap-4">
+        <div className="flex items-center flex-wrap justify-center md:justify-end gap-4">
+          <div className="flex items-center gap-2">
+            <label htmlFor="category-select" className="text-sm font-medium text-slate-300">Category</label>
+            <select
+              id="category-select"
+              value={selectedCategory}
+              onChange={(e) => onCategoryChange(e.target.value)}
+              className="bg-slate-700 border border-slate-600 rounded-md px-3 py-1.5 text-sm focus:outline-none focus:ring-2 focus:ring-cyan-500 focus:border-cyan-500 transition-colors"
+              aria-label="Filter by category"
+            >
+              {categories.map(category => (
+                <option key={category} value={category}>{category}</option>
+              ))}
+            </select>
+          </div>
           <label htmlFor="show-translations" className="flex items-center cursor-pointer select-none">
             <span className="mr-3 text-sm font-medium text-slate-300">Show Translations</span>
             <div className="relative">
