@@ -1,4 +1,6 @@
 export const charlesBaudelaireEntries: string = `
-# Bu dünyadan tış, er angi bir yerde!
-# Şairniñ közleri bulutlarğa baqa.
+# Yamanlîgîñ şeşeklerí / Lesfleurs du mal
+# Saylangan sonetler / Sonnets choisis
+# Fransîzğa-kîrîm tatarğa ekítíllí baskî / Edition bilingue français-tatar criméen
+# Kîrîm Tatarğasî Taner Murat'îñ kaytarmasîndan / Traduction en tatar criméen par Taner Murat
 `;
