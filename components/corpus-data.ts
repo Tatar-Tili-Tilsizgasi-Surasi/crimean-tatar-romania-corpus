@@ -85,6 +85,19 @@ const parseLine = (line: string): { text: string; translation?: string } => {
             translation = undefined;
         }
     }
+
+    // Handle inverted entries like "Afuw, El-" -> "El-Afuw"
+    if (text.includes(',')) {
+        const parts = text.split(',');
+        if (parts.length === 2) {
+            const firstPart = parts[0].trim();
+            const secondPart = parts[1].trim();
+            if (secondPart.endsWith('-')) {
+                text = secondPart + firstPart;
+            }
+        }
+    }
+
     return { text, translation };
 };
 
