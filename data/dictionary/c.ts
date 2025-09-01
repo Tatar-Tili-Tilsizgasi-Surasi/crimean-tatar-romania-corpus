@@ -1,4 +1,4 @@
-const rawDictionaryText = `
+export const rawDictionaryText = `
 çaher num. (prsn.) patru. 
 çaherşenbe s. (cron., prsn.) miercuri. 
 çakîr adj. 1. albastru deschis; bleu. 2. (d. ochii unei fiinŃe) ceacâr. 
