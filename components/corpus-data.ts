@@ -2,6 +2,7 @@ import { CorpusEntry } from '../types';
 import { dictionaryRawText } from '../data/dictionary';
 import { mikayilEmineskuwEntries } from '../data/Mikayil_Emineskuw';
 import { tanerMuratEntries } from '../data/Taner_Murat/Fiat_Justitia';
+import { tanerMuratEnteies } from '../data/Taner_Murat/Kazaksa_Tatarsa_Sozlik';
 import { friedrichSchillerEntries } from '../data/Friedrich_Schiller';
 import { charlesBaudelaireEntries } from '../data/Charles_Baudelaire';
 
