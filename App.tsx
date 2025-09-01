@@ -2,10 +2,15 @@ import React, { useState, useMemo, useCallback } from 'react';
 import Header from './components/Header';
 import CorpusControls from './components/CorpusControls';
 import CorpusList from './components/CorpusList';
+import HowToUse from './pages/HowToUse';
+import About from './pages/About';
 import { corpus as initialCorpus } from './components/corpus-data';
 import { CorpusEntry } from './types';
 
+type Page = 'corpus' | 'howto' | 'about';
+
 const App: React.FC = () => {
+  const [currentPage, setCurrentPage] = useState<Page>('corpus');
   const entries: CorpusEntry[] = initialCorpus;
   const [searchQuery, setSearchQuery] = useState('');
   const [showTranslations, setShowTranslations] = useState(true);
@@ -13,13 +18,18 @@ const App: React.FC = () => {
 
   const categories = useMemo(() => {
     const allSources = entries.map(entry => entry.source);
-    return ['All', ...Array.from(new Set(allSources))];
+    const uniqueSources = [...new Set(allSources)].sort((a, b) => a.localeCompare(b));
+    return ['All', 'United Dictionary', ...uniqueSources];
   }, [entries]);
 
   const filteredEntries = useMemo(() => {
     return entries.filter(entry => {
       // Category filter
-      if (selectedCategory !== 'All' && entry.source !== selectedCategory) {
+      if (selectedCategory === 'United Dictionary') {
+        if (!entry.source.includes('Dictionary')) {
+            return false;
+        }
+      } else if (selectedCategory !== 'All' && entry.source !== selectedCategory) {
         return false;
       }
       
@@ -85,28 +95,42 @@ const App: React.FC = () => {
     }).join('\n\n---\n\n');
     downloadFile(txtContent, 'crimean_tatar_corpus.txt', 'text/plain');
   }, [filteredEntries, showTranslations]);
+  
+  const renderContent = () => {
+    switch (currentPage) {
+        case 'howto':
+            return <HowToUse onNavigate={setCurrentPage} />;
+        case 'about':
+            return <About onNavigate={setCurrentPage} />;
+        case 'corpus':
+        default:
+            return (
+                <div className="flex-grow flex flex-col bg-white rounded-lg shadow-lg border border-slate-200 p-4 md:p-6 animate-fade-in">
+                    <CorpusControls
+                        entryCount={filteredEntries.length}
+                        totalCount={entries.length}
+                        totalWordCount={totalWordCount}
+                        searchQuery={searchQuery}
+                        onSearchChange={setSearchQuery}
+                        onExportJson={handleExportJson}
+                        onExportTxt={handleExportTxt}
+                        showTranslations={showTranslations}
+                        onShowTranslationsChange={setShowTranslations}
+                        categories={categories}
+                        selectedCategory={selectedCategory}
+                        onCategoryChange={setSelectedCategory}
+                    />
+                    <CorpusList entries={filteredEntries} searchQuery={searchQuery} showTranslations={showTranslations} />
+                </div>
+            );
+    }
+  };
 
   return (
-    <div className="min-h-screen container mx-auto p-4 md:p-8 flex flex-col">
-      <Header />
-      <main className="flex-grow flex flex-col gap-8 mt-8">
-        <div className="flex-grow flex flex-col bg-white rounded-lg shadow-lg border border-slate-200 p-4 md:p-6">
-          <CorpusControls
-            entryCount={filteredEntries.length}
-            totalCount={entries.length}
-            totalWordCount={totalWordCount}
-            searchQuery={searchQuery}
-            onSearchChange={setSearchQuery}
-            onExportJson={handleExportJson}
-            onExportTxt={handleExportTxt}
-            showTranslations={showTranslations}
-            onShowTranslationsChange={setShowTranslations}
-            categories={categories}
-            selectedCategory={selectedCategory}
-            onCategoryChange={setSelectedCategory}
-          />
-          <CorpusList entries={filteredEntries} searchQuery={searchQuery} showTranslations={showTranslations} />
-        </div>
+    <div className="min-h-screen container mx-auto p-2 sm:p-4 md:p-8 flex flex-col">
+      <Header onNavigate={setCurrentPage} />
+      <main className="flex-grow flex flex-col gap-4 sm:gap-8 mt-4 sm:mt-8">
+        {renderContent()}
       </main>
       <footer className="text-center mt-8 text-slate-500 text-sm">
         <p>
