@@ -90,7 +90,7 @@ const App: React.FC = () => {
     <div className="min-h-screen container mx-auto p-4 md:p-8 flex flex-col">
       <Header />
       <main className="flex-grow flex flex-col gap-8 mt-8">
-        <div className="flex-grow flex flex-col bg-slate-800/50 rounded-lg shadow-lg border border-slate-700 p-4 md:p-6">
+        <div className="flex-grow flex flex-col bg-white rounded-lg shadow-lg border border-slate-200 p-4 md:p-6">
           <CorpusControls
             entryCount={filteredEntries.length}
             totalCount={entries.length}
@@ -108,6 +108,11 @@ const App: React.FC = () => {
           <CorpusList entries={filteredEntries} searchQuery={searchQuery} showTranslations={showTranslations} />
         </div>
       </main>
+      <footer className="text-center mt-8 text-slate-500 text-sm">
+        <p>
+          You can find the source of this website in <a href="https://github.com/Tatar-Tili-Tilsizgasi-Surasi/crimean-tatar-romania-corpus" target="_blank" rel="noopener noreferrer" className="text-cyan-500 hover:underline">GitHub</a>.
+        </p>
+      </footer>
     </div>
   );
 };
