@@ -1,5 +1,5 @@
 export const tanerMuratEntries: string[] = [
-  `Fiat Justitia
+#  Fiat Justitia
 Fiat Justitia, pereat mundus, et!
 Ya batsîn dúniya, ya bolsîn adalet,
 Ya pítsín hakksîzlîk, ya kelsín felaket,
@@ -8,8 +8,8 @@ Fiat Justitia, pereat mundus, et!
 Men şanak uzatmam, karamam merhamet,
 Topraklar bízímkí, hakkîmîz ğet-beğet,
 Fiat Justitia, pereat mundus, et,
-Ya batsîn dúniya, ya bolsîn adalet!`,
-  `Bayrak kúní
+Ya batsîn dúniya, ya bolsîn adalet!
+#  Bayrak kúní
 Yígírím-altîsî búgún, haziran,
 Minare-minare sús taktî, Bayrak.
 Semalar ap-aydîn, mawusî berrak,
@@ -29,8 +29,8 @@ Biñ yaşa Bayragîm, ela zenger hakk,
 Som altîn-som altîn tamgalî mañlay!
 Káyinat rengínden ayîrgan Kuday,
 Tom, dokîz bírleşken milletke Bayrak.
-(Kóstenğe, 26 haziran 2011)`,
-  `Ay ğîlar
+(Kóstenğe, 26 haziran 2011)
+#  Ay ğîlar
 Neday rutubet
 Kurganîñ ústí, baárde.
 Ay ğîlar, ebet.`,
@@ -38,8 +38,8 @@ Ay ğîlar, ebet.`,
 Alí Osman kartbabay, batîrîmîz Bekmambet,
 Niyaziy kayday edí? - bízge de añlat, úyret.
 Bíz de sendiy yaşlanîp yúzúmúzge kelgende
-Sóz etermíz Alí'ní keleğek nesíllerge.`,
-  `Bar mî sízde?
+Sóz etermíz Alí'ní keleğek nesíllerge.
+#  Bar mî sízde?
 Bastîlar ğurt, tandîr, oşak,
 Ğaktîlar úy, yuwa, ğatak,
 Bízden ístep altîn-ğuman.
@@ -59,12 +59,12 @@ Bízden kîrslap mutabakat
 Yazdîlar yalanğî lugat.
 Bo mî eren, insaniyet?
 Bar mî sízde medeniyet?
-(10 ewlúl 2011, Kóstenğe)`,
-  `Ğana-ğîlana
+(10 ewlúl 2011, Kóstenğe)
+#  Ğana-ğîlana
 Ğana-ğîlana
 Kíşkenekíy boztorgay
-Ğazda kurganda.`,
-  `Ağî
+Ğazda kurganda.
+#  Ağî
 Men alîştîm saga ğoldaş
 Menden kopmaz parşa
 Makulumasîñ alaşa
@@ -124,12 +124,12 @@ Emelíñní gúller basar
 Túşúñ şeşek-şeşek aşar
 Yuwalanîrlar búlbúller
 Atîñ Tatar bolsa eger. 
-(Kóstenğe, 16 temmuz 2010)`,
-  `Ğerge toymagan
+(Kóstenğe, 16 temmuz 2010)
+#  Ğerge toymagan
 Ğerge toymagan,
 Soy tamîrîn kurutkan
-Óttíríp ozan.`,
-  `Adañ-Kúlesí ğîlanlîgî
+Óttíríp ozan.
+#  Adañ-Kúlesí ğîlanlîgî
 Eskí ğîlanlîk Adañ-Kúlesí
 Ademiyetíñ bihakk menşesí
 Kan kusturuwğî Rum felsefesí
@@ -166,17 +166,17 @@ Uydurmalarîñ sokîr kóşesí
 Bótenğíleríñ ğîmşak ókşesí
 Tatarğa atî Adañ-Kúlesí
 Alien Tower-dîr terğúmesí.
-(18 egím 2010)`,
-  `Mením góñílím
+(18 egím 2010)
+#  Mením góñílím
 Mením góñílím túwerek, bír kurgan,
 Batîr mezarîday, Yes-çit, Mós-í Ğet, Peçenek ya Kuman.
 Ğarîk o man tokîş-almaz,
-Sîrlî kalîr, añlaşîlmaz.`,
-  `Kîrda kar ğawa
+Sîrlî kalîr, añlaşîlmaz.
+#  Kîrda kar ğawa
 Kîrda kar ğawa.
 Kuman úýúmşúklerí
-Karda pîsuwda.`,
-  `Ğîlayman
+Karda pîsuwda.
+#  Ğîlayman
 Men ozanlar úşún ğîlayman
 Kalemíne óttírílgen
 Mañlay yazîsînda şaytan man,
@@ -197,8 +197,8 @@ Men saga ğîlayman Kázim Alekberliy, saga ğîlayman Kuluflî,
 Saga Aliy Sabriy, saga Hagibaba Nazarlî.
 
 Saga ğîlayman Emiryakup Dulatulî, saga Bekir Çobanzade,
-Tomrîğa'nîñ Kawlaklar'îndan saga ğîlayman Şefkiy Bektóre.`,
-  `Kóz ğumup
+Tomrîğa'nîñ Kawlaklar'îndan saga ğîlayman Şefkiy Bektóre.
+#  Kóz ğumup
 Yem-yeşíl otlaklar ğiyren atlarîma
 Ter-temíz hawalar pak kanatlarîma.
 Anatíl mektepler merak ballarîma
@@ -215,12 +215,12 @@ Bo mením tos-pembe túşúmní her dakka.
 
 Alaymîz, kardaşlar, hep bírden kóz ğumsak
 Kaldîrmamîz engel, kaldîrmamîz yasak,
-Túşúmúz de bolîr hakkikiy, mutlakka.`,
-  `Antika kurgan
+Túşúmúz de bolîr hakkikiy, mutlakka.
+#  Antika kurgan
 Antika kurgan.
 Tatarlîk tewúkesí
-Takîlday: tak-tok.`,
-  `Kîrîm kaynay
+Takîlday: tak-tok.
+#  Kîrîm kaynay
 Karadeñíz şala mújde,
 Ğatma endí, kuwan sen de,
 Şîk mezardan, kór kartbabay!
@@ -240,12 +240,12 @@ Felek toldî ğúregíme
 Enver dewlet kîsmetíme
 Ónder Tatar tílím yaşay
 Úyken-Kíşke-Kîrîm kaynay…
-(Kóstenğe, 14 oşak 2010)`,
-  `Mahkúm mezarlar
+(Kóstenğe, 14 oşak 2010)
+#  Mahkúm mezarlar
 Mahkúm mezarlar.
 Sógíp taşîn kazaklar
-Hotel salalar.`,
-  `Men Numan'îñ bír parşasîman
+Hotel salalar.
+#  Men Numan'îñ bír parşasîman
 Korkîp ğellatlar batîr Numan Çelebíğihan'îñ mewtasîndan 
 onî parşalap deñízge atkan.
 Karadeñíz kîyîp-kîrmîzî bolgan.
@@ -267,8 +267,8 @@ Ondan soñra nenem mení tuwurgan.
 Men tuwganda tajîñ dúrdanesí íríp ant suwî bolgan.
 
 Men şo suwnî íştím antî man,
-Men Numan'îñ bír parşasîman.`,
-  `Men Túrúk tuwulman
+Men Numan'îñ bír parşasîman.
+#  Men Túrúk tuwulman
 Men Túrúk tuwulman, arkadaş,
 Şatma maga kóz men kaş!
 Tatarman men, sónmez oşak
@@ -313,12 +313,12 @@ Bay yarattî mení Mewla
 Tom-Riyis'ten tuwgan bala
 Ak tanîdî mení Kuday
 Tomiris'ten kopkan umay.
-(23 Kasîm 2010)`,
-  `Şîgalar awga
+(23 Kasîm 2010)
+#  Şîgalar awga
 Akşam kurgandan
 Míníp Kumanlar atka
-Şîgalar awga.`,
-  `Ófke
+Şîgalar awga.
+#  Ófke
 Íşíme kóme-kóme ófkemní asîradîm
 Endí bellí bolmayğak yapkanîm, oñîm-solîm.
 Búgúngeşík ğîladîm affuwlar ete-ete
@@ -335,6 +335,6 @@ Endí kabaátsíz wursam menden kettí gúnalar.
 
 Akîlnîñ oynatmasî, ófke demek alğîmak.
 Ófkelí insan ateş salîp bír kóyní ğagar
-Ğerkúresí tarlîkta ofkelí bolsa Tatar.`,
+Ğerkúresí tarlîkta ofkelí bolsa Tatar.
   `
 ];
