@@ -1,4 +1,4 @@
-const rawDictionaryText = `
+export const rawDictionaryText = `
 wagam adj. răscopt. 
 wagamlama s. răscoacere. 
 wagamlamak v.i. a se răscoace. 
