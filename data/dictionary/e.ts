@@ -1,3 +1,2 @@
-export const e: string[] = [
-
-];
+export const rawDictionaryText = `eşkenar dörtkeñ /
+`;

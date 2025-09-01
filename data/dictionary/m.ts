@@ -1,3 +1,2 @@
-export const m: string[] = [
-
-];
+export const rawDictionaryText = `Menim adım... /
+`;

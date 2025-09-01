@@ -1,1 +1,1 @@
-export const z: string[] = [];
+export const rawDictionaryText = ``;
