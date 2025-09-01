@@ -4,6 +4,12 @@ import { mikayilEmineskuwEntries } from '../data/Mikayil_Emineskuw';
 import { tanerMuratEntries } from '../data/Taner_Murat';
 import { friedrichSchillerEntries } from '../data/Friedrich_Schiller';
 import { charlesBaudelaireEntries } from '../data/Charles_Baudelaire';
+import { fiatJustitiaEntries } from '../data/Taner_Murat/Fiat_Justitia';
+import { otkenBirSaklaygaSewdamEntries } from '../data/Taner_Murat/Otken_bir_saklayga_sewdam';
+import { websiteEntries } from '../data/Taner_Murat/Website';
+import { peruzeliSalingakEntries } from '../data/Taner_Murat/Peruzeli_salingak';
+import { botDictionaryRawText } from '../data/bot_dictionary';
+import { ornDictionaryRawText } from '../data/orn_dictionary';
 
 let idCounter = 0;
 
@@ -17,6 +23,58 @@ const posAbbreviations = [
     'A\\.', 'B\\.', 'C\\.', 'D\\.', 'E\\.', 'F\\.', 'G\\.', 'H\\.'
 ];
 const posAbbreviationsRegex = new RegExp(`\\s+(${posAbbreviations.join('|')})`);
+
+const createEntriesFromLatinGroupedText = (rawText: string, source: string): CorpusEntry[] => {
+  const allEntries: CorpusEntry[] = [];
+  const lines = rawText.trim().split('\n');
+  
+  let currentLatinNameParts: string[] = [];
+  let currentTerms: string[] = [];
+
+  const processCurrentBlock = () => {
+    if (currentLatinNameParts.length > 0 && currentTerms.length > 0) {
+      // Each part is a "word" that might have spaces inside. Clean it and join.
+      const translation = currentLatinNameParts
+        .map(part => part.replace(/\s+/g, ''))
+        .join(' ');
+      
+      currentTerms.forEach(term => {
+        allEntries.push({
+          id: String(++idCounter),
+          text: term,
+          translation,
+          source,
+        });
+      });
+    }
+  };
+
+  for (const line of lines) {
+    const trimmedLine = line.trim();
+    if (!trimmedLine) continue;
+
+    if (trimmedLine.startsWith('•')) {
+      const term = trimmedLine.substring(1).trim();
+      if (term) {
+        currentTerms.push(term);
+      }
+    } else {
+      // This line is part of a Latin name.
+      // If we have terms, it means a new Latin name is starting, so the previous block is complete.
+      if (currentTerms.length > 0) {
+        processCurrentBlock();
+        currentLatinNameParts = [];
+        currentTerms = [];
+      }
+      currentLatinNameParts.push(trimmedLine);
+    }
+  }
+  
+  // Process the last block in the file
+  processCurrentBlock();
+
+  return allEntries;
+};
 
 const processTextVariations = (rawText: string): string[] => {
     const trimmedText = rawText.trim();
@@ -222,16 +280,28 @@ const createEntriesFromString = (textBlock: string, source: string): CorpusEntry
   });
 };
 
-const dictionaryData = createEntriesFromRawText(dictionaryRawText, 'Dictionary');
+const dictionaryData = createEntriesFromRawText(dictionaryRawText, 'Dictionary (Taner Murat, community)');
 const mikayilData = createEntriesFromString(mikayilEmineskuwEntries, 'Mikayil Emineskúw');
 const tanerData = createEntriesFromString(tanerMuratEntries, 'Taner Murat');
 const schillerData = createEntriesFromString(friedrichSchillerEntries, 'Friedrich Schiller');
 const baudelaireData = createEntriesFromString(charlesBaudelaireEntries, 'Charles Baudelaire');
+const tanerFiatJustitiaData = createEntriesFromString(fiatJustitiaEntries, 'Taner Murat - Fiat Justitia');
+const tanerOtkenData = createEntriesFromString(otkenBirSaklaygaSewdamEntries, 'Taner Murat - Ötken bir saklayğa sewdam');
+const tanerWebsiteData = createEntriesFromString(websiteEntries, 'Taner Murat - Website');
+const tanerPeruzeliData = createEntriesFromString(peruzeliSalingakEntries, 'Taner Murat - Peruzeli salıncaq');
+const botDictionaryData = createEntriesFromLatinGroupedText(botDictionaryRawText, 'Botanical Dictionary (Taner Murat)');
+const ornDictionaryData = createEntriesFromLatinGroupedText(ornDictionaryRawText, 'Ornithological Dictionary (Taner Murat)');
 
 export const corpus: CorpusEntry[] = [
   ...dictionaryData,
+  ...botDictionaryData,
+  ...ornDictionaryData,
   ...mikayilData,
   ...tanerData,
+  ...tanerFiatJustitiaData,
+  ...tanerOtkenData,
+  ...tanerWebsiteData,
+  ...tanerPeruzeliData,
   ...schillerData,
   ...baudelaireData,
 ];
