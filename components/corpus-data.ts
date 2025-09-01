@@ -11,8 +11,6 @@ let idCounter = 0;
 const posAbbreviations = [
     's\\.', 'adj\\.', 'adv\\.', 'pron\\.', 'v\\.', 'interj\\.', 'prep\\.', 'conj\\.', 'num\\.', 'art\\.',
     '\\(fiziol\\.\\)', '\\(muz\\.\\)', '\\(electr\\.\\)', '\\(antrop\\. f\\.\\)', '\\(fiz\\.\\)',
-    // User-requested list markers and abbreviations
-    'etc\\.',
     // Roman numerals (ordered from longest to shortest to prevent partial matches)
     'X\\.', 'IX\\.', 'VIII\\.', 'VII\\.', 'VI\\.', 'V\\.', 'IV\\.', 'III\\.', 'II\\.', 'I\\.',
     // Alphabetical list markers
