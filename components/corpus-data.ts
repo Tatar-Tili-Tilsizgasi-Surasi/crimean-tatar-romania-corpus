@@ -33,10 +33,8 @@ const createEntriesFromLatinGroupedText = (rawText: string, source: string): Cor
 
   const processCurrentBlock = () => {
     if (currentLatinNameParts.length > 0 && currentTerms.length > 0) {
-      // Each part is a "word" that might have spaces inside. Clean it and join.
-      const translation = currentLatinNameParts
-        .map(part => part.replace(/\s+/g, ''))
-        .join(' ');
+      // Each part is a "word" that might have spaces inside. Join them.
+      const translation = currentLatinNameParts.join(' ');
       
       currentTerms.forEach(term => {
         allEntries.push({
