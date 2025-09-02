@@ -299,4 +299,505 @@ races, despite the numerous sonnets written later by Vrchlicky, Preseren and
 others. The sonnet has belonged more to the Latin races, and to the English 
 race. The Crimean Sonnets, however, rank among the famous sequences.
 Edna Worthley Underwood
+# Ak-Kerman kîrî 
+Boylayman hesapsîz deñíz-derya togay,
+Boylî yeşíllíkke at-arabam batar,
+Ústúm kópík-kópík, tajyapragî ğawar,
+Ada-ada şeşek her yagîmda ğalday.
+Oy belletmez yawaş derenleşken keşe,
+Ğol kóstergen yîldîz karayman yokardan.
+Ne bar eken şonda, ğatîp balkîldagan?
+Bozkîr deriyasî, Turla suwî geşe!
+Súkút-dawuşsîzlîk! Uşkan turna sesí,
+Şîbîn man şeşegíñ hoş múzakeresí
+Búrkút kózí barmaz uzaklîktan óter;
+Ğîlan tayîp otlîk arasîndan geşer;
+Algaydîm bír kaber uzak kalgan ğurttan!
+Almazsîñ, ğúre-ber deñízdiy otlaktan! — The Ackerman Steppe
+Across sea-meadows measureless I go,
+My wagon sinking under grass so tall
+The flowery petals in foam on me fall,
+And blossom-isles float by I do not know.
+No pathway can the deepening twilight show;
+I seek the beckoning stars which sailors call,
+And watch the clouds. What lies there brightening all?
+The Dneister's, the steppe-ocean's evening glow!
+The silence! I can hear far flight of cranes--
+So far the eyes of eagle could not reach--
+And bees and blossoms speaking each to each;
+The serpent slipping adown grassy lanes;
+From my far home if word could come to me!--
+Yet none will come. On, o'er the meadow-sea!
+# Raát
+ 
+Bayrak sallanmay, boş. Sarkîp toña-kalgan.
+Deñízdiy es alîp deren kókírekte,
+Kelíndiy túş kóríp aşktan-sewdalardan
+Íşín tartîp hayal tagar kîsmetíne.
+ 
+Ğansîz, unutulgan tíreklerde ğelkeñ,
+Ğîrtîk bayraktay ke ğulkup-tartîp asker
+Búklep kaytar úyge şikáar etíp ğeñkten,
+Talda yerge salîp saklar deñízğíler.
+ 
+Ey, íşíñde, Deñíz, pîsîp derenlíkler
+Wahşiy boran kopsa yuklar şelbegenler
+Bútún yamanlîgîn saklap kúneş úşún.
+ 
+Hep şonday, Góñílím, kara kanlarîmda
+Saklî dewler yuklar delí boranlarda
+Alîp mawî kókten raátlík kaálbím úşún. — Becalmed
+The flag is listless, limp. It dances not.
+As deep the sea breathes from a gentle breast
+As any bride who dreams at love's behest,
+And wakes and sighs, then casts with dreams her lot.
+Sails hang upon the masts--useless-forgot--
+Like folded standards which the warriors wrest
+And bring home broken from the battle's crest.
+The sailors rest them in some sheltered spot.
+O Sea! within your unknown deeps concealed,
+When storms are wild, your monsters dream and sleep,
+And all their cruelty for the sunlight keep.
+Thus, Soul of Mine, in your sad deeps concealed
+The monsters sleep--when wild are storms. They start
+From out some blue sky's peace to seize my heart.
+# Kezlew bozkîrîñ daklarî 
+(Ğolşî) 
+Toñîp kalgan deñíz men, ka-tsín Úyken Alla?
+Oysîn mî, nurlî takt buzlî bulutlardan?
+Ya da karañgînî húkúm etken şaytan
+Kursun mî, bír kazîk oynaş yîldîzlarga?
+ 
+Ğangan kápír úyídiy kîzîl şagîm ata.
+Ğeñíp Karañgîlîk Kúnní eskí şaktan
+Allah mî yarattî bo ğarîknî yoktan
+Ebediyet ğolîn aşîp yîldîzlarga?
+ 
+(Mîrza) 
+Şo kîş dúniyasîñ yúksek yerín gezdím,
+Karalarnî tíşlep sîzgan suwlar sezdím,
+Onda Şatîr-Tawda konar ak bulutlar,
+ 
+Delí-yaman búrkút ata-almaz kólge,
+O korîngan bír yer, beşík gúdúrtíge,
+Oga baş-kóz bolîr Allah man yîldîzlar! — Mountains from the Keslov Steppe
+(Pilgrim)
+What would Great Allah with the frozen sea?
+Would he of icy clouds a throne carve bright,
+Or would the demons of the deepest night
+A bar build where the shining stars sweep free?
+It gleams like pagan cities fired, kings flee.
+When Day was anciently destroyed by Night
+Did Allah amid chaos fix this light
+To guide the star-worlds of eternity?
+ 
+(Mirza)
+Up there I've journeyed where the winter reigns,
+And seen the rivers bitten black like lines
+On Tschatir Dagh, where the white cloud reclines,
+Which not the wildest eagle's shadow stains,
+Where cradled under me the thunders sleep
+And Allah and the stars their watches keep.
+# Bakşesaray 
+ 
+Mîrap ketken geñíş, fewkaláde zallar,
+Toñîp kalgan biyaz sútun ormanlarî,
+Tatar Kaannîñ kurgan gúzel saraylarî
+Ğîrlak seslerínden, ğañgîzlîktan şîñlar.
+ 
+Eskí kalawlarnî sarmaşîklar kúyer,
+Dewdiy háríf kurup maw náletler yazar,
+Sak bol, sakîn! Sak bol! Kargaydîr Belşazar,
+Soñra kara tokîday sútunlardan túşer.
+ 
+Bír suw şîrîltîsî ikram odasînda
+Harem şeşmesínden taze, berrak kele,
+Eskílíkte kaswet şalganday kólgede.
+ 
+Şóhret men aşk hîzî kaysî kanatlarda?
+Herşiy ğoytîlganda onlar pítmiy kalîr!
+Gene de ğok bolgan. Pak suw dalgalanîr. — Baktschi Serai
+ 
+In ruin are the spacious, splendid halls
+With frozen forest of white columns where
+The Tartar Khan his palace builded fair,
+Where loneliest the shrilling cricket calls.
+ 
+The ivy blackens over shining walls
+Enscribing in gigantic letters there
+Some curse Belshazzar-like: Beware! Beware!--
+Then black as crepe from crested columns falls.
+ 
+Within the burnished banquet room there sings
+The fountain of the harem pure and clear,
+Just as of old it sang in twilights drear.
+ 
+But whither love and fame speed--on what wings?
+When all things else must perish these endure!
+Yet both are gone! The fountain ripples pure.
+# Bakşesaray keşe 
+Ğamílerge dogrî múmin ğolîn tutar; 
+Şîñlamalî kelír keşe boyî ezan; 
+Ziya Meliklerí kókyúzúnde solgan,
+Úyeñ terísínden ak ton kíyíp turar 
+Ğennet haremíne, yîldîzlîkka merak.
+Bír ak bulut ğatkan mawî yúkseklíkte,
+Bír góñílsíz katun başîn baylap ğúre
+Ağîmasîz sewda we kúneşten uzak.
+Ánda ğamí tura; mínda da añdîzlar;
+Yúksek kara daklar iblistiy kaş şatkan,
+Kîzgîn şaytanday kím Allah ğerge atkan.
+Ústte tíríldegen kîlîştay ğalkînlar;
+Arap aygîrîna sert Kaan míníp kete
+Karañgîda saklî Bakşesaray betke. — Baktschi Serai by Night
+ 
+From out the mosques the pious wend their way;
+Muezzin voices tremble through the night;
+Within the sky the pallid King of Light
+Wraps silvered ermine round him while he may,
+ 
+And Heaven's harem greets its star array.
+One lone white cloud rests in the azure height--
+A veiled court lady in some sorrow's plight--
+Whom cruel love and day have cast away.
+ 
+The mosques stand there; and here tall cypress trees;
+There--mountains, towering, black as demons frown,
+Which Lucifer in rage from God cast down.
+ 
+Like sword blades lightning flickers over these,
+And on an Arab steed the wild Khan rides
+Who goes to Baktschi Serai which night hides.
+# Neğip Potoska’nîñ mezarînda 
+Polak Gúlím, sewda man hayat baárínde 
+Sen unutup hewes soldîñ bolsa kerek;
+Boyap taşlap kettí perdahlî gómelek
+Iynebatîruwğî ağîlar elínde.
+Sîrt ğurtîmnîñ ğolîn bílíp ğúrgen, Yîldîz!
+Ğarîk Polakstanga yúzní tabîp kaydan
+Atarsîñ bazgeşíp súygen ğaşlîgîndan
+Ozí ğelde ğatsa, ot astînda ğansîz?
+Sendiy, Polak Gúlím, ólsem ğañgîz, ğaşlay.
+Duwa músaadesí ístiymen kabríñde
+Obír kurbetşíler men keder emírínde.
+Mezarîñda Polakşa kayet dogrî şîñlay.
+Igí kaálplí bír ğaş geştí ğîlam-kúlím,
+Dúrkísínde sení aytîp Polak Gúlím. — The Grave of Countess Potocka
+In Spring of love and life, My Polish Rose,
+You faded and forgot the joy of youth;
+Bright butterfly, it brushed you, then left ruth
+Of bitter memory that stings and glows.
+O Stars! that seek a path my northland knows,
+How dare you now on Poland shine forsooth,
+When she who loved you and lent you her youth
+Sleeps where beneath the wind the long grass blows?
+Alone, My Polish Rose, I die, like you.
+Beside your grave a while pray let me rest
+With other wanderers at some grief's behest.
+The tongue of Poland by your grave rings true.
+High-hearted, now a young boy past it goes,
+Of you it is he sings, My Polish Rose.
+# Harem mezarlarî 
+Mínda ğatîp yuklar, Allah bakşasînda,
+Eñ kóp súyúlgenler, kîymet hazinesí,
+Eñ bek pîrîldagan Şarknîñ dúrdanesí,
+Kímní ğaşlîk tapkan hewes dalgasînda.
+Mínda herkez soñsîz sessízlíkte yuklay,
+Túlbent sallap tura şakalak gúlterek,
+Ğelde dalgalana parşalangan yúpek,
+Bo yer ánda-mínda yáwúr atî saklay.
+Ay! Ótken kúnlerníñ ğennet şeşeklerí,
+Allah kulîdîr tek sízíñ kórgeníñíz, 
+Namaz kîlgandîr tek sízíñ ópkeníñíz.
+Bír şokîngan kóre búgún bo yerlerní;
+Allah, mezarlîkta múmín arasînda
+Bagîşla ğúrgenní baş alîp aşaga. — The Graves of the Harem
+They sleep well here whom Allah loved and kept
+And treasured in his vineyard fair and fine,
+Most lustrous of the Orient pearls that shine,
+Which youth found where the waves of passion swept.
+Here, where in peace perpetual they have slept,
+A turban beckons where the roses twine,
+A banner flutters out in silken line,
+And sometimes here a Giaour's name is kept.
+Oh! roses of this paradise of old,
+The eyes that loved not Allah saw you not,
+Nor arms that prayed not eastward could enfold!
+But now a Christian treads this hallowed spot;
+Wise Allah, curse not him who bows his head
+Amid the marble shrines of Allah's dead!
+# Baydarî 
+Ber boranga kanat, ber aygîrga mahmuz,
+Gezgím keldí arznî kelepşesíz ğellerdiy,
+Sîpîrîp aldîmnî daktan túşken sellerdiy,
+Toktata-almasîn şayîr-bayîr, deñíz.
+Kúnbatmasî toran hîzîmîzga ğayar,
+Elmazday yîldîzlar ata-başlar tuyak
+Ke ğezaga endí kún perdesí merak
+Kólekeden tuwup tîlsîmğîlîk, esrar.
+Men heş, heş yuklamam, yuklap kalgan dúnya -
+Dawuşlî dalgalî ğagaga telesúw,
+Şumdan maga dogrî kelíp akşa súrúw.
+Ğeñer edím kálbím basîp ğîlawîna,
+Tartîp suw-burumîday kemíní olimge,
+Túşúnğesíz, turgun dalîp sessízlíkke. — Baydary
+Give wings unto the storm, and spurs to steed,
+I'd move unchained as wind across the world,
+Sweep onward like a torrent mountain-hurled,
+Nor sea, nor height, nor valley pause to heed.
+The twilight spreads a dimness o'er our speed,
+And shows the diamond-stars from hoofs up-whirled,
+Since daylight now her curtained blue has juried,
+And mystery and magic shadows breed.
+The earth sleeps, but not I--not I--not I--
+Who hasten to the shore where waves are loud
+And toward me in the darkness whitely crowd.
+Beneath them I would still my soul's deep cry--
+Like ships the whirlpools seize to drag to death--
+I'd plunge within the silence, sans thought, breath.
+# Aluşta kúndúz 
+Muwazzam dak tuman mahramasîn atar;
+Zarif kîrda balkîp şeşek inğe-inğe
+Túrlí renkler şagar taw betínden kózge,
+Takkanday Kalife tajga hoş elmazlar.
+Ğîltîr-ğîltîr súrúw uşup şól ústúne
+Aláyimisema gómelekler konar;
+Ğîrlay kúneş zewkîn alîp tomîzgalar,
+Konğalarga kíríp balşîbînlar túşte.
+Solgan zenger renkte kaya astî dalga,
+Kópíríp-kópíríp yukselír yokarga,
+Kulan sîrtî uşar ğolparîs kózíne.
+Kúneş kúşín atar uzak ak ğelkeñge.
+Íşediy balkîldar mawî derenlíkler,
+Zayîf kólge atîp tayar legelekler. — Alushta by Day
+The mighty mountain flings its mist-veil down;
+With little flowers the gracious fields are bright,
+And from the forest colors flash to sight
+Like gems that drop from off a Calif's crown.
+Upon the meadows settles shimmering down
+A band of butterflies in rainbow flight;
+Cicadas call and call in day's delight,
+And bees are dreaming in a blossom's crown.
+The waves beneath the cliff are thunder-pale,
+Now upward, upward in their rage they rise
+And tawny are their crests as tigers' eyes.
+The sun is focused on one white, far sail
+And on blue, shining deeps as smooth as glass
+Wherein slim cranes are shadowed as they pass.
+# Aluşta keşe 
+Keşe bolîp ğansîz, yorgîn bír kún awar;
+Şatîr-Tawda kúneş sîzdî kar yúzúne
+Şîray asîp hayal, mor boyalî kólge;
+Oylarînda orman ğolşîlarnî saklar. 
+Keşe daknî, geñíş şayîrlarnî kaplar;
+Toñîp ğansîzlaşîr kaynagan ózenler;
+Karañgîlîk saklar kokîlî şeşekler,
+Yaprak fîşîrtîsî bayîrlarnî basar.
+Yakînlarda kózím túşlerge túşmelí,
+Kubbení bír awma altîn man sîzîklay,
+Ateşlí şagîmlar şîrîldaktay patlay.
+Ay, kelíníp Şarklar Keşesí Gúzelí
+Kazandîñ ğanîmnî, íşím saga tutuk,
+Hoş ópken ğariye, ğazibelí zewuk. — Alushta by Night
+The drooping, weary day night pushed aside;
+On Tschatir Dagh the sullen sun and low
+Paints phantom purple upon ancient snow;
+While forest ways within, the wanderers hide.
+Night veils the mountains and the valleys wide;
+The thunderous brooks are dream-held, dulled, and slow;
+Beneath the blackness fragrant flowers blow
+And rich leaf-music clothes each valley side.
+Almost my waking eyes are dream-held too;
+With gold a meteor marks the deep-domed sky
+And fountain-like the fiery sparks float by.
+Oh! Beauty of the Eastern Night, you woo
+My spirit like the odalisque, who held
+Men captive till her kiss the dream dispelled!
+# Şatîr-Taw 
+(Mîrza) 
+Múmín berer selam, mañlay basîp ğerge,
+Şatîr-Tawga, saga, ak Kîrîm tíregí,
+Mihrap, minaresí, mawî kók tílegí,
+Uzatîlgan baskîş Ğennetten álemge.
+Seníñ korîmañda Allahnîñ kapîsî,
+Ğebrayildiy tîpkî, kîlîş kuşagîñda;
+Aşagaşîk-baştan saklî tumanîñda
+Túlbentíñ hoşlîgî yîldîzî, tatlîsî.
+Kîşnîñ ya kúneşníñ húkúmínde dúnya,
+Ğeller wursa yaman, yáwúr bolsa kem, maw,
+Herkezden ústún, sen, deñíşmez Şatîr-Taw,
+Kaldîñ pak, lekesíz Allah’nîñ aldînda;
+Yúksek ósken kula alşak otlaklardan,
+Allaga meraknî insanga kaytargan. — Tschatir Dagh
+(Mirza)
+The reverent Mussulman bends low to greet
+You, Tschatir Dagh, Crimea's bright-masted ship!
+World-altar,--minaret--the place where dip
+Down stairs from golden Heaven for the feet!
+You guard the door of God in splendor meet,
+Like Gabriel with holy sword on hip;
+In bright mist mantled from the toe to lip,
+Tour turban set with alien stars and sweet.
+If winter rule the world, or summer's sun,
+If Giaour rage about, or winds are wild,
+Above them, Tschatir Dagh, you, changeless one,
+Are like to Allah, pure and undefiled;
+Aloft you tower from out the lowly sod
+To give to men again the will of God.
+# Şatîr-Taw 
+(Ğolşî) 
+Aşada ğayîlgan yarî dúniyamîz;
+Mawî kók yokarda; karlî tóbe yakta;
+Hayat nabzî, dewlet, gene yawaş ata,
+Ğansîrap sagîndîm uzak yer, sepasîz;
+Gezer edím şúndí Litwan ormanlarîn
+Hoş gîrtlaklî kuşî maga yakîn sayrar.
+Geşer edím kaltîrawğî bataklîklar
+Seslep dalîp, sílkíp ótken kumtawugîn. 
+Ğúregímní bastî feğiy ğañgîzlîklar,
+Tînîk, sessíz yerge ğanîm merak ete,
+Ğaşlîk sewdalarîm akîlîma kele.
+Balalîkka kaálbím hasret şegíp turar,
+Ğansam da yaşagan ayîrîlîşlarga
+Asmaz edím kulak bírtaa rastlaganda. — Tschatir Dagh
+(The Pilgrim)
+Below me half a world I see outspread;
+Above, blue heaven; around, peaks of snow;
+And yet the happy pulse of life is slow,
+I dream of distant places, pleasures dead.
+The woods of Lithuania I would tread
+Where happy-throated birds sing songs I know;
+Above the trembling marshland I would go
+Where chill-winged curlews dip and call o'er head.
+A tragic, lonely terror grips my heart,
+A longing for some peaceful, gentle place,
+And memories of youthful love I trace.
+Unto my childhood home I long to start,
+And yet if all the leaves my name could cry
+She would not pause nor heed as she passed by.
+# Çúfút-Kale uşurumîñ ğenderesí 
+(Mîrza) 
+Duwa etíp ğalbar! Karama aşaga!
+Telbewlerní boşat! Mazlum at ğol tabar,
+Bílír şo kyor ğarnî, ka-yerden ters karar,
+Kaysî ğoldan da saw bararmîz aşaga.
+Dak tajîna karap, duwa etíp ğalbar!
+Derendír, soñsîzlîk, aşadakî opkîn,
+Uzatma kolîñnî geşeğekte, sakîn,
+Awurlîgî sení uşurumga tartar!
+Makulîñnî ğoklap geşíre ber kózden;
+Kabartîlgan hayal ğelkeñlerín topla,
+Mínda kíşke dúnya Ólím hesabînda.
+(Ğolşî) 
+Atlap geştím kadmiy karlar kóprísínden;
+Ama kórgenlerím oynamay tílímde,
+Añlatmasî kîyîn, kalsîn meleklerge. — The Pass Across the Abyss in the 
+Tschufut-Kale
+(Mirza)
+Pray! Pray! Let loose the bridle. Look not down!
+The humble horse alone has wisdom here.
+He knows where blackest the abysses leer
+And where the path in safety leads us down.
+Pray, and look upward to the mountain's crown!
+The deep below is endless where you peer;
+Stretch not the hand out as you pass, for fear
+The added weight of that might plunge you down.
+And check your thoughts' free flight, too, while you go;
+Let all of Fancy's fluttering sails be furled
+Here where Death watches o'er the riven world.
+(Pilgrim)
+I lived to cross the bridge of ancient snow!
+But what I saw my tongue no more can tell,
+The angels only could rehearse that well.
+# Çúfút-Kale uşurumîñ ğenderesí 
+(Mîrza) 
+Karasî şo mawî ğarnîñ Ğennetíne!
+Deñízdír, karasa uzun dalgalarga!
+Dew múbarek kuşnî sallaydîr, karasa,
+Geñíş, biyaz kanat ufkiy yerní óbe!
+Bír buzdagî mî, şo, mawî uşurumda? 
+Tuwul, tuwul - bulut! Kara ka-típ órte
+Deñíz men karanî atîp yawaş kólge
+Karañgîga battîrağak yakînlarda.
+Mína, ğalkîldadî, korkînş sîpîrgalar!
+Kel peşímden yawaş, ízím-mahmuzîmdan! 
+Atlap geşermen şo ğarnîñ awuzîndan.
+Ne sert, suwuk úrkúw saklay kanaralar!
+Mení şakîrmakta şayîr şîraklarî.
+Yakînlayatîrman. Hiğran bek kuğurlî. — The Pass Across the Abyss in the 
+Tschufut-Kale
+(Mirza)
+Behold blue Heaven in that deep abyss!
+The sea is that! Behold the long waves shine!
+Watch how they rock that giant bird divine,
+Whose swinging white wings wide horizons kiss.
+Is that an iceberg in the blue abyss?
+No, no--a cloud! Watch how 'tis veiling fine
+The sea, the land, out-blotting every line
+To drown it all in darkness soon I wis.
+The lightning comes now! Frightful is its sweep.
+But softly--softly! Watch my spur--my whip!
+I'll leap across unto that chasm's lip.
+What still and chilling sternness great cliffs keep!
+Down there light calls to me. Soon there I'll be.
+Uncanny is such loneliness to me.
+# Balîklawa ğîgîntîsî 
+Ay, nankyor Kîrîm ğurtî! Mîrap kaldî, şóger
+Eskí zamanlarnîñ şalîm saraylarîñ!
+Kún-ğarîgîn súymez ğîlan-baykuşlarîñ,
+Soygînğîlar keşe ğolnî tutup keser.
+Eskí mermerlerde semírtúwğí hárfler,
+Altîn batîr sózler ğartî tamgalarda,
+Zaman ğayrap şaşkan, parşalagan ela,
+Sîra-sîra tutup ğatîrlar ólíler.
+Mínda Yunanlîlar sútun kurgan, mermer,
+Mínda Moñgollarnî Urum kuwalagan,
+Keşe-kúndúz Múmin beş namazîn kîlgan.
+Baykuş man kartakay beríp kara kaber
+Kanatlarîn sallar bayraktay hawada
+Felaketler ólí úygen kalalarda. — The Ruins of Balaclava
+Oh, thankless Crimean land! in ruin laid
+Are now the castles that were once your pride!
+Here serpents and the owls from daylight hide,
+And robbers arm them for the nightly raid.
+Upon the lettered marble boasts are made,
+Brave words on battered arms in gold descried,
+And broken splendor years have scattered wide,
+Beside the dead who made them are arrayed.
+The Greek set shining, columned marble here.
+The Latin put the Mongol horde to flight,
+And Mussulmans prayed eastward morn and night.
+The owl and vulture of dark wing and drear
+Are fluttering like black banners overhead
+In cities where the pest piles high the dead.
+# Ayuw-Dakta 
+Ayuw-Dakka míníp kararman aşaga
+Atîlîp ğayîlgan yúğe dalgalarga,
+Uzaklardan kelír sefalar íşínden,
+Kîzîldap-sílkíníp alkîmîn yerínden.
+Ayuw-Dakka míníp kararman aşaga
+Sallangan temaşa ordî dalgalarga,
+Ğagalarga taşîp atar ak kópíkler,
+Kaytîp alay yerge ğayrar dúrdaneler.
+Seníñ, Şayir, ğaşlîk wahşiy boranînda,
+Góñíl-akîlîñnî ğeñíp alsa merak,
+Taşlap ğîgîntînî – enkaz, şóplík, batak -
+Al kolîña utnî! Pak ut man kolîñda
+Tabarsîñ kaálbíñe dúrdanelí dúrkí,
+Yaşîñ neğasetsíz, temíz, ap-ak tajî. — On Juda's Cliff
+On Juda's Cliff I love to lean and look
+On waves that battling beat and break with might,
+While farther seaward in a bland delight,
+I see them shining where a rainbow shook.
+On Juda's Cliff I love to lean and look
+On waves that like sea-armies swing to sight,
+To send upon the shore their billows white,
+And, ebbing, to leave pearls in every nook.
+Thus, Poet, in your youth when storms are wild
+And passions break upon the heart and brain,
+To leave their ruin there--shipwreck and waste--
+Pick up your lute! Upon it undefiled
+You'll find song-pearls that your heart-deeps retain,
+The crown the years have brought you, white and chaste.
+# 
 `;
