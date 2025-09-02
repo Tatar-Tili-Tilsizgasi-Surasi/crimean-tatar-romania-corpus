@@ -1,4 +1,5 @@
 export const mikayilEmineskuwEntries: string = `
+# Mikayil Emineskúw — Mihai Eminescu
 # Bír bar eken dep aytîla
 Kópten ótken masalday,
 Kamuk kîzî, ónder soyda,
