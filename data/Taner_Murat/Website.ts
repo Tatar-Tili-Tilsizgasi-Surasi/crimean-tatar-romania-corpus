@@ -1,4 +1,160 @@
 export const websiteEntries: string = `
+# tatarğa — limba tătară
+# kazakşa – limba română
+# Sózlík hakkînda
+
+Sózbaşî
+ 
+Kolîñîzdakî sózlíkníñ múrsellerí kîrîm tatarlarnîñ tewúke, tíl men edebiyat aktaruwğîlarî, terğúmanlar, tílmaşlar, darúlfúnun úyrenğílerí, mektep talebelerí, kîrîm tatarşanî úyreneğek bolganlar man tíl bílíp tílín geñíşletmesín hewesínde tabîlganlardîr.
+
+25.832 başlîksózden ibaret kazakşa kesímíne, kazakşada sîk kullanîlgan bírtakîm látinğe sóz, aytîm man meseller de koştîm.
+
+Ózím kulagîm nogayğaga alîşîk bolmasa da, kîrîm tatarşa kesímíne, teşkergen kitaplarîmda tapkan nogayğa sózlerní de ayîrî tutmadan, onlarnî da koştîm.
+
+Ğalpak kîrîm tatarşanîñ tellafuzunda f, h, men v awazlarî tabîlmaganî úşún, kîrîm tatarşaga borîşka alîngan eğnebiy sózlerníñ yazîlmasîna kelgende, dewamdakîlarnî kózím aldînda tutup íş kórdím:
+
+Arapşa man ağemğeden tartîlîp f, h bír de h awazlarnî íşíndelegen sózlerní, kitapnîñ geñíşlígín sîradan şîgarmamaga, kóbísín sáde muwallímatşa yazîlmasî man geşírdím. Kitapnî aktarganlar, bo sózlerníñ hem bír muwallímatşa tellafuzî, hem ayîrî bír ya bírden fazla ğalpak tatarşa tellafuzî barîn unutmamalîdîr.
+
+Hep arapşa man ağemğeden tartîlîp tílímízde adamkîllî sáde ğalpak tatarşa tellafuzî man yerleşken sózlerní, ğalpak tatarşa yazîlmasî man geşírdím, mesela hazîr sózínden tartîlgan ázír sózní.
+
+Kúnbatar tíllerínden kelmeşík sózlerní sáde muwallîmatşasî man yazdîm.
+
+Sózlíkníñ geñíşlígí músaade etkení kadar, íşíne túrlí-túrlí alanlardan kelamlarnî geşírmege şalîştîm, uzabílímínden de, tîptan da, ómírbílímínden de, tílsîzgasîndan da, riyaziyetten de, felekiyattan da, we sayire. Karîştîrmalar man yañgîş terğúmelerní atlatmak úşún ósímlíkbílímíne, haywanatbílímíne, kuşbílímíne, balîkbílímíne bír de bóğekbílímíne ayîrî bír kóz men karap, bo dallardan sózlerge látinğe atamasîn da tírkeledím. 
+
+Sózlíktekí aytîmlarnî ayîrganda, hem hergún kerekken aytîmlarnî íşíndelemege karadîm, hem uzmanlîk dallardan aytîmlar da koşmaga karadîm. Kerek bolganda, sóz terğúmesí soñîna añlamlî úyrenekler de ekledím.
+
+Kitapnî aktarganda, íşíñízní kolaylaştîrmaga, bo íşlemníñ maksus işaretlerín bílmeñíz kerek:
+
+- bo kitapta dórt túrlí hárf bardîr, aşada aşîklanganday:
+
+            1. - kalîn hárfler bolay-típ kullanîldî:
+
+- kazakşa başlîksózler úşún.
+
+- kazakşa sózníñ tílsîzgasî ğergelerín ayîrgan, roman rakamlarî úşún (I., II. we sayire).
+
+- kazakşa sózníñ tílsîzgasî astğergelerín ayîrgan, balaban hárfler úşún (A., B. we sayire).
+
+- kópmanalî kazakşa sózníñ añlamlarîn ayîrgan, arap rakamlarî úşún (1., 2. we sayire).
+
+            2. - seğdelí kalîn hárfler şolay-típ şalîştîrîldî:
+
+- kazakşa bírleşken figeller men takîm figellerí úşún.
+
+- kazakşa múrekkep sózler, takîm sîfatlarî, takîm rewúşlerí, aytîmlar man úyrenekler úşún.
+
+            3. - seğdelí hárfler şay-típ íşletíldí:
+
+- tílsîzgasî aşîklamalarî úşún.
+
+- umumiy aşîklamalar úşún.
+
+- ósímlíklerníñ látinğe atamasî úşún, haywanlarnîñ látinğe atamasî úşún, we sayire.
+
+            4. - sózlíkníñ tatarğasî bútúnliy sîradan hárfler men yazîldî.
+
+- bo sózlíkte, Búkreşt Darúlfúnununda, Eğnebiy Tíller we Edebiyatlar İhtiyariyesínde tóretílgen tatar elifbesínden paydalandîm. Bazî aydînlar bo elifbení kámil kórmeseler de, sozîkawazlarnîñ sesperdesín ela hálde ifade etkeníne, maga kóre bo elifbe kîrîm tatarşasîna kullanîlgan başka elifbelerden sózsíz-suwalsîz ústúndúr ("Kîrîm tatarğanîñ elifbesí" sayîpasîn da bír kózden geşíríñíz).
+
+- bo kitapta, kazakşa başlîksózler elifbe sîralamasî man kayîtka alînîp, her kazakşa başlîksózníñ artîndan tílsîzgasî ğergesí aşîklanîp, ondan soñra da kîrîm tatarğasî geşíríldí.
+
+- tílsîzgasî aşîklamalar man kullanîm alanlarî kîskartîlîp yazîlgandîr ("Kîskartmalar" sayîpasîn da bír kózden geşíríñíz).
+
+- eşañlamlî terğúmelerníñ arasîna noktalî otîr kondîrîldî (;).
+
+- bútún kîrîm tatar koşîmğalarnîñ aldîna bírer sîzîkşîk sîzîldî (-).
+
+- kitapnîñ kîrîm tatarğasînda, ihtiyariy koşîmğalar tîrnaklarnîñ ( ) arasîna alîndî. Sóz mesela: katîrkulak(lî) hem katîrkulak şekílínde íşler, hem katîrkulaklî şekílínde íşler.
+
+- eşañlamlî atamalarnîñ arasîna kaşay sîzîk (/) kullanîldî. Kaşay sîzîk hem kazakşada, hem kîrîm tatarşada faaliyettedír.  Sóz mesela:  a cădea/intra în păcat hem a cădea în păcat dep okîlîr, hem de a intra în păcat dep okîlîr. Hep şonday: yîllîk/ğîllîk/senelík tasawur hem yîllîk tasawur dep okîlîr, hem ğîllîk tasawur dep okîlîr, hem de senelík tasawur dep okîlîr. Şoga uşap ta, koşîmğa takîmî: -îp/-íp/-up/-úp hem -îp, hem -íp, hem -up, hem de -úp okîlîp dogrî şekílníñ ayîrmasî, sozîkawaz ses uyumuna kóre, tírkeleme wakîtîna kalîr.
+
+- kazakşada, bútún bírleşken figeller men bútún takîm figellerníñ aldîna balaban orta nokta salîndî (●);  bo bírleşken figeller men takîm figellerní bír araga ketíríp bír bólík kuruldî, bólíkníñ aldî da koşak kaşay sîzîk man (//) wurgulandî.
+
+- kazakşada, bútún múrekkep sózler, bútún takîm sîfatlarî, bútún takîm rewúşlerí, bútún aytîmlar man bútún úyreneklerníñ aldîna balaban orta nokta salîndî (●);  bonlarnî da bír araga ketíríp bír bólík kuruldî, bólíkníñ aldî da koşak kaşay sîzîk man (//) wurgulandî.
+
+- sózlíkte kóp sayîda kazakşanîñ uzun mastarlarî man sîfat figellerníñ terğúmesí de geşíríldí.
+
+- kópmanalî sózlerníñ añlamîn karîştîrmamaga, kerek yerlerde sózníñ dogrî manasî añlamdaş sózler men, kullanma alanî man ya da túrlí kerek aşîklamalar man añlaştîrîldî.
+
+- az sayîda kîskartîlgan başlîksózlerníñ tîşînda, sózden-sózge yollamalar kullanîlmadî.
+
+Bo kitapnî kún ğarîgîna akelmege mením zahmetím men emgegímden soydaşlarîm tíl men tellafuzunda faydalanağaklarîndan umutlanaman — Despre dicţionar
+
+ 
+Cuvânt înainte
+ 
+Dicţionarul de faţă se adresează celor care cercetează istoria, limba şi literatura tătară crimeană, traducătorilor, interpreţilor, studenţilor şi elevilor, celor care doresc să înveţe această limbă şi, în general, tuturor vorbitorilor tătarei crimeene interesaţi în a-şi aprofunda cunoştinţele, indiferent de pregătirea acestora.
+
+Partea de limbă română conţine 25.832 de cuvinte, în lista de cuvinte-titlu fiind incluse şi cele mai uzitate cuvinte, expresii şi maxime din limba latină.
+
+Partea de limbă tătară crimeană conţine şi termenii din dialectul nogai, în măsura îngăduită de către izvoarele cercetate.
+
+Persoanelor familiarizate cu limba tătară crimeană le este cunoscut faptul că ortografierea se face în baza principiul fonetic, respectiv  cuvintele se scriu aşa cum se citesc. Întrucât sistemul fonetic al tătarei crimeene autentice nu dispune de sunetele f, h şi v, prezentarea neologismelor din partea de limbă tătară crimeană a dicţionarului s-a făcut după cum urmează:
+
+Rigorile impuse de proporţiile lucrării de faţă au determinat tratarea majorităţii neologismelor provenite din limba arabă şi din limba persană exclusiv în ortografiere academică, respectiv prin scrierea literelor f, h şi v ca şi în limbile de ascendenţă. Cititorii vor avea în vedere faptul că acestor cuvinte le corespunde atât un fonetism academic cât şi unul sau mai multe fonetisme în tătara crimeană autentică.
+
+Un număr relativ redus de neologisme cu ascendenţă arabă sau persană care au devenit cuvinte tătăreşti consacrate manifestându-se exclusiv în fonetismul limbii tătare crimeene autentice, cum ar fi cuvântul ázír provenind din hazîr, au fost ortografiate  fonetic.
+
+Toate neologismele provenite din limbile europene au fost ortografiate academic.
+
+Dicţionarul îmbrăţişează într-o măsură acceptabilă diverse domenii de activitate: anatomie, medicină, biologie, gramatică, matematică, astronomie etc. Un accent deosebit s-a pus pe termenii din botanică, zoologie, ornitologie, ihtiologie şi entomologie, la care în scopul evitării confuziilor s-au precizat şi denumirile latine.
+
+Expresiile au fost selectate astfel încât să acopere sfera conversaţiilor de zi cu zi precum şi diverse domenii din realitatea înconjurătoare. Atunci când s-a considerat necesar explicaţia cuvintelor a fost susţinută şi prin încadrarea în exemple.
+
+Fondul de cuvinte al lucrării este înfăţişat cu următoarele particularităţi:
+
+- s-au folosit patru tipuri de litere:
+
+            1. - litere aldine:
+
+- pentru cuvintele-titlu româneşti.
+
+- pentru cifrele romane care separă categoriile gramaticale ale cuvântului (I., II. etc.).
+
+- pentru majusculele care separă subcategoriile gramaticale (A., B. etc.).
+
+- pentru cifrele arabe care separă sensurile cuvintelor polisemantice (1., 2. etc.).
+
+            2. - litere aldine cursive:
+
+- pentru verbe compuse şi locuţiuni verbale în limba română.
+
+- pentru cuvinte compuse, locuţiuni adjectivale şi adverbiale, expresii şi exemplificări în limba română.
+
+            3. - litere cursive:
+
+- pentru specificări gramaticale.
+
+- pentru explicaţii.
+
+- pentru denumirile latine ale plantelor, animalelor, etc.
+
+            4. - litera obişnuită pentru tot ceea ce este text tătăresc-traducere.
+
+- pentru partea în limba tătară crimeană s-a folosit alfabetul Universităţii din Bucureşti, Facultatea de limbi şi literaturi străine. Deşi ar putea fi considerat perfectibil, acest alfabet redă foarte fidel timbrul vocalelor şi este categoric superior altor alfabete utilizate pentru limba tătară crimeană (vezi "Alfabetul limbii tătare crimeene").
+
+- cuvintele-titlu sunt înregistrate în ordine alfabetică, specificându-se în dreptul fiecăruia categoria gramaticală căreia îi aparţine, după care urmează definiţiile tătăreşti.
+
+- specificările gramaticale şi indicaţiile de domeniu s-au făcut succint (vezi "Lista abrevierilor").
+
+- traducerile echivalente sunt despărţite prin punct şi virgulă (;).
+
+- sufixele din limba tătară crimeană sunt precedate de cratimă (-).
+
+- la termenii tătăreşti s-au introdus între paranteze rotunde ( ) sufixele care pot fi omise fără a fi schimbat sensul cuvântului, folosirea acestora fiind deci facultativă. De exemplu: katîrkulak(lî) pote fi utilizat fie sub forma katîrkulak, fie sub forma katîrkulaklî.
+
+- bara oblică simplă (/) s-a folosit pentru a arăta că, într-un context, termenul după care este aşezată bara poate fi înlocuit cu cel pe care îl precedă. Această bară este folosită atât la partea de limbă română cât şi la partea de limbă tătară crimeană. De exemplu:  a cădea/intra în păcat se poate citi fie a cădea în păcat, fie a intra în păcat. Tot astfel: yîllîk/ğîllîk/senelík tasawur se poate citi fie yîllîk tasawur, fie ğîllîk tasawur, fie senelík tasawur. De asemenea, grupul de sufixe: -îp/-íp/-up/-úp se va putea citi fie -îp, fie -íp, fie -up, fie -úp, în funcţie de legile armoniei vocalice din limba tătară.
+
+- verbele compuse şi locuţiunile verbale sunt marcate prin punct median (●) şi au fost reunite în grupuri despărţite prin bară oblică dublă (//).
+
+- cuvintele compuse, locuţiunile adjectivale şi adverbiale, expresiile şi exemplificările sunt marcate prin punct median (●) şi au fost reunite în grupuri despărţite prin bară oblică dublă (//).
+
+- au fost incluse în dicţionar şi derivatele verbale (infinitivele lungi şi participiile devenite adjective) ale căror corespondente din limba tătară crimeană au utilizare extrem de largă.
+
+- s-a urmărit ca ori de câte ori există posibilitatea unei ambiguităţi să se precizeze sensul corespunzător prin folosirea unui sinonim, a indicaţei de domeniu sau prin explicaţie.
+
+- nu s-a recurs la sistemul trimiterilor cu excepţia formelor abreviate ele unor cuvinte-titlu.
+
+Nădăjduiesc că această lucrare va stârni, prin informaţiile pe care le deţine, interesul tuturor vorbitorilor de tătară crimeană şi că va putea fi un instrument de lucru util unei mai bune cunoaşteri a limbii şi unei exprimări cât mai corecte în limba tătară crimeană.
 # Aldsóz
 Bo kitapnî Látinğeden Kîrîm Tatarğasîna ya da Kîrîm Tatarğasîndan Látinğege ósímlíkler álemínden yapîlgan terğúmelerní kolaylaştîrmak maksatî man yazdîm.  Geşen sene bastîrgan álem-í tayyarat kitabîñ hem bír tekmíllemesí, hem bír dewamîdîr.
 Şalîşmanîñ ekí bólímí bardîr. Bírínğí bólím Látinğe-Kîrîm Tatarğa sózlígí, 1080 başlîksózden ibarettír. Kîrîm Tatarğa-Látinğe sózlígí ekínğí bólímíne kelgende, bo kesím bíraz taa geñíş, íşínde 1433 başlîksóz tabîlîr.
