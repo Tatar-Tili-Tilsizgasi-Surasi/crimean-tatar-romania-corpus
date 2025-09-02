@@ -19,13 +19,13 @@ const App: React.FC = () => {
   const categories = useMemo(() => {
     const allSources = entries.map(entry => entry.source);
     const uniqueSources = [...new Set(allSources)].sort((a, b) => a.localeCompare(b));
-    return ['All', 'United Dictionary', ...uniqueSources];
+    return ['All', 'All (Dictionaries)', ...uniqueSources];
   }, [entries]);
 
   const filteredEntries = useMemo(() => {
     return entries.filter(entry => {
       // Category filter
-      if (selectedCategory === 'United Dictionary') {
+      if (selectedCategory === 'All (Dictionaries)') {
         if (!entry.source.includes('Dictionary')) {
             return false;
         }
