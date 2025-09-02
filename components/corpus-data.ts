@@ -14,6 +14,12 @@ import { misDictionaryRawText } from '../data/mis_dictionary';
 import { ademMiskiyebicEntries } from '../data/Adem_Miskiyebic';
 import { uteKarsunEntries } from '../data/Ute_Karsun';
 import { geriyBekEntries } from '../data/Geriy_Bek';
+import { kovid19Entries } from '../data/Ram_Krishna_Singh/Kovid-19_hem_sessizlik_tolkini';
+import { menIsaTuwulmanEntries } from '../data/Ram_Krishna_Singh/Men_Isa_tuwulman';
+import { abdullahTukayEntries } from '../data/Abdullah_Tukay';
+import { abdulhalikUygurEntries } from '../data/Abdulhalik_Uygur';
+import { arthurRimbaudEntries } from '../data/Arthur_Rimbaud';
+import { paulVerlaineEntries } from '../data/Paul_Verlaine';
 
 let idCounter = 0;
 
@@ -297,6 +303,12 @@ const misDictionaryData = createEntriesFromRawText(misDictionaryRawText, 'Dictio
 const ademMiskiyebicData = createEntriesFromString(ademMiskiyebicEntries, 'Adem Miskiyebiç');
 const uteKarsunData = createEntriesFromString(uteKarsunEntries, 'Úte Karsun');
 const geriyBekData = createEntriesFromString(geriyBekEntries, 'Geriy Bek');
+const kovid19Data = createEntriesFromString(kovid19Entries, 'Ram Krishna Singh - Kovid-19 hem sessízlík tolkînî');
+const menIsaTuwulmanData = createEntriesFromString(menIsaTuwulmanEntries, 'Ram Krishna Singh - Men Isa tuwulman');
+const abdullahTukayData = createEntriesFromString(abdullahTukayEntries, 'Abdullah Tukay');
+const abdulhalikUygurData = createEntriesFromString(abdulhalikUygurEntries, 'Abdulhalik Uygur');
+const arthurRimbaudData = createEntriesFromString(arthurRimbaudEntries, 'Arthur Rimbaud');
+const paulVerlaineData = createEntriesFromString(paulVerlaineEntries, 'Paul Verlaine');
 
 
 export const corpus: CorpusEntry[] = [
@@ -315,4 +327,10 @@ export const corpus: CorpusEntry[] = [
   ...ademMiskiyebicData,
   ...uteKarsunData,
   ...geriyBekData,
+  ...kovid19Data,
+  ...menIsaTuwulmanData,
+  ...abdullahTukayData,
+  ...abdulhalikUygurData,
+  ...arthurRimbaudData,
+  ...paulVerlaineData,
 ];
