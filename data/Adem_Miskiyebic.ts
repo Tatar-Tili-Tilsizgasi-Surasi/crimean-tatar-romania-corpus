@@ -799,5 +799,4 @@ To leave their ruin there--shipwreck and waste--
 Pick up your lute! Upon it undefiled
 You'll find song-pearls that your heart-deeps retain,
 The crown the years have brought you, white and chaste.
-# 
 `;
