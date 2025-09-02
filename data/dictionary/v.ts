@@ -277,8 +277,7 @@ vintlí adj. cu filet; filetat.
 viraj s. viraj; curbă. // ●viraj almak — a vira. 
 viran adj. dărâmat; dărăpănat; în ruine. 
 virane s. dărâmătură; dărăpănătură; ruină. 
-viranlîk s. dărâmătură; dărăpănătură; ruină. 
-Virjiniye s. (topon.) Virginia 
+viranlîk s. dărâmătură; dărăpănătură; ruină.  
 Virjiniye-bódenesí s. (orn.) prepeliŃă cu coadă albă (lat., Colinius virginianus). 
 viroza s. (med.) viroză. 
 virtuoz adj. (d. muzicieni) virtuos. 
