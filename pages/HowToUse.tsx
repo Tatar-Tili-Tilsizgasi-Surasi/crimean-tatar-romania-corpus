@@ -31,7 +31,7 @@ const HowToUse: React.FC<HowToUseProps> = ({ onNavigate }) => {
         <ul>
           <li><strong>Search Bar:</strong> Type any word or phrase into the search bar at the top to filter entries. The search looks through the Crimean Tatar text, translations (if visible), and source names.</li>
           <li><strong>On-Screen Keyboard:</strong> Click the keyboard icon next to the search bar to show a virtual keyboard. This helps you type special characters unique to the Crimean Tatar alphabet (e.g., <code className="bg-slate-200 px-1 rounded">á, ç, ğ, í, î, ñ, ó, ş, ú</code>).</li>
-          <li><strong>Category Filter:</strong> Use the "Category" dropdown to view entries from a specific source, like "Dictionary (Taner Murat)" or "Mikayil Emineskúw". Select "United Dictionary" to see all dictionary sources combined, or "All" to see everything.</li>
+          <li><strong>Category Filter:</strong> Use the "Category" dropdown to view entries from a specific source, like "Dictionary (Taner Murat)" or "Mikayil Emineskúw". Select "All (Dictionaries)" to see all dictionary sources combined, or "All" to see everything.</li>
         </ul>
 
         <h3 className="text-xl font-semibold text-slate-800">Viewing Entries</h3>
