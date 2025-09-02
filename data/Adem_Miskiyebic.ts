@@ -1,11 +1,12 @@
 export const ademMiskiyebicEntries: string = `
 # El-Kîrîm Sónetlerí — Sonnets from the Crimea
 # Adem Miskiyebiç — Adam Mickiewicz
-# Ingilizğe terğumesi Edna Wortliy Underwut — translated into English by Edna Worthley Underwood
+# Ingilizğe terğumesi Edna Wortliy Underwut
+Kîrîm Tatarğa terğúmesí Taner Murat — translated into English by Edna Worthley Underwood
+translated into Crimean Tatar by Taner Murat
 # Adem Miskiyebiç
 Bír terğúmiyhál taslagî
- 
- 
+  
 Sade siyasiy kóríşínden tuwul, edebiyat man sanat kóríşínden de onsekízínğí 
 yuzîl Urusiye men Polagîstan úşún emiyetlí bír kaytîm boldî. Dewlet, 
 ğurtsúygen, şayir men yazuwğîlarnîñ tuwumîna paya boldî. Bo aytuwlî 
