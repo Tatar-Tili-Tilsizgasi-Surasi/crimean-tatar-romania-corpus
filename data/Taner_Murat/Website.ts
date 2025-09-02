@@ -2,7 +2,8 @@ export const websiteEntries: string = `
 # Rumaniye Milliy Kútúpkanasî — Biblioteca Naţională a României
 # Iskenderiye Kútúpkanasî — Bibliotheca Alexandrina
 # Góttingen Dewlet we Darúlfúnun Kútúpkanasî — Staats- und Universitaetsbibliothek Goettingen
-# tatarğa/tatarşa — limba tătară
+# tatarğa — limba tătară
+# tatarşa — limba tătară
 # kazakşa — limba română
 # Sózlík hakkînda
 
