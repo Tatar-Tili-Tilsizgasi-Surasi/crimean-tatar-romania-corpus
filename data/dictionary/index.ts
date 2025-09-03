@@ -28,7 +28,9 @@ const allRawText = [
 ].join('\n');
 
 // Replace Ń and ń with ţ for orthographic normalization.
-const processedText = allRawText.replace(/Ń|ń/g, 'ţ');
+let processedText = allRawText.replace(/Ń|ń/g, 'ţ');
+// Replace Romanian Ș/ș with Turkish Ş/ş
+processedText = processedText.replace(/ș/g, 'ş').replace(/Ș/g, 'Ş');
 
 // Sort lines alphabetically, ignoring entries that might be just whitespace
 const sortedLines = processedText
