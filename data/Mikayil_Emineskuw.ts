@@ -203,4 +203,173 @@ Tuwar yakşî şîray. — În aer rumene văpăi
 Se-ntind pe lumea-ntreagă,
 Şi din a chaosului văi
 Un mândru chip se-ncheagă;
+# Kara şáşíñ perşemínde
+Alew tajî ğana,
+Kele kúneş ateşínde,
+Míníp hakkîykatka. — Pe negre viţele-i de păr
+Coroana-i arde pare,
+Venea plutind în adevăr
+Scăldat în foc de soare.
+# Bellí kolî, mermer eller
+Kara kefenínden,
+Dertí bellí, kaswet-keder
+Tússíz-ak yúzínden. — Din negru giulgi se desfăşor
+Marmoreele braţe,
+El vine trist şi gânditor
+Şi palid e la faţă;
+# Lákin onîñ engin kózí,
+Deren hayal ğolî,
+Ekí toymaz hewes gibí
+Karañgîga tolî. — Dar ochii mari şi minunaţi
+Lucesc adânc himeric,
+Ca două patimi fără saţ
+Şi pline de-ntuneric.
+# – „Dayiremden şegíp zahmet
+Keldím, sózíñ keñeş, 
+Mením anamdîr nim zulmet
+Mením babam kúneş. — – „Din sfera mea venii cu greu
+Ca să te-ascult ş-acuma,
+Şi soarele e tatăl meu,
+Iar noaptea-mi este muma;
+# Ay, kel, insanlîknî taşla,
+Kel kîymetlím, sayarman,
+Kel şolpanga, kókte yaşa,
+Sení kelín yaparman. — O, vin', odorul meu nespus,
+Şi lumea ta o lasă;
+Eu sunt luceafărul de sus,
+Iar tu să-mi fii mireasă.
+# Ay, kel, sarî şáşleríñe
+Nur mañlaylîk tagarman,
+Yîldîzday tuw felegímde,
+Men de şalîm satarman.” — O, vin', în părul tău bălai
+S-anin cununi de stele,
+Pe-a mele ceruri să răsai
+Mai mândră decât ele."
+# – „Ay, sen tayyarday túşíme
+Uşîp-kelíp, yakşîsîñ!
+Lákin basmam ízlegíñe
+Ke sen başka túrlísíñ. — – „O, eşti frumos cum numa-n vis
+Un demon se arată,
+Dară pe calea ce-ai deschis
+N-oi merge niciodată!
+# Kewdem-kókíregím aşşîy,
+Súyúwíñden kastaman,
+Keñ kózleríñ awur, wahşiy,
+Nazarîñdan ğanaman.” — Mă dor de crudul tău amor
+A pieptului meu coarde,
+Şi ochii mari şi grei mă dor,
+Privirea ta mă arde."
+# – „Ka-típ túşermen, ağemiy?
+Kalbí añlamagansîñ,
+Men ólímsízmen, ebediy,
+Sen geşúwğí insansîñ.” — – „Dar cum ai vrea să mă cobor?
+Au nu-nţelegi tu oare,
+Cum că eu sunt nemuritor,
+Şi tu eşti muritoare?"
+# – „Sîratîşî sóz karamam,
+Aytarman síptíden,
+Herbír sózíñ taşîr añlam
+Tek manasîz ğúmleñ. — – „Nu caut vorbe pe ales,
+Nici ştiu cum aş începe -
+Deşi vorbeşti pe înţeles,
+Eu nu te pot pricepe;
+# Amma dúrúst-tora bolsañ
+Súyermen men de sendiy,
+Eger túşíp ğerge kaşsañ.
+Adiy insan bol, mendiy.” — Dar dacă vrei cu crezământ
+Să te-ndrăgesc pe tine,
+Tu te coboară pe pământ,
+Fii muritor ca mine."
+# – „Ístiysíñ ólmezlígímní
+Tek bír óbúw berseñ de,
+Íspatlayğakman súygímní,
+Sení súyemen men de. — – „Tu-mi ceri chiar nemurirea mea
+În schimb pe-o sărutare,
+Dar voi să ştii asemenea
+Cât te iubesc de tare;
+# Ebet, başka ádet alîp
+Men gúnadan tuwarman;
+Soñsîzlîktan ayîrîlîp
+Ólmezlíkní taşlarman.” — Da, mă voi naşte din păcat,
+Primind o altă lege;
+Cu vecinicia sunt legat,
+Ci voi să mă dezlege."
+# Kettí şolpan... Kete-kete
+Kúnler men ğok bola,
+Sewdalanîp kerimege
+Óz yerínden koba. — Şi se tot duce... S-a tot dus.
+De dragu-unei copile,
+S-a rupt din locul lui de sus,
+Pierind mai multe zile.
+# Bo arada da Ketelin
+Kurnaz, ógíy bala,
+Sîpîrada bír muwavin,
+Şarap kuygan bala, — În vremea asta Cătălin,
+Viclean copil de casă,
+Ce împle cupele cu vin
+Mesenilor la masă,
+# Kamukşanîñ eteklerín
+Toplap tutîp ğúrgen,
+Kayriymeşruw, kaşîn-kózín
+Oynatmaga bílgen, — Un paj ce poartă pas cu pas
+A-mpărătesii rochii,
+Băiat din flori şi de pripas,
+Dar îndrăzneţ cu ochii,
+# Kanî tolîp bet-suratta
+Yúzí kîzîp píşer,
+Sîra kollap aralîkta
+Kîznî awlap ğúrer. — Cu obrăjei ca doi bujori
+De rumeni, bată-i vina,
+Se furişează pânditor
+Privind la Cătălina.
+# Dúlberleşken, neday şirin,
+Ne şalîmlî ğúre,
+Tap bír şare, ey, Ketelin,
+Yîkpal denemege. — Dar ce frumoasă se făcu
+Şi mândră, arz-o focul;
+Ei Cătălin, acu-i acu
+Ca să-ţi încerci norocul.
+# Hem kuşaklap alawuya,
+Tartîp, bír kóşege.
+– „Ne bolayatîr, ay bala?
+Bar, kara íşíñe.” — Şi-n treacăt o cuprinse lin
+Într-un ungher degrabă.
+– „Da' ce vrei, mări Cătălin?
+Ia du-t' de-ţi vezi de treabă."
+# – „Ne bolağak? Bírşiy bolmaz,
+Kaşsañ kîsmet keter,
+Túşíníp turma, diy kurnaz,
+Bír kere óp, yeter.” — – „Ce voi? Aş vrea să nu mai stai
+Pe gânduri totdeuna,
+Să râzi mai bine şi să-mi dai
+O gură, numai una."
+# – „Men ağemiymen, kabersíz,
+Ket, tiyme sen maga!
+Túşlerímní ğoklar yîldîz,
+Hasretmen şolpanga.” — – „Dar nici nu ştiu măcar ce-mi 
+ceri,
+Dă-mi pace, fugi departe -
+O, de luceafărul din cer
+M-a prins un dor de moarte."
+# – „Ayak tíremeseñ eger,
+Bolîrman kîlawuz,
+Berermen sewdadan kaber,
+Sen sáde otîr uz. — – „Dacă nu ştii, ţi-aş arăta
+Din bob în bob amorul,
+Ci numai nu te mânia,
+Ci stai cu binişorul.
+# Awğî aşkanday kuşlarga
+Awîn tereklíkte,
+Sol kolîmnî uzatkanda
+Sarîl sen belíme; — Cum vânătoru-ntinde-n crâng
+La păsărele laţul,
+Când ţi-oi întinde braţul stâng
+Să mă cuprinzi cu braţul;
+# Kózleríñe karaganda
+Baygîn nazar attîr,
+Kolîm tîksam koltîgîña
+Sen boyîñnî arttîr. — Şi ochii tăi nemişcători
+Sub ochii mei rămâie...
+De te înalţ de subţiori
+Te-nalţă din călcâie;
 `;
