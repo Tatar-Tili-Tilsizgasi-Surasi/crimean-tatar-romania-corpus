@@ -1,7 +1,6 @@
 import { CorpusEntry } from '../types';
 import { dictionaryRawText } from '../data/dictionary';
 import { mikayilEmineskuwEntries } from '../data/Mikayil_Emineskuw';
-import { tanerMuratEntries } from '../data/Taner_Murat';
 import { friedrichSchillerEntries } from '../data/Friedrich_Schiller';
 import { charlesBaudelaireEntries } from '../data/Charles_Baudelaire';
 import { fiatJustitiaEntries } from '../data/Taner_Murat/Fiat_Justitia';
@@ -35,8 +34,9 @@ const posAbbreviations = [
 const posAbbreviationsRegex = new RegExp(`\\s+(${posAbbreviations.join('|')})`);
 
 const createEntriesFromLatinGroupedText = (rawText: string, source: string): CorpusEntry[] => {
+  const processedRawText = rawText.replace(/ș/g, 'ş').replace(/Ș/g, 'Ş');
   const allEntries: CorpusEntry[] = [];
-  const lines = rawText.trim().split('\n');
+  const lines = processedRawText.trim().split('\n');
   
   let currentLatinNameParts: string[] = [];
   let currentTerms: string[] = [];
@@ -208,8 +208,9 @@ const parseLine = (line: string): { text: string; translation?: string } => {
 };
 
 const createEntriesFromRawText = (rawText: string, source: string): CorpusEntry[] => {
+  const processedRawText = rawText.replace(/ș/g, 'ş').replace(/Ș/g, 'Ş');
   const allEntries: CorpusEntry[] = [];
-  const lines = rawText.split('\n').filter(line => line.trim() !== '');
+  const lines = processedRawText.split('\n').filter(line => line.trim() !== '');
 
   lines.forEach(line => {
     if (line.includes('//')) {
@@ -271,8 +272,9 @@ const createEntriesFromRawText = (rawText: string, source: string): CorpusEntry[
 
 
 const createEntriesFromString = (textBlock: string, source: string): CorpusEntry[] => {
+  const processedTextBlock = textBlock.replace(/ș/g, 'ş').replace(/Ș/g, 'Ş');
   // Split by '#' at the beginning of a line, ignoring leading whitespace on the line.
-  const entries = textBlock.trim().split(/^\s*#\s*/m).filter(s => s.trim() !== '');
+  const entries = processedTextBlock.trim().split(/^\s*#\s*/m).filter(s => s.trim() !== '');
   return entries.map(entry => {
     const trimmedEntry = entry.trim();
     const parts = trimmedEntry.split('—');
@@ -290,7 +292,6 @@ const createEntriesFromString = (textBlock: string, source: string): CorpusEntry
 
 const dictionaryData = createEntriesFromRawText(dictionaryRawText, 'Dictionary (Taner Murat)');
 const mikayilData = createEntriesFromString(mikayilEmineskuwEntries, 'Mikayil Emineskúw');
-const tanerData = createEntriesFromString(tanerMuratEntries, 'Taner Murat');
 const schillerData = createEntriesFromString(friedrichSchillerEntries, 'Friedrich Schiller');
 const baudelaireData = createEntriesFromString(charlesBaudelaireEntries, 'Charles Baudelaire');
 const tanerFiatJustitiaData = createEntriesFromString(fiatJustitiaEntries, 'Taner Murat - Fiat Justitia');
@@ -317,7 +318,6 @@ export const corpus: CorpusEntry[] = [
   ...ornDictionaryData,
   ...misDictionaryData,
   ...mikayilData,
-  ...tanerData,
   ...tanerFiatJustitiaData,
   ...tanerOtkenData,
   ...tanerWebsiteData,
