@@ -4,11 +4,10 @@ import CorpusControls from './components/CorpusControls';
 import CorpusList from './components/CorpusList';
 import HowToUse from './pages/HowToUse';
 import About from './pages/About';
-import Translator from './pages/Translator';
 import { corpus as initialCorpus } from './components/corpus-data';
 import { CorpusEntry } from './types';
 
-type Page = 'corpus' | 'howto' | 'about' | 'translator';
+type Page = 'corpus' | 'howto' | 'about';
 
 const App: React.FC = () => {
   const [currentPage, setCurrentPage] = useState<Page>('corpus');
@@ -103,8 +102,6 @@ const App: React.FC = () => {
             return <HowToUse onNavigate={setCurrentPage} />;
         case 'about':
             return <About onNavigate={setCurrentPage} />;
-        case 'translator':
-            return <Translator onNavigate={setCurrentPage} />;
         case 'corpus':
         default:
             return (
