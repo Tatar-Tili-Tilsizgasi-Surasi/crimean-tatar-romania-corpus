@@ -1,4 +1,4 @@
-import * as genAI from '@google/genai';
+import { GoogleGenAI } from '@google/genai';
 import { corpus } from '../components/corpus-data';
 import { CorpusEntry } from '../types';
 import {
@@ -53,29 +53,30 @@ ${corpusExamples}
 --- END OF LINGUISTIC CONTEXT & RULES ---
 `;
 
+let ai: GoogleGenAI | null = null;
+
+const getGenAIClient = () => {
+  if (!ai) {
+    ai = new GoogleGenAI({ apiKey: process.env.API_KEY! });
+  }
+  return ai;
+};
+
 export const translateText = async (
   inputText: string,
-  sourceLangName: string,
-  targetLangName: string
+  sourceLang: string,
+  targetLang: string
 ): Promise<string> => {
-  try {
-    // The CDN build for @google/genai seems to be a CJS module wrapped as an ES module.
-    // This requires accessing the constructor via the `default` property on the namespace import.
-    const GoogleGenAI = (genAI as any).default.GoogleGenAI;
-    const ai = new GoogleGenAI({ apiKey: process.env.API_KEY! });
-    const prompt = `Translate the following text from ${sourceLangName} to ${targetLangName}:\n\n"${inputText}"`;
+  const genAIClient = getGenAIClient();
+  const prompt = `Translate the following text from ${sourceLang} to ${targetLang}:\n\n"${inputText}"`;
 
-    const response = await ai.models.generateContent({
-      model: 'gemini-2.5-flash',
-      contents: prompt,
-      config: {
-        systemInstruction: SYSTEM_INSTRUCTION
-      }
-    });
+  const response = await genAIClient.models.generateContent({
+    model: 'gemini-2.5-flash',
+    contents: prompt,
+    config: {
+      systemInstruction: SYSTEM_INSTRUCTION,
+    },
+  });
 
-    return response.text.trim();
-  } catch (error) {
-    console.error("Translation service error:", error);
-    throw new Error("Failed to translate text.");
-  }
+  return response.text.trim();
 };
