@@ -141,7 +141,7 @@ bașkalarîñ buyurîgîn
 aldanîp kalîrmîz 
 ğok bolgan zamanîmîzda, 
 íșímízní totîra-almadan — Self-neglect 
-Meditation— 
+Meditation– 
 living long but failing 
 to live wide 
 says Seneca we are 
@@ -496,7 +496,7 @@ penğírelerden karap
 ke hayat toktamadan 
 kózníñ aldîna 
 ğañî tañrîlar ketírsín — New Gods 
-Meditation— 
+Meditation– 
 future uncertainties 
 beyond crisis 
 new strains, new virus 
@@ -635,7 +635,7 @@ ekí kașîk ișaretíníñ arasînda
 ğîrtîlîp hem adașîp kalîp — Ghetto 
 I feel the yellow leaves with the day’s silence in their 
 stare 
-the ghetto uncovers what they try to conceal— 
+the ghetto uncovers what they try to conceal– 
 feeling stuck, a little ‘off’, or foggy 
 in the sameness of everyday celebrating 
 no sex, no travel, no drinks, no books but black smoke 
@@ -724,7 +724,7 @@ toz toplar
 ana sessízlígíñ resímí — Silence: A White Distrust 
 An experimental poem in linked form 
 ever evading 
-happiness for the now— 
+happiness for the now– 
 unfinished song 
 moonless 
 this November night 
@@ -754,7 +754,7 @@ hayat gúzeldír
 bașka kewdeníñ, akîlnîñ 
 íșíne kíríp 
 bírí-bírísí men 
-bírleșkende — lemon tea— 
+bírleșkende — lemon tea– 
 shade of her lipstick 
 on my lip 
 last night’s rain 
@@ -763,7 +763,7 @@ this morning
 the breeze is cool and the sun 
 adds a new hue to the spring 
 filling emptiness 
-waves dance over each other— 
+waves dance over each other– 
 the sky meets the sea 
 life is beautiful 
 when you enter another 
@@ -793,7 +793,7 @@ a soothing music
 in the mouth: 
 I forget the pain in my back 
 I seek the sky in silence 
-zipping her back— 
+zipping her back– 
 hundreds of nights grow wings 
 with wasp touch 
 intruding 
@@ -825,7 +825,7 @@ on the toilet seat
 nude nature waves a dull sun 
 smitten by the night’s long eclipse 
 moon energy 
-fills up the inner space— 
+fills up the inner space– 
 call to wake up 
 the busyness 
 and weariness of now 
@@ -848,10 +848,10 @@ kîș fitnesí
 mením sádemenlígím 
 karañgîlîkta 
 sessíz kabletmemek — stain-dried lingerie 
-reminds of the night’s act— 
+reminds of the night’s act– 
 flowers of lips 
 the smallness of the small 
-no sharing half-chewed betel— 
+no sharing half-chewed betel– 
 mischievous whisper 
 in bed fuzzy sensation 
 ruddy lips that’s no love 
@@ -887,7 +887,7 @@ ailments pop up
 spirit dries up 
 mind disconnects 
 hesitating 
-to take the first step through— 
+to take the first step through– 
 stands at the door 
 unhappy 
 with how I look and 
@@ -918,7 +918,7 @@ steal tender pleasure
 manipulating wetness 
 in bed unmask simple sin 
 white moon 
-shadowless— 
+shadowless– 
 folding laundry 
 my vests couldn’t dry 
 on the clothesline today 
@@ -972,7 +972,7 @@ súygí tayar
 penğíreden 
 ay saklanîr 
 șîpalak terekníñ arkasînda — stunted bud 
-in the earthen pot— 
+in the earthen pot– 
 winter sun 
 choking air 
 in a walled colony: 
@@ -980,7 +980,7 @@ two tired pigeons
 perch on the overhead tank 
 whisper pity on us 
 a robin whispers 
-our talk in bed last night— 
+our talk in bed last night– 
 another bird 
 light switched off 
 love sliding on 
