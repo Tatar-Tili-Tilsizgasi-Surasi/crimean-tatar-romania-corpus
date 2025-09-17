@@ -372,4 +372,67 @@ Sen boyîñnî arttîr. — Şi ochii tăi nemişcători
 Sub ochii mei rămâie...
 De te înalţ de subţiori
 Te-nalţă din călcâie;
+# Kóz túşírsem eger saga
+Hoş yúzíñní kóter
+Ómír boyî toya-toya
+Karaşayîk, yeter. — Când faţa mea se pleacă-n jos,
+În sus rămâi cu faţa,
+Să ne privim nesăţios
+Şi dulce toată viaţa;
+# Hem sewdaga merak bolsañ
+Bílmezlíkní aktar,
+Eger sení óbíp alsam,
+Óbúwímní kaytar.” — Şi ca să-ţi fie pe deplin
+Iubirea cunoscută,
+Când sărutându-te mă-nclin,
+Tu iarăşi mă sărută.”
+# Kîz, balanî seslep kalîr
+Hem şaşîrar bíraz,
+Hem utanîr, hem aldanîr,
+Hem ğolîndan şîkmaz. — Ea-l asculta pe copilaş
+Uimită şi distrasă,
+Şi ruşinos şi drăgălaş,
+Mai nu vrea, mai se lasă.
+# – „Sení bíldím balalîktan –
+Yawaş ses men ayta -
+Kalabalîk awuz, şaytan,
+Uygînsîn sen maga, — Şi-i zise-ncet: – „Încă de mic
+Te cunoşteam pe tine,
+Şi guraliv şi de nimic,
+Te-ai potrivi cu mine...
+# Lákin sessíz şolpan tuwar
+Unutîlgan yerde,
+Ufuk soñsîzlîgîn aşar
+Ğañgîz deñízlerde; — Dar un luceafăr, răsărit
+Din liniştea uitării,
+Dă orizont nemărginit
+Singurătăţii mării;
+# Yaşka tolgan, men aşaga,
+Kírpígímní alîrman,
+Suwnî geşíp, dalga-dalga,
+Ğaldap-yúzíp kalîrman; — Şi tainic genele le plec,
+Căci mi le împle plânsul
+Când ale apei valuri trec
+Călătorind spre dânsul;
+# Sewda tolî nurlar şaşar
+Góñílímní alîp,
+Lákin yúkseklíkke uşar
+Maga uzak kalîp. — Luceşte c-un amor nespus
+Durerea să-mi alunge,
+Dar se înalţă tot mai sus,
+Ca să nu-l pot ajunge.
+# Atar, salkîn álemínden,
+Ayrî ğîltîrîmlar,
+Uzak kalsa da, o, menden,
+Ğúregímní ğîltar. — Pătrunde trist cu raze reci
+Din lumea ce-l desparte...
+În veci îl voi iubi şi-n veci
+Va rămânea departe...
+# Bonîñ úşún kúndúzlerím
+Geñíş kîrlarday boştîr,
+We, tersíne, keşelerím
+Hem múbarek, hem hoştîr.” — De-aceea zilele îmi sunt
+Pustii ca nişte stepe,
+Dar nopţile-s de-un farmec sfânt
+Ce nu-l mai pot pricepe.”
 `;
