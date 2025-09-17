@@ -1,4 +1,4 @@
-export const theSoundsofTatarSpokeninRomaniaEntries: string = `
+export const theSoundsOfTatarSpokenInRomaniaEntries: string = `
 # Edebiy Tatarğa — The literary Tatar spoken in Romania
 # Tírkeleşúw — The agglutinative nature of Tatar spoken in Romania
 # Başkayideler — Phonetic and phonotactic principles
