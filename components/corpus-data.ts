@@ -19,6 +19,7 @@ import { abdullahTukayEntries } from '../data/Abdullah_Tukay';
 import { abdulhalikUygurEntries } from '../data/Abdulhalik_Uygur';
 import { arthurRimbaudEntries } from '../data/Arthur_Rimbaud';
 import { paulVerlaineEntries } from '../data/Paul_Verlaine';
+import { theSoundsofTatarSpokeninRomaniaEntries } from '../data/Taner_Murat/The_Sounds_of_Tatar_Spoken_in_Romania';
 
 let idCounter = 0;
 
@@ -310,7 +311,7 @@ const abdullahTukayData = createEntriesFromString(abdullahTukayEntries, 'Abdulla
 const abdulhalikUygurData = createEntriesFromString(abdulhalikUygurEntries, 'Abdulhalik Uygur');
 const arthurRimbaudData = createEntriesFromString(arthurRimbaudEntries, 'Arthur Rimbaud');
 const paulVerlaineData = createEntriesFromString(paulVerlaineEntries, 'Paul Verlaine');
-
+const tanerTheData = createEntriesFromString(theSoundsofTatarSpokeninRomaniaEntries, 'Taner Murat - The Sounds of Tatar Spoken in Romania');
 
 export const corpus: CorpusEntry[] = [
   ...dictionaryData,
@@ -333,4 +334,5 @@ export const corpus: CorpusEntry[] = [
   ...abdulhalikUygurData,
   ...arthurRimbaudData,
   ...paulVerlaineData,
+  ...tanerTheData,
 ];
