@@ -22,6 +22,7 @@ const sources = {
     'Taner Murat - Ótken bír şaklayga sewdam',
     'Taner Murat - Perúzelí salînğak',
     'Taner Murat - Website',
+    'Taner Murat - The Sounds of Tatar Spoken in Romania',
   ],
   poetry: [
     { author: 'Mikayil Emineskúw', originalLanguage: 'Romanian' },
