@@ -401,7 +401,7 @@ adiyleştírmek v.t. a simplifica.
 adiyleştírúw s. simplificare. 
 adiyleştírúwğí adj. simplificator. 
 adiylík s. simplitate; inferioritate. 
-adîm s. pas. // ●adîm aşmak — a întinde pasul. ●adîm atmak — a păşi. // ●deñgelí adîmlar man în pas egal. ●ekí adîmda — la doi paşi. ●korkak adîmlar man — cu paşi temători. 
+adîm s. pas. // ●adîm aşmak — a întinde pasul. ●adîm atmak — a păşi. // ●deñgelí adîmlar man — în pas egal. ●ekí adîmda — la doi paşi. ●korkak adîmlar man — cu paşi temători. 
 adîm-adîm adv. pas cu pas; treptat. 
 adîmlagan adj. mergător. 
 adîmlamak v.i. a măsura cu pasul; a păşi. 
