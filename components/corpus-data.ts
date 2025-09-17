@@ -7,6 +7,7 @@ import { fiatJustitiaEntries } from '../data/Taner_Murat/Fiat_Justitia';
 import { otkenBirSaklaygaSewdamEntries } from '../data/Taner_Murat/Otken_bir_saklayga_sewdam';
 import { websiteEntries } from '../data/Taner_Murat/Website';
 import { peruzeliSalingakEntries } from '../data/Taner_Murat/Peruzeli_salingak';
+import { theSoundsOfTatarSpokenInRomaniaEntries } from '../data/Taner_Murat/The_Sounds_of_Tatar_Spoken_in_Romania';
 import { botDictionaryRawText } from '../data/bot_dictionary';
 import { ornDictionaryRawText } from '../data/orn_dictionary';
 import { misDictionaryRawText } from '../data/mis_dictionary';
@@ -19,7 +20,6 @@ import { abdullahTukayEntries } from '../data/Abdullah_Tukay';
 import { abdulhalikUygurEntries } from '../data/Abdulhalik_Uygur';
 import { arthurRimbaudEntries } from '../data/Arthur_Rimbaud';
 import { paulVerlaineEntries } from '../data/Paul_Verlaine';
-import { theSoundsofTatarSpokeninRomaniaEntries } from '../data/Taner_Murat/The_Sounds_of_Tatar_Spoken_in_Romania';
 
 let idCounter = 0;
 
@@ -299,6 +299,7 @@ const tanerFiatJustitiaData = createEntriesFromString(fiatJustitiaEntries, 'Tane
 const tanerOtkenData = createEntriesFromString(otkenBirSaklaygaSewdamEntries, 'Taner Murat - Ótken bír şaklayga sewdam');
 const tanerWebsiteData = createEntriesFromString(websiteEntries, 'Taner Murat - Website');
 const tanerPeruzeliData = createEntriesFromString(peruzeliSalingakEntries, 'Taner Murat - Perúzelí salînğak');
+const tanerSoundsData = createEntriesFromString(theSoundsOfTatarSpokenInRomaniaEntries, 'Taner Murat - The Sounds of Tatar Spoken in Romania');
 const botDictionaryData = createEntriesFromLatinGroupedText(botDictionaryRawText, 'Botanical Dictionary (Taner Murat)');
 const ornDictionaryData = createEntriesFromLatinGroupedText(ornDictionaryRawText, 'Ornithological Dictionary (Taner Murat)');
 const misDictionaryData = createEntriesFromRawText(misDictionaryRawText, 'Dictionary (Missing terms added by the community)');
@@ -311,7 +312,7 @@ const abdullahTukayData = createEntriesFromString(abdullahTukayEntries, 'Abdulla
 const abdulhalikUygurData = createEntriesFromString(abdulhalikUygurEntries, 'Abdulhalik Uygur');
 const arthurRimbaudData = createEntriesFromString(arthurRimbaudEntries, 'Arthur Rimbaud');
 const paulVerlaineData = createEntriesFromString(paulVerlaineEntries, 'Paul Verlaine');
-const tanerTheData = createEntriesFromString(theSoundsofTatarSpokeninRomaniaEntries, 'Taner Murat - The Sounds of Tatar Spoken in Romania');
+
 
 export const corpus: CorpusEntry[] = [
   ...dictionaryData,
@@ -323,6 +324,7 @@ export const corpus: CorpusEntry[] = [
   ...tanerOtkenData,
   ...tanerWebsiteData,
   ...tanerPeruzeliData,
+  ...tanerSoundsData,
   ...schillerData,
   ...baudelaireData,
   ...ademMiskiyebicData,
@@ -334,5 +336,4 @@ export const corpus: CorpusEntry[] = [
   ...abdulhalikUygurData,
   ...arthurRimbaudData,
   ...paulVerlaineData,
-  ...tanerTheData,
 ];
