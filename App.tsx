@@ -95,33 +95,6 @@ const App: React.FC = () => {
     }).join('\n\n---\n\n');
     downloadFile(txtContent, 'crimean_tatar_corpus.txt', 'text/plain');
   }, [filteredEntries, showTranslations]);
-
-  const handleExportExcel = useCallback(() => {
-    if (filteredEntries.length === 0) {
-      alert("No entries to export. Try adjusting your search.");
-      return;
-    }
-
-    const escapeCsvCell = (cellData: string | undefined): string => {
-      const cell = cellData === undefined ? '' : String(cellData);
-      const escapedCell = cell.replace(/"/g, '""');
-      return `"${escapedCell}"`;
-    };
-
-    const headers = showTranslations ? ['Text', 'Translation', 'Source'] : ['Text', 'Source'];
-    const rows = filteredEntries.map(e => {
-      const rowData = [e.text];
-      if (showTranslations) {
-        rowData.push(e.translation);
-      }
-      rowData.push(e.source);
-      return rowData.map(escapeCsvCell).join(',');
-    });
-
-    // Add BOM for Excel to recognize UTF-8
-    const csvContent = '\uFEFF' + [headers.map(escapeCsvCell).join(','), ...rows].join('\n');
-    downloadFile(csvContent, 'crimean_tatar_corpus.xls', 'text/csv;charset=utf-8;');
-  }, [filteredEntries, showTranslations]);
   
   const renderContent = () => {
     switch (currentPage) {
@@ -141,7 +114,6 @@ const App: React.FC = () => {
                         onSearchChange={setSearchQuery}
                         onExportJson={handleExportJson}
                         onExportTxt={handleExportTxt}
-                        onExportExcel={handleExportExcel}
                         showTranslations={showTranslations}
                         onShowTranslationsChange={setShowTranslations}
                         categories={categories}
