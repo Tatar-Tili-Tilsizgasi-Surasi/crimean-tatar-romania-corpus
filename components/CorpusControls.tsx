@@ -33,6 +33,7 @@ interface CorpusControlsProps {
   onSearchChange: (query: string) => void;
   onExportJson: () => void;
   onExportTxt: () => void;
+  onExportExcel: () => void;
   showTranslations: boolean;
   onShowTranslationsChange: (show: boolean) => void;
   categories: string[];
@@ -48,6 +49,7 @@ const CorpusControls: React.FC<CorpusControlsProps> = ({
   onSearchChange,
   onExportJson,
   onExportTxt,
+  onExportExcel,
   showTranslations,
   onShowTranslationsChange,
   categories,
@@ -175,7 +177,7 @@ const CorpusControls: React.FC<CorpusControlsProps> = ({
             </button>
              {isExportMenuOpen && (
                 <div 
-                  className="absolute right-0 mt-2 w-40 bg-white rounded-lg shadow-xl border border-slate-200 py-1 z-10 animate-fade-in-fast"
+                  className="absolute right-0 mt-2 w-48 bg-white rounded-lg shadow-xl border border-slate-200 py-1 z-10 animate-fade-in-fast"
                   role="menu"
                 >
                   <a
@@ -193,6 +195,14 @@ const CorpusControls: React.FC<CorpusControlsProps> = ({
                     role="menuitem"
                   >
                     Export TXT
+                  </a>
+                  <a
+                    href="#"
+                    onClick={(e) => { e.preventDefault(); handleExportClick(onExportExcel); }}
+                    className="flex items-center gap-2 w-full text-left px-4 py-2 text-slate-700 hover:bg-slate-100"
+                    role="menuitem"
+                  >
+                    Export Excel (.xls)
                   </a>
                   <p className="text-xs text-slate-500 px-4 pt-2 pb-1 border-t border-slate-100">
                     {showTranslations ? 'Includes translations.' : 'Excludes translations.'}
