@@ -1,5 +1,10 @@
 
 export const subat2011Entries: string = `
+# TOMRÎĞA KÎRÎM TATARLARÎÑ TURUŞ-MAMURIYET MEĞMUWASÎ — ATTITUDE AND CULTURE MAGAZINE OF DOBRUDJA’S CRIMEAN TATARS
+# Şubat — February
+# Sene — Year
+# Sayî — Issue
+# ŞÎNĞA'NÎÑ túş kórmek SÎRASÎ TANÎLSÎN — LET XINJIANG dream
 # Mamuriyet kaberlerí
 Ğenevre, 15.01.2011 - Ğenevre 
 Imaginaid Galerisinde 4 şubat 2011'de helwetiyelí 
