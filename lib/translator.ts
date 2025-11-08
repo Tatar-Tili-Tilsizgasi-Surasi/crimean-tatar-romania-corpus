@@ -16,7 +16,7 @@ const SUFFIXES: { [key: string]: string } = {
     'sî': ' [its]', 'sí': ' [its]', 'su': ' [its]', 'sú': ' [its]',
     // Copula / "to be"
     'man': ' [I am]', 'men': ' [I am]',
-    'sîñ': ' [you are]', 'síñ': ' [you are]',
+    'sîñ': ' [you are]', 'siñ': ' [you are]',
     'dîr': ' [is]', 'dír': ' [is]', 'tîr': ' [is]', 'tír': ' [is]'
 };
 
@@ -28,10 +28,16 @@ export interface Index {
     otherToCt: Map<string, string[]>;
 }
 
+export interface AnalysisResult {
+    originalWord: string;
+    matches: CorpusEntry[];
+}
+
 const PUNCTUATION_REGEX = /[.,!?;:()"[\]{}«»“”‘’—–\-/_|●•]/g;
 const SPLIT_REGEX = /([\s.,!?;:()"[\]{}«»“”‘’—–\-/_|●•]+)/;
 
-const normalize = (s: string) => {
+// Exporting for use in deep analysis if needed elsewhere, but primarily internal here.
+export const normalize = (s: string) => {
     return s.toLowerCase()
         // Normalize Romanian variations to match corpus standard (usually cedilla for S, but handle both inputs)
         .replace(/ș/g, 'ş').replace(/Ș/g, 'ş')
@@ -40,7 +46,7 @@ const normalize = (s: string) => {
         // Normalize â to î as corpus tends to prefer î
         .replace(/Â/g, 'Î').replace(/â/g, 'î')
         // Strip common punctuation that might still be attached after splitting
-        .replace(PUNCTUATION_REGEX, '')
+        .replace(PUNCTUATION_REGEX, ' ') // Replace with space to avoid merging words
         .trim();
 };
 
@@ -49,7 +55,7 @@ export const buildIndex = (entries: CorpusEntry[]): Index => {
     const otherToCt = new Map<string, string[]>();
 
     const addToIndex = (map: Map<string, string[]>, key: string, value: string) => {
-        const normKey = normalize(key);
+        const normKey = normalize(key).replace(/\s+/g, ''); // Strict normalization for index keys
         if (!normKey) return;
         if (!map.has(normKey)) {
             map.set(normKey, []);
@@ -91,7 +97,7 @@ export const buildIndex = (entries: CorpusEntry[]): Index => {
 };
 
 const findBestCTMatch = (word: string, index: Index): string | null => {
-    const normWord = normalize(word);
+    const normWord = normalize(word).replace(/\s+/g, '');
     if (!normWord) return null;
 
     // 1. Exact match
@@ -130,7 +136,7 @@ export const translateText = (text: string, index: Index, forceDirection?: 'toCT
     if (!text.trim()) return { translation: '', detectedLang: 'unknown' };
 
     // 1. Try exact phrase match first (both directions)
-    const normText = normalize(text);
+    const normText = normalize(text).replace(/\s+/g, '');
     if (!forceDirection || forceDirection === 'fromCT') {
         if (index.ctToOther.has(normText)) {
             return { translation: index.ctToOther.get(normText)![0], detectedLang: 'Crimean Tatar' };
@@ -153,7 +159,7 @@ export const translateText = (text: string, index: Index, forceDirection?: 'toCT
         detectionWords.forEach(w => {
             if (findBestCTMatch(w, index)) ctHits++;
             // Simple exact match for reverse, could add basic stemming here too if needed for Romanian
-            if (index.otherToCt.has(normalize(w))) otherHits++;
+            if (index.otherToCt.has(normalize(w).replace(/\s+/g, ''))) otherHits++;
         });
 
         // Boost CT if characteristic special chars are present
@@ -181,7 +187,7 @@ export const translateText = (text: string, index: Index, forceDirection?: 'toCT
             return match || part;
         } else {
             // Simple reverse lookup
-            const normPart = normalize(part);
+            const normPart = normalize(part).replace(/\s+/g, '');
             if (index.otherToCt.has(normPart)) {
                 // If multiple translations exist, just take the first one for now
                 return index.otherToCt.get(normPart)![0];
@@ -194,4 +200,58 @@ export const translateText = (text: string, index: Index, forceDirection?: 'toCT
         translation: translatedWords.join(''),
         detectedLang: direction === 'fromCT' ? 'Crimean Tatar' : 'Other (Ro/En)'
     };
+};
+
+// Deep analysis of every word in the input text against the entire corpus
+export const analyzeTextDeep = (text: string, entries: CorpusEntry[]): AnalysisResult[] => {
+    if (!text.trim()) return [];
+
+    // Split by space and common punctuation to get individual words for analysis
+    const rawWords = text.toLowerCase().split(/[\s.,!?;:()"[\]{}«»“”‘’—–\-/_|●•]+/);
+    // Filter out very short words (<= 1 char) to reduce noise.
+    const uniqueWords = [...new Set(rawWords.filter(w => w.trim().length > 1))];
+
+    return uniqueWords.map(word => {
+        // Normalize the search word. removing all spaces for strict word comparison if needed,
+        // but 'normalize' replaces punctuation with space, so trim it.
+        const normWord = normalize(word).trim();
+        if (!normWord) return { originalWord: word, matches: [] };
+
+        // Find all entries where this word appears in text or translation
+        const matches = entries.filter(entry => {
+            // Normalize entry fields for comparison.
+            // We keep spaces to ensure we don't accidentally merge words (e.g. "a det" vs "adet")
+            const normText = normalize(entry.text);
+            const normTrans = entry.translation ? normalize(entry.translation) : '';
+
+            // Simple 'includes' check as requested to find the word "inside" entries.
+            // A more advanced version could use regex with word boundaries (\b) for better precision.
+            return normText.includes(normWord) || normTrans.includes(normWord);
+        });
+
+        // Sort matches to prioritize exact matches or dictionary entries
+        matches.sort((a, b) => {
+             const aTextNorm = normalize(a.text).trim();
+             const aTransNorm = a.translation ? normalize(a.translation).trim() : '';
+             
+             // Give higher priority to exact whole-field matches
+             const aExact = aTextNorm === normWord || aTransNorm === normWord;
+             const bTextNorm = normalize(b.text).trim();
+             const bTransNorm = b.translation ? normalize(b.translation).trim() : '';
+             const bExact = bTextNorm === normWord || bTransNorm === normWord;
+
+             if (aExact && !bExact) return -1;
+             if (!aExact && bExact) return 1;
+
+             // Then prioritize dictionary sources
+             const aIsDict = a.source.includes('Dictionary');
+             const bIsDict = b.source.includes('Dictionary');
+             if (aIsDict && !bIsDict) return -1;
+             if (!aIsDict && bIsDict) return 1;
+
+             return 0;
+        });
+
+        return { originalWord: word, matches: matches.slice(0, 10) }; // Limit to top 10 matches per word to avoid overwhelming UI
+    }).filter(res => res.matches.length > 0);
 };
