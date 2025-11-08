@@ -552,7 +552,9 @@ Sóz manasîna şo wakît ğetersíñ.
 O zaman, Uygur, sózge hakk berersíñ.
  
 1921-Yîl, Turpan
-# Odanîñ tóríndekí patta ğatkan loksa, arada-bír başîn kóteríp kundaklangan balasîna karay, kolîn uzatîp sîypay, "bebiyím, bebiyím" dep. Ğún tóşek astînda, ğún ğórkan ústúnde, sîğak ama hawalî oda, kúnbatarga karay, balaban kapîdan kelgen-ketkenlerní kóstertíp. Aydînlîk, kúneş bol-bol kíreğek, ama ğawunlî kúnlerde kórínmiy. Şo arada, azbarîñ íşíndekí sesler karîştî, kabarîştî, tanîgan sesler men yabanğî sesler bírleşíp, sankem Sarîgóllí Kavlamet akay keldí dep túşúndí Şeripe. Ekewí bír yaşta bolalar ama Fazîl ondan ekí yaş balaban bolganî úşún o da koğasîñ dogmîşî bolganî úşún, Şeripe ya akay dep ayta ya da Şelebí dep ayta, bolay kóstere o eskíden kalgan húrmetín "akay" yagîna. Bír dakka geşmeden hağíníñ sesí tuyuldî azbarda:
+# Tatarlar (II)
+Gúner Akmolla (Ghiuner Acmola)
+Odanîñ tóríndekí patta ğatkan loksa, arada-bír başîn kóteríp kundaklangan balasîna karay, kolîn uzatîp sîypay, "bebiyím, bebiyím" dep. Ğún tóşek astînda, ğún ğórkan ústúnde, sîğak ama hawalî oda, kúnbatarga karay, balaban kapîdan kelgen-ketkenlerní kóstertíp. Aydînlîk, kúneş bol-bol kíreğek, ama ğawunlî kúnlerde kórínmiy. Şo arada, azbarîñ íşíndekí sesler karîştî, kabarîştî, tanîgan sesler men yabanğî sesler bírleşíp, sankem Sarîgóllí Kavlamet akay keldí dep túşúndí Şeripe. Ekewí bír yaşta bolalar ama Fazîl ondan ekí yaş balaban bolganî úşún o da koğasîñ dogmîşî bolganî úşún, Şeripe ya akay dep ayta ya da Şelebí dep ayta, bolay kóstere o eskíden kalgan húrmetín "akay" yagîna. Bír dakka geşmeden hağíníñ sesí tuyuldî azbarda:
 - Koş keldíñ, Kavlamet, koş keldíñ, sen de Oriye de koş sepa keldíñíz! Ula, bílíp keldíñíz mí? Tuyup mî? Búgún bízde mújde bar, mújde!
 Arabadan kagînîp, sílkíníp túşken ğolşîlarnî hağí Fazîl man Ómer kuşaklap, óbíp, úyge kírsettíler, hayatîñ íşí toldî dawuşka, olarîñ sesleríne merak etken loksa, zor dayana bakîrmadan "men de barman" dep.
 Tuyunganday etíp, kapîdan kírdí Oriye, ğaş kelínşek, kolî man kîzî Hakime'nî kuşaklap Bír ses ústúnde bakîrdî, loksanî kuşaklap ánaw bír kolî man, óptí, balaşîknî aşîp, sîypalap:
