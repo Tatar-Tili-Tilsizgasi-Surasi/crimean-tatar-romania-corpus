@@ -615,4 +615,179 @@ Bek zengín bayga barsîn!"
 Bo sózlerní aytîp kaderín ayîrgansoñ, ebanay tuzlî suw man bebiyní ğuwdî, o bebiyde bek bír sabîrlî bolîp turdî suwnî mî súyeğek yoksa sabîr taşnî mî ozağak, diye bílírsíñ karap turuşta!
 Sarîp biyaz tokîma kundakka, "Ellam"-nî okîp, nazar tiymesín dep tukurup, mañnayîna belge yasap, saldî balaşîknî abiysíñ ósken beşígíne. Sîypalap-sîypalap surtken soñ onî, tuzlangan tokîma testímalnî ğuwdî ebanay, şaykadî, turmadan duwalar aytîp, "ğay şonî, kurugawuysun" dep te, uzattî Munire'ge. Şalt apakay, hem de şaltlîgî bolmasa, ebanaylîgî da bolmaz edí, taa?
 (dewamî keleğekke)
+# Bír hayliyden soñ bízge aşamaga 
+kurma, sút, ótmek we suw berdíler. 
+Yorgînlîk we góñíl raátsízlíkten sebep aşka 
+ragbet bolmadî. Lákin dewelerímíz vakaadan 
+memnun edíler. Çúnkí, toktamadan 
+şaynanîp ğata edíler.
+Keşe Malikeden kaber keldí. At 
+patlatîp kelgen asker kîz Malikesíñ emrín 
+biñbaşî kart kadînga bírliy-bírliy ayttî. Bo 
+ulkanîñ tílínde bek kóp lúgat-î Arabiy we 
+kelimeler bolganîndan bír dereğege kadar 
+sózlerí añlaşîla edí.
+Bízní raát etíp sabaga kadar dîkkat 
+man karawullap saba erte alîp kelmek emrí 
+keldí. Refiklerím Fransîzlarga bo kaberní 
+biyan etkenímde bír-bíríne karaştîlar. Lákin 
+topşî Martin kóp kaygîrmak bílmegenínden 
+látifege tutundî:
+- Sanetermen efendíler, hálímíz bek 
+yaman tuwuldur. Malike bízní 
+húrmetliyğektír. Ertege kórúşsek betí kara 
+Malike bízní begeneğektír... Begense ziyan 
+etmez ya!
+- Ziyan etíp n'íşliyğek edí, dedí Jan. 
+Bonlar insan aşagan wahşiyler tuwul. Lákin 
+Malike degeníñíz kara ğanavar sení 
+topşîlîgîña ya da múritlígíñe húrmet 
+eteğeklerden tuwuldur. Anğak bízler húsn-iy 
+ğemal bír kadînga etken húrmetímízden bír 
+húrmet kóstereğektír. Bízler de kadînlarnî 
+akîlîndan, ílímínden ziyade ğemalîn 
+kîdîrganîmîzday bízím ğemalîmîzga kóre 
+húrmet etíleğektír. Balaban iftiharlî 
+húrmet... Látife máálí tuwul arkadaşlar. 
+Hálímízden múzakere etíp şáremízní fikir, başîmîznî kurtarmaga ğol karayîk. Jan'îñ 
+hakkî bar. Hálímízden bahsetsek taa yakşî 
+bolîr, dedí múhendis Mark. Bo ğoldaş korkî 
+we havf ne bolganîn bílmegen bír ğesur 
+bolganîndan sózní unutup múşaverege 
+tutunduk.
+Abdulla Dariy'ní şakîrîp bo karíp 
+ulkadan ótírí bazî malúmat ístedím. Bonîñ 
+degeníne kóre elge túşken esír erlerín bo 
+kadînlar heş azat etmeden haremge alîp 
+súygúlí ete ekenler. Boga yaramaganlarnî 
+íşçí, aşçî we şalgîğî ete ekenler. Haremge 
+súygúlí alîngan erlerní mahsus beslep, 
+ğúyrúk ğaratîr gibí ğaratîp kullanmak ádet-iy 
+mekruhelerí eken!
+Ama bo usulga erler kóp çîdamay az 
+zamanda telef bola eken. Maldar kadînlar we 
+memureler haremde úş-beş súygúlí 
+tutkanlarîndan elge túşen esírlerní heş gerí 
+kaytarmaylar. Çúnkí kerek bolalar. Abdulla 
+Dariy'níñ zannîna kóre bízlerní kara Malike 
+óz haremíne alağagî memul eken. Yetíşmesín 
+almaga! Bízler gibí biyaz we húsn-iy ğemal 
+súygúlúsí yok eken. Korkmañîz, sízlerní 
+kafeste kuş gibí tutar we ileríde belkí 
+kurtulmaga Kuday bír şáre berír.
+- Bízler bonday bolsak seníñ óz hálíñ 
+ne bolîr? dedím.
+- Men kart kíşí, hem mínda zenğiy 
+erler az tuwuldur. Maga kîzmetşílík nasip 
+bolağagîna şúphe yoktîr. Hem sanetermen 
+sízlerge kîzmetşí hem terğúman bolîrman; 
+Çúnkí Malike hazretlerí ğúmleñíz men 
+sózleşme, ğilvelenme íster... Tíl bílmiysíñíz.
+Bo ifadelerní Fransîzlarga biyan 
+etkenímde ğúmlesí hálímízin múşkil 
+bolganîna kaniy bolîp mazlum we mahzun 
+boldîlar.
+- Parij we Dagîstan man yemín 
+etermen bo Abdulla Dariy bízní satkandîr... 
+Kum boranîndan istifade etíp bízlerní bo 
+ulkaga túşúrdí, ama sabîr kîl itoglî, bír kún 
+ğewap berírsíñ... dep Martin hayliy aytkanî 
+hálde tabip Jan dedí:
+- Tur birader, ğewap almaga taa wakît 
+kóp kóríne. Başîmîznî kurtarmak úşún elden 
+ne keleğek şonî múzakere etiyík.
+Hayliy múşavereden soñ kararîmîz şo 
+boldî ke ara-sîra ózíne tuydurmadan Abdulla 
+Dariy'den we gayrîlardan bo ğiwarîñ ğollarîn 
+úyrenmelí. Múmkún hile we şáreler men bír 
+bírímízden ayrîlmamaga we eşiyalarnî 
+bermemege kayret etmelí. Çúnkí Martin'iñ 
+tedarik etken silagî, tabibíñ eğzalarî we 
+darularî we Mark'îñ alet-iy núğúmiyelerí 
+kurtulmamîzga bayis bolağak şiylerdendír. 
+Bo şiyler elde kalmasa hálímíz karaptîr. 
+Ileríde ne hálde bolağagîmîz malúm 
+bolmaganîndan múşaverede ka-típ 
+turağagîmîz bílíngen soñ tamam múşavere 
+we húkmeteğek boldîk.
+Saba kún tuwmaz burun bútún 
+kerwanîmîz karawul man ğolga şîgîp 
+Malikeníñ mekáanîna yollandîk. Ğolîmîz 
+bazî kurmalîktan, bazî aşîk togaylîktan geşe 
+edí. Rast kelgen íşçíler we çobanlar hep 
+kadîn kîz edí, er kíşí kórínmiy edí. Bízím 
+kadînlar gibí bo ulkanîñ erlerí ğurttan, 
+haneden şîkmaganlarî zahir edí. Bír ekí er 
+kíşí rast kelgen bolsa da betlerí mestur 
+demek órtílí bolîp etrafka hafiyen kóz ata 
+edíler. Bízím kadînlar ózlerín kóstermiy gízlí 
+karaganlarî gibí bo karíp ulkasîñ erlerí dahiy 
+betlerín kóstermeden bet perdesí şetínden 
+dúniyanî siyrete edíler... Ağaba bízlerge 
+dahiy ğaşmak man perde ihsan etíleğek mí?
+Rast kelgen kómír gibí kap-kara kadîn 
+kîzlar bízlerge edepsízğe kóz salganlarîndan 
+karawullar bonlarnî súngí agaşî ya kamşî 
+man edepke dawet ete edíler. Bízím 
+taraflarda edepsíz bír adam, kadîn-kîz 
+kórgende ka-típ karasa bo kara şaytanlar da 
+bízge bonday etíp karay edíler.
+- Bo neday ulka, kayday ádetler bo, ya 
+Abdulla? dedím. Dórt kitapta bolmagan 
+maada Buda we Konfuçiy mezhebínde dahiy 
+bonday bidat ádetler yoktîr. Bonlarnî ka-típ 
+kîrîp pítírmedíler. Ka-típ imanga 
+ketírmedíler?
+- Ey Seyit, bo memleket kum deriyasîñ 
+eñ şet, eñ amansîz we álem-iy insaniyden bek 
+uzak tabîla. Bondan kóp adamîñ kaberí 
+bírem yoktîr. Bír de rivayet bola, eñ balaban 
+ğinler we periyler bonlarnî himaye we 
+muhafaza ete ekenler. Boga kóre bo ğiwarda 
+tabîlgan bedeviyler ulkaga yakîn bírem 
+kelmiyler. Kadînlar da ulkalarîndan şîgîp 
+uzakka ketmiy. Eñ balaban íşlerí ğol ğoyîp 
+adaşkan kerwanlarnî tutup esír eterler. 
+Bírewúñ kaberí bolmaz. Kumda telef boldîlar 
+sanetílír... tarifín Abdulla'dan añladîm.
+Bír sáát yarîm ğol ğúrúp búyúk bír 
+togaylîkka şîktîk. Kúneş ziyasînda gúmúş 
+gibí parlak ufak bír suw geştík. Aldda şeher 
+mí, karye mí, ne bolsa da binalar kóríndí. 
+Yetíşkende kórdík ke terek we şîbîktan órme 
+we balçıîk man sîlanîp agarîlgan we ústlerí 
+kamîş ya kurma dallarî man órtílíp yapîlgan 
+bír we ekí kat ğurtlar we haneler eken. Gayrî 
+bír túrlí bina letafet we intizam 
+kórílmegenínden ulka sanayiy we húnerden 
+bi-behre bolgan binalarîndan we 
+otîrîşlarîndan istihraç ettík. Kayday bolsa 
+Kadînlar Ulkasî'ñ Malikesí ikamet etken 
+mahal bolîp atî "Badbur?" óz tílllerínğe 
+"Malike Hanesí" demek eken.
+Badbur'uñ íşíne kírgenímízde şaytan 
+gibí kap-kara we ekser şîpalak ehalisí bízní 
+temaşa etíp haneleríñ kapî-penğere 
+makamînda bolgan teşíklerínden karap tura 
+edíler. Ileríde bír yerden de tabl we bakîr 
+taslarîñ dawuşî-seslerí şîga başladî. Malike 
+dayiresíñ muzikasî, şalgîsî eken ya bízlere 
+selamlîk, ya Malike'ge hoşlîk úşún tabl we 
+tas kakkanlarî ístihraç etíldí. Bo 
+bedbahtlarîñ da resm-iy saltanat ádetlerí bar 
+eken, yetíşmesínler etmege.
+Kerwanîmîznî çit terek azbarga 
+kírgízdíler. Bo azbarîñ íşínde bír ekí bab, ekí 
+kat haneler we çoban şalaşî gibí bír niğe 
+binalar taa bar edí. Binalar aldînda bír 
+súrúw silaklî şáşlerí kuş kanatlarî man 
+ziynetlengen kadînlar we ekí tarafta silaklî 
+asker kîzlar bar edí. Etrafka kóz taşlaganda 
+kórdík ke azbarîñ herbír kazîgîna dewe, 
+sîyîr, koy, insan başlarî geşíríp salganlar. 
+Ziynet-iy letafet we saltanat eken.
+Her hálde Malikeniñ sarayînda, 
+mekáanînda edík. Bakalîm kara gúzelden ne 
+muwamele bolağak.
+(dewamî keleğekke)
 `;
