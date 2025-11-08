@@ -187,4 +187,269 @@ Kanada gibi dúniyanîn bírkóp ulkasînda
 sergílengen edí.
 Evelina Iliyas (Evelina Ilyasova) - Osman Bayramaliy 
 (Osman Bayramaliyev)
+# Eşmîrza Oysullî
+Eşmîrza kart 1803 senesí Kerç rayonîñ Oysul kóyínde, 
+pîkare korantasînda tuwa. Fakîr ómír geşírgen bo istidatlî 
+keday kóy-kóyden ğúrúp, ózí uydurgan ğîrlarnî ğîrlay. Onîñ 
+ğîrlarî çarlîkka, eziyetke karşî dogrîltîlgandîr.
+Eşmîrzanîñ iğadî yazuwlî tuwul da, awuzdan-awuzga 
+awuşuw netiğesínde kalk arasînda keñíş darkagandîr. Onîñ 
+yîrlarî Kîrîmnîñ şól taraflarînda we Kerç adasînda yaşagan 
+Kîrîm Tatarlar arasînda saklanîp kaldîlar.
+Eşmîrza kartnîñ kózí kórmiy edí. Onî elínden ğetep 
+ğúrgenler. Onday aliyğenap insanlardan bírsí Kîrîmnîñ 
+Argîmak-Elí kóyínden Kulmambet Bekmambet bolîp, soñîndan 
+onîñ ózí de bellí folklorğî, masal aytuwğî bolîp yetíştí. Eşmîrza 
+kartnîñ ekseriy şiirlerí onîñ awuzundan yazîlîp alîngandîr.
+Ğenkten ewel Eşmîrza kedaynîñ yaratîğîlîgî man A.S. 
+Puşkin atîna Kîrîm Tatar tílí we edebiyatî ilmiy-tedkikat 
+institutî ograştî. 1940 senesí institut folklorğî Bakî Gaziyevníñ 
+"Kalk şayirí Eşmîrza" atlî kitabîn neşir ettí. Bo kitapka Eşmîrza 
+kart hakkînda makaleler men barabar, kedaynîñ şiirlerínden de 
+kírsetíldí.
+Hiğrette neşir etílgen "Edebiyat krestomasiyasî" 
+(Taşkent, 1971) kitabîna Eşmîrza kartnîñ "Soldatlîk hakkînda" 
+serlevalî şiirí kírsetíldí.
+Eşmîrza kart 1883 senesí vefat etken.
+
+Oñma-pítme, Karaşay, 
+kóp yaşama sen, múftí!
+ 
+Kîrîmnîñ başî kóp tuwul
+Bolsa-bolsa beş mîrza.
+Bútún Kîrîm atîndan
+Olar şegerler imza.
+Kîrîmnîñ başî múftí 
+bolsa,
+Úş ğewap man kayîrdî.
+Oñmasîn da pítmesín,
+Tíríliy bízní ayîrdî.
+Eskadron úçún el koyîp,
+Bírer medal taktîñîz.
+Efendíler, azdîñîz,
+Kîrîmnîñ ğanîn ğaktîñîz.
+Ne aytmaga bílmiymen,
+Uluñ, kîzîñ alsînlar.
+Patşa bergen medalnî
+Kabíríñe salsînlar.
+Ğennetten dama isteme,
+Ğehennem úşún ázír bol.
+Kalknîñ ğanîn ğaktîñîz,
+Ğewabîna ázír bol.
+Ğamíge barsa yalan man,
+Şo yalan man kaytağak.
+Ólewuysa bo hînzîr,
+Kabrínde ne aytağak?
+Horladîñîz síz bízní,
+Oñmay-ósmiy kalîñîz.
+Şo medalnîñ ústúne
+Şápke de tílep alîñîz.
+Şápkení kíyseñ başîña
+Muratîña ğetersíñ.
+Kalknîñ hakkîn aşadîñ,
+Endí ka-típ ódersíñ?
+Şewre-çetí – gúl-bakşa,
+Limonîn alîp kokladîñ.
+Oñma-pítme, Karaşay,
+Ortalîknî bokladîñ!
+Oñma-bitme, Karaşay,
+Kóp yaşama sen, múftí!
+Yígírím bírde ğaşlarîmîz,
+Sízden sebep yer óptí.
+Ber pîştawnî kolîna,
+Ğesaret etíp at-almaz.
+Kayda barsa, o hînzîr
+Gúnasîndan ğat-almaz.
+Karaşaynî Alibey
+Arabadan túşúrttí.
+Traktirníñ íşínde
+Kótek bírem píşírttí.
+Alibeyníñ torînî
+Bastî-sóktí kózíne.
+İygí tokat wurdular
+Karaşaynîñ ózíne.
+Traktirníñ íşínde,
+Çay işkende tutuldî.
+Nasibí bar, Karaşay
+Ólmiy-ğetmiy kurtuldî.
+Haram emşek emízgen,
+Karaşaynîñ anasî.
+Alí beyim saw bolsîn
+O - Kîrîmnîñ babasî!
+Sabîr etsín Karaşay,
+Aççalmanday atlatîr.
+Ekí kózín Alibey,
+Ğumurduk man patlatîr.
+Delíğan man zewk súrúp,
+Sen dúnyada ne kórdíñ?
+Pîkarege, óksízge
+Kayîr etíp ne berdíñ?
+Gúbernator, Karaşay,
+Ekísí de bír dinde.
+Grafdayîn bír "baba"
+Kerek eken bo kúnde.
+Şo divannîñ kapîsî
+Keşe-kúndúz aşîlmay.
+Grafdayîn bír "baba"
+Bo Kîrîmga "tabîlmay".
+Graftan kalgan bír ul bar,
+O da ğaşlîk eteğek.
+O general bolganşîk,
+Basîmîzga ğeteğek.
+Eşmîrza dep añsañîz,
+Kardaşîm dep sayarman.
+Bo yîrlarnî tîñlañîz,
+Gúbernaga ğayarman.
+Bo Kîrîmnîñ babasî
+Men bellesem, beş mîrza.
+Bo yîrlarnî şîkargan,
+Oysullî sokîr Eşmîrza.
+ 
+Bo Kîrîmda kíşí yok, 
+soldatlîkka keteğek
+ 
+Bo Kîrîmda kíşí yok,
+Soldatlîkka keteğek.
+Alagaşnî kórdíñ mí?
+Başîmîzga ğeteğek.
+Sóz aytmaga bolmaysîñ,
+Kóz aldîñda daragaş.
+Boldî endí bolağak,
+Otka ğansîn alagaş.
+Ğolga şîksam, toñaman,
+Ayagîm-kolîm ğalañgaş.
+Harap ettí Kîrîmnî,
+Otka ğansîn alagaş.
+Ğanîm, anam, karasî,
+Onbaşî neşín bakîra?
+Golova ğúre úy-saytîn
+Pyankege şakîra.
+Takatîm kettí belímden,
+Úyúm nasîl hakklayîm?
+Ğanîm, balam, ketíñíz,
+Endí ka-típ saklayîm?
+Íşíme sîygan ballarîm,
+Dúnyaga sîymadî.
+Asker ketmiy ğîladî,
+Kózyaşlarîn tîymadî.
+Azbardan şîksa şîbîrşîp,
+Óríşke sîymay mallarî.
+Kîzîl bilet kolînda –
+Salte baynîñ ballarî.
+Ayakka etík tíktíler,
+Bogîrdagîn tar etíp.
+Soldat aldî padíşa,
+Anaylarnî zar etíp.
+Árúw Kîrîm ğaşlarî
+Sîktîrmaşnî kíy-almay.
+"Vstavay, soldat" degende,
+Kózyaşlarîn tîy-almay.
+Kazarmanîñ kapîsîn
+Aylana da ğúremíz.
+Kazanînda kaynagan,
+Domîz etín kóremíz.
+Kóp ğalbardîk bayarga,
+Slága bízní ğíbermiy.
+Ne rastkelse aşaymîz,
+O da bízge elvermiy.
+Ğañî ay tuwar ğaltîrap,
+Taleke kelír şaltîrap.
+Zabitlerníñ aldînda
+Bíz turamîz kaltîrap.
+ 
+Ğanîm, balam, ketíñíz, 
+soldat bolîp kalmañîz
+ 
+Ğoldan altîn tapsañ,
+Egílíp sakîn almañîz.
+Ğanîm, balam, ketíñíz,
+Soldat bolîp kalmañîz.
+Şamdan çîkar alağa,
+Tarak bilen tokuñîz.
+Çaresiní tapsañîz,
+Ğanîm, balam, okîñîz.
+Sízler ğawga dúşmansîz,
+Elge heş bermeñíz.
+Boş-boşîna síz, ballar,
+Ayak kagîp ğúrmeñíz.
+Suwî şerbet Kîrîmnîñ,
+Topragî onîñ altîndan.
+Mením ğanîm alînsîn
+Anayîmnîñ aldîndan.
+Kîrîm degen iygí yer,
+Kaytîp kene kórgeydík.
+Anam, babam úşúmúz
+Bíz bír yerde ólgeydík.
+Rumelí degen "iygí yer",
+Sîñîrdaşî Dayîrdîr.
+Kaytîñîz, balam, Kîrîmga,
+Inşalla, soñî kayîrdîr.
+At talimí bek kîyîn,
+Eğel kaza başîma.
+Ne yapayîm, yazîlgan
+Kara yazî başîma.
+Ólewuysak, bo yerde
+Mezarîmîz ğabîlmaz.
+Artîmdan ğîlay kalmaga,
+Kardaşlarîm tabîlmaz.
+Gúbernator, Karaşay –
+Ekisí de bír dinde.
+Olar da bízní kîynadîlar,
+Bonday awur bír kúnde.
+ 
+Hálímízní sorasañ, 
+kayîrga kaldî kúnúmúz
+ 
+Bo Rusiye kúnúnde
+Tek saklandî dínímíz.
+Hálímízní sorasañ,
+Kayîrga kaldî kúnúmúz.
+Ayagîm-kolîm ğalañgaç,
+Ğolga şîksam, toñaman.
+Eşím-dostîm kórgende,
+Bír laf etíp oñaman.
+Temíz kîlabdan bolmasa,
+Kapik bersem kaytanga.
+Hakkikiy tarih bîzîla,
+Uydurula şaytanga.
+Sadaka, kayîr heş yok,
+Zor fakîrnîñ hállerí.
+Kúflense de, anbarga
+Sîymay ğatkan mallarî.
+Yaltadan mínseñ poştaga,
+Peterburgga ğetersíñ.
+Murat etseñ, padíşa,
+Ne bolsa da etersíñ.
+Bo fîrînnîñ íşínde
+Bízím aşlar píşe mí?
+Kîrîmnîñ kalkîn aglatmak,
+Şanîñîzga túşe mí!?
+Dúnya-dúnya bolmadî,
+Yawm-beter kún-kúnden.
+Bo Kîrîm bek nasipsíz,
+Ílíşíp tura bír kîl man.
+Imperator babañîz,
+Kîrîmnî nasîl túzettí?
+Alganî man kolîna,
+Ğamílerní túzettí.
+Túrlí yakşî şiylerden,
+Bízler urba kíymedík.
+Bútún ómír boyînğa,
+Kún ğarîgî kórmedík.
+Eger ketsek Kîrîmdan,
+Bír taleke ğegermíz.
+Ólewuysak ka-termíz?
+Bíz hasretlík şegermíz.
+Suwî şerbet Kîrîmnîñ,
+Topragî da altîndan.
+Kímí ğurttan ayrîldî,
+Kímí ewlat, kadîndan.
+Ólewuysak bo yerde,
+Ne bolîr bízím hálímíz?
+Ústúmúzge ot píter,
+Ğoytîlîr bízím kabrímíz.
+Azî kettí Kîrîmnîñ,
+Azizler míndan awuşur.
+Ólmegen kul, inşalla,
+Hasretíne kawuşur.
 `;
