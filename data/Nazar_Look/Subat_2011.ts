@@ -615,7 +615,14 @@ Bek zengín bayga barsîn!"
 Bo sózlerní aytîp kaderín ayîrgansoñ, ebanay tuzlî suw man bebiyní ğuwdî, o bebiyde bek bír sabîrlî bolîp turdî suwnî mî súyeğek yoksa sabîr taşnî mî ozağak, diye bílírsíñ karap turuşta!
 Sarîp biyaz tokîma kundakka, "Ellam"-nî okîp, nazar tiymesín dep tukurup, mañnayîna belge yasap, saldî balaşîknî abiysíñ ósken beşígíne. Sîypalap-sîypalap surtken soñ onî, tuzlangan tokîma testímalnî ğuwdî ebanay, şaykadî, turmadan duwalar aytîp, "ğay şonî, kurugawuysun" dep te, uzattî Munire'ge. Şalt apakay, hem de şaltlîgî bolmasa, ebanaylîgî da bolmaz edí, taa?
 (dewamî keleğekke)
-# Bír hayliyden soñ bízge aşamaga 
+# Kadînlar Ulkasî-Molla 
+Abbas Franseviy (II)
+Ismail Gaspîralî (Ismail Gasprinskiy)
+[ 2 ]
+21 Awustos 1890 / 18 
+Muharrem 1308, Sayî: 29, 
+s. 1-2
+Bír hayliyden soñ bízge aşamaga 
 kurma, sút, ótmek we suw berdíler. 
 Yorgînlîk we góñíl raátsízlíkten sebep aşka 
 ragbet bolmadî. Lákin dewelerímíz vakaadan 
