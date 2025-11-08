@@ -1,3 +1,4 @@
+
 import { CorpusEntry } from '../types';
 import { dictionaryRawText } from '../data/dictionary';
 import { mikayilEmineskuwEntries } from '../data/Mikayil_Emineskuw';
@@ -20,6 +21,7 @@ import { abdullahTukayEntries } from '../data/Abdullah_Tukay';
 import { abdulhalikUygurEntries } from '../data/Abdulhalik_Uygur';
 import { arthurRimbaudEntries } from '../data/Arthur_Rimbaud';
 import { paulVerlaineEntries } from '../data/Paul_Verlaine';
+import { nazarLookEntries } from '../data/Nazar_Look';
 
 let idCounter = 0;
 
@@ -312,6 +314,7 @@ const abdullahTukayData = createEntriesFromString(abdullahTukayEntries, 'Abdulla
 const abdulhalikUygurData = createEntriesFromString(abdulhalikUygurEntries, 'Abdulhalik Uygur');
 const arthurRimbaudData = createEntriesFromString(arthurRimbaudEntries, 'Arthur Rimbaud');
 const paulVerlaineData = createEntriesFromString(paulVerlaineEntries, 'Paul Verlaine');
+const nazarLookData = createEntriesFromString(nazarLookEntries, 'Nazar Look');
 
 
 export const corpus: CorpusEntry[] = [
@@ -322,9 +325,10 @@ export const corpus: CorpusEntry[] = [
   ...mikayilData,
   ...tanerFiatJustitiaData,
   ...tanerOtkenData,
-  ...tanerWebsiteData,
   ...tanerPeruzeliData,
+  ...tanerWebsiteData,
   ...tanerSoundsData,
+  ...nazarLookData,
   ...schillerData,
   ...baudelaireData,
   ...ademMiskiyebicData,
