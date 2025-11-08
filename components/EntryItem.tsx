@@ -14,25 +14,32 @@ const MAX_LINES = 2000;
 const MAX_CHARS = 1000000; // ~1MB of text
 
 const needsTruncation = (text: string) => {
-  return text.length > MAX_CHARS || text.split('\n').length > MAX_LINES;
+  // Check char length first to avoid expensive split on massive strings
+  if (text.length > MAX_CHARS) return true;
+  return text.split('\n').length > MAX_LINES;
 };
 
 const truncateText = (text: string) => {
-  const lines = text.split('\n');
-  // Truncate by lines first if it has many lines
-  if (lines.length > MAX_LINES) {
-    return lines.slice(0, MAX_LINES).join('\n') + '\n...';
-  }
-  // Otherwise, truncate by character count if it's a very long single block
+  // Optimized to check raw length first before attempting to split into lines.
+  // This prevents out-of-memory issues in the browser when handling extremely large entries.
+  
   if (text.length > MAX_CHARS) {
-    return text.slice(0, MAX_CHARS) + '...';
+    return text.slice(0, MAX_CHARS) + '...\n(Truncated due to extreme length)';
   }
+
+  const lines = text.split('\n');
+  if (lines.length > MAX_LINES) {
+    return lines.slice(0, MAX_LINES).join('\n') + '\n...(Truncated, click to show more)';
+  }
+  
   return text;
 };
 
 const EntryItem: React.FC<EntryItemProps> = ({ entry, showTranslations, showSources }) => {
   const [isExpanded, setIsExpanded] = useState(false);
 
+  // We only need to calculate this once per render, and only if it might be needed.
+  // Using simple booleans here for performance instead of complex memoization unless profiling shows otherwise.
   const isTextLong = needsTruncation(entry.text);
   const isTranslationLong = showTranslations && entry.translation && needsTruncation(entry.translation);
 
