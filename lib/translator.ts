@@ -5,19 +5,19 @@ import { CorpusEntry } from '../types';
 // Used to analyze CT input and provide rough translations + grammatical notes.
 const SUFFIXES: { [key: string]: string } = {
     'lar': ' [plural]', 'ler': ' [plural]',
-    'nıñ': ' [gen]', 'niñ': ' [gen]', 'nuñ': ' [gen]', 'nüñ': ' [gen]',
-    'ga': ' [dat]', 'ge': ' [dat]', 'ka': ' [dat]', 'ke': ' [dat]', 'ğa': ' [dat]', 'ğe': ' [dat]',
+    'nîñ': ' [gen]', 'níñ': ' [gen]', 'nuñ': ' [gen]', 'núñ': ' [gen]',
+    'ga': ' [dat]', 'ge': ' [dat]', 'ka': ' [dat]', 'ke': ' [dat]',
     'da': ' [loc]', 'de': ' [loc]', 'ta': ' [loc]', 'te': ' [loc]',
     'dan': ' [abl]', 'den': ' [abl]', 'tan': ' [abl]', 'ten': ' [abl]',
-    'nı': ' [acc]', 'ni': ' [acc]', 'nu': ' [acc]', 'nü': ' [acc]',
+    'nî': ' [acc]', 'ní': ' [acc]',
     // Possessive (simplified)
-    'ım': ' [my]', 'im': ' [my]', 'um': ' [my]', 'üm': ' [my]',
-    'ıñ': ' [your]', 'iñ': ' [your]', 'uñ': ' [your]', 'üñ': ' [your]',
-    'sı': ' [its]', 'si': ' [its]', 'su': ' [its]', 'sü': ' [its]',
+    'îm': ' [my]', 'ím': ' [my]', 'um': ' [my]', 'úm': ' [my]',
+    'îñ': ' [your]', 'íñ': ' [your]', 'uñ': ' [your]', 'úñ': ' [your]',
+    'sî': ' [its]', 'sí': ' [its]', 'su': ' [its]', 'sú': ' [its]',
     // Copula / "to be"
     'man': ' [I am]', 'men': ' [I am]',
-    'sıñ': ' [you are]', 'siñ': ' [you are]',
-    'dır': ' [is]', 'dir': ' [is]', 'tır': ' [is]', 'tir': ' [is]'
+    'sîñ': ' [you are]', 'síñ': ' [you are]',
+    'dîr': ' [is]', 'dír': ' [is]', 'tîr': ' [is]', 'tír': ' [is]'
 };
 
 // Reverse sort suffixes by length to match longest first
@@ -38,7 +38,7 @@ const normalize = (s: string) => {
         // Normalize T-comma to T-cedilla if it appears, for consistency
         .replace(/ț/g, 'ţ').replace(/Ț/g, 'ţ')
         // Normalize â to î as corpus tends to prefer î
-        .replace(/â/g, 'î').replace(/Â/g, 'Î')
+        .replace(/Â/g, 'Î').replace(/â/g, 'î')
         // Strip common punctuation that might still be attached after splitting
         .replace(PUNCTUATION_REGEX, '')
         .trim();
@@ -78,8 +78,9 @@ export const buildIndex = (entries: CorpusEntry[]): Index => {
                 // Remove parenthetical info
                 .replace(/\(.*?\)/g, ' ');
             
-             // Split Romanian/Other definitions by common delimiters (semicolon, comma, slash)
-             const parts = cleanTranslation.split(/[;,/]/).map(s => s.trim()).filter(s => s.length > 0);
+             // Split Romanian/Other definitions by common delimiters (semicolon, comma, slash, AND PERIOD)
+             // Adding period '.' to delimiters ensures words at the end of a definition (e.g., "tradiţie.") are correctly indexed without the dot.
+             const parts = cleanTranslation.split(/[;,/.]/).map(s => s.trim()).filter(s => s.length > 0);
              parts.forEach(part => {
                  addToIndex(otherToCt, part, entry.text);
              });
