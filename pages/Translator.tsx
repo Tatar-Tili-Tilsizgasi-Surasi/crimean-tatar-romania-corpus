@@ -1,4 +1,3 @@
-
 import React, { useState, useMemo } from 'react';
 import { CorpusEntry } from '../types';
 import { buildIndex, translateText, Index } from '../lib/translator';
@@ -75,7 +74,7 @@ const Translator: React.FC<TranslatorProps> = ({ entries, onNavigate }) => {
 
       <div className="flex flex-col gap-4">
         <div className="flex items-center justify-between flex-wrap gap-2">
-            <div className="flex items-center gap-2">
+            <div className="flex items-center gap-2 flex-wrap">
                 <button 
                     onClick={toggleMode}
                     className="flex items-center gap-2 text-sm font-medium text-slate-600 bg-slate-100 px-3 py-1.5 rounded-md hover:bg-slate-200 transition-colors"
@@ -112,15 +111,16 @@ const Translator: React.FC<TranslatorProps> = ({ entries, onNavigate }) => {
                 )}
             </div>
 
-            <div className="flex flex-col">
+            <div className="flex flex-col gap-4">
                 <div className="flex-grow min-h-[200px] p-4 bg-cyan-50 border border-cyan-100 rounded-lg text-lg text-slate-800 whitespace-pre-wrap overflow-auto">
-                    {result.translation || <span className="text-slate-400 italic">Translation will appear here...</span>}
+                     <h3 className="text-sm font-semibold text-cyan-800 mb-2 uppercase tracking-wider">Dictionary</h3>
+                    {result.translation || <span className="text-slate-400 italic">Dictionary translation will appear here...</span>}
                 </div>
             </div>
         </div>
 
         <div className="mt-4 text-sm text-slate-500 bg-slate-50 p-3 rounded-md border border-slate-100">
-            <p><strong>Note:</strong> This is a basic dictionary-based translator. It uses the corpus data to find matches and can perform simple analysis of common Crimean Tatar suffixes (like plurals and cases) to aid translation. It is not a full grammatical machine translation engine.</p>
+            <p><strong>Note:</strong> The dictionary translator uses the corpus data and matches words directly.</p>
         </div>
       </div>
     </div>
