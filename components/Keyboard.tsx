@@ -25,7 +25,7 @@ const Keyboard: React.FC<{
                          <button
                             key={char}
                             onClick={() => onKeyPress(char)}
-                            className="flex-1 basis-0 min-w-[32px] h-10 md:h-12 text-lg font-medium bg-white text-slate-800 rounded-md hover:bg-slate-100 active:bg-slate-200 transition-colors focus:outline-none focus:ring-2 focus:ring-cyan-500"
+                            className="flex-1 basis-0 min-w-[28px] sm:min-w-[32px] h-10 md:h-12 text-base sm:text-lg font-medium bg-white text-slate-800 rounded-md hover:bg-slate-100 active:bg-slate-200 transition-colors focus:outline-none focus:ring-2 focus:ring-cyan-500"
                             aria-label={`Insert character ${char}`}
                         >
                             {char}
