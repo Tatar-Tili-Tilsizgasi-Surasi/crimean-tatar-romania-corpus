@@ -28,7 +28,21 @@ export interface Index {
     otherToCt: Map<string, string[]>;
 }
 
-const normalize = (s: string) => s.toLowerCase().replace(/ș/g, 'ş').replace(/ț/g, 't').replace(/[.,!?;()"]/g, '').trim();
+const PUNCTUATION_REGEX = /[.,!?;:()"[\]{}«»“”‘’—–\-/_|●•]/g;
+const SPLIT_REGEX = /([\s.,!?;:()"[\]{}«»“”‘’—–\-/_|●•]+)/;
+
+const normalize = (s: string) => {
+    return s.toLowerCase()
+        // Normalize Romanian variations to match corpus standard (usually cedilla for S, but handle both inputs)
+        .replace(/ș/g, 'ş').replace(/Ș/g, 'ş')
+        // Normalize T-comma to T-cedilla if it appears, for consistency
+        .replace(/ț/g, 'ţ').replace(/Ț/g, 'ţ')
+        // Normalize â to î as corpus tends to prefer î
+        .replace(/â/g, 'î').replace(/Â/g, 'Î')
+        // Strip common punctuation that might still be attached after splitting
+        .replace(PUNCTUATION_REGEX, '')
+        .trim();
+};
 
 export const buildIndex = (entries: CorpusEntry[]): Index => {
     const ctToOther = new Map<string, string[]>();
@@ -55,15 +69,17 @@ export const buildIndex = (entries: CorpusEntry[]): Index => {
 
         // Enhanced indexing for dictionary entries
         if (entry.source.includes('Dictionary')) {
-             // Clean up translation for better reverse keywords
-             // Remove common abbreviation markers and parenthetical notes for keyword indexing
+             // Clean up translation for better reverse keywords.
+             // We replace abbreviations with spaces to avoid merging words when splitting.
              let cleanTranslation = entry.translation
                 .replace(/\b(s\.|adj\.|adv\.|v\.|prep\.|conj\.|interj\.|num\.|art\.|fiziol\.|muz\.|electr\.|fiz\.|antrop\. f\.)/g, ' ')
+                // Remove numbered lists like "1.", "2."
                 .replace(/\b\d+\./g, ' ')
+                // Remove parenthetical info
                 .replace(/\(.*?\)/g, ' ');
             
-             // Split Romanian/Other definitions by common delimiters
-             const parts = cleanTranslation.split(/[;,]/).map(s => s.trim()).filter(s => s.length > 1);
+             // Split Romanian/Other definitions by common delimiters (semicolon, comma, slash)
+             const parts = cleanTranslation.split(/[;,/]/).map(s => s.trim()).filter(s => s.length > 0);
              parts.forEach(part => {
                  addToIndex(otherToCt, part, entry.text);
              });
@@ -75,6 +91,8 @@ export const buildIndex = (entries: CorpusEntry[]): Index => {
 
 const findBestCTMatch = (word: string, index: Index): string | null => {
     const normWord = normalize(word);
+    if (!normWord) return null;
+
     // 1. Exact match
     if (index.ctToOther.has(normWord)) {
         return index.ctToOther.get(normWord)![0];
@@ -84,14 +102,20 @@ const findBestCTMatch = (word: string, index: Index): string | null => {
     for (const suffix of SORTED_SUFFIXES) {
         if (normWord.endsWith(suffix)) {
             const stem = normWord.slice(0, -suffix.length);
+            // Ensure stem has some length to avoid over-stemming short words
+            if (stem.length < 2) continue; 
+
             if (index.ctToOther.has(stem)) {
                 return index.ctToOther.get(stem)![0] + SUFFIXES[suffix];
             }
-             // 3. Stemming (2 levels)
+             // 3. Stemming (2 levels) - e.g. plural + case
              for (const suffix2 of SORTED_SUFFIXES) {
                  if (stem.endsWith(suffix2)) {
                      const stem2 = stem.slice(0, -suffix2.length);
+                     if (stem2.length < 2) continue;
+
                       if (index.ctToOther.has(stem2)) {
+                         // Note: Order of suffixes in output is rough approximation
                          return index.ctToOther.get(stem2)![0] + SUFFIXES[suffix2] + SUFFIXES[suffix];
                      }
                  }
@@ -118,27 +142,38 @@ export const translateText = (text: string, index: Index, forceDirection?: 'toCT
     }
 
     // 2. Auto-detect direction if not forced, based on word hit rate
+    // More robust tokenization for detection: split by any non-word-like char
+    const detectionWords = text.split(SPLIT_REGEX).filter(w => w.trim().length > 0 && !PUNCTUATION_REGEX.test(w));
     let direction = forceDirection;
     if (!direction) {
-        const words = text.split(/\s+/);
         let ctHits = 0;
         let otherHits = 0;
-        words.forEach(w => {
+        
+        detectionWords.forEach(w => {
             if (findBestCTMatch(w, index)) ctHits++;
+            // Simple exact match for reverse, could add basic stemming here too if needed for Romanian
             if (index.otherToCt.has(normalize(w))) otherHits++;
         });
 
-        // Boost CT if special chars present
-        if (/[áçğíîñóşú]/.test(text)) ctHits += 2;
+        // Boost CT if characteristic special chars are present
+        if (/[áçğíîñóşúÁÇĞÍÎÑÓŞÚ]/.test(text)) ctHits += 2;
 
-        direction = ctHits >= otherHits ? 'fromCT' : 'toCT';
+        // Default to 'toCT' (Other -> CT) if no strong signal, as users often try foreign words first.
+        // If hits are equal and > 0, prefer CT (assume they might be testing known words).
+        if (ctHits === 0 && otherHits === 0) {
+             direction = 'toCT'; // Default assumption
+        } else {
+             direction = ctHits >= otherHits ? 'fromCT' : 'toCT';
+        }
     }
 
     // 3. Word-by-word translation
-    // Split by whitespace and common punctuation to preserve structure
-    const words = text.split(/(\s+|[.,!?;"]+)/);
+    // Split while KEEPING delimiters to preserve text structure (spaces, punctuation, newlines)
+    const words = text.split(SPLIT_REGEX);
+    
     const translatedWords = words.map(part => {
-        if (!part.trim() || /^[.,!?;"]+$/.test(part)) return part; 
+        // If it's just delimiters or empty, return as is
+        if (!part.trim() || SPLIT_REGEX.test(part)) return part;
 
         if (direction === 'fromCT') {
             const match = findBestCTMatch(part, index);
@@ -147,6 +182,7 @@ export const translateText = (text: string, index: Index, forceDirection?: 'toCT
             // Simple reverse lookup
             const normPart = normalize(part);
             if (index.otherToCt.has(normPart)) {
+                // If multiple translations exist, just take the first one for now
                 return index.otherToCt.get(normPart)![0];
             }
             return part;
