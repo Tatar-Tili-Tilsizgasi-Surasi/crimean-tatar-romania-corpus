@@ -1,4 +1,4 @@
-import React, { useState, useMemo } from 'react';
+import React, { useState } from 'react';
 import { CorpusEntry } from '../types';
 
 interface EntryItemProps {
@@ -7,16 +7,32 @@ interface EntryItemProps {
   showSources: boolean;
 }
 
+// Thresholds for truncating long entries
+const MAX_LINES = 6;
+const MAX_CHARS = 400;
+
+const needsTruncation = (text: string) => {
+  return text.length > MAX_CHARS || text.split('\n').length > MAX_LINES;
+};
+
+const truncateText = (text: string) => {
+  const lines = text.split('\n');
+  // Truncate by lines first if it has many lines
+  if (lines.length > MAX_LINES) {
+    return lines.slice(0, MAX_LINES).join('\n') + '\n...';
+  }
+  // Otherwise, truncate by character count if it's a very long single block
+  if (text.length > MAX_CHARS) {
+    return text.slice(0, MAX_CHARS) + '...';
+  }
+  return text;
+};
+
 const EntryItem: React.FC<EntryItemProps> = ({ entry, showTranslations, showSources }) => {
   const [isExpanded, setIsExpanded] = useState(false);
 
-  const MAX_LINES = 4;
-
-  const textLines = useMemo(() => entry.text.split('\n'), [entry.text]);
-  const isTextLong = textLines.length > MAX_LINES;
-
-  const translationLines = useMemo(() => entry.translation?.split('\n') ?? [], [entry.translation]);
-  const isTranslationLong = showTranslations && translationLines.length > MAX_LINES;
+  const isTextLong = needsTruncation(entry.text);
+  const isTranslationLong = showTranslations && entry.translation && needsTruncation(entry.translation);
 
   const isExpandable = isTextLong || isTranslationLong;
 
@@ -26,11 +42,11 @@ const EntryItem: React.FC<EntryItemProps> = ({ entry, showTranslations, showSour
   };
 
   const displayedText = isTextLong && !isExpanded
-    ? textLines.slice(0, MAX_LINES).join('\n') + '\n...'
+    ? truncateText(entry.text)
     : entry.text;
 
-  const displayedTranslation = isTranslationLong && !isExpanded
-    ? translationLines.slice(0, MAX_LINES).join('\n') + '\n...'
+  const displayedTranslation = isTranslationLong && !isExpanded && entry.translation
+    ? truncateText(entry.translation)
     : entry.translation;
 
   const handleKeyDown = (e: React.KeyboardEvent) => {
