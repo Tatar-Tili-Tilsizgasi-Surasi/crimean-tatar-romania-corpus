@@ -16,4 +16,4 @@ It's a pleasure to allow everyone to use this data, the main interest is to inte
 **Note**: To integrate this language to the internet, the recommendation is to use the term "Crimean Tatar (Romania)" [crh-RO].
 
 ## Website
-Link: https://crimean-tatar-romania-corpus.netlify.app/
+Link: https://tatar-tili-tilsizgasi-surasi.github.io/crimean-tatar-romania-corpus/
