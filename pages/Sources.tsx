@@ -1,3 +1,4 @@
+
 import React from 'react';
 
 interface SourcesProps {
@@ -17,14 +18,12 @@ const sources = {
     { name: 'Ornithological Dictionary (Taner Murat)', originalLanguage: 'Latin' },
     { name: 'Dictionary (Missing terms added by the community)', originalLanguage: 'Romanian' },
   ],
-  prose: [
+  originalPoetry: [
     'Taner Murat - Fiat Justitia',
     'Taner Murat - Ótken bír şaklayga sewdam',
     'Taner Murat - Perúzelí salînğak',
-    'Taner Murat - Website',
-    'Taner Murat - The Sounds of Tatar Spoken in Romania',
   ],
-  poetry: [
+  translatedPoetry: [
     { author: 'Mikayil Emineskúw', originalLanguage: 'Romanian' },
     { author: 'Friedrich Schiller', originalLanguage: 'German' },
     { author: 'Charles Baudelaire', originalLanguage: 'French' },
@@ -36,6 +35,11 @@ const sources = {
     { author: 'Ram Krishna Singh', originalLanguage: 'English', works: ['Ram Krishna Singh - Kovid-19 hem sessízlík tolkînî', 'Ram Krishna Singh - Men Isa tuwulman'] },
     { author: 'Abdullah Tukay', originalLanguage: 'Kazan Tatar' },
     { author: 'Abdulhalik Uygur', originalLanguage: 'Uyghur' },
+  ],
+  other: [
+      { name: 'Taner Murat - Website', description: 'Texts from the website of Taner Murat' },
+      { name: 'Taner Murat - The Sounds of Tatar Spoken in Romania', description: 'Linguistic book about the language by Taner Murat' },
+      { name: 'Nazar Look', description: 'Magazine in Crimean Tatar Language (regulated by Taner Murat)' }
   ]
 };
 
@@ -56,10 +60,30 @@ const Sources: React.FC<SourcesProps> = ({ onNavigate }) => {
       <div className="prose prose-slate max-w-none text-slate-700 space-y-6">
         
         <div>
+            <h3 className="text-xl font-semibold text-slate-800">Dictionaries</h3>
+            <ul className="list-disc pl-5 space-y-2">
+                {sources.dictionaries.map(dict => (
+                  <li key={dict.name}>
+                    <strong className="font-semibold">{dict.name}</strong> - Original language: {dict.originalLanguage}.
+                  </li>
+                ))}
+            </ul>
+        </div>
+
+        <div>
           <h3 className="text-xl font-semibold text-slate-800">Poetry</h3>
-          <p>All poems in this corpus were translated into Crimean Tatar (Romania) by <strong className="font-semibold">Taner Murat</strong>.</p>
+          
+          <h4 className="text-lg font-semibold text-slate-800 mt-4">Original Works by Taner Murat</h4>
+           <ul className="list-disc pl-5 space-y-1">
+                {sources.originalPoetry.map(p => (
+                <li key={p}>{p}</li>
+                ))}
+            </ul>
+
+          <h4 className="text-lg font-semibold text-slate-800 mt-4">Translations by Taner Murat</h4>
+          <p className="text-sm text-slate-600 mb-2">Poems translated into Crimean Tatar (Romania).</p>
           <ul className="list-disc pl-5 space-y-2">
-            {sources.poetry.map(poem => (
+            {sources.translatedPoetry.map(poem => (
               <li key={poem.author}>
                 <strong className="font-semibold">{poem.author}</strong> - Original language: {poem.originalLanguage}.
                 {poem.works && (
@@ -71,23 +95,14 @@ const Sources: React.FC<SourcesProps> = ({ onNavigate }) => {
             ))}
           </ul>
         </div>
-
-        <div>
-            <h3 className="text-xl font-semibold text-slate-800">Dictionaries</h3>
-            <ul className="list-disc pl-5 space-y-2">
-                {sources.dictionaries.map(dict => (
-                  <li key={dict.name}>
-                    <strong className="font-semibold">{dict.name}</strong> - Original language: {dict.originalLanguage}.
-                  </li>
-                ))}
-            </ul>
-        </div>
         
         <div>
-            <h3 className="text-xl font-semibold text-slate-800">Prose</h3>
-            <ul className="list-disc pl-5 space-y-1">
-                {sources.prose.map(p => (
-                <li key={p}>{p}</li>
+            <h3 className="text-xl font-semibold text-slate-800">Other Texts</h3>
+            <ul className="list-disc pl-5 space-y-2">
+                {sources.other.map(item => (
+                  <li key={item.name}>
+                    <strong className="font-semibold">{item.name}</strong> - {item.description}
+                  </li>
                 ))}
             </ul>
         </div>
