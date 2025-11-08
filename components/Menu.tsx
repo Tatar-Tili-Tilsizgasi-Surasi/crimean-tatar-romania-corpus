@@ -1,6 +1,6 @@
 import React, { useState, useRef, useEffect } from 'react';
 
-type Page = 'corpus' | 'howto' | 'about';
+type Page = 'corpus' | 'howto' | 'about' | 'sources';
 
 interface MenuProps {
   onNavigate: (page: Page) => void;
@@ -65,6 +65,14 @@ const Menu: React.FC<MenuProps> = ({ onNavigate }) => {
             role="menuitem"
           >
             Corpus
+          </a>
+          <a
+            href="#"
+            onClick={(e) => { e.preventDefault(); handleNavigation('sources'); }}
+            className="block px-4 py-2 text-slate-700 hover:bg-slate-100"
+            role="menuitem"
+          >
+            Sources
           </a>
           <a
             href="#"
