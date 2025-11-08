@@ -15,6 +15,7 @@ const App: React.FC = () => {
   const entries: CorpusEntry[] = initialCorpus;
   const [searchQuery, setSearchQuery] = useState('');
   const [showTranslations, setShowTranslations] = useState(true);
+  const [showSources, setShowSources] = useState(true);
   const [selectedCategory, setSelectedCategory] = useState('All');
 
   const categories = useMemo(() => {
@@ -74,13 +75,16 @@ const App: React.FC = () => {
       alert("No entries to export. Try adjusting your search.");
       return;
     }
-    const entriesToExport = showTranslations
-      ? filteredEntries.map(e => ({ text: e.text, translation: e.translation, source: e.source }))
-      : filteredEntries.map(e => ({ text: e.text, source: e.source }));
+    const entriesToExport = filteredEntries.map(e => {
+        const entry: Partial<CorpusEntry> = { text: e.text };
+        if (showTranslations && e.translation) entry.translation = e.translation;
+        if (showSources) entry.source = e.source;
+        return entry;
+    });
 
     const jsonContent = JSON.stringify(entriesToExport, null, 2);
     downloadFile(jsonContent, 'crimean_tatar_corpus.json', 'application/json');
-  }, [filteredEntries, showTranslations]);
+  }, [filteredEntries, showTranslations, showSources]);
 
   const handleExportTxt = useCallback(() => {
     if (filteredEntries.length === 0) {
@@ -88,14 +92,18 @@ const App: React.FC = () => {
       return;
     }
     const txtContent = filteredEntries.map(e => {
-        let entryText = `Source: ${e.source}\n${e.text}`;
+        let entryText = '';
+        if (showSources) {
+            entryText += `Source: ${e.source}\n`;
+        }
+        entryText += e.text;
         if (showTranslations && e.translation) {
             entryText += `\nTranslation: ${e.translation}`;
         }
         return entryText;
     }).join('\n\n---\n\n');
     downloadFile(txtContent, 'crimean_tatar_corpus.txt', 'text/plain');
-  }, [filteredEntries, showTranslations]);
+  }, [filteredEntries, showTranslations, showSources]);
   
   const renderContent = () => {
     switch (currentPage) {
@@ -119,11 +127,18 @@ const App: React.FC = () => {
                         onExportTxt={handleExportTxt}
                         showTranslations={showTranslations}
                         onShowTranslationsChange={setShowTranslations}
+                        showSources={showSources}
+                        onShowSourcesChange={setShowSources}
                         categories={categories}
                         selectedCategory={selectedCategory}
                         onCategoryChange={setSelectedCategory}
                     />
-                    <CorpusList entries={filteredEntries} searchQuery={searchQuery} showTranslations={showTranslations} />
+                    <CorpusList 
+                        entries={filteredEntries} 
+                        searchQuery={searchQuery} 
+                        showTranslations={showTranslations} 
+                        showSources={showSources}
+                    />
                 </div>
             );
     }
