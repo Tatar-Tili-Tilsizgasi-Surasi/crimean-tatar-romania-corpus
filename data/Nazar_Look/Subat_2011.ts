@@ -5,6 +5,29 @@ export const subat2011Entries: string = `
 # Sene — Year
 # Sayî — Issue
 # ŞÎNĞA'NÎÑ túş kórmek SÎRASÎ TANÎLSÎN — LET XINJIANG dream
+# BAŞ KABÎMÎZDA: Hanna Turonek — ON THE COVER: Hanna Turonek
+# MEMBALAR: Aydîn Şemi-zade
+Borasan Ahmet (Borasan Ametov)
+Ioana Grecu, dreamstime.com
+Jon Helgason, dreamstime.com
+Tomasz Swiadczynski
+QHA
+Vasiliy Koval, dreamstime.com
+Zoï Environment Network — CONTRIBUTORS: Aydîn Şemi-zade
+Borasan Ahmet (Borasan Ametov)
+Ioana Grecu, dreamstime.com
+Jon Helgason, dreamstime.com
+Tomasz Swiadczynski
+QHA
+Vasiliy Koval, dreamstime.com
+Zoï Environment Network
+# ÍŞÍNDEKÍLER — CONTENTS
+# Tomrîğa Kîrîm Tatarlarîñ turuş-mamuriyet meğmuwasî — Attitude and culture magazine of Dobrudja’s Crimean Tatars
+# BAŞ-NAŞIR: Taner Murat — FOUNDER & EDITOR-IN-CHIEF: Taner Murat
+# SAYAR SÎZGAĞÎSÎ: Elif Abdul
+Hakaan Kalila (Hakan Calila) — COMPUTER GRAPHICS: Elif Abdul
+Hakaan Kalila (Hakan Calila)
+# ESER KEÑEŞÇÍSÍ: Gúner Akmolla — CREATIVE CONSULTANTS: Gúner Akmolla
 # Mamuriyet kaberlerí
 Ğenevre, 15.01.2011 - Ğenevre 
 Imaginaid Galerisinde 4 şubat 2011'de helwetiyelí 
