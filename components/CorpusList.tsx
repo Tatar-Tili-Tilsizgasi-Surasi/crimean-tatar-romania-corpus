@@ -6,9 +6,10 @@ interface CorpusListProps {
   entries: CorpusEntry[];
   searchQuery: string;
   showTranslations: boolean;
+  showSources: boolean;
 }
 
-const CorpusList: React.FC<CorpusListProps> = ({ entries, searchQuery, showTranslations }) => {
+const CorpusList: React.FC<CorpusListProps> = ({ entries, searchQuery, showTranslations, showSources }) => {
   if (entries.length === 0) {
     return (
       <div className="flex-grow flex items-center justify-center text-center text-slate-400 p-4 sm:p-8">
@@ -31,7 +32,7 @@ const CorpusList: React.FC<CorpusListProps> = ({ entries, searchQuery, showTrans
     <div className="flex-grow overflow-y-auto pr-2 -mr-2">
       <ul className="space-y-3">
         {entries.map((entry) => (
-          <EntryItem key={entry.id} entry={entry} showTranslations={showTranslations} />
+          <EntryItem key={entry.id} entry={entry} showTranslations={showTranslations} showSources={showSources} />
         ))}
       </ul>
     </div>
