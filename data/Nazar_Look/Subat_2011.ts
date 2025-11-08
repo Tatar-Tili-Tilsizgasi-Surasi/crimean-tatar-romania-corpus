@@ -742,7 +742,7 @@ mísapírlerge. Ayaklarîñ uşundan aylanîp
 bakîrîp: 
 - Ğapar, kaydasîn? Kel oynayîk, bebiy 
 bolîp!
-Tínewúngí bulutlar kóterílíp, kalk 
+# Tínewúngí bulutlar kóterílíp, kalk 
 endí ğúrmege başlap, azbarlarînda we 
 komîşîlarînda, kóyge óyle bír ğanlî hawa 
 bermekte ki ğawunuñ sebebínden gerí kalgan 
@@ -834,7 +834,7 @@ arkadan tanîy-almadîk... Akşamga atî
 atalağak, tínewún tuwgan balaga erte-erte 
 bolağak herşiy, árúw ya, erte-ğan bolîp 
 óssín. Ber maga kawení.
-Bo kóyde yaşagan tatarlar, Kîrîm`dan 
+# Bo kóyde yaşagan tatarlar, Kîrîm`dan 
 kóşkende, ádetlerínde eñ kîymetlí eşya bílíp 
 şonlarnî tutkanlar akîllarînda ki "bír adîm 
 deñíştírmeden", sene-sene, nesil-nesil 
