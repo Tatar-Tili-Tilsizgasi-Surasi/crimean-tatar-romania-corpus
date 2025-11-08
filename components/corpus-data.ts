@@ -21,7 +21,8 @@ import { abdullahTukayEntries } from '../data/Abdullah_Tukay';
 import { abdulhalikUygurEntries } from '../data/Abdulhalik_Uygur';
 import { arthurRimbaudEntries } from '../data/Arthur_Rimbaud';
 import { paulVerlaineEntries } from '../data/Paul_Verlaine';
-import { nazarLookEntries } from '../data/Nazar_Look';
+import { osak2011Entries } from '../data/Nazar_Look/Osak_2011';
+import { subat2011Entries } from '../data/Nazar_Look/Subat_2011';
 
 let idCounter = 0;
 
@@ -314,7 +315,8 @@ const abdullahTukayData = createEntriesFromString(abdullahTukayEntries, 'Abdulla
 const abdulhalikUygurData = createEntriesFromString(abdulhalikUygurEntries, 'Abdulhalik Uygur');
 const arthurRimbaudData = createEntriesFromString(arthurRimbaudEntries, 'Arthur Rimbaud');
 const paulVerlaineData = createEntriesFromString(paulVerlaineEntries, 'Paul Verlaine');
-const nazarLookData = createEntriesFromString(nazarLookEntries, 'Nazar Look');
+const osak2011Data = createEntriesFromString(osak2011Entries, 'Nazar Look, Oşak 2011, Sayî 1/1');
+const subat2011Data = createEntriesFromString(subat2011Entries, 'Nazar Look, Şubat 2011, Sayî 2/2');
 
 
 export const corpus: CorpusEntry[] = [
@@ -328,7 +330,8 @@ export const corpus: CorpusEntry[] = [
   ...tanerPeruzeliData,
   ...tanerWebsiteData,
   ...tanerSoundsData,
-  ...nazarLookData,
+  ...osak2011Data,
+  ...subat2011Data,
   ...schillerData,
   ...baudelaireData,
   ...ademMiskiyebicData,
