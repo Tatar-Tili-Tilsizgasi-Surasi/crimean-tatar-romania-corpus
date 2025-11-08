@@ -552,5 +552,47 @@ Sóz manasîna şo wakît ğetersíñ.
 O zaman, Uygur, sózge hakk berersíñ.
  
 1921-Yîl, Turpan
-# Odanîñ tóríndekí patta ğatkan loksa, arada-bír başîn kóteríp kundaklangan balasîna karay, kolîn uzatîp sîypay, "bebiyím, bebiyím" dep. Ğún tóşek astînda, ğún ğórkan ústúnde, sîğak ama hawalî oda, kúnbatarga karay, balaban kapîdan kelgen-ketkenlerní kóstertíp. Aydînlîk, kúneş bol-bol kíreğek, ama ğawunlî kúnlerde kórínmiy. Şo arada, azbarîñ íşíndekí sesler karîştî, kabarîştî, tanîgan sesler men yabanğî sesler bírleşíp, sankem Sarîgóllí Kavlamet akay keldí dep túşúndí Şeripe. Ekewí bír yaşta bolalar ama Fazîl ondan ekí yaş balaban bolganî úşún o da koğasîñ dogmîşî bolganî úşún, Şeripe ya akay dep ayta ya da Şelebí dep ayta, bolay kóstere o eskíden kalgan húrmetín "akay" yagîna. Bír dakka geşmeden hağíníñ sesí tuyuldî azbarda: - Koş keldíñ, Kavlamet, koş keldíñ, sen de Oriye de koş sepa keldíñíz! Ula, bílíp keldíñíz mí? Tuyup mî? Búgún bízde mújde bar, mújde!Arabadan kagînîp, sílkíníp túşken ğolşîlarnî hağí Fazîl man Ómer kuşaklap, óbíp, úyge kírsettíler, hayatîñ íşí toldî dawuşka, olarîñ sesleríne merak etken loksa, zor dayana bakîrmadan "men de barman" dep. Tuyunganday etíp, kapîdan kírdí Oriye, ğaş kelínşek, kolî man kîzî Hakime'nî kuşaklap Bír ses ústúnde bakîrdî, loksanî kuşaklap ánaw bír kolî man, óptí, balaşîknî aşîp, sîypalap: - Şeripe totay, árúwsíñ mí? Ka ne balay, ul mî, kîz mî? O, kîzga uşay, bír de tumalak betí bar! Dep, óbe yuklagan balanî. Şaliy şalî şáşínden taygan, katipe şalî ğerge túşken, ózí sekíre kunagîndan. Şeripe`níñ añlayîşîna kóre o kunak sáde "bebiy" kunagî tuwul: ústúndekí şabuwlî entárí bír zíl kibí belínden ekíge kesúwlî, aşasî klin, astarlî; ğeplerí bar, hem de balaban ğeplerí bar; hîrkasî ğeñlí, moynîndan kapalî túymelerí men; íşíndekí keten kólmek az bír kóríne, yakasî, ğenlerí, oyalî bolganî úşún; aşa betíne kíyílgen uzun donîñ oyasî terakay kóríne. Bonday kibar kíyíngen kelínşeklerge dep şalîngan, her halde: "Şamalağa kaptan parşasî, şal ne kerek, Bíz mínda bolgan sora, kalk ne kerek... "Akaylarîñ yakînda bo odaga kírmiyğekleríñ bílíp, zekiy kózlerí men aktara odanî, ğengesí Şeripe`den lafsîz bílmege ístep neday geşken dogîrmasî, neday şímdíkí hálí, balasî ne, hepísíne bírden merak etíp, ğaşlîgîn sabîrsîzlîgî man... Bolarnî anlaganday bolîp onîñ bakîşlarîndan, Şeripe, bírkaş yaş balaban bolganî úşún, penğírení kóstere, tîşardan murunlarî yapîşkan ğamga, ekí kardaşî, Munire men Ebílğapar, karap turalar íşkerge, olarga hem abay hem abla bolgan Şeripe`ge. Zaten bútún ğemaát kórgen toyînda, o ekí óksízín etegíne ğabîşîp ğúrgenlerín, merhametlí apakaylar ğîlaşîp ketírgenler akîllarîna analarîn, babalarîn, ağînîklî ólímlerín, ğaş-ğaş yaşlarînda. Şeripe, tatarğada "f"-nî "p" etken ádetke kóre, úylengende hağí Fazîl`ga 14 ha tarla ketírgen, eñ yakşî topraklardan çúnkú Azaplar o zamanlar biñden fazla nufuslî kóy, zapt ete edí yakîn 35.000 ha tarla, sáde tatarlarîñkî bolîp, kalgan boşlîklarnî otlatmak úşún kereklílerní saymadan, hem de kóyde heş bír yabanğî millet bolmadan, sáde kîrîmtatarlarî óz ádetlerí men yaşay edíler. Kîzîl-Murat kóyínden kóşíp, Vefa Çelebiy, Şeripe`níñ babasî, topraklarîn árúw etíp kóbiyte, Fazîl'nî da íşkíyew alîp zengínleşeler. Bollîk hem de yakînlîk insanlarga karşî kóríne tura, úyleríndekí tertípten añlaşîlîp, etkenlerínden de, bolganlar,
-`;
+# Odanîñ tóríndekí patta ğatkan loksa, 
+arada-bír başîn kóteríp kundaklangan 
+balasîna karay, kolîn uzatîp sîypay, 
+"bebiyím, bebiyím" dep. Ğún tóşek astînda, 
+ğún ğórkan ústúnde, sîğak ama hawalî oda, 
+kúnbatarga karay, balaban kapîdan kelgen-
+ketkenlerní kóstertíp. Aydînlîk, kúneş bol-
+bol kíreğek, ama ğawunlî kúnlerde kórínmiy. 
+Şo arada, azbarîñ íşíndekí sesler karîştî, 
+kabarîştî, tanîgan sesler men yabanğî sesler 
+bírleşíp, sankem Sarîgóllí Kavlamet akay 
+keldí dep túşúndí Şeripe. Ekewí bír yaşta 
+bolalar ama Fazîl ondan ekí yaş balaban 
+bolganî úşún o da koğasîñ dogmîşî bolganî 
+úşún, Şeripe ya akay dep ayta ya da Şelebí 
+dep ayta, bolay kóstere o eskíden kalgan 
+húrmetín "akay" yagîna. Bír dakka geşmeden 
+hağíníñ sesí tuyuldî azbarda: 
+- Koş keldíñ, Kavlamet, koş keldíñ, 
+sen de Oriye de koş sepa keldíñíz! Ula, bílíp 
+keldíñíz mí? Tuyup mî? Búgún bízde mújde 
+bar, mújde!
+Arabadan kagînîp, sílkíníp túşken 
+ğolşîlarnî hağí Fazîl man Ómer kuşaklap, 
+óbíp, úyge kírsettíler, hayatîñ íşí toldî 
+dawuşka, olarîñ sesleríne merak etken loksa, 
+zor dayana bakîrmadan "men de barman" 
+dep. 
+Tuyunganday etíp, kapîdan kírdí 
+Oriye, ğaş kelínşek, kolî man kîzî 
+Hakime'nî kuşaklap Bír ses ústúnde 
+bakîrdî, loksanî kuşaklap ánaw bír kolî 
+man, óptí, balaşîknî aşîp, sîypalap: 
+- Şeripe totay, árúwsíñ mí? Ka ne 
+balay, ul mî, kîz mî? O, kîzga uşay, bír de 
+tumalak betí bar! 
+Dep, óbe yuklagan balanî. Şaliy şalî 
+şáşínden taygan, katipe şalî ğerge túşken, 
+ózí sekíre kunagîndan. Şeripe`níñ añlayîşîna 
+kóre o kunak sáde "bebiy" kunagî tuwul: 
+ústúndekí şabuwlî entárí bír zíl kibí belínden 
+ekíge kesúwlî, aşasî klin, astarlî; ğeplerí 
+bar, hem de balaban ğeplerí bar; hîrkasî
+ `;
