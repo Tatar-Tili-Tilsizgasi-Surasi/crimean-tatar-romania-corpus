@@ -315,8 +315,8 @@ const abdullahTukayData = createEntriesFromString(abdullahTukayEntries, 'Abdulla
 const abdulhalikUygurData = createEntriesFromString(abdulhalikUygurEntries, 'Abdulhalik Uygur');
 const arthurRimbaudData = createEntriesFromString(arthurRimbaudEntries, 'Arthur Rimbaud');
 const paulVerlaineData = createEntriesFromString(paulVerlaineEntries, 'Paul Verlaine');
-const osak2011Data = createEntriesFromString(osak2011Entries, 'Nazar Look, Oşak 2011, Sayî 1/1');
-const subat2011Data = createEntriesFromString(subat2011Entries, 'Nazar Look, Şubat 2011, Sayî 2/2');
+const osak2011Data = createEntriesFromString(osak2011Entries, 'Nazar Look, Oşak 2011, Sayî 1');
+const subat2011Data = createEntriesFromString(subat2011Entries, 'Nazar Look, Şubat 2011, Sayî 2');
 
 
 export const corpus: CorpusEntry[] = [
