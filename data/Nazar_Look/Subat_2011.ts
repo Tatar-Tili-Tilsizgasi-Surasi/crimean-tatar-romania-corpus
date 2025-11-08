@@ -797,4 +797,47 @@ Her hálde Malikeniñ sarayînda,
 mekáanînda edík. Bakalîm kara gúzelden ne 
 muwamele bolağak.
 (dewamî keleğekke)
+# Adam adam man aytîşîp, haywan haywan 
+man koklaşîp tabîşîr.
+Ak akşa kara kúnge.
+Akay ğokta koraz da Súliyman paşa.
+Aketme eşegíñ pazarga, ya "kuyrugî uzun", 
+ya "kuyrugî kîska" derler.
+Akîl akîldan óskín.
+Akîl yaşta tuwul, başta.
+Akîlsîz dostîñ bolganşîk akîlsîz dúşmanîñ 
+bolsîn.
+Akmasa da tama.
+Alağa kargada alağagîñ bolsîn.
+Alet işler er maktanîr.
+Alîşkan kuturgandan beter.
+Alma píş, awuzuma túş.
+Alma terekten uzak túşmez.
+Almaga bílgen bolsañ bermege de bíl.
+Aw suwlanmay balîk tutulmaz.
+Awurmagan başka ğawluk baylama.
+Atalar sózí - akîlnîñ kózí
+Keriç yarîmadasî
+atalar sózlerí be aytîmlarî
+# Buwun ğelíne ilaj şîkmay taa
+Millet ğelíne derman tabîla
+Tur-almay Kîrîm óz ayagînda
+Kîrîm'ga Sen Bír Kitap Bagîşla!
+Ismail Gasprinskiy
+atîna
+Kîrîm Tatar Kútúpkanesíne
+ 
+YARDÎMÎÑNÎ TIYSET
+ 
+Samokişa 8
+Simferopol
+Ukrayna, Kîrîm, 95011
+www.kitaphane.crimea.ua
+# Kóstenğe, Rumaniye
+Dr.Mollağihan
+buwun ğelí uzmanî
+işaret, sebep, teşhis, tedaviy — Constanta, Romania
+articular rheumatism specialist
+Dr.Mollağihan
+symptoms, causes, diagnosis, treatment
 `;
