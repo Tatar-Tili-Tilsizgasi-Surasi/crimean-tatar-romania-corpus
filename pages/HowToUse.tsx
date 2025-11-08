@@ -36,7 +36,8 @@ const HowToUse: React.FC<HowToUseProps> = ({ onNavigate }) => {
 
         <h3 className="text-xl font-semibold text-slate-800">Viewing Entries</h3>
         <ul>
-          <li><strong>Show Translations:</strong> Use the toggle switch to show or hide translations for entries that have them. This preference also affects the exported files.</li>
+          <li><strong>Show Sources:</strong> Use the "Show Sources" toggle switch to show or hide the source labels for each entry.</li>
+          <li><strong>Show Translations:</strong> Use the "Show Translations" toggle switch to show or hide translations for entries that have them.</li>
           <li><strong>Expand Long Entries:</strong> If an entry is too long to display fully, it will be truncated. Click on the entry to expand it and see the full text. Click it again to collapse it.</li>
         </ul>
 
@@ -46,7 +47,7 @@ const HowToUse: React.FC<HowToUseProps> = ({ onNavigate }) => {
             <li><strong className="font-semibold">Export JSON:</strong> Creates a <code className="bg-slate-200 px-1 rounded">.json</code> file, which is useful for developers and data analysis.</li>
             <li><strong className="font-semibold">Export TXT:</strong> Creates a plain <code className="bg-slate-200 px-1 rounded">.txt</code> file, which is easy to read and use in documents.</li>
         </ul>
-        <p>Note: The "Show Translations" toggle determines whether the exported files will include the translation field.</p>
+        <p>Note: The "Show Sources" and "Show Translations" toggles determine whether the exported files will include these fields.</p>
       </div>
     </div>
   );
