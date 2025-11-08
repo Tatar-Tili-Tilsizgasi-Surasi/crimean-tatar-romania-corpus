@@ -639,8 +639,8 @@ etíp kóbiyte, Fazîl'nî da íşkíyew alîp
 zengínleşeler. 
 Bollîk hem de yakînlîk insanlarga 
 karşî kóríne tura, úyleríndekí tertípten 
-añlaşîlîp, etkenlerínden de, bolganlar, zaman man milletke ğayîlîp. Bazî bír 
-sertlenmesí bola hağíníñ, sebeplí ya da 
+añlaşîlîp, etkenlerínden de, bolganlar, zaman man milletke ğayîlîp. 
+# Bazî bír sertlenmesí bola hağíníñ, sebeplí ya da 
 sebepsíz, insanlîk hálí dep geşebílersíñ. 
 Şeripe ğúregínde kin tutmay, sabîrlî, ánaw 
 Kazantîptekî keríşleríñ sabîrîn unutmadan 
