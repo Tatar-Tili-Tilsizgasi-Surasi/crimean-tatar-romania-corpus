@@ -8,8 +8,8 @@ interface EntryItemProps {
 }
 
 // Thresholds for truncating long entries
-const MAX_LINES = 6;
-const MAX_CHARS = 400;
+const MAX_LINES = 1000;
+const MAX_CHARS = 65536;
 
 const needsTruncation = (text: string) => {
   return text.length > MAX_CHARS || text.split('\n').length > MAX_LINES;
