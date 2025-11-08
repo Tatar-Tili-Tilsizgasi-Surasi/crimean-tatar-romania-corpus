@@ -572,7 +572,7 @@ bolganî úşún o da koğasîñ dogmîşî bolganî
 dep ayta, bolay kóstere o eskíden kalgan 
 húrmetín "akay" yagîna. Bír dakka geşmeden 
 hağíníñ sesí tuyuldî azbarda: 
-- Koş keldíñ, Kavlamet, koş keldíñ, 
+ Koş keldíñ, Kavlamet, koş keldíñ, 
 sen de Oriye de koş sepa keldíñíz! Ula, bílíp 
 keldíñíz mí? Tuyup mî? Búgún bízde mújde 
 bar, mújde!
@@ -587,7 +587,7 @@ Oriye, ğaş kelínşek, kolî man kîzî
 Hakime'nî kuşaklap Bír ses ústúnde 
 bakîrdî, loksanî kuşaklap ánaw bír kolî 
 man, óptí, balaşîknî aşîp, sîypalap: 
-- Şeripe totay, árúwsíñ mí? Ka ne 
+ Şeripe totay, árúwsíñ mí? Ka ne 
 balay, ul mî, kîz mî? O, kîzga uşay, bír de 
 tumalak betí bar! 
 Dep, óbe yuklagan balanî. Şaliy şalî 
@@ -649,11 +649,11 @@ saklay, ewlatlarîn babaga karşî húrmet men
 terbiyesí men, şímdí bo ğañî tuwgan kîzî 
 man da, aynî bolîr. Onîñ úşún, heş şaşmay 
 Oriye`níñ aytkanlarîna, aktarmasîna: 
-- Allaga şúkúr, Oriye, kîzîm boldî, 
+ Allaga şúkúr, Oriye, kîzîm boldî, 
 ulnîñ katîna bír kîz ewlat kerek edí, taa? 
 Yarîn hoğa keleğek atîn atamaga, Senya dep 
 túşúndúm, eger hağí razî bolsa. 
-- Vay, Şeripe totay, ne árúw aytasîñ, 
+ Vay, Şeripe totay, ne árúw aytasîñ, 
 Senya bolsîn atî, salgan yerínden bolîp 
 tursun, neşín ístemesín hağí bo atnî? 
 Kîrîm'da bo at bek kóp bar eken dep ayta 
@@ -665,29 +665,29 @@ aşaga tuşuk, Ómer men Kavlamet, ekísí de
 bír-bírínden taa yalşak, kapîdan kírmeden 
 loksanîñ kátírín soradîlar. Analîgîn kîymetín 
 bek bíler bízím millet! 
-- Şeripe, nedaysîñ, kaşan kelsín hoğa 
+ Şeripe, nedaysîñ, kaşan kelsín hoğa 
 atîn atamaga? 
-- Endí kelse árúw bolîr, hağí, sen 
+ Endí kelse árúw bolîr, hağí, sen 
 bílersín oyagîn, sáde atîn neday túşúndúñ? 
-- Bír aytağagîn bar bolsa, ayt, dep 
+ Bír aytağagîn bar bolsa, ayt, dep 
 ğewap berdí hağí, bírden sesín kîskartîp, 
 "way şo apakaylar, herşiyge karîşalar" 
 degendiy etíp. 
-- Eger sen de razî bolsañ, men 
+ Eger sen de razî bolsañ, men 
 Senya`ga túşúndúm, Kîrîm'da kalgan tizemíñ 
 atî... 
-- Degeníñ bolîr, Şeripe, dep hağí Fazîl 
+ Degeníñ bolîr, Şeripe, dep hağí Fazîl 
 kapînî ğabağak boldî arkasî man şîgîp 
 odadan, illa aradan iteşíp kírdíler, egíz 
 kozîday, óksíz dogmîşlarî, Munire men 
 Ebílğapar. Bebiyge kollarîn uzatîp: 
-- Aynanayîm ekemden, dep, ekísíde 
+ Aynanayîm ekemden, dep, ekísíde 
 bír seste, bír dawuşta. 
-- Aynanayîm ekelerímden, kelíñíz, 
+ Aynanayîm ekelerímden, kelíñíz, 
 kóríñíz, dedí Şeripe ağîp, súyúp, kíşkene 
 kardaşlarîn. Abay yok mî? dep te, olarnî 
 karagan apakaynî anîdî. 
-- O da ístedí ama, hağí babaydan 
+ O da ístedí ama, hağí babaydan 
 korktî, "ne karaysîn sen mínda" dese, 
 katermen, dedí. Penğíreden kóríp kettí. 
 Oriye'nî kórgen kîz bala, utansîradî, 
@@ -721,10 +721,10 @@ da kósterdí meraklî ekenín bílmege alay
 duygularîn tógerekleníp. Bo arada, bala 
 ğîlayîm ettí, taze loksa emşek bermege 
 ograştî, katîndakî sútní pílğandan rutlap. 
-- Kímísí bír aşamşak bola, dedí karap 
+ Kímísí bír aşamşak bola, dedí karap 
 Oriye, mením kîzîm bek îşta man eme 
 emşekní. 
-- Munire, aket mínaw kadení, sútke 
+ Munire, aket mínaw kadení, sútke 
 totîrsîn Pakize-tay, teran da kaymak salsîn, 
 dedí Şeripe. Kelgen mísapírlerge de şalt 
 kaymaklî kawe yasasînlar! 
@@ -735,12 +735,12 @@ karamadan, ğuwurdî aşkana betíne, ekí
 sekírmede şamîrnî atlap taş ústúne basîp, 
 bír nefeste aytîp kazanşî tatayga oga 
 berílgen tílekní: 
-- Tatam ayttî, balaban pílğanga sút 
+ Tatam ayttî, balaban pílğanga sút 
 sal, bír de kaymak, sora kawe yasa 
 mísapírlerge. Ayaklarîñ uşundan aylanîp 
 şîktî şalt man-şalt aşkanadan bír seste 
 bakîrîp: 
-- Ğapar, kaydasîn? Kel oynayîk, bebiy 
+ Ğapar, kaydasîn? Kel oynayîk, bebiy 
 bolîp!
 # Tínewúngí bulutlar kóterílíp, kalk 
 endí ğúrmege başlap, azbarlarînda we 
@@ -773,13 +773,13 @@ tuwgan balanî nazardan-yamandan kóríp.
 Amayîlnî şu satte ketíríp yastîgînîñ 
 ústúne, başîn katîna kondîrdî, duwa 
 upurup, onga-solga upurup. 
-- Akşamga atî atalağak bolsa, bíz 
+ Akşamga atî atalağak bolsa, bíz 
 balanî ázírliyík, şímdí akşam bolîr dep bardî 
 hağíge. Kaber beríldí mí hoğaga? Akaylar 
 şakîrîldî mî? Hağí Fazîl'îñ karşîlîgîn 
 beklemeden kettí aşkanaga, kírmezden evvel 
 kapîdan bakîrdî: 
-- Akîz, Pakize, akşamga atîn atarlar, 
+ Akîz, Pakize, akşamga atîn atarlar, 
 sen yemeklerní ázírlep otîr, şímdí akşam 
 bolganîn tuymay kalîrsîn! Bo kíşíler 
 wakîtlîlar, kóp akraba-îruw bar olarda, oga 
@@ -794,7 +794,7 @@ boldî bo sólemşek ebanayga; íşínden "o
 ebanaylîgîn bílsín, men aşlarîmnî bílermen", 
 dedí ama oga karşî kúler yúz men, 
 peştímalîna kollarîn súrtúp, konîştî şolay: 
-- Árúwsúñ mí, Ómírzade-t'tay, 
+ Árúwsúñ mí, Ómírzade-t'tay, 
 úydekíler árúw mí? Ballar, torînlar, îruwlar, 
 ğúmle men? 
 Bo gúzel karşîlamaga sesín tîmdî 
@@ -802,20 +802,20 @@ ebanay, eskíden toplangan elemlerí (kím
 ístemez háğíníñ úyúnde aş píşírmege?), attî 
 bír yakka bolganlarnî, kúler yúz men 
 konîşîp: 
-- Saw bol, árúwler şúkúr, ğúmle men! 
+ Saw bol, árúwler şúkúr, ğúmle men! 
 Ózíñ árúwsúñ mí, Pakize? Úydekíler árúwler 
 mí? 
-- Şúkúr Allaga, árúwmúz; bír yaktan 
+ Şúkúr Allaga, árúwmúz; bír yaktan 
 illa igílík kele, zor kúnler unutula, herşiy 
 kîsmetke baylî. Bere-bere Alla da ne-gadar 
 bereğek, ózín ğabalamasañ? 
-- Yaa, men de şonî ayta edím, Pakize! 
+ Yaa, men de şonî ayta edím, Pakize! 
 Alla bersín dep otîrmayğaksîñ, mîna hağîday 
 şalîşağaksîn, ğerden turganda awuşuña 
 toprak alîp turağaksîn! Onîñ úşún, bíz 
 balanî şímdíden ázír etiyík, tuzlamasî-
 kakmasî ne bolağak onîñ? 
-- Sen bízge kaáretme, ebanay tatay! 
+ Sen bízge kaáretme, ebanay tatay! 
 Ána, bír toklî soyîldî, etíñ bolsa kalganî 
 kolay. Pakla otta kaynay, botkasî şo yerde 
 píşer! Ánaw kapîda kím bar? 
@@ -825,11 +825,11 @@ almaysîn kím ekenín. "Ey!" dep bakîrdî
 Pakize, "Kímsíñ şo? Ne karaysîñ?"
 Bala aylandî ses kelgen yagîna, ózín 
 kósteríp apakaylarga: 
-- Mení kaweğí akay ğîberdí, teran 
+ Mení kaweğí akay ğîberdí, teran 
 kawe men, hem de sorayîm, búgún mí 
 atalağak balanîñ atî? Men Kîyasman, 
 kawede şalîşaman. 
-- A-a-a! Sen ekensíñ, taa! Bíz sení 
+ A-a-a! Sen ekensíñ, taa! Bíz sení 
 arkadan tanîy-almadîk... Akşamga atî 
 atalağak, tínewún tuwgan balaga erte-erte 
 bolağak herşiy, árúw ya, erte-ğan bolîp 
@@ -879,13 +879,13 @@ odaga kírdí komşîsî Patme-abay, peştímalîn
 kella, ortakarar parşa şeker men, onlarnî 
 beríp óptí loksanî, balanî kórdí, konîşmasîn 
 toktatmadan: 
-- Aynanayîm kîzîmdan, kímge uşay 
+ Aynanayîm kîzîmdan, kímge uşay 
 şo? ğevapnî bírewden beklemeden, atîn ne 
 salağaksîñ, kaday? dedí. 
-- Taa bek bellí tuwul ama eger kartlar 
+ Taa bek bellí tuwul ama eger kartlar 
 razî bolsalar, men ístiymen Kîrîm`dakî 
 tiyzemíñ atîn, Senya'nî salmaga. 
-- Alla, ne bar da razî bolmasînlar 
+ Alla, ne bar da razî bolmasînlar 
 boga? Bízde bek bolmay onday redetmekler, 
 Şeripe kelín! Kart-kurtka bírşiy demez, 
 madem ki sen bo atnî ayîrgansîñ kîzîña. 
@@ -908,7 +908,7 @@ katírín kîrmay yaşamak mabetlíkte, kímge
 tiyer? 
 Ebanay kíşkene şîlapşînî alîp kírdí 
 íşkerge, artîk balanî ğuwağak-tuzlayğak:
-- Şeripe, ayt sen Umanye men 
+ Şeripe, ayt sen Umanye men 
 Şakine`ge, seníñ odañnî tízsínler-ázírlesínler 
 seníñ gúzel çiyízleríñ men, sandîkta 
 tutkanda ne payda olardan, men bo yagîn 
