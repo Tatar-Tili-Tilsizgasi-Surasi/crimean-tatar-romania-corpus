@@ -234,7 +234,7 @@ const Translator: React.FC<TranslatorProps> = ({ entries, onNavigate }) => {
                       Corpus Context
                   </h3>
                   <p className="text-sm text-slate-600">
-                      The AI uses these entries from your corpus to ensure accurate, dialect-specific terminology.
+                      The AI uses these entries from the corpus to ensure accurate, dialect-specific terminology.
                   </p>
               </div>
               
