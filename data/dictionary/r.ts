@@ -642,5 +642,43 @@ Rusiye/Urusiye s. (topon.) Rusia.
 rusiyelí I. adj. rusesc. II. s., adj. rus. 
 rusşa I. adv. în limba rusă; ruseşte. II. s. (limba) rusă. 
 Rustem s. (antrop. m., prsn.) nume legendar persan.
+ruta s. rută; traseu. 
+rutubet s. 1. umiditate. 2. igrasie; umezeală. 
+rutubetlí adj. 1. umed. 2. igrasios. 
+rutubetsíz adj. uscat. 
+rutubetsízlík s. uscăciune. 
+rúbay s. (lit.) catren. 
+rúçhan s. preferinŃă. 
+rúçhanlî adj. preferat. 
+rúğí s. 1. reîntoarcere; revenire. 2. retractarea celor spuse; dezicere. //●rúğí etmek — a retracta; a se dezice de. 
+rúğúlí adj. 1. reîntors; revenit. 2. retractat; dezis. 
+rúkí s. (relig., la musulmani) plecăciune; rugăciune. 
+Rúppell'níñ-ğeleşesí s. (orn.) silvie cu gât negru (lat., Sylvia rueppelli). 
+rúsup s. 1. depunere; sedimentare; reziduu. 2. (chim.) precipitat. 
+rúsuplî adj. depus; sedimentat; rezidual; precipitat. 
+rúşen adj. 1. luminos; lucitor; strălucitor; clar; limpede; senin. 2. strălucit; eminent. 
+Rúşen s. (antrop. m., f., prsn.) “Lumină”. 
+rúşenlík s. lumină; lucire; strălucire; claritate; limpezime; seninătate. 
+rúşeym s. (biol.) embrion. 
+rúşeymbílímí s. embriologie. 
+rúşeymiy adj. (biol.) embrionic. 
+rúşeymlí adj. (biol.) embrionic. 
+rúşt s. maturitate; majorat. 
+Rúştiy s. (antrop. m., arab.) “Cel matur”. 
+rúştiye s. (ist.) şcoală secundară. 
+rúşvet s. mită; şperŃ; ciubuc. //●rúşvet aşamak — a lua mită. 
+rúşvetalgan s. şperŃar; ciubucar; corupt; care ia mită. 
+rúşvetbergen adj. corupător. 
+rúşvetberúw s. mituire; corupere. 
+rúşvetşí s. şperŃar; ciubucar; corupt; care ia mită. 
+rútbe s. grad; rang; titlu. 
+rúya s. vis. 
+Rúyah s. (antrop. f., arab.) “Vis”. 
+rúz s. (cron., prsn.) zi; ziuă. 
+rúzgáar s. vânt. 
+rwanda s., adj. ruandez. 
+Rwanda s. (topon.) Rwanda. 
+rwandağa I. adv. în limba ruandeză. II. s. (limba) ruandeză. 
+rwandalî s., adj. ruandez.
 `;
 export default rawDictionaryText;
