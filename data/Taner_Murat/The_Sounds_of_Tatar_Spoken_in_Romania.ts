@@ -19,4 +19,37 @@ export const theSoundsOfTatarSpokenInRomaniaEntries: string = `
 # Alîştîruw — Naturalization
 # Ses kîstîruwî — Final devoicing
 # Ses arttîruwî — Voicing
+# Ğemayet — Extended voicing or jamaat
+# Ziyadeleme — Epenthesis
+# Başseslí ziyadeleme — Prothesis
+# Araseslí ziyadeleme — Anaptyxis
+# Yarîseslí ziyadeleme — Excrescence
+# Uzatuw — Paragoge
+# Ses atlamasî — Elision
+# Ses uşatmasî — Assimilation
+# Art sesníñ uşatmasî — Regressive assimilation
+# Ald sesníñ uşatmasî — Progessive assimilation
+# Ses deñíştírmesí — Dissimilation
+# Kîskartuw — Vowel reduction
+# Keñiytúw — Dilatation
+# Erínsízleştírúw — Delabialization
+# Koşak dawuşlar — Pairs of sounds
+# edebiy Tatarğa — the literary Tatar language
+# ğalpî Tatarğa/ğalpak Tatarğa — the authentic Tatar language
+# muwallímatça — academic
+# Urumlîlaştîrîlmaganlardanmîz — We are of those who couldn’t be Romanized
+# baş sesler — determinant sounds
+# sozîk awazlar — vowels
+# belgílengen sesler — determined sounds
+# kapalî sesler — closed sounds
+# tartîk awazlar — consonants
+# yarîm-açîk sesler — half-open sounds
+# yarî-sozîk awazlar — semivowels
+# eğík — syllable
+# ózek — nucleus
+# talaw — onset
+# kuyruk — coda
+# kafiye — rhyme
+# altan — golden
+# altay — Altaic
 `;
