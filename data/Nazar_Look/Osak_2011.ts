@@ -414,294 +414,56 @@ pîkarelíkten!
 Seyitmamut kunak íşínde bolîr ya! 
 Şorbağîsîñ bírínğí ballarî ul boldî atî 
 Moterem deníldí; ekínğílerí, şímdí, kîz boldî! 
-Ama atî ne bolağak dep, o da 
-soramadî, Pakize-tay da aytmadî. saw bolsîn 
-Ómírzade abay, aşk olsîn oga, onîñ 
-ebanaylîgîna, bír kóyní tuwul, beş kóyní 
-beğere! 
-Bonday túşúnğeler men, tuymay kaldî 
-kólğígíñ katîndakî mallege yetíşkenín. 
-Kalawsuz azbarga kíríp, itlerní aldatîp, 
-"kúçiy-kúçiy" dep, kapîlarîn aştî, tamam 
-lámbasîn ğagağak bolîp Munire-tay 
-turganda, o da bakîrdî, korkîtîp sesí men 
-apakaynî: 
--Mújde! Mújde! Kîz dogîrdî Şeripe 
-tatay! Kîz! 
-Munire lámba íşesín kolîndan túşúre 
-yazdî, sekíríp setten kîzî Mensuluw 
-tutmagan bolsa; sora, ózíne kelíp, konîştî: 
--Allahîm, kîsmetlí evlat, akîllî, 
-saglam, anaga-babaga, ğúmle ğemaátke, 
-paydalî bolsîn, yarabbi! 
-Kurannî tartmadan kolîna alîp, bír 
-duwalar şîbîrdadî, "Elam", "Rabbiyesír"; 
-ğerdekí ipek kaplî mínderín ústúne otîrîp, 
-peştímalîn kísesínden on pîrank şîgarîp 
-berdí: 
--Seyitmamut balam, saw bol, mújden 
-tap Allaga yetíşsín, duwalarîmîz man, ma, 
-al, bo para seníñ kîsmetíndír! 
-Eñkíyíp kolîn algan soñ, mañnayînda 
-bír-ekí saniye tutkan soñ, Seyitmamut 
-kunagîn saklamadan, paranî kolînda tutup, 
-kapîga dogrî ğúrdí. Munire, orta yaşlî bír 
-tatar apakayî... artîndan karap kaldî. 
-Başînda kúndelík, oyasîz, biyaz şemberí sîkî 
-baylangan, entárísí uzun, donîñ balagî bír 
-parmaktay kóríne-kórínmiy, geñíş etegínden. 
-kawerengí entárí de, parlak bír zamanda, 
-yeşíl íşe túymeler bar eken, hala ğaltîraylar. 
-Uzun ğeñlí urbasî, moynîñ tógeregínde 
-túymeleníp tura. 
-Kózlerí írí, ne kîyîk, ne ğumuk, 
-"fransîz" kózleríne bír zamanda wurulgan 
-koğasî, Zat akay, tarlasî, haywanlarî şay, 
-wakîtlî bír kóylí. 
-Seyitmamut, ğol boyînşa, óz-ózíne, 
-kene de bírşiyler túşúne: "ğígít hem de 
-ğumart kíşíler, mení, bír óksíz îrgatnî da 
-kayday sayalar! 
-Alla kîsmetlerín bol etsín! kórmiy kaldî 
-karşîsîndakî Abdurayim hoğa akasîn, az 
-kaldî bír-bíríne wurulup ğîgîlağak edíler: 
--Koy, hoğa-akam, kórmedím ya! dedí 
-yalîp. 
--Yok zarar, ulum, kaydan kelesíñ 
-onday dalgîn-dalgîn? 
--Munire abayga mújde akettím, Şeripe 
-kardaşî bíraz evvel kîz dogîrdî! 
--Ya, aytma be, Pazîl ayse, 
-kunagîndan, kawede sîmarlar ğemaátke, 
-zaten kîz bolsa ne árúw bolîr dep aytîlganîn 
-keşen kúnler tuydum. Kóp selam de, 
-menden! 
-Hoğa-akamîz, úyken kunak íşínde, 
-adîmlarîn aylandîrdî kawege dogrî, zaten 
-kayda barîp hawadisler aytîşmaga túşúne 
-edí, bonday ğawunlî hawada. Kóyníñ 
-hoğalarîn bírísí bolsa da, ústúndekí 
-kawerengí şalvar man, sîrtîndakî kara ğeketí 
-tar kalgan, terakay da sógílgen. Bo kîyafetí 
-onî heş ayîrmaz edí kóy kalkîndan. Kibarlîgî 
-da, allegímlígí de, yok edí, ne-gadar 
-Istambul`da okîgan bolsa da. Sáde başîndakî 
-sarîgîñ biyazlîgî man kopayganday etíp, tím-
-tík ğúre edí ğemaátîñ arasînda. Şólde, 
-korada, şamîr kalîn bolganî úşún, íşlerní de 
-hawanîñ túzetílmesíne bîrakîp tura, bírazda 
-kartlîk desek te bolağak, fazlasîn aytmadan. 
-"Her kún, her kún, şalîşa kelíp, yorîla kíşí" 
-degen sózí de bellí edí. 
-"Bo hoğalîk ta ayrî bír kîzmet" dep te, 
-ğemaátín, úy-úyden kóríp, bílíp, tanîmaga 
-ograşa edí. "Úyde otîrîp, tanîyalmazsîñ ki, 
-milletní? Kóy íşín bír dolaşayîm, ánawnî-
-mínawnî kóríp, zamanîn gidişatîn tuyayîm" 
-der edí. "Kaárler de şulay unutular... "
-Şonday fikirler men, hoğa tuymay 
-kaldî kawege yetíşkenín. Bírew yok, bo 
-ğemaát yuklay mî yoksa? diyatîrganda, 
-arkasîndan dúmpúldep Rayim teríğí yetíştî, 
-kúler yúz men, hoğa-akayga karap, ayttî: 
--Selamun Aleykúm, Abdurayim hoğa 
-effendí, yakşî sáátler! Men de ğawundan 
-bîgîp, boş uywadan şîktîm. pítmez-ğítmez 
-ğawun boldî, ánaw rusnuñ baskîntîsînday 
-kele o maga! Kene árúw ki, búgún kúneşní 
-kórdík, ya! 
--Aleykúm Selam, Rayim, çók şúkúr, 
-árúwmen! Ama sen o rusnî aytma, eskí 
-dertní tatarga aşma! Kókke karap: Yarîn da hawasî aşîlağakka uşay, kóresíñ mí 
-bulutlarîñ rengín? Parşalanîp, agarmaga 
-başlaganlar, ya! 
-Rahmetlí anamdan bílemen bonî, 
-artîk aşîlağak kók, íríp pítkenín bulutlarîñ 
-tuymay kalarmîz, şamîr kuruganda. "Tatarga 
-kîlawuz ne kerek, ózí añlay ğollarnî", degen 
-laflarî túrkleríñ, bek dogrî, bíz hep onday, 
-hawanî da añlaymîz, bílemíz... 
-Rayim kókke karay, bírşiy kórmeden 
-hoğanîñ aytkanlarîndan, başîn sallay, 
-"onday" demege ketíríp. 
-Olarnî kóríp yúzí aşîldî Zekerya 
-kaweğí akayîñ, boş masada otîrgan, 
-sîgarasîn da sóngenín tuymagan: 
--Ğúr, hoğa-akam, ğúr Rayim, ne árúw 
-ettíñíz, zaten sízní bekliy edím desem, yalan 
-tuwul. Aylanîp arka kózge, bakîrdî yardîmğî 
-balaga: 
--Kîyas, ánaw árúw kaweden tart ekí 
-pîlğanlîk, kaymagîn kabartîp ketír ependí 
-akaylarga! Şo yerde, sesín ğîmşatîp, 
-kelgenlerge karşî: úydekíler árúwdír, inşalla! 
--Árúwler, şúkúr, dedí sígárasîn 
-tutuşturup, hoğa. Bonday hawada kîzmetler 
-de gerí kala, men búgúnler damîm 
-túzetírmen dep tasavur kurgan edím, ama, 
-ka-tiyím, hawalar osal boldî búgúngeşík; şay 
-deseñ, ğawun da bek kerek, hele bízím 
-topraklarîmîzga! 
--Bek árúw ayttîñ, hoğa-akay, ğawun 
-bek kerek edí, nasîl tuttî bo, Alla`nîñ 
-bereketí, senege, ambarlarnî totîrarmîz, ya! 
-Şo arada, şîmpîldap, ayagîn bíle 
-súrtmeden kalîn şamîrdan, kírdí kaweğí 
-odasîna Seyitmamut îrgat, kózlerínden, 
-awuzundan, bír araba kunak akkanday 
-kóríníp: 
--Kaweğí Zekerya akay, bîzîñ hağí-
-babayda kózaydîn bar, men de mújde aytîp, 
-para kazandîm, tokta, dedím, óz-ózíme, bír 
-kawege kíriyím, tatlî alayîm! 
--Sen, Seyit, neday mújde dedíñ, şo? 
-Añlaştîrîp ayt şonî, be balam! dedí sertiyíp 
-kaweğí. 
--A! Síz bílmiy ekensíñíz! Hağí 
-babaynîñ kîzî boldî, ána bo mújde! 
--Kîyas, bír tatlî şeker ketír, búgún 
-mújdeler kúní eken! búgún tuwgan balanîñ 
-kîsmetí artîk bolîr, degenler kartlar, ğawun 
-turmadan ğawdî, kîsmetí mí, akîlî mî, óstí, 
-milletíne tiyeğek paydasîn, artîk Alla bíler o 
-yagîn! Saw bolsîn, bay bolsîn! 
--Saw bolsîn, ya, árúw ayttîñ, dep, 
-hepísí başîn salladî, bo arada baya akay 
-kelíp kawege. Yawaştan, kawelerín 
-dîmladîlar, şekerní îrgat ğebíne koyganda, 
-hağí Fazîl man Ómer akrabasî, Mepa`nîñ 
-ulî, ekí dogmîş ballarî, kírdíler kawege, 
-kúler yúz men, dogrî akaylarîñ hem de hoğa 
-effendíníñ bolgan yeríne toralap: 
--Selamu Aleykúm, hoğa effendí! 
-Selamu Aleykúm, Zekerya akam, Rayim! 
-Ğúmle ğemaát! Inşallah, áruwsíñízdír! 
-Kayday, kayday, íşler? dep soragan soñ, 
-Fazîl, 15 yaşînda "hağí" dep tanîlgan, 
-rahmetlí babasîna kazanîp bo diniy hakknî, 
-o yaşta saw-selamet ketíp kelgen Mekke`den, 
-we, bírkaş seneden soñ, ózí úşún de. 
-Şalîşuwî man, dogrîlîgî man, ğígítlígí men, 
-kóyínde we etrafta, ózínní tanîtkan ğaş bolsa 
-da, "kartlarîñ" arasînda ğer aldî. Bír kúrsí 
-beríldí, otîrdî, katîna da, başka kúrsúní 
-tartîp, Fazîl "otîr" işaretín yasay turdî 
-akrabasî Ómer`ge. Bo arada, kawelerní ketíre 
-Kîyas, aldlarîna sala, kesme şeker bolgan tas 
-man barabar. 
--Ey, dostîm, ey, sízde mújde bar eken, 
-bey! dep, Zekerya akay da yakînlata kúrsúní 
-olarga, oga da yakînlay hoğa Abdurayim, bír 
-kenarda ğañgîz kalîp Rayim. Onîñ şay ters 
-hem ayrî kalganîn tuyup, hağí Fazîl 
-yakînlata kúrsúsún oga, bír de laf kata: 
--Yakşîsîñ mî, akay? Íşler dogrî kete 
-mí? soñra Zekerya akayga karşî, saw bol, 
-aytkanînday etíp, bízde mújde bar, dep kúle. 
-Ama, ne şalt ğúrgen o kaber? Kaydan 
-tuyunawuyduñuz? dep te, şakasîn unutmay, 
-başîn sallay, kawesín rutlap, arada bír. 
--Kaydan tuyunayîk, Pazîl! ánaw seníñ 
-îrgatîn bír konîşkak eken, o aytîp kettí, diy 
-Abdurayim hoğa effendí-akay. Aytîlağak 
-mújde bolsîn, milletke!
-Ka-típ-etíp, bír lafka kíríşmege merak 
-Rayim, sesín şîgarganşîk, kaweğí-başî lafnî 
-bek súygen akay, gene de konîşmaknî 
-beğere: 
--Bonday ğawunlî, toprak kabargan 
-kúnlerde tuwgan balanî bek kîsmetlí bola 
-diler, rahmetlí babamdan bílemen, hele o 
-Kîrîm topragîna, bír ğawun-biñ bereket 
-ketíre eken, ya! Oh, karípler, bízím taşuw 
-arabanî aydap suw atlaganlar, neler-neler 
-şekkenler, şay dep añlata edíler bízím 
-kartlarîmîz! Onday mî, kene, Rayim, sen 
-taze şîktîn vatandan? 
-Oga da laf katîlganîna, bo baylarîñ 
-arasînda sayîlganîna, kuwanîp, Rayim ka-
-típ konîşmasîn beğermege túşúngende, 
-bírden ğesaret alîp, başladî: 
--Aytkanîñîzday, akaylar, bo yakînda 
-tam ekí ğîl bola mením Azaplar`ga 
-yerleşkením, ekí ğîl evvel vetandan kettím, 
-heş unutarman mî, akaylar, baylar? Kím 
-doga Kîrîm`nîñ yakşî topraklarînda, 
-unutalmaz heş bír zeman, ama o namussuz 
-urus yok mî, ya? Bízím kóyge de, Fotisala`ga 
-da, her kóylerde bolganînday, keldí o 
-"Ivanlar", tarla, kuvvet beríldí húkúmet 
-tarafîndan, vodkasî man domîzîn kokîsîna 
-ka-típ te dayanar seníñ temíz kîrîmtatarîñ? 
-Zawallî anam, garip babam, yaş tolî kózlerí 
-men, "ket, balam, sen, bariy ğaşsîñ, 
-balalarîñ bolağak endíden soñ, kurtar ózíñní 
-bo kayinlerden" dedíler, ala búgún kózím 
-aldînda turalar, dep, sesín ğuttî kóz ğaşlarî 
-man barabar. 
-Fazla uzulgenín tuyup, Fazîl-hağí 
-toktattî Raym`ní: 
--Bek hakklîsîñ, Rayim, bek hakklîsîñ! 
-Hepímíz, keşe-kúndúz, onlarga túşúnemíz, 
-onda bízím ğúregímízíñ yarîsî, ğanîmîzîñ 
-yarîsî! dep, bír "ah" şektí, kolîn salîp 
-Rayim`níñ omîzîna. Kaysîn aytayîk ta, ka-
-típ sîrdaşayîk ta, ka-típ bo vatan kaárínden 
-kurtulayîk! dep kózín penğíreden uzaklarga 
-attî, kawesín soñ damlasîn íşíp, hağí Fazîl. 
-Ómer de başîn aşaga salgan, deren 
-túşúnğelerge dalganday bolîp turî, ózí men 
-Allasî bíle, akîlî ka-yerlerde, tarlasînda mî 
-yoksa şo Kîrîm`nîñ taliyí men bírleşmekte 
-mí! 
--Ula, akaylar, diy hoğa Abdurayim, 
-pítmez dertímízní aytkanda kan aga 
-ğúreklerímízden, kaltiyík ya, akaylar! "Bízím 
-hasretlígímízní tuysa eger Alla, Ya Rabbiy, 
-bízge kuvvet berer şekmege, ya da ruska soñ 
-berer bo duniyada!" onday dep başlay edí 
-dersíne tarih muwallímímíz medresede, ula, 
-kartayîp keteğekmen, bo dertlí sózlerní, bo 
-vatan dertín unutalmayağakman, yoksa mî 
-mezarga komeğek ekenmen mí? "Lá ilahe 
-illellah, Muhamedun Resulullah!" Allah`tan 
-başka Tanrî yoktîr, Hazretiy Muhammed (A. 
-S.) Allah`îñ Peygamberídír! 
-Kawede bolgan akaylar bír seste 
-hoğaga koşîldîlar, tesbiyleríñ belletíp, 
-şalvarlarîn kesík kíselerínden şîgarîp, 
-çúnkí, zawallî kîrîmtatarîñ, duwadan başka 
-ne kuvvetí bar elínde? 
-Tewbestakfirulla, dep te, 
-peşmanlîklarîn şîbîrdagan boldîlar úş-beş 
-akay, kóy kaweğí odasînda, ğawun kóp 
-ğawgan kúz kúnleríndekí toktalgan 
-aşîlşînda. Onlarîñ dertí bír eken, hasret 
-vatanlarîn duşman kolîndan kurtulganîn 
-kóríp soñra ğan teslím etsínler, ózlerí 
-kunamasa, heş olmaydîm, ballarî kunasîn 
-şo vatanîñ hoş hawasînda, kúneşlí deñíz 
-serbest dalga atkanda etraflarga; serbestlík 
-kaberí keliyatîr degende, atîn, ógízín, ğegíp 
-taşuw arabaga ğúklensínler gerí ketíp kelgen 
-ğollarîndan, vatanîñ onlarga hasretlígín 
-sóndíríp balaban deñízníñ tuzlî suwuna! Ya 
-Rabbiy! 
--Hağí Fazîl babay, sení úyden 
-karaylar, mísafír arabasî kírdí azbarîña! 
-dep, kapîda Amet bakîrganda, uşup-
-turakeldíler ayakka, "ne o? kím şo?" dep. 
--Ula, Amet, bakîrîp korkîzma şonday, 
-be! Aytağagîn insanğa ayt, yakşî sóz men,... 
-degenlerí men karadîlar sabîrlî hağíge. 
-Ğaş bala, şaşkîn, şaşkîn, karap, 
-herkezge, soñra sayîbîna, toktadî, kîska 
-nepes men şalt bír konîşmaga gene de 
-başladî: 
--Abay sení kelsín, dedí, bír araba 
-kírdí damga, dep, gene de kózlerín patlattî. 
--Bundan bírşiy añlayalmayğakmîz, Ómer, 
-aydî ózímíz úyge kaytayîk, dep, Ómer men 
-kapîga dogrî ğúrdúler.
+Ama atî ne bolağak dep, o da soramadî, Pakize-tay da aytmadî. saw bolsîn Ómírzade abay, aşk olsîn oga, onîñ ebanaylîgîna, bír kóyní tuwul, beş kóyní beğere! 
+Bonday túşúnğeler men, tuymay kaldî kólğígíñ katîndakî mallege yetíşkenín. Kalawsuz azbarga kíríp, itlerní aldatîp, "kúçiy-kúçiy" dep, kapîlarîn aştî, tamam lámbasîn ğagağak bolîp Munire-tay turganda, o da bakîrdî, korkîtîp sesí men apakaynî: 
+-Mújde! Mújde! Kîz dogîrdî Şeripe tatay! Kîz! 
+Munire lámba íşesín kolîndan túşúre yazdî, sekíríp setten kîzî Mensuluw tutmagan bolsa; sora, ózíne kelíp, konîştî: 
+-Allahîm, kîsmetlí evlat, akîllî, saglam, anaga-babaga, ğúmle ğemaátke, paydalî bolsîn, yarabbi! 
+Kurannî tartmadan kolîna alîp, bír duwalar şîbîrdadî, "Elam", "Rabbiyesír"; ğerdekí ipek kaplî mínderín ústúne otîrîp, peştímalîn kísesínden on pîrank şîgarîp berdí: 
+-Seyitmamut balam, saw bol, mújden tap Allaga yetíşsín, duwalarîmîz man, ma, al, bo para seníñ kîsmetíndír! 
+Eñkíyíp kolîn algan soñ, mañnayînda bír-ekí saniye tutkan soñ, Seyitmamut kunagîn saklamadan, paranî kolînda tutup, kapîga dogrî ğúrdí. Munire, orta yaşlî bír tatar apakayî... artîndan karap kaldî. Başînda kúndelík, oyasîz, biyaz şemberí sîkî baylangan, entárísí uzun, donîñ balagî bír parmaktay kóríne-kórínmiy, geñíş etegínden. kawerengí entárí de, parlak bír zamanda, yeşíl íşe túymeler bar eken, hala ğaltîraylar. Uzun ğeñlí urbasî, moynîñ tógeregínde túymeleníp tura. 
+Kózlerí írí, ne kîyîk, ne ğumuk, "fransîz" kózleríne bír zamanda wurulgan koğasî, Zat akay, tarlasî, haywanlarî şay, wakîtlî bír kóylí. 
+Seyitmamut, ğol boyînşa, óz-ózíne, kene de bírşiyler túşúne: "ğígít hem de ğumart kíşíler, mení, bír óksíz îrgatnî da kayday sayalar! 
+Alla kîsmetlerín bol etsín! kórmiy kaldî karşîsîndakî Abdurayim hoğa akasîn, az kaldî bír-bíríne wurulup ğîgîlağak edíler: 
+-Koy, hoğa-akam, kórmedím ya! dedí yalîp. 
+-Yok zarar, ulum, kaydan kelesíñ onday dalgîn-dalgîn? 
+-Munire abayga mújde akettím, Şeripe kardaşî bíraz evvel kîz dogîrdî! 
+-Ya, aytma be, Pazîl ayse, kunagîndan, kawede sîmarlar ğemaátke, zaten kîz bolsa ne árúw bolîr dep aytîlganîn keşen kúnler tuydum. Kóp selam de, menden! 
+Hoğa-akamîz, úyken kunak íşínde, adîmlarîn aylandîrdî kawege dogrî, zaten kayda barîp hawadisler aytîşmaga túşúne edí, bonday ğawunlî hawada. Kóyníñ hoğalarîn bírísí bolsa da, ústúndekí kawerengí şalvar man, sîrtîndakî kara ğeketí tar kalgan, terakay da sógílgen. Bo kîyafetí onî heş ayîrmaz edí kóy kalkîndan. Kibarlîgî da, allegímlígí de, yok edí, ne-gadar Istambul`da okîgan bolsa da. Sáde başîndakî sarîgîñ biyazlîgî man kopayganday etíp, tím-tík ğúre edí ğemaátîñ arasînda. Şólde, korada, şamîr kalîn bolganî úşún, íşlerní de hawanîñ túzetílmesíne bîrakîp tura, bírazda kartlîk desek te bolağak, fazlasîn aytmadan. "Her kún, her kún, şalîşa kelíp, yorîla kíşí" degen sózí de bellí edí. 
+"Bo hoğalîk ta ayrî bír kîzmet" dep te, ğemaátín, úy-úyden kóríp, bílíp, tanîmaga ograşa edí. "Úyde otîrîp, tanîyalmazsîñ ki, milletní? Kóy íşín bír dolaşayîm, ánawnî-mínawnî kóríp, zamanîn gidişatîn tuyayîm" der edí. "Kaárler de şulay unutular... "
+Şonday fikirler men, hoğa tuymay kaldî kawege yetíşkenín. Bírew yok, bo ğemaát yuklay mî yoksa? diyatîrganda, arkasîndan dúmpúldep Rayim teríğí yetíştî, kúler yúz men, hoğa-akayga karap, ayttî: 
+-Selamun Aleykúm, Abdurayim hoğa effendí, yakşî sáátler! Men de ğawundan bîgîp, boş uywadan şîktîm. pítmez-ğítmez ğawun boldî, ánaw rusnuñ baskîntîsînday kele o maga! Kene árúw ki, búgún kúneşní kórdík, ya! 
+-Aleykúm Selam, Rayim, çók şúkúr, árúwmen! Ama sen o rusnî aytma, eskí dertní tatarga aşma! Kókke karap: Yarîn da hawasî aşîlağakka uşay, kóresíñ mí bulutlarîñ rengín? Parşalanîp, agarmaga başlaganlar, ya! 
+Rahmetlí anamdan bílemen bonî, artîk aşîlağak kók, íríp pítkenín bulutlarîñ tuymay kalarmîz, şamîr kuruganda. "Tatarga kîlawuz ne kerek, ózí añlay ğollarnî", degen laflarî túrkleríñ, bek dogrî, bíz hep onday, hawanî da añlaymîz, bílemíz... 
+Rayim kókke karay, bírşiy kórmeden hoğanîñ aytkanlarîndan, başîn sallay, "onday" demege ketíríp. 
+Olarnî kóríp yúzí aşîldî Zekerya kaweğí akayîñ, boş masada otîrgan, sîgarasîn da sóngenín tuymagan: 
+-Ğúr, hoğa-akam, ğúr Rayim, ne árúw ettíñíz, zaten sízní bekliy edím desem, yalan tuwul. Aylanîp arka kózge, bakîrdî yardîmğî balaga: 
+-Kîyas, ánaw árúw kaweden tart ekí pîlğanlîk, kaymagîn kabartîp ketír ependí akaylarga! Şo yerde, sesín ğîmşatîp, kelgenlerge karşî: úydekíler árúwdír, inşalla! 
+-Árúwler, şúkúr, dedí sígárasîn tutuşturup, hoğa. Bonday hawada kîzmetler de gerí kala, men búgúnler damîm túzetírmen dep tasavur kurgan edím, ama, ka-tiyím, hawalar osal boldî búgúngeşík; şay deseñ, ğawun da bek kerek, hele bízím topraklarîmîzga! 
+-Bek árúw ayttîñ, hoğa-akay, ğawun bek kerek edí, nasîl tuttî bo, Alla`nîñ bereketí, senege, ambarlarnî totîrarmîz, ya! 
+Şo arada, şîmpîldap, ayagîn bíle súrtmeden kalîn şamîrdan, kírdí kaweğí odasîna Seyitmamut îrgat, kózlerínden, awuzundan, bír araba kunak akkanday kóríníp: 
+-Kaweğí Zekerya akay, bîzîñ hağí-babayda kózaydîn bar, men de mújde aytîp, para kazandîm, tokta, dedím, óz-ózíme, bír kawege kíriyím, tatlî alayîm! 
+-Sen, Seyit, neday mújde dedíñ, şo? Añlaştîrîp ayt şonî, be balam! dedí sertiyíp kaweğí. 
+-A! Síz bílmiy ekensíñíz! Hağí babaynîñ kîzî boldî, ána bo mújde! 
+-Kîyas, bír tatlî şeker ketír, búgún mújdeler kúní eken! búgún tuwgan balanîñ kîsmetí artîk bolîr, degenler kartlar, ğawun turmadan ğawdî, kîsmetí mí, akîlî mî, óstí, milletíne tiyeğek paydasîn, artîk Alla bíler o yagîn! Saw bolsîn, bay bolsîn! 
+-Saw bolsîn, ya, árúw ayttîñ, dep, hepísí başîn salladî, bo arada baya akay kelíp kawege. Yawaştan, kawelerín dîmladîlar, şekerní îrgat ğebíne koyganda, hağí Fazîl man Ómer akrabasî, Mepa`nîñ ulî, ekí dogmîş ballarî, kírdíler kawege, kúler yúz men, dogrî akaylarîñ hem de hoğa effendíníñ bolgan yeríne toralap: 
+-Selamu Aleykúm, hoğa effendí! Selamu Aleykúm, Zekerya akam, Rayim! Ğúmle ğemaát! Inşallah, áruwsíñízdír! Kayday, kayday, íşler? dep soragan soñ, Fazîl, 15 yaşînda "hağí" dep tanîlgan, rahmetlí babasîna kazanîp bo diniy hakknî, o yaşta saw-selamet ketíp kelgen Mekke`den, we, bírkaş seneden soñ, ózí úşún de. Şalîşuwî man, dogrîlîgî man, ğígítlígí men, kóyínde we etrafta, ózínní tanîtkan ğaş bolsa da, "kartlarîñ" arasînda ğer aldî. Bír kúrsí beríldí, otîrdî, katîna da, başka kúrsúní tartîp, Fazîl "otîr" işaretín yasay turdî akrabasî Ómer`ge. Bo arada, kawelerní ketíre Kîyas, aldlarîna sala, kesme şeker bolgan tas man barabar. 
+-Ey, dostîm, ey, sízde mújde bar eken, bey! dep, Zekerya akay da yakînlata kúrsúní olarga, oga da yakînlay hoğa Abdurayim, bír kenarda ğañgîz kalîp Rayim. Onîñ şay ters hem ayrî kalganîn tuyup, hağí Fazîl yakînlata kúrsúsún oga, bír de laf kata: 
+-Yakşîsîñ mî, akay? Íşler dogrî kete mí? soñra Zekerya akayga karşî, saw bol, aytkanînday etíp, bízde mújde bar, dep kúle. Ama, ne şalt ğúrgen o kaber? Kaydan tuyunawuyduñuz? dep te, şakasîn unutmay, başîn sallay, kawesín rutlap, arada bír. 
+-Kaydan tuyunayîk, Pazîl! ánaw seníñ îrgatîn bír konîşkak eken, o aytîp kettí, diy Abdurayim hoğa effendí-akay. Aytîlağak mújde bolsîn, milletke!
+Ka-típ-etíp, bír lafka kíríşmege merak Rayim, sesín şîgarganşîk, kaweğí-başî lafnî bek súygen akay, gene de konîşmaknî beğere: 
+-Bonday ğawunlî, toprak kabargan kúnlerde tuwgan balanî bek kîsmetlí bola diler, rahmetlí babamdan bílemen, hele o Kîrîm topragîna, bír ğawun-biñ bereket ketíre eken, ya! Oh, karípler, bízím taşuw arabanî aydap suw atlaganlar, neler-neler şekkenler, şay dep añlata edíler bízím kartlarîmîz! Onday mî, kene, Rayim, sen taze şîktîn vatandan? 
+Oga da laf katîlganîna, bo baylarîñ arasînda sayîlganîna, kuwanîp, Rayim ka-típ konîşmasîn beğermege túşúngende, bírden ğesaret alîp, başladî: 
+-Aytkanîñîzday, akaylar, bo yakînda tam ekí ğîl bola mením Azaplar`ga yerleşkením, ekí ğîl evvel vetandan kettím, heş unutarman mî, akaylar, baylar? Kím doga Kîrîm`nîñ yakşî topraklarînda, unutalmaz heş bír zeman, ama o namussuz urus yok mî, ya? Bízím kóyge de, Fotisala`ga da, her kóylerde bolganînday, keldí o "Ivanlar", tarla, kuvvet beríldí húkúmet tarafîndan, vodkasî man domîzîn kokîsîna ka-típ te dayanar seníñ temíz kîrîmtatarîñ? Zawallî anam, garip babam, yaş tolî kózlerí men, "ket, balam, sen, bariy ğaşsîñ, balalarîñ bolağak endíden soñ, kurtar ózíñní bo kayinlerden" dedíler, ala búgún kózím aldînda turalar, dep, sesín ğuttî kóz ğaşlarî man barabar. 
+Fazla uzulgenín tuyup, Fazîl-hağí toktattî Raym`ní: 
+-Bek hakklîsîñ, Rayim, bek hakklîsîñ! Hepímíz, keşe-kúndúz, onlarga túşúnemíz, onda bízím ğúregímízíñ yarîsî, ğanîmîzîñ yarîsî! dep, bír "ah" şektí, kolîn salîp Rayim`níñ omîzîna. Kaysîn aytayîk ta, ka-típ sîrdaşayîk ta, ka-típ bo vatan kaárínden kurtulayîk! dep kózín penğíreden uzaklarga attî, kawesín soñ damlasîn íşíp, hağí Fazîl. Ómer de başîn aşaga salgan, deren túşúnğelerge dalganday bolîp turî, ózí men Allasî bíle, akîlî ka-yerlerde, tarlasînda mî yoksa şo Kîrîm`nîñ taliyí men bírleşmekte mí! 
+-Ula, akaylar, diy hoğa Abdurayim, pítmez dertímízní aytkanda kan aga ğúreklerímízden, kaltiyík ya, akaylar! "Bízím hasretlígímízní tuysa eger Alla, Ya Rabbiy, bízge kuvvet berer şekmege, ya da ruska soñ berer bo duniyada!" onday dep başlay edí dersíne tarih muwallímímíz medresede, ula, kartayîp keteğekmen, bo dertlí sózlerní, bo vatan dertín unutalmayağakman, yoksa mî mezarga komeğek ekenmen mí? "Lá ilahe illellah, Muhamedun Resulullah!" Allah`tan başka Tanrî yoktîr, Hazretiy Muhammed (A. S.) Allah`îñ Peygamberídír! 
+Kawede bolgan akaylar bír seste hoğaga koşîldîlar, tesbiyleríñ belletíp, şalvarlarîn kesík kíselerínden şîgarîp, çúnkí, zawallî kîrîmtatarîñ, duwadan başka ne kuvvetí bar elínde? 
+Tewbestakfirulla, dep te, peşmanlîklarîn şîbîrdagan boldîlar úş-beş akay, kóy kaweğí odasînda, ğawun kóp ğawgan kúz kúnleríndekí toktalgan aşîlşînda. Onlarîñ dertí bír eken, hasret vatanlarîn duşman kolîndan kurtulganîn kóríp soñra ğan teslím etsínler, ózlerí kunamasa, heş olmaydîm, ballarî kunasîn şo vatanîñ hoş hawasînda, kúneşlí deñíz serbest dalga atkanda etraflarga; serbestlík kaberí keliyatîr degende, atîn, ógízín, ğegíp taşuw arabaga ğúklensínler gerí ketíp kelgen ğollarîndan, vatanîñ onlarga hasretlígín sóndíríp balaban deñízníñ tuzlî suwuna! Ya Rabbiy! 
+-Hağí Fazîl babay, sení úyden karaylar, mísafír arabasî kírdí azbarîña! dep, kapîda Amet bakîrganda, uşup-turakeldíler ayakka, "ne o? kím şo?" dep. 
+-Ula, Amet, bakîrîp korkîzma şonday, be! Aytağagîn insanğa ayt, yakşî sóz men,... degenlerí men karadîlar sabîrlî hağíge. 
+Ğaş bala, şaşkîn, şaşkîn, karap, herkezge, soñra sayîbîna, toktadî, kîska nepes men şalt bír konîşmaga gene de başladî: 
+-Abay sení kelsín, dedí, bír araba kírdí damga, dep, gene de kózlerín patlattî. 
+-Bundan bírşiy añlayalmayğakmîz, Ómer, aydî ózímíz úyge kaytayîk, dep, Ómer men kapîga dogrî ğúrdúler.
 (dewamî keleğekke)
 `;
