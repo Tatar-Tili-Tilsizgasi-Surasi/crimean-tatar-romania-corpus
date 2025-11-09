@@ -17,8 +17,7 @@ export async function getAITranslation(
     contextMatches: CorpusEntry[] = []
 ): Promise<string> {
     // 1. Construct Context Matching String from relevant corpus entries
-    // We vastly increase the context limit to 500 entries. Gemini 1.5 Flash has a large context window (1M tokens),
-    // so we can afford to be very generous with examples to ensure dialect adherence.
+    // We vastly increase the context limit to 500 entries to provide rich dialect flavor.
     const distinctContext = Array.from(new Set(contextMatches.map(e => `${e.text} <=> ${e.translation}`))).slice(0, 500);
     const contextString = distinctContext.join('\n');
 
@@ -26,53 +25,40 @@ export async function getAITranslation(
     let specificTaskInstruction = '';
     
     if (targetLang === 'Crimean Tatar (Romania)') {
+        specificTaskInstruction = `
+### TASK: TRANSLATION TO CRIMEAN TATAR (ROMANIA DIALECT)
+Translate the input text strictly into the Romania (Dobruja) dialect.
+**MANDATORY CONSTRAINTS:**
+1.  **ORTHOGRAPHY:** You MUST use ONLY the allowed dialect alphabet. FORBIDDEN: 'ö', 'ü', 'ı', 'c', 'ç', 'â'. USE SUBSTITUTES: 'ó', 'ú', 'î'/'í', 'ğ', 'ş'.
+2.  **VOCABULARY:** matches from the CORPUS GLOSSARY below are ABSOLUTE OVERRIDES. Use them exactly as they appear.
+3.  **GRAMMAR:** Use 'man'/'men' for 'with'. NEVER use '-nen'/'-len'.
+`;
         if (sourceLang === 'Crimean Tatar (Standard)') {
-             specificTaskInstruction = `
-### TASK: DIALECT CONVERSION (Standard CT -> Romania CT)
-Convert the input from Standard Crimean Tatar to the Romania (Dobruja) dialect.
-YOU MUST APPLY THESE SHIFTS RIGOROUSLY:
-- **Orthography:** c -> ğ, ç -> ş, ö -> ó, ü -> ú, ı -> î/í.
-- **Grammar:** Change comitative '-nen'/'-len' to separate postposition 'man'/'men'.
-- **Lexicon:** Use authentic Dobrujan words (e.g., 'balaban' for 'büyük', 'kóp' for 'çoq') found in the CORPUS GLOSSARY below.
-`;
-        } else {
-            specificTaskInstruction = `
-### TASK: TRANSLATION TO CRIMEAN TATAR (ROMANIA)
-Translate the input text into natural-sounding Crimean Tatar as spoken in Romania (Dobruja).
-- **CRITICAL:** You MUST use the vocabulary provided in the CORPUS GLOSSARY below if a word matches. This is the authoritative source.
-- ADHERE STRICTLY to the Dobruja orthography (NO 'ö', 'ü', 'ı', 'c', 'ç').
-`;
+             specificTaskInstruction += `\n**DIALECT CONVERSION:** Aggressively apply shifts: ç->ş, c->ğ, v->w, initial y->ğ.`;
         }
     } else if (sourceLang === 'Crimean Tatar (Romania)' && targetLang === 'Crimean Tatar (Standard)') {
          specificTaskInstruction = `
 ### TASK: DIALECT CONVERSION (Romania CT -> Standard CT)
-Convert the input from Romania (Dobruja) dialect back to Standard Crimean Tatar.
-- Reverse the common shifts: ş -> ç, ğ -> c, ó -> ö, ú -> ü, 'man'/'men' -> '-nen'/'-len' where appropriate for Standard CT.
-- Use standard Turkish-influenced vocabulary where the Dobruja dialect uses archaic/Nogay terms.
+Convert the Romania (Dobruja) dialect input back to Standard Crimean Tatar.
+- Reverse the shifts: ş -> ç, ğ -> c, ó -> ö, ú -> ü, 'man'/'men' -> '-nen'/'-len'.
+- Replace dialectisms (e.g., 'balaban') with standard terms (e.g., 'büyük').
 `;
     } else {
         specificTaskInstruction = `
 ### TASK: GENERAL TRANSLATION
 Translate from ${sourceLang} to ${targetLang}.
-If translating FROM Crimean Tatar (Romania), interpret its unique orthography correctly based on the CORPUS GLOSSARY (e.g., 'ş' often corresponds to standard 'ç').
+If the input is Crimean Tatar (Romania), interpret its unique orthography (e.g., 'ş' = standard 'ç', 'ğ' = standard 'c') correctly before translating.
 `;
     }
 
     // 3. Build the full system prompt
-    const systemInstruction = `You are an expert linguist and translator specializing in the **Crimean Tatar language, specifically the Romania (Dobruja) dialect**.
+    const systemInstruction = `You are an expert linguist specializing in the **Crimean Tatar language, specifically the Romania (Dobruja) dialect**.
+Your goal is to produce translations that are authentically Dobrujan, strictly adhering to its unique orthography and lexicon, rejecting standard Istanbul Turkish or Standard Crimean Tatar forms where they differ.
 
-### CORE DIRECTIVE: CORPUS PRIORITY
-You are provided with a "CORPUS GLOSSARY" of relevant terms found in the established database. 
-**YOU MUST USE THESE TRANSLATIONS** if the terms appear in the input. They represent the *only* correct translation for this specific dialect context, overriding general Crimean Tatar or Turkish knowledge.
-
-### KNOWLEDGE BASE (Dobruja Dialect Rules):
+### KNOWLEDGE BASE (Dobruja Dialect RULES - STRICT ADHERENCE):
 ${CRIMEAN_TATAR_RO_ORTHOGRAPHY_INFO}
 ${CRIMEAN_TATAR_RO_SCT_DT_SUMMARY_INFO}
 ${CRIMEAN_TATAR_RO_VOWEL_HARMONY_INFO}
-
-### STYLE & TONE:
-- Maintain the authentic "flavor" of the Dobruja dialect (Kipchak/Nogay influence).
-- Avoid modern Istanbul Turkish loanwords if an authentic Tatar equivalent exists in the glossary or your knowledge base.
 
 ### REFERENCE EXAMPLES:
 ${CRIMEAN_TATAR_RO_EXAMPLES}
@@ -84,10 +70,10 @@ ${specificTaskInstruction}
 **INPUT TEXT (${sourceLang}):**
 "${text}"
 
-**CORPUS GLOSSARY (MANDATORY USE):**
-(The following entries are from the official corpus. Use them exactly as shown for their respective terms.)
+**CORPUS GLOSSARY (ABSOLUTE PRIORITY OVER INTERNAL KNOWLEDGE):**
+(Use these exact terms if applicable to the input)
 ---
-${contextString || '(No direct corpus matches found for this input specific words. Rely on general dialect rules.)'}
+${contextString || '(No direct corpus matches found. Rely strictly on dialect rules above.)'}
 ---
 
 **OUTPUT (${targetLang}):**
@@ -99,7 +85,7 @@ ${contextString || '(No direct corpus matches found for this input specific word
             model: 'gemini-2.5-flash',
             config: {
                 systemInstruction: systemInstruction,
-                temperature: 0.2, // Lower temperature even further for stricter adherence to glossary
+                temperature: 0.1, // Very low temperature for strict rule adherence
             },
             contents: userPrompt,
         });
