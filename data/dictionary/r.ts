@@ -365,5 +365,146 @@ rengárenk adj. multicolor.
 rengíatkan adj. decolorat; spălăcit; şters. 
 rengínde adv. de culoarea. 
 rengíşîkkan adj. decolorat; spălăcit; şters.
+renk s. 1. culoare. 2. culoare; vopsea. 
+3. (fig.) calitate; natură; esenŃă. //
+●r en g í a tm a k a-şi pierde culoarea; 
+a se decolora. ●r e n k b e rm e k a da 
+culoare; a colora. ●u ş un r en g í n 
+b e l l í e tm e k a-şi da arama pe faŃă; a 
+se da pe faŃă. // ●a ş î k r en k culoare 
+deschisă. ●k o y î r e n k culoare 
+închisă. ●m u h t e l i f r en k l e r 
+diferite culori. ●r e n k 
+p e r d e s í / ş a l a r l î g î / t a r t a r l î g î 
+nuanŃă, tentă, tuşă, ton. 
+renk-berenk adv. din culoare în 
+culoare. 
+renkkúre s. cromosferă. 
+renkleme s. colorare; vopsire. 
+renklemek v.t. a colora; a vopsi. 
+renklengen adj. colorat; vopsit. 
+renklenmek v.i. a se colora; a se 
+vopsi. 
+renklí adj. 1. colorat; vopsit; 
+pigmentat. 2. (muz., pict.) cromatic. //
+●r en k l í f i l m film color. ●r e n k l í 
+ğam l î p en ğ í r e vitraliu. ●r e n k l í 
+k a l em creioane colorate. ●r e n k l í keşelík — cămaşă de noapte colorată. 
+renklík s. 1. colorare; pigmentaŃie. 2. (muz., pict.) cromatică. 
+renklí-mîşîkbaşî s. (bot.) tapoşnic; zabră (lat., Galeopsis speciosa). 
+renk-renk adj. multicolor. 
+renksínmez adj. (fiz.) acromatic. 
+renksíz adj. 1. incolor; depigmentat. 2. (fig.) palid; şters. 
+renksízleşken s. decolorat. 
+renksízleşme s. decolorare. 
+renksízleşmek v.i. a se decolora; a deveni palid. 
+renksízleştírmek v.t. a decolora. 
+renksízlík s. paloare; decolorare; depigmentare. 
+renkten-renkke adv. din culoare în culoare. // ●renkten-renkke kírmek — a-şi schimba culorile; a face feŃe-feŃe. 
+renta s. rentă; profit. 
+rentağî s. rentier. 
+reostat s. (fiz.) reostat. 
+repertwar s. (teatr.) repertoriu. 
+reportaj s. reportaj. 
+republika s. republică. 
+republikağî adj. republican. 
+reseta s. reŃetă. 
+resím s. 1. desen; pictură; tablou. 2. fotografie. 3. ilustrată. 4. ceremonie; paradă. 5. (fin.) impozit. //●kúldúrúwğí resímín yapmak — a caricaturiza. ●resím almak — a fotografia. ●resím yapmak — adesena; a picta. // ●aytuwlî resím — tablou celebru. ●dúniyanîñ resímí — atlas; planiglob. ●feniy/teknik resím — desen tehnic. ●Grigoresku resímlerí — tablourile lui Grigorescu. ●gúmrúk resímí — taxă vamală. ●kazak resím okîlî — şcoala de pictură românească. ●kúldúrúwğí resím — caricatură. ●resím alînmaz — fotografiatul interzis. ●resím aygîtî — aparat de fotografiat. ●resím bólímí — secŃia de pictură. ●resím káátí — hârtie fotografică. ●resím sergisí — expoziŃie de pictură. ●súslewğí resím — tablou decorativ. 
+resímgealîngan adj. fotografiat. 
+resímgeyakîşkan adj. fotogenic. 
+resímğí s. desenator; pictor; fotograf. 
+resímíyapîlgan adj. desenat. 
+resímleme s. ilustrare (a cărŃilor; textelor etc.). 
+resímlemek v.t. a ilustra (o carte). 
+resímlengen adj. (d. cărŃi, texte etc.) ilustrat. 
+resímlí adj. ilustrat; cu ilustraŃii; cu fotografii. // ●resímlí kart — ilustrată; vedere. ●resímlí masal kitabî — carte de poveşti ilustrată. 
+resímpurşusî s. penel; pensulă. 
+resmen adv. în mod oficial. 
+resmiy adj. oficial. // ●resmiy tazim etmek — (mil.) a saluta. //●resmiy evrak — document oficial. ●resmiy gázáta — buletin oficial. ●resmiy geşme/ğúrúş — defilare; paradă. ●resmiy tíl — limbă oficială. 
+Resmiye s. (antrop. f., arab.) “Oficialitatea”. 
+resmiygeşúw s. defilare; paradă. 
+resmiyğe adv. în mod oficial. 
+resmiyğúrúş s. defilare; paradă. 
+resmiyleşken adj. autentificat. 
+resmiyleşmek v.i. a se autentifica. 
+resmiyleştírme s. autentificare. 
+resmiyleştírmek v.t. a autentifica. 
+ressam s. pictor. // ●italiyan ressamlarî — pictori italieni. ●kîr ressamî — peisagist. ●kúldúrúwğí ressam — caricaturist. 
+ressamlîk s. pictură. 
+restawurant s. restaurant. 
+restawurantlî adj. cu restaurant. //●restawurantlî vagon — vagon restaurant. 
+resul s. profet; proroc; vestitor; prevestitor. 
+Resul s. (antrop. m., arab.) "Profetul"; "Vestitorul" (unul din cele 400 de nume atribuite în Coran Profetului Muhammed Aliyselam). 
+reşadet s. curaj; vitejie; bravură. 
+reşadetlí adj. curajos; viteaz; brav. 
+reşadetlík s. curaj; vitejie; bravură. 
+reşat s. majorat; maturitate. 
+Reşide s. (antrop. f., arab.) “Cea matură”. 
+reşina s. răşină. 
+reşinalî adj. răşinos. 
+reşit s., adj. (d. persoane) major; matur. // ●reşit bolmak — a deveni major. 
+Reşit s. (antrop. m., arab.) "Cel fără greşeală îndreptat" (unul din cele 400 de nume atribuite în Coran Profetului Muhammed Aliyselam). 
+Reşit, El- s. (relig., arab.) "Îndreptătorul"; “Cel ce călăuzeşte pe calea întemeiată” (unul din cele 99 preafrumoase nume atribuite în Coran lui Dumnezeu/Allah). 
+reşitlík s. majorat; maturitate. 
+reşitlíkkebarmagan s., adj. (d. persoane) minor. 
+ret s. 1. refuz; refuzare; respingere. 2. contestaŃie. 
+retbolgan adj. neacceptat; neconsimŃit; respins; refuzat. 
+retorik adj. retoric. 
+retorika s. retorică. 
+retro adj. retro. 
+rettetílgen adj. respins; refuzat; recuzat; declinat; contestat; dezminŃit; negat; nerecunoscut. 
+rettetílmegen adj. necontestat. 
+rettetílmez adj. incontestabil; irefutabil; de necombătut; de nerespins. 
+rettetmek v.t. a respinge; a repudia; a refuza. 
+retuş s. (foto.) retuş. 
+retuşlama s. retuşare. 
+retuşlamak v.t. a retuşa. 
+retuşlangan adj. retuşat. 
+retuşlanmak v.i. a se retuşa. 
+retuşlî adj. retuşat. 
+reva adj. convenabil; potrivit; acceptabil. 
+revan adj. 1. cursiv; fluent. 2. neted; plat; drept. 
+revanlîk s. cursivitate; fluenŃă. 
+revanşa s. revanşă. 
+revanşağî s. (pol.) revanşard. 
+revanşağîlîk s. (pol.) revanşism; politică revanşardă. 
+reverensa s. reverenŃă. 
+revir s. infirmerie. 
+reviziya s. 1. revizie; control. 2. revizuire; verificare. 
+revnak s. strălucire; sclipire. 
+revolver s. revolver. 
+rewent s. (bot.) revent; rubarbă; rabarbură (lat., Rheum officinale). 
+rewmatism s. (med.) reumatism. 
+rewmatismbílímğísí s. (med.) reumatolog. 
+rewmatismbílímí s. (med.) reumatologie. 
+rewmatismlí adj. (med.) reumatic. 
+rewmatoloğiya s. (med.) reumatologie. 
+rewmatoloğiyağî s. (med.) reumatolog. 
+rewúf adj. blajin. 
+Rewúf s. (antrop. m., arab.) "Blajinul" (unul din cele 400 de nume atribuite în Coran Profetului Muhammed Aliyselam). 
+Rewúf, El- s. (relig., arab.) "Cel blajin" (unul din cele 99 preafrumoase nume atribuite în Coran lui Dumnezeu/Allah). 
+rewúş s. 1. (gram.) adverb. 2. mod; fel; chip; manieră. 3. metodă; procedeu. 4. formă; aspect. 5. (gram.) circumstanŃial. // ●neğílík rewúşí — (gram.) adverb de cantitate. ●soraw/suwal rewúşí — (gram.) adverb interogativ. 
+Rewze s. (antrop. f., arab.) “Grădina”. 
+reyhan s. (bot.) busuioc (lat., Ocimum basilicum). 
+reyis s. 1. şef; preşedinte. 2. (ist.) căpitan de vas. // ●úy reyisí — capul familiei. 
+Reza/Riza s. (antrop. m., arab.) “Cel satisfăcut”. 
+rezalet s. 1. ruşine; dezonoare. 2. dezaprobare; condamnare. 3. scandalizare. // ●rezalet şîgarmak — a provoca scandal. 
+rezaletlí adj. dezaprobat; condamnat. 
+reze s. 1. zăvor; ivăr. 2. (tehn.) şpan. 3. bară; drug. 
+rezeleme s. zăvorâre. 
+rezelemek v.t. a zăvorî. 
+rezelengen adj. zăvorât. 
+rezelenmek v.i. a se zăvorî. 
+rezelí adj. zăvorât; ferecat. 
+rezene s. (bot.) fenicul; molură (lat., Foeniculum vulgare). 
+rezenesí, ayuw- s. (bot.) brie (lat., Meum athamanticum). 
+rezenesí, suw- s. (bot.) mărăraş; chimion-de-apă; chimen-de-baltă; cucuŃică-de-bălŃi (lat., Phelland rium aquaticum; Oenanthe aquatica). 
+rezervor s. rezervor. 
+rezil adj. 1. neruşinat; impertinent. 2. ticălos. // ●rezil bolmak — a se face de râs. ●rezil etmek — a face de râs. 
+rezilbolgan adj. batjocorit; umilit. 
+reziletken adj. batjocoritor; umilitor. 
+rezilğe adv. cu neruşinare; cu impertinenŃă. 
+rezillík s. neruşinare; impertinenŃă. 
+rezonansa s. (fiz.) rezonanŃă.
 `;
 export default rawDictionaryText;
