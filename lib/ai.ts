@@ -17,8 +17,9 @@ export async function getAITranslation(
     contextMatches: CorpusEntry[] = []
 ): Promise<string> {
     // 1. Construct Context Matching String from relevant corpus entries
-    // Limit matches to avoid overflowing context window, though Gemini has a large one.
-    const distinctContext = Array.from(new Set(contextMatches.map(e => `${e.text} <=> ${e.translation}`))).slice(0, 60);
+    // We vastly increase the context limit to 500 entries. Gemini 1.5 Flash has a large context window (1M tokens),
+    // so we can afford to be very generous with examples to ensure dialect adherence.
+    const distinctContext = Array.from(new Set(contextMatches.map(e => `${e.text} <=> ${e.translation}`))).slice(0, 500);
     const contextString = distinctContext.join('\n');
 
     // 2. Define specific task instructions based on the language pair
@@ -32,14 +33,14 @@ Convert the input from Standard Crimean Tatar to the Romania (Dobruja) dialect.
 YOU MUST APPLY THESE SHIFTS RIGOROUSLY:
 - **Orthography:** c -> ğ, ç -> ş, ö -> ó, ü -> ú, ı -> î/í.
 - **Grammar:** Change comitative '-nen'/'-len' to separate postposition 'man'/'men'.
-- **Lexicon:** Use authentic Dobrujan words (e.g., 'balaban' for 'büyük', 'kóp' for 'çoq').
+- **Lexicon:** Use authentic Dobrujan words (e.g., 'balaban' for 'büyük', 'kóp' for 'çoq') found in the CORPUS GLOSSARY below.
 `;
         } else {
             specificTaskInstruction = `
 ### TASK: TRANSLATION TO CRIMEAN TATAR (ROMANIA)
-Translate the input text into natural-sounding Crimean Tatar as spoken in Romania.
-- ADHERE STRICTLY to the Dobruja orthography (NO 'ö', 'ü', 'ı', 'c').
-- Use the provided CORPUS MATCHES as the authoritative source for vocabulary.
+Translate the input text into natural-sounding Crimean Tatar as spoken in Romania (Dobruja).
+- **CRITICAL:** You MUST use the vocabulary provided in the CORPUS GLOSSARY below if a word matches. This is the authoritative source.
+- ADHERE STRICTLY to the Dobruja orthography (NO 'ö', 'ü', 'ı', 'c', 'ç').
 `;
         }
     } else if (sourceLang === 'Crimean Tatar (Romania)' && targetLang === 'Crimean Tatar (Standard)') {
@@ -47,26 +48,31 @@ Translate the input text into natural-sounding Crimean Tatar as spoken in Romani
 ### TASK: DIALECT CONVERSION (Romania CT -> Standard CT)
 Convert the input from Romania (Dobruja) dialect back to Standard Crimean Tatar.
 - Reverse the common shifts: ş -> ç, ğ -> c, ó -> ö, ú -> ü, 'man'/'men' -> '-nen'/'-len' where appropriate for Standard CT.
+- Use standard Turkish-influenced vocabulary where the Dobruja dialect uses archaic/Nogay terms.
 `;
     } else {
         specificTaskInstruction = `
 ### TASK: GENERAL TRANSLATION
 Translate from ${sourceLang} to ${targetLang}.
-If translating FROM Crimean Tatar (Romania), ensure you correctly interpret its unique orthography (e.g., 'ş' might correspond to standard 'ç', 'ğ' to 'c').
+If translating FROM Crimean Tatar (Romania), interpret its unique orthography correctly based on the CORPUS GLOSSARY (e.g., 'ş' often corresponds to standard 'ç').
 `;
     }
 
     // 3. Build the full system prompt
     const systemInstruction = `You are an expert linguist and translator specializing in the **Crimean Tatar language, specifically the Romania (Dobruja) dialect**.
 
-### CORE KNOWLEDGE BASE (STRICT ADHERENCE REQUIRED for Romania Dialect):
+### CORE DIRECTIVE: CORPUS PRIORITY
+You are provided with a "CORPUS GLOSSARY" of relevant terms found in the established database. 
+**YOU MUST USE THESE TRANSLATIONS** if the terms appear in the input. They represent the *only* correct translation for this specific dialect context, overriding general Crimean Tatar or Turkish knowledge.
+
+### KNOWLEDGE BASE (Dobruja Dialect Rules):
 ${CRIMEAN_TATAR_RO_ORTHOGRAPHY_INFO}
 ${CRIMEAN_TATAR_RO_SCT_DT_SUMMARY_INFO}
 ${CRIMEAN_TATAR_RO_VOWEL_HARMONY_INFO}
 
 ### STYLE & TONE:
-- Maintain the authentic "flavor" of the Dobruja dialect. It often prefers older Kipchak/Nogay forms over modern Oghuz (Turkish) influences found in Standard CT.
-- When unsure of a specific Dobrujan term, prefer a slightly archaic Turkic term over a modern Turkish loanword, unless it's a well-established modern concept.
+- Maintain the authentic "flavor" of the Dobruja dialect (Kipchak/Nogay influence).
+- Avoid modern Istanbul Turkish loanwords if an authentic Tatar equivalent exists in the glossary or your knowledge base.
 
 ### REFERENCE EXAMPLES:
 ${CRIMEAN_TATAR_RO_EXAMPLES}
@@ -78,9 +84,11 @@ ${specificTaskInstruction}
 **INPUT TEXT (${sourceLang}):**
 "${text}"
 
-**CORPUS MATCHES (HIGH PRIORITY VOCABULARY):**
-(Use these exact translations if applicable to the input)
-${contextString || 'No direct corpus matches available.'}
+**CORPUS GLOSSARY (MANDATORY USE):**
+(The following entries are from the official corpus. Use them exactly as shown for their respective terms.)
+---
+${contextString || '(No direct corpus matches found for this input specific words. Rely on general dialect rules.)'}
+---
 
 **OUTPUT (${targetLang}):**
 (Provide ONLY the translated text, no explanations)
@@ -91,7 +99,7 @@ ${contextString || 'No direct corpus matches available.'}
             model: 'gemini-2.5-flash',
             config: {
                 systemInstruction: systemInstruction,
-                temperature: 0.3, // Lower temperature for higher adherence to rules and vocabulary
+                temperature: 0.2, // Lower temperature even further for stricter adherence to glossary
             },
             contents: userPrompt,
         });
