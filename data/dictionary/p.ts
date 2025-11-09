@@ -162,5 +162,130 @@ papazgaitiraflî adj. (relig., la creştini) spovedit.
 papazkalpagî s. (bot.) salbă-moale; vonicer (lat., Evonymus europaea). 
 papazlar s., pl. (la creştini) cler; preoŃime. 
 papazlîk s. (la creştini) preoŃie.
+papazotî s. (bot.) popaz (lat., 
+Sabadilla off icinalis). 
+papirus s. papirus. 
+papiy s. (orn.) raŃă (lat., Anas 
+platyrhynchos domesticus). 
+papiyon s. papion. 
+papîr s. vapor; navă; vas; corabie. //
+●p ap î r k a za s î na o g î r am a k a 
+naufragia. // ●a r a b a pa p î r î (nav.) 
+feribot; bac. ●ğ o l ş î p a p î r î (nav.) 
+pachebot. ●ğú k pa p î r î (nav.) 
+cargobot. ●k a r am a y pa p î r î (nav.) 
+tanc petrolier. ●k a r î l g a ş pa p î r î 
+(nav.) goeletă. ●m o t o r l î pa p î r 
+(nav.) motonavă. ●n e f t / p e t r o l 
+pa p î r î (nav.) petrolier. ●pa p î r 
+i s k e l e s í dană. ●pa p î r m an 
+g e zg í m k e l e aş vrea să fac o 
+croazieră. ●pa p î r m an k e t eğ e k 
+va pleca cu vaporul. ●p ap î r m an 
+k î d î r uw croazieră cu vaporul. 
+●p ap î r ş a n t i y e r í şantier naval. 
+●p ap î r n î ñ o ñ y a g î tribord. 
+●t a y y a r e pa p î r î (nav.) portavion. 
+●t i ğa r e t p a p î r î (nav.) navă 
+comercială. ●t o p pa p î r î — (nav.) vedetă. 
+papîrdantúşken adj. debarcat. 
+papîrdantúşúw s. debarcare. 
+papîrğî s. (nav.) marinar; navigator. 
+papîrğîlîk s. (nav.) marină; navigaţie. 
+papîrğîlîkkayaragan adj. (mar.) navigabil. 
+Papuwa Kenğe Gúyne s. (topon.) Papua Noua Guinee. 
+para I. adj. financiar; bănesc; pecuniar. II. s. 1. (ist.) para. 2. bani; capital; monedă. 3. preţ; cost; valoare. // ●beş para bermemek — a nu da doi bani; a nu-i păsa; a nu se sinchisi. ●beş paralîk etmek — a face pe cineva de două parale; a-l înjosi. ●kaş paralîk ekenín bílmek — a şti câte parale face cineva; a şti cât îi poate pielea cuiva. ●para aktarîp kaytarmak — a vira bani (fin.). ●para basmak — a bate monedă; a tăia bani; a fi doldora de bani. ●para beríp kutarmak — a răscumpăra. ●para bîzdîrmak — a schimba bani (fin.). ●para etmek — a valora. ●para ğatkîzdîrmak/salmak — (fin.) a face o depunere; a investi; a economisi (fin.). ●para ğîymak/ğetíştírmek — a strânge bani; a economisi. ●para kesmek — a bate monedă; a tăia bani; a fi doldora de bani; a câştiga mulţi bani. ●para kîrmak — a câştiga mulţi bani; a fi doldora de bani. ●para tartmak — a retrage bani (fin.). ●para tókmek — a cheltui cu nemiluita. ●para uşurtmak — a delapida. ●para yardîmî etmek — a acorda ajutor financiar; a subvenţiona. ●paraga kaytarmak — a preschimba în bani. ●paranî aşamak — a păpa banii; a mânca banii cu lingura. ●paranî hawaga sawurmak — a arunca banii în vânt. ●paranî kópír-şópír etmek — a toca banii. ●paranîñ ústúnde ğatmak — a avea bani la ciorap; a fi doldora de bani. ●parasîn bermek/saymak — a achita contravaloarea; a plăti. //●beş para bermegen — nepăsător. ●beş para etmez — nu face nici doi bani. ●bo para man bútún ayilesí yaşay — cu aceşti bani întreţine toată familia. ●bondan başka param yok — nu am alţi bani decât aceştia. ●dúniyanîñ parasî — toţi banii de pe lume; foarte mulţi bani. ●eğnebiy para — valută; monedă străină. ●geşer para — monedă în curs. ●kabil-í tahvil para — monedă convertibilă. ●kaş para eter? — cât costă?; ●koldakî para — numerar; lichiditate; bani gheaŃă. ●ortaga salîngan para — miză. ●para bîzdîrmak — schimb valutar. ●para ğatkîzdîrağak bolaman — doresc să depun bani. ●para ğezasî — amendă. ●para ğúzdanî — portmoneu; portofel. ●para kaşîr — gan delapidator. ●para kaşîrmasî — delapidare. ●para kît — e lipsă de bani; nu ajung banii. ●para man — pe bani. ●para şîgarağak bolaman — doresc să scot nişte bani. ●para yardîmî — colectă. ●para yoklîgî — criză financiară. ●param yetíşmedí — nu mi-au ajuns banii. ●paranîñ kîymetí túşmesí — inflaţie. ●paranîñ ústí — rest de bani. ●wak/bîzîk para — bani mărunţi; mărunţiş. ●yardîm parasî — subvenţie. 
+paraaşagan adj. care toacă banii; risipitor. 
+paraberúw s. finanţare; remuneraţie; 
+retribuţie; salarizare. 
+parabola s. (mat.) parabolă. 
+parabolik adj. (mat.) parabolic. 
+paraboloyit s. (mat.) paraboloid. 
+parada s. paradă. 
+paradigma s. (gram.) paradigmă. 
+paradoks s. paradox. 
+paradoksal adj. paradoxal. 
+parafa s. parafă. 
+parafalî adj. parafat. 
+parafina s. parafină. 
+parageşírmesí s. (fin.) virament. 
+paragîygan adj. econom; strângător. 
+paragraf s. paragraf. 
+paragway s., adj. paraguayan. 
+Paragway s. (topon.) Paraguay. 
+paragwaylî s., adj. paraguayan. 
+parağatkîzdîrgan s. 1. (fin.) depunător; deponent. 2. (econ.) investitor; întreprinzător. 
+parağatkîzdîrmasî s. (econ.) depunere de bani; capitalizare; investire; economisire. 
+parağatkîzdîruw s. (fin.) investiţie; alocare. 
+parağî s., adj. (econ.) capitalist. 
+parağîl îk s. (econ.) capitalism. 
+parakabletken s. încasator. 
+parakarjlamaz adj. econom; strângător. 
+parakebletmesí s. (fin.) încasare. 
+Para-Kóy s. (topon.) Băneasa (jud. Constanţa). 
+paralel adj. paralel. 
+paralela s. (mat., geogr.) paralelă. 
+paralelkenar s. paralelogram. 
+paralellík s. paralelism. 
+paralelyúz s. paralelipiped. 
+paralî I. adj. 1. cu bani; înstărit; bogat; bănos. 2. (econ.) cu capital; capitalizat. II. adv. pe bani; cu bani. 
+parama s. (nav.) parâmă; pălămar; odgon. 
+parametre s. parametru. 
+param-parşa adj. ferfeniţă; harcea-parcea; în bucăţi. 
+paranoya s. (med.) paranoia. 
+paranteza s. paranteză. 
+parapet s. parapet. 
+parasalgan s. 1. (fin.) deponent; depunător. 2. (econ.) investitor; întreprinzător. 
+parasaluw s. 1. chetă. 2. (fin.) investiŃie; alocare. 
+parasîberílgen adj. 1. plătit; remunerat; retribuit. 2. plătit; achitat. 
+parasînbergen s., adj. plătitor. 
+parasînsaygan s., adj. plătitor. 
+parasîsayîlgan adj. plătit; achitat. 
+parasîuşkan adj. delapidat. 
+parasîz I. adj. 1. sărac; fără bani; lefter. 2. (econ.) fără capital; decapitalizat. II. adv. pe gratis; fără bani; gratuit; fără plată. 
+parasîzlîk adj. (econ.) decapitalizare. 
+parasîz-pulsuz adj. lefter. 
+paraşaşmaz adj. econom; strângător. 
+paraşuta s. paraşută. 
+paraşutağî s. paraşutist. 
+paraşutağîlîk s. paraşutism. 
+paratoplagan adj. econom; strângător. 
+parauşurtkan s. delapidator. 
+parauşurtmasî adj. delapidare. 
+paravan s. paravan. 
+parazit s. parazit (şi tehn.). 
+parazitlík s. parazitism. 
+parazitoloğik adj. parazitologic. 
+parazitoloğiya s. parazitologie. 
+parazitoloğiyağ î s. parazitolog. 
+parazitoloğiyalî adj. parazitologic. 
+parazitolok s. parazitolog. 
+parçela s. parcelă. 
+parçelalî adj. parcelat. 
+pardesús s. pardesiu. // ●kúzlúk pardesús — pardesiu de toamnă. 
+pardon interj. scuzaŃi!; pardon!; 
+parislí s., adj. parizian. 
+pariyetal adj. (anat.) parietal. 
+pariyetal súyegí s. (anat.) os parietal. 
+parîs s. 1. (zool.) panteră; leopard (lat., Panthera pardus; Felis pardus). 2. (zool.) puma; cuguar (lat., Panthera concolo r). 3. (zool.) jaguar (lat., Panthera onca). 
+park s. 1. parc (şi auto.). 2. deosebire; diferenţă; distincţie. // ●kartlar parkka keterler — bătrânii merg în parc. ●kólşík parknîñ íşínde tabîla — iazul se află în parc. ●park yapîlmaz — parcarea interzisă. 
+parket s. parchet; pardoseală. 
+parketşí s. parchetar. 
+parklî adj. diferit; deosebit; distinct. 
+parlagan adj. spărgător. // ●agaş parlagan — spărgător de lemne. 
+parlak adj. lucitor; strălucitor; sclipitor. 
+parlaklîk s. lucire; sclipire; strălucire. 
+parlama s. 1. spargere; despicare. 2. (fig.) stricare; defectare. 
+parlamak v.t. 1. a sparge; a despica. 2. (fig.) a strica; a defecta. // ●agaş parlamak — a sparge lemne. 
+parlament s. parlament. 
+parlamentlí adj. parlamentar. 
+parlamentşí s. parlamentar. 
+parlangan adj. 1. spart; despicat. 2. (fig.) stricat; defect. 
+parlanma s. 1. spargere; despicare. 2. (fig.) stricare; defectare. 
+parlanmak v.i. 1. a se sparge; a se despica. 2. (fig.) a se strica; a se defecta. 
+parlanuw s. 1. spargere; despicare. 2. (fig.) stricare; defectare. 
+parlatmak v.t. a determina să spargă; a determina să despice. 
+parlaw s. 1. spargere; despicare. 2. (fig.) stricare; defectare. 
+parlawlî adj. spart; despicat. //●parlawlî agaş — lemne sparte.
 `;
 export default rawDictionaryText;
