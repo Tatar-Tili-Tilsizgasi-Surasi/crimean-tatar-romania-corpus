@@ -14,7 +14,8 @@ export default defineConfig(({ mode }) => {
     define: {
       // Strictly adhere to the requirement of using process.env.API_KEY in the code.
       // This replaces the variable with its actual string value during the build process.
-      'process.env.API_KEY': JSON.stringify(env.API_KEY)
+      // We add a fallback to process.env.API_KEY to ensure it works in CI environments where loadEnv might misses it.
+      'process.env.API_KEY': JSON.stringify(env.API_KEY || process.env.API_KEY)
     }
   }
 })
