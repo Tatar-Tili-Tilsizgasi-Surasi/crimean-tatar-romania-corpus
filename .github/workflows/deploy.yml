@@ -23,14 +23,12 @@ jobs:
       - name: Set up Node
         uses: actions/setup-node@v4
         with:
-          node-version: 20
-          # cache: 'npm' removed to avoid error when package-lock.json is missing
+          node-version: '20'
       - name: Install dependencies
         run: npm install
       - name: Build
         env:
           NODE_OPTIONS: "--max-old-space-size=4096"
-          # Expose the GitHub Secret to the build process
           API_KEY: ${{ secrets.API_KEY }}
         run: npm run build
       - name: Upload artifact
