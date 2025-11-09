@@ -489,5 +489,158 @@ reziletken adj. batjocoritor; umilitor.
 rezilğe adv. cu neruşinare; cu impertinenŃă. 
 rezillík s. neruşinare; impertinenŃă. 
 rezonansa s. (fiz.) rezonanŃă.
+Ridvan/Reduwan s. (antrop. m., arab.) “ConsimŃământ”. 
+Rifat/Refat s. (antrop. m., arab.) "Cel înalt în grad”. 
+riğa s. rugăminte; dorinŃă; doleanŃă. //●riğa etmek — a ruga. // ●bír riğam bar — am o rugăminte. ●ğúrúñúz, riğa etemen! — intraŃi, vă rog!; ●riğa etemen! — vă rog!; ●riğa etemen, îsrar etmeseñíz! — vă rog, nu insistaŃi!; 
+riğağî s., adj. solicitant. 
+riğalî adj. solicitat. 
+riğat s. (mil.) retragere; regrupare. 
+rikkat s. 1. fineŃe; delicateŃe; gingăşie. 2. milă; compătimire; compasiune. 
+rikkatlî adj. 1. fin; delicat; gingaş. 2. milos; compătimitor. 
+rimel s. rimel. 
+rink s. ring. 
+risale s. 1. broşură. 2. (lit.) pamflet. 
+risalet s. profeŃie; prevestire; prognoză; pronostic. 
+risaletlí adj. prevestit; prognozat; pronosticat. 
+risaletşí adj. profet; proroc; vestitor; prevestitor. 
+risk s. risc; primejdie. 
+risklí s. periculos; primejdios; riscant. 
+ritm s. ritm (şi lit.). 
+ritmik adj. ritmic. 
+ritmlí adj. (muz.) ritmat. 
+rivayet s. zvon; spusă. // ●rivayet bolmak — a se zvoni. //●rivayetlerge kóre — conform zvonurilor. 
+riya s. ipocrizie; prefăcătorie; făŃărnicie. 
+riyakáar adj. ipocrit; prefăcut; făŃarnic. 
+riyaset s. şefie; preşedinŃie. //●riyaset divanî — prezidiu. 
+riyasîz adj. cinstit; onest; franc. 
+riyasîzlîk s. cinste; onestitate; francheŃe. 
+riyayet s. 1. consideraŃie; stimă; respect. 2. acceptare. 
+riyayetlí adj. 1. cu consideraŃie; stimat; respectat. 2. acceptat. 
+riyayetsíz adj. neascultător; nesupus; încălcat. 
+riyayetsízlík s. 1. lipsă de respect; lipsă de consideraŃie. 2. neconformare; nesupunere; încălcare. 
+Riyaz s. (antrop. m., arab.) “Tărâmul grădinilor”. 
+riyaziy adj. matematic. 
+riyaziyet s. matematică. // ●aliy riyaziyet — (mat.) matematică superioară. ●riyaziyet atamasî — (mat.) termen matematic. ●riyaziyet ihtiyariyesí — (mat.) facultatea de matematică. ●riyaziyet wazifesí — tema la matematică. ●tatbikiy/uygulangan riyaziyet — (mat.) matematică aplicată. 
+riyaziyetşí s. matematician. 
+riyaziylík s. matematică. 
+riyaziylíkşí s. matematician. 
+Riza/Reza s. (antrop. m., arab.) “Cel satisfăcut”. 
+rize I. adj. mic; bucată mică. II. adv. în bucăŃi mici. 
+rîza s. acord; consimŃământ; acceptare. // ●rîza bermek — a-şi da acordul; a consimŃi; a accepta. 
+rîzalî adj. consimŃit; acceptat. 
+rîzîk s. alimente; provizii. 
+roba s. robă. 
+robot s. robot. 
+rokoko adj. rococo. // ●rokoko mobilasî — mobilă rococo. 
+rol s. rol (şi fig.). // ●baş rolî — rolul principal. 
+rom s. rom (băutură). 
+romalî I. adj. romanic. II. s., adj. (ist.) roman. 
+romalîlaşkan adj. romanizat. 
+romalîlaşmak v.i. a se romaniza. 
+romalîlaştîrîlgan adj. romanizat. 
+romalîlaştîrîlmak v.i. a fi romanizat. 
+romalîlaştîrma s. romanizare. 
+romalîlaştîrmak v.t. a romaniza. 
+romalîlaştîruw s. romanizare. 
+romalîlaştîruwğî adj. romanizator. 
+roman I. adj. romanic. II. s. (lit.) roman. III. s., adj. (ist.) roman. //●kîr/kóy romanî — (lit.) roman pastoral. ●polisiya romanî — roman poliŃist. ●roman rakamlarî — (mat.) cifre romane. 
+romanğî s. romancier. 
+romanlaşkan adj. romanizat. 
+romanlaşmak v.i. a se romaniza. 
+romanlaştîrîlgan adj. romanizat. 
+romanlaştîrîlmak v.i. a fi romanizat. 
+romanlaştîrma s. romanizare. 
+romanlaştîrmak v.t. a romaniza. 
+romanlaştîruw s. romanizare. 
+romanlaştîruwğî adj. romanizator. 
+romansa s. romanŃă. 
+romantik adj. romantic. 
+romantiklerdenewel adj. preromantic. 
+romantiklík s. romantism. 
+romantiklíktenewel s. preromantism. 
+romantism s. romantism. 
+romantismdenewel s. preromantism. 
+romlî adj. cu rom. // ●romlî şokolata — ciocolată cu rom. 
+romp s. romb. 
+romppíşímlí adj. rombic. 
+romptay adj. rombic. 
+rondo s. (muz.) rondo. 
+Rosella-dudukuşî, ak-yúzlí- s. (orn.) papagal Rosela cu obraz alb (lat., Platycercus adscitus). 
+Rosella-dudukuşî, kîzîl- s. (orn.) papagal Rosela roşu (lat., Platycercus elegans). 
+Ross'nîñ-kagayî s. (orn.) pescăruş roz (lat., Rhodostethia rosea). 
+Ross'nîñ-kazî s. (orn.) gâsca lui Ross; gâscă mică de zăpadă (lat., Che n rossii; Anser rossii). 
+Ross'nîñ-şaklayî s. (orn.) pescăruş roz (lat., Rhod ostethia rosea). 
+rotatif adj. (tehn.) rotativ. 
+rotor s. (tehn.) rotor. 
+roze adj. (d. vinuri, şampanie etc.) roze. 
+rozeta s. insignă. 
+róntgen s. (fiz.) roentgen. //●róntgen ğarîklarî — (fiz.) raze roentgen. 
+róntgenografik adj. radiografic; radiologic. 
+róntgenografiya I. adj. radiografic; radiologic. II. s. radiografie; radiologie. 
+róntgenografiyağî s. radiolog. 
+róntgenografiyalî adj. radiografic; radiologic. 
+róntgenolok s. radiolog. 
+rubla s. (fin.) rublă. 
+rugan I. adj. (d. piele) de lac. II. s. (chim.) lac; vernis. // ●rugan pantof — pantofi de lac. 
+ruganğagîlgan adj. lăcuit; vernisat. 
+ruganğaguw s. lăcuire; vernisaj. 
+ruganlama s. lăcuire; vernisare. 
+ruganlamak v.t. a lăcui; a vernisa. 
+ruganlangan adj. lăcuit; vernisat. 
+ruganlaw s. lăcuire; vernisare. 
+ruganlî adj. lăcuit; vernisat. 
+rugbiy s. (sport) rugbi. 
+rugbiyğí s. (sport) rugbist. 
+ruh s. 1. (relig.) spirit; duh. 2. (fil.) spirit. 3. suflet; spirit. 4. (fig.) esenŃă; miez. // ●ruh bermek — a ridica moralul cuiva; a îmbărbăta pe cineva. ●ruhtan túşmek — a-i scădea moralul; a se demoraliza. //●kanunnuñ ruhî — spiritul legii. ●ruh kastasî — psihopat. ●ruh yúkseklígí — impetuozitate. 
+ruhalgan adj. însufleŃit. 
+ruhaniy adj. 1. spiritual; imaterial. 2. sufletesc; moral. 
+ruhaniyet s. spiritualitate. 
+ruhaniyler s., pl. (la musulmani) cler; preoŃime. 
+ruhaniylík s. spiritualitate. 
+ruhberúw s. însufleŃire. 
+ruhberúwğí adj. însufleŃitor; antrenant. 
+ruhbílímğísí s. (med.) psiholog. 
+ruhbílímí I. adj. (med.) psihologic. II. s. (med.) psihologie. 
+ruhbílímlí adj. (med.) psihologic. 
+ruhiy adj. psihic. // ●ruhiy azap şekmek — a-i scădea moralul; a se demoraliza. // ●ruhiy hál — moral. 
+ruhiye s. moral. 
+ruhiyteşkerme s. psihanaliză. 
+ruhlandîrma s. însufleŃire. 
+ruhlandîrmak v.i. a însufleŃi. 
+ruhlandîruw s. însufleŃire. 
+ruhlandîruwğî adj. însufleŃitor. 
+ruhlangan adj. însufleŃit. 
+ruhlanmak v.i. a se însufleŃi. 
+ruhsat s. voie; permisiune; permis; autorizaŃie. 
+ruhsatiye s. permis; autorizaŃie. 
+ruhsatlî adj. autorizat; cu permis. 
+ruhsuz adj. apatic; moleşit; vlăguit. 
+ruhsuzluk s. apatie; moleşeală; vlăguire. 
+ruhtantúşken adj. demoralizat; deprimat; întristat. 
+ruhtantúşúrgen adj. supărător; întristător; vlăguitor. 
+ruhtantúşúw s. demolarizare; deprimare; întristare. 
+ruhústí s., adj. supranatural; transcendentalism. 
+ruhyúkselmesí s. impetuozitate. 
+ruhyúkseltken adj. impetuos. 
+ruj s. ruj. 
+rujsúrgen adj. rujat. 
+rujsúrme s. rujare. 
+ruleta s. ruletă. 
+rum s., adj. bizantin; grec; grecesc. 
+Rum/Urum s. (topon., ist.) BizanŃ; Grecia. 
+ruman s., adj. român; românesc. 
+rumanğa adv. în limba română; româneşte. 
+Rumaniye s. (topon.) România. 
+rumaniyelí adj. român; românesc. 
+rumğa I. adv. greceşte; în limba greacă. II. s. (limba) greacă. 
+Rum-ládiní s. (bot.) brad grecesc (lat., Abies cephalo nica). 
+rumlî s., adj. bizantin; grec; grecesc. 
+Rum-narusî s. (bot.) brad grecesc (lat., Abies cephalonica). 
+Rum-şîrşîsî s. (bot.) brad grecesc (lat., Abies cephalonica). 
+rus I. adj. rusesc. II. s., adj. rus. 
+Rusiye/Urusiye s. (topon.) Rusia. 
+rusiyelí I. adj. rusesc. II. s., adj. rus. 
+rusşa I. adv. în limba rusă; ruseşte. II. s. (limba) rusă. 
+Rustem s. (antrop. m., prsn.) nume legendar persan.
 `;
 export default rawDictionaryText;
