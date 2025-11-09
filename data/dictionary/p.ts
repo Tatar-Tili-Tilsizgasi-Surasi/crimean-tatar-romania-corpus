@@ -162,32 +162,11 @@ papazgaitiraflî adj. (relig., la creştini) spovedit.
 papazkalpagî s. (bot.) salbă-moale; vonicer (lat., Evonymus europaea). 
 papazlar s., pl. (la creştini) cler; preoŃime. 
 papazlîk s. (la creştini) preoŃie.
-papazotî s. (bot.) popaz (lat., 
-Sabadilla off icinalis). 
+papazotî s. (bot.) popaz (lat., Sabadilla officinalis). 
 papirus s. papirus. 
-papiy s. (orn.) raŃă (lat., Anas 
-platyrhynchos domesticus). 
+papiy s. (orn.) raţă (lat., Anas platyrhynchos domesticus). 
 papiyon s. papion. 
-papîr s. vapor; navă; vas; corabie. //
-●p ap î r k a za s î na o g î r am a k a 
-naufragia. // ●a r a b a pa p î r î (nav.) 
-feribot; bac. ●ğ o l ş î p a p î r î (nav.) 
-pachebot. ●ğú k pa p î r î (nav.) 
-cargobot. ●k a r am a y pa p î r î (nav.) 
-tanc petrolier. ●k a r î l g a ş pa p î r î 
-(nav.) goeletă. ●m o t o r l î pa p î r 
-(nav.) motonavă. ●n e f t / p e t r o l 
-pa p î r î (nav.) petrolier. ●pa p î r 
-i s k e l e s í dană. ●pa p î r m an 
-g e zg í m k e l e aş vrea să fac o 
-croazieră. ●pa p î r m an k e t eğ e k 
-va pleca cu vaporul. ●p ap î r m an 
-k î d î r uw croazieră cu vaporul. 
-●p ap î r ş a n t i y e r í şantier naval. 
-●p ap î r n î ñ o ñ y a g î tribord. 
-●t a y y a r e pa p î r î (nav.) portavion. 
-●t i ğa r e t p a p î r î (nav.) navă 
-comercială. ●t o p pa p î r î — (nav.) vedetă. 
+papîr s. vapor; navă; vas; corabie. //●papîr kazasîna ogîramak — a naufragia. // ●araba papîrî — (nav.) feribot; bac. ●ğolşî papîrî — (nav.) pachebot. ●ğúk papîrî — (nav.) cargobot. ●karamay papîrî — (nav.) tanc petrolier. ●karîlgaş papîrî — (nav.) goeletă. ●motorlî papîr — (nav.) motonavă. ●neft/petrol papîrî — (nav.) petrolier. ●papîr iskelesí — dană. ●papîr man gezgím kele — aş vrea să fac o croazieră. ●papîr man keteğek — va pleca cu vaporul. ●papîr man kîdîruw — croazieră cu vaporul. ●papîr şantiyerí — şantier naval. ●papîrnîñ oñ yagî — tribord. ●tayyare papîrî — (nav.) portavion. ●tiğaret papîrî — (nav.) navă comercială. ●top papîrî — (nav.) vedetă. 
 papîrdantúşken adj. debarcat. 
 papîrdantúşúw s. debarcare. 
 papîrğî s. (nav.) marinar; navigator. 
@@ -196,8 +175,7 @@ papîrğîlîkkayaragan adj. (mar.) navigabil.
 Papuwa Kenğe Gúyne s. (topon.) Papua Noua Guinee. 
 para I. adj. financiar; bănesc; pecuniar. II. s. 1. (ist.) para. 2. bani; capital; monedă. 3. preţ; cost; valoare. // ●beş para bermemek — a nu da doi bani; a nu-i păsa; a nu se sinchisi. ●beş paralîk etmek — a face pe cineva de două parale; a-l înjosi. ●kaş paralîk ekenín bílmek — a şti câte parale face cineva; a şti cât îi poate pielea cuiva. ●para aktarîp kaytarmak — a vira bani (fin.). ●para basmak — a bate monedă; a tăia bani; a fi doldora de bani. ●para beríp kutarmak — a răscumpăra. ●para bîzdîrmak — a schimba bani (fin.). ●para etmek — a valora. ●para ğatkîzdîrmak/salmak — (fin.) a face o depunere; a investi; a economisi (fin.). ●para ğîymak/ğetíştírmek — a strânge bani; a economisi. ●para kesmek — a bate monedă; a tăia bani; a fi doldora de bani; a câştiga mulţi bani. ●para kîrmak — a câştiga mulţi bani; a fi doldora de bani. ●para tartmak — a retrage bani (fin.). ●para tókmek — a cheltui cu nemiluita. ●para uşurtmak — a delapida. ●para yardîmî etmek — a acorda ajutor financiar; a subvenţiona. ●paraga kaytarmak — a preschimba în bani. ●paranî aşamak — a păpa banii; a mânca banii cu lingura. ●paranî hawaga sawurmak — a arunca banii în vânt. ●paranî kópír-şópír etmek — a toca banii. ●paranîñ ústúnde ğatmak — a avea bani la ciorap; a fi doldora de bani. ●parasîn bermek/saymak — a achita contravaloarea; a plăti. //●beş para bermegen — nepăsător. ●beş para etmez — nu face nici doi bani. ●bo para man bútún ayilesí yaşay — cu aceşti bani întreţine toată familia. ●bondan başka param yok — nu am alţi bani decât aceştia. ●dúniyanîñ parasî — toţi banii de pe lume; foarte mulţi bani. ●eğnebiy para — valută; monedă străină. ●geşer para — monedă în curs. ●kabil-í tahvil para — monedă convertibilă. ●kaş para eter? — cât costă?; ●koldakî para — numerar; lichiditate; bani gheaŃă. ●ortaga salîngan para — miză. ●para bîzdîrmak — schimb valutar. ●para ğatkîzdîrağak bolaman — doresc să depun bani. ●para ğezasî — amendă. ●para ğúzdanî — portmoneu; portofel. ●para kaşîr — gan delapidator. ●para kaşîrmasî — delapidare. ●para kît — e lipsă de bani; nu ajung banii. ●para man — pe bani. ●para şîgarağak bolaman — doresc să scot nişte bani. ●para yardîmî — colectă. ●para yoklîgî — criză financiară. ●param yetíşmedí — nu mi-au ajuns banii. ●paranîñ kîymetí túşmesí — inflaţie. ●paranîñ ústí — rest de bani. ●wak/bîzîk para — bani mărunţi; mărunţiş. ●yardîm parasî — subvenţie. 
 paraaşagan adj. care toacă banii; risipitor. 
-paraberúw s. finanţare; remuneraţie; 
-retribuţie; salarizare. 
+paraberúw s. finanţare; remuneraţie; retribuţie; salarizare. 
 parabola s. (mat.) parabolă. 
 parabolik adj. (mat.) parabolic. 
 paraboloyit s. (mat.) paraboloid. 
@@ -218,7 +196,7 @@ parağatkîzdîrgan s. 1. (fin.) depunător; deponent. 2. (econ.) investitor; î
 parağatkîzdîrmasî s. (econ.) depunere de bani; capitalizare; investire; economisire. 
 parağatkîzdîruw s. (fin.) investiţie; alocare. 
 parağî s., adj. (econ.) capitalist. 
-parağîl îk s. (econ.) capitalism. 
+parağîlîk s. (econ.) capitalism. 
 parakabletken s. încasator. 
 parakarjlamaz adj. econom; strângător. 
 parakebletmesí s. (fin.) încasare. 
