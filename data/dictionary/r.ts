@@ -365,31 +365,14 @@ rengárenk adj. multicolor.
 rengíatkan adj. decolorat; spălăcit; şters. 
 rengínde adv. de culoarea. 
 rengíşîkkan adj. decolorat; spălăcit; şters.
-renk s. 1. culoare. 2. culoare; vopsea. 
-3. (fig.) calitate; natură; esenŃă. //
-●r en g í a tm a k a-şi pierde culoarea; 
-a se decolora. ●r e n k b e rm e k a da 
-culoare; a colora. ●u ş un r en g í n 
-b e l l í e tm e k a-şi da arama pe faŃă; a 
-se da pe faŃă. // ●a ş î k r en k culoare 
-deschisă. ●k o y î r e n k culoare 
-închisă. ●m u h t e l i f r en k l e r 
-diferite culori. ●r e n k 
-p e r d e s í / ş a l a r l î g î / t a r t a r l î g î 
-nuanŃă, tentă, tuşă, ton. 
-renk-berenk adv. din culoare în 
-culoare. 
+renk s. 1. culoare. 2. culoare; vopsea. 3. (fig.) calitate; natură; esenŃă. //●rengí atmak — a-şi pierde culoarea; a se decolora. ●renk bermek — a da culoare; a colora. ●uşun rengín bellí etmek — a-şi da arama pe faŃă; a se da pe faŃă. // ●aşîk renk — culoare deschisă. ●koyî renk — culoare închisă. ●muhtelif renkler — diferite culori. ●renk perdesí/şalarlîgî/tartarlîgî — nuanŃă, tentă, tuşă, ton. 
+renk-berenk adv. din culoare în culoare. 
 renkkúre s. cromosferă. 
 renkleme s. colorare; vopsire. 
 renklemek v.t. a colora; a vopsi. 
 renklengen adj. colorat; vopsit. 
-renklenmek v.i. a se colora; a se 
-vopsi. 
-renklí adj. 1. colorat; vopsit; 
-pigmentat. 2. (muz., pict.) cromatic. //
-●r en k l í f i l m film color. ●r e n k l í 
-ğam l î p en ğ í r e vitraliu. ●r e n k l í 
-k a l em creioane colorate. ●r e n k l í keşelík — cămaşă de noapte colorată. 
+renklenmek v.i. a se colora; a se vopsi. 
+renklí adj. 1. colorat; vopsit; pigmentat. 2. (muz., pict.) cromatic. //●renklí film — film color. ●renklí ğamlî penğíre — vitraliu. ●renklí kalem — creioane colorate. ●renklí keşelík — cămaşă de noapte colorată. 
 renklík s. 1. colorare; pigmentaŃie. 2. (muz., pict.) cromatică. 
 renklí-mîşîkbaşî s. (bot.) tapoşnic; zabră (lat., Galeopsis speciosa). 
 renk-renk adj. multicolor. 
