@@ -328,4 +328,171 @@ Bír uzun ğîl, soñ kúní suwuk mezar...
 Ğañî ğîl ğok bízlerge, bízler Tatar.
  
 1919, 1 yanwar, Budapeşt
+# Ğezayir şeherínden seferge şîkkan 
+onsekízínğí kúnúmúz Sakranî Kebíríñ kum 
+deriyasîna yetíştík. Ya Rab! Ne korkînş we 
+amansîz yerler eken! Her taraf suw gibí kum, 
+bazî taşlîk. Ústúmúzde kubbe-iy kók... Ne 
+insan, ne haywan, ne suw, ne terek bar we 
+zannetersíñ ke mahşerden soñ ğansîz-ğinsíz 
+kalgan bír dúniya! Kúneş te bízlerní kebap 
+eteğektiy ğaga. Kerwanîmîz ondórt dewe, úş 
+kîzmetşí Arap we kerwanbaşî Sudanlî Zenğí 
+Abdulla Dariy'den ibaret. Bo adam sakra 
+ahvalíne we ğollarîna aşina bolganîna 
+Ğezayir'de bízge takdim etílgení "Sudan 
+Mektúplerí"-n okîganlarga malúmdúr.
+Ğolîmîz ğenub-iy şarkiyge edí. Bo 
+ğehetní tutup kestíríp sakranî gerí geşeğek 
+bolgan edík, anğak muhataralî we korkîlî 
+yerlerní atlatîp geşíp soñra gene ğenub-iy 
+şarkiy ğehetíne yúz tuta edík. Mehdiy'ge 
+kîzmet úşún Sudan seferine ketken refiklerím 
+topşî Martin, Tabip Jan we múhendis Mark 
+namînda Fransîz newğiwanlarî maga tabiy 
+bolîp bírer dewede tabîla edíler. Her 
+bírímízíñ dewesínde bír miktar aşap-işeğek 
+we silak bar edí maada altî dewe eşiya, alet-í 
+muhtelife we aşayağak man ğúklí edí. 
+Kerwan başînda Abdulla Dariy soñrasî 
+bendeniz we arada eşiya ğúklí deweler we 
+geríde Fransîzlar man ekí kîzmetşí ğúre edí. 
+Kîzmetşíníñ bírsí ğúyrek dewede bolîp 
+etrafnî gezíp keşfetíp kaber bermege memur 
+edí.
+Bonday etíp kete edík. Seferímíz 
+selamet we baya raát edí; ya da sîğaklar 
+bolmagan bolsa belkí şikáyetke mahal kalmaz 
+edí. Lákin her hálde şúkúrden gerí turmay 
+edík.
+Bazî bedeviyler rast kelgen bolsa da 
+matlab-î seferiy añlap we bízlerní baştan-
+ayakka silaklî we wuruşmaga ázír kóríp ğol 
+bereler we ğol bergende selametlík duwasî ete 
+edíler.
+Seferíñ kîrkînğî kúní Uluw Sakra'nîñ 
+ortalarîna yetíştík. Úş-dórt haftadan taa 
+[soñra] Sudan'îñ mamur yerleríne ayak 
+basağak edík. Ğol múbaşirí Abdulla Dariy 
+selamet-í seferden ziyade ferahlî edí. 
+Kazasîz, meşakkatsîz kele edík. Bízlerní 
+"Dagîstan'îñ múritlerí" bílgenínden: “Síz 
+sufîlarga bo selametlík Kuday'nîñ lútfiy 
+mahsusiyyesídír” dep sayir seferlerínde 
+sakrada şekken zahmetlerín nakîl we biyan 
+ete edí. Abdulla Dariy'ge ne kadar emniyet 
+etsek te múhendis Mark, ameliyat-î 
+núğumiye men ğolîmîzîñ ğihetín tayîn 
+etmekte edí we múhendisiñ hesabî, 
+kerwanbaşîñ ketíşí men muvafîk 
+túşkenínden havfsîz-havfsîz kum denízí men 
+ilerliy edík. Ama kîrk bírinğí kún sabadan 
+Magrip ğihetínden rúzgár, ğel şîgîp ketken 
+saytîn artkanîndan kum we tuz kóterílmege 
+başlap kózlerímízge zahmet berdí. Kerwannî 
+toktatîp Abdulla Dariy ğúklerní yakşî 
+baglatîp kíyímlerní túzettíríp kaplî kózlík 
+takmasîn teklif ettí. Bonday etíp 
+tedarúkleníp gene ğolga túşkende ğel, boran 
+dereğesíne kelíp kumlarnî kókke uşurup 
+kúndúzní keşege şewúrdí. Bír-bírímízní kórmez boldîk. Anğak ara-sîra dawuş etíp 
+ğúre edík. Kum boranî kaburgadan 
+bolganîndan haywanlar ziyade zahmet şegíp 
+aldga ket-almaganlarî hálde toktap tursak 
+kum basîp telef edeğegínden boranga arka 
+beríp bír tabiya talda yer kîdîrmaga maslahat 
+we múnasip kóríp şewúrúldúk. Bonday etíp 
+azrak aman bolgan bolsak ta toktamaga 
+múnasip bír yer rast kelmegenínden we 
+aşîkta toktasak kum basağagîndan úş kún, 
+úş keşe kemal-î zahmet şektík. Dórtínğí kún 
+ekíndí men akşam arasî boran tînîp kumlar 
+ğatîşîp etrafî kóre başladîk. Aldîmîzda yarîm 
+sáátlík mesafede kurma tereklerí kóríne edí. 
+Terek bolgan yerde suw bardîr dep şúkrettík. 
+Haywanlarîmîz dahiy ferahlanganday 
+hewesleníp ğúrdúler. Kóríngen mahal ne yer 
+bolganî Abdulla'dan suwal etílgen bolsa da 
+bíl-almadî. Suw deriyasînda adalar bolganî 
+gibí kum deriyasînda dahiy bazî-bazî suw, 
+terek we nebatat bolgan ufak-ufak yerler 
+bardîr ke bonlarnî sakrada gezgen bedeviyler 
+mekáan tutarlar. Bonday etíp bír bedeviy 
+mekáanîdîr dedík, ama tabip Jan kayriy bír 
+fikir men raátsíz bolîp Fransîzğa maga hitap 
+ettí:
+- Abbas Efendí, kerwanbaşîndan 
+suwal etíñíz Kadînlar Ulkasî'ni geştík mi? 
+Ansîzdan bo garibe ulkaga túşmiyík...
+- Túşsek ne ziyan bar? Kadînlardan ne 
+ziyan kórdíñíz... dep látife men Fransîzğa 
+ğewaplap Abdulla Dariy'ye Arapşa suwal 
+ettím:
+- Barekallah, efendím men de bo 
+suwalnî fikrete edím... Dórt kún boranda 
+ğolnî, hesapnî şaşîrdîm, dedí.
+Bo ğewaptan ğúmlemíz havf we 
+endişege kelíp kerwannî toktatîp maslahat 
+kîldîk. Bonîñ netiğesí bolîp aldga bír 
+kîzmetşí yollayğak boldîk ke kóríngen 
+ormannî karap kaytsîn. Lákin Abdulla Dariy 
+kayretleníp ózí barîp kaytağak boldî. 
+Kerwanbaşî ketken soñ bízler dewelerní 
+ğatkîzîp túfenklerní elge alîp kerek hálde 
+múdafaaga ázírlendík . Topşî Martin her ne 
+kadar endişede bolsa da Fransîz tabiyatî 
+húkmúnğe látifeden artta turmay edí. Eger 
+Kadînlar Ulkasî'na túşsek yetmíş yedí kadîn 
+alîrman vesselam! Tabip látifege miyyal 
+bolmadan:
+- Bazgeş birader; yañgîş. Bo ulkanîñ 
+kadînlarî seníñ bílgen kadînlarîndan 
+tuwul... Bonlar koğaga barmaylar. Ózlerí 
+erlerní alalar. Hem kîrkî-ellísí, bír kíşí úşún 
+talaşîp ólíşeler. Ózlerí ğaw we muharebe 
+men, erlerí ğurt íşínde kíyím tígíp, aş karap 
+wakît geşíreler. Koğalar bízím kadînlar 
+makamînda tabîlalar... Kuday hîfz iylesín.
+Bonday etíp sóleníp turganda 
+aldîmîzdan dawuşlar eşítíldí. Bír de karadîk 
+ke yúz kadar atlî súngúlerí elde bízge dogrî 
+keleler. Bonlar man Abdulla Dariyy dahiy bír 
+atka míngen bakîrîp-şakîrîp kele:
+- Karşîlamañîz, aman bolsak itaat 
+man bolîrmîz!
+Kerwanbaşî yetíşkení men etrafîmîznî 
+yúz asker kuşap-alîp súngúlerní bízge 
+uzattîlar.Vakaa múdafaa etkendiy tuwul edí. 
+Yedí adam yúz atlîga karşî ne íşlesín? 
+Dúşmanga dîkkatlîğa karaganda kórdík ke 
+ğúmlesí uzun şáşlí we kókíreklí... añladîk ke 
+Kadînlar Ulkasî'ñ askerídír. Hemen 
+ğúmlemízní esír etíp kóríngen kurma 
+tereklerí tarafka alîp kettíler. Kîyafetleríne 
+kóre bo kavim zenğiy men bedeviy 
+karîşmasîndan hasîl bolsa kerek. Bír 
+ğihetten Arap, bír ğihetten zenğiylerge 
+uşaylar...
+Vakaadan yarîm sáát soñ kurmalîkka 
+yetíştík. Bízlerní we eşiyamîznî terekler 
+túbúnde yerleştíríp etrafîmîzga karawul salîp 
+ulkanîñ Malike'síne kaber yolladîlar. Meger 
+ulkanîñ hakimí, askerí, kadîlarî, memurlarî 
+hep kadîn-kîz eken. Kart ber betí buruşkan 
+bír asker kadîn yanîmîzga kelíp bízní karap 
+we sayir askerler bízge kóz tígíp 
+turmamalarîn emir buyurdî. Bo kart kadîn 
+biñbaşî eken. Soñra bízge hitaben:
+- Ey nazikler, askeríñ betíne karap 
+turmañîz, ayîptîr! Hem nazar tiyer... Sízler 
+Malike'ge láyîk ğiwanlarsîz. Herkezge 
+kórínmeñiz. Taa yakşîsî betleríñízní yapîñîz!
+Biñbaşî kadîn bonday emretken bolsa 
+da bíz kulak bermekten maada karawul asker 
+kîzlar dahiy bízge karap kóz kaş yasap 
+egleníp turdular. Refigím topşî Martin de 
+ğúmle asker kîzlarnî bírliy-bírliy kózden 
+geşíríp: Túfv, túfv! Şaytan alsîn bonlarnî! 
+Arada bír húsn-í ğemaliy yok, dedí.
+(dewamî keleğekke)
 `;
