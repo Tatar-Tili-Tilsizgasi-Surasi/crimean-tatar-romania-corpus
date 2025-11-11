@@ -328,7 +328,14 @@ Bír uzun ğîl, soñ kúní suwuk mezar...
 Ğañî ğîl ğok bízlerge, bízler Tatar.
  
 1919, 1 yanwar, Budapeşt
-# Ğezayir şeherínden seferge şîkkan 
+# Kadînlar Ulkasî-Molla 
+Abbas Franseviy (I)
+Ismail Gaspîralî (Ismail Gasprinskiy)
+[1]
+Terğúman, 10 Awustos 
+1890 / 7 Muharrem 1308, 
+Sayî: 28, s. 1-2
+Ğezayir şeherínden seferge şîkkan 
 onsekízínğí kúnúmúz Sakranî Kebíríñ kum 
 deriyasîna yetíştík. Ya Rab! Ne korkînş we 
 amansîz yerler eken! Her taraf suw gibí kum, 
@@ -495,4 +502,27 @@ egleníp turdular. Refigím topşî Martin de
 geşíríp: Túfv, túfv! Şaytan alsîn bonlarnî! 
 Arada bír húsn-í ğemaliy yok, dedí.
 (dewamî keleğekke)
+# Atasózlerí
+ 
+"Katîgîm kara" degen bolmaz
+Akayî man yaşagan, tul apakaynîñ hálín bílmez
+Akaynî akay etken de apakay, úyní úy etken de apakay
+At awnagan yerde túgí kalîr
+Başta Allam, soñra anam
+Bír kolî mayda, bír kolî balda
+Bîzîk sáát bírem, kúnde ekí kere dogrî wakîtnî kósterír
+Bogadar kusur kadî kîzînda da tabîlîr
+Ğerge karagan, ğúrek ğakkan
+Kamîşnî sîgîp tutsañ, kolîñnî keser
+Kara ğerníñ karînî keñ
+Kara kaber şalt tuyulur
+Ortak attan tay artmaz
+Taznîñ tílegí kara şáş
+Yakşîga kuşagîñnî ker
+Yalan tuwuruwğudur, başka yalan yaratîr
+Zor man ketken tazî koyan tutmaz
+# 2011’ge
+Kayîrlî Seneler
+Kaytarîp alînsîn
+Eskí memleketler!
 `;
