@@ -986,4 +986,214 @@ Son fantôme dans l'air danse comme un flambeau.
 Parfois il parle et dit: "Je suis belle, et j'ordonne
 Que pour l'amour de moi vous n'aimiez que le Beau;
 Je suis l'Ange gardien, la Muse et la Madone."
+# Sewdalîlar şarabî
+Feza búgún fewkaláde!
+Unut soyaw, telbew, tehne,
+Şarap ústí bíz atlana
+Kîdîrayîk ilah sema!
+
+Múbrem sayîklama şekken
+Ekí melek gibí, kókten,
+Billúr zengerínde, saba,
+Serap kuwarmîz awlakta!
+
+Az ğellene, az sallana,
+Zekiy burum kanatînda,
+Koşak akîl kaybetmede,
+
+Kîz kardaşîm, ğaldap ğalpa,
+Uşarmîz bermeden ara
+Túşúmdekí ğennetíme. — Le Vin des amants
+Aujourd'hui l'espace est splendide!
+Sans mors, sans éperons, sans bride,
+Partons à cheval sur le vin
+Pour un ciel féerique et divin!
+
+Comme deux anges que torture
+Une implacable calenture
+Dans le bleu cristal du matin
+Suivons le mirage lointain!
+
+Mollement balancés sur l'aile
+Du tourbillon intelligent,
+Dans un délire parallèle,
+
+Ma soeur, côte à côte nageant,
+Nous fuirons sans repos ni trêves
+Vers le paradis de mes rêves!
+# Ğañgîzîñ şarabî
+Bír antika hanîm nazarlarî, baygîn,
+Ay ğarîgî gibí tayar dogrî bízge,
+Burumlanîp, ap-ak, kaltîrawuk kólge
+Şomdîrağak bolsa, kaársíz, gúzellígín.
+
+Kumarğînîñ kolî soñgî kese aşkan;
+Zayîf Adeline men oyîn óbíşmesí;
+Akîl oynatağak hoş muzika sesí,
+Tîpkî uzaklarda ağî şekken insan,
+
+Yapmaz, deren íşe, onlar seníñ kadar,
+Bereketlí karnîñ koyî músní saklar
+Sofî ozan úşún, suwsuz ğúregíne;
+
+Umut, ğaşlîk, hayat kuyarsîñ sen oga,
+- Şalîm man barabar, miskinlíkke kazna,
+Bízní koşîp turgan Tañrî zaferíne! — Le Vin du solitaire
+Le regard singulier d'une femme galante
+Qui se glisse vers nous comme le rayon blanc
+Que la lune onduleuse envoie au lac tremblant,
+Quand elle y veut baigner sa beauté nonchalante;
+
+Le dernier sac d'écus dans les doigts d'un joueur;
+Un baiser libertin de la maigre Adeline;
+Les sons d'une musique énervante et câline,
+Semblable au cri lointain de l'humaine douleur,
+
+Tout cela ne vaut pas, ô bouteille profonde,
+Les baumes pénétrants que ta panse féconde
+Garde au coeur altéré du poète pieux;
+
+Tu lui verses l'espoir, la jeunesse et la vie,
+- Et l'orgueil, ce trésor de toute gueuserie,
+Qui nous rend triomphants et semblables aux Dieux!
+# Kayîrsîz rahip
+Kadmiy manastîrlar úyken duwarînda
+Veliy Dogrîlîknî konşasînda taşîr,
+Terk-í dúniyanîñ salkînlîgîn alîr,
+Sofî ğígerlerní bíraz ğîlîtkanda.
+
+Şeşek aşkan máálí Isa egínlerí,
+Búgún atî batkan şanlî, mot rahipler,
+Hergún barîp íşín meşatlîkta kórer,
+Azizletíp ólím adiy kîzmetlerí.
+
+- Mením ruhum mezar, men pes rahip, alşak,
+Íşín geze-geze konaman biazak.
+Ğúyrenş manastîrîñ sússúz, boş duwarî.
+
+Ey, kalpazan rahip! Yaparsîñ ne zaman
+Gamlî azaplarîñ tírí oyînîndan
+Kolîñ şalîştîrîp bír kóz sarhîşlîgî? — Le Mauvais moine
+Les cloîtres anciens sur leurs grandes murailles
+Etalaient en tableaux la sainte Vérité,
+Dont l'effet réchauffant les pieuses entrailles,
+Tempérait la froideur de leur austérité.
+
+En ces temps où du Christ florissaient les semailles,
+Plus d'un illustre moine, aujourd'hui peu cité,
+Prenant pour atelier le champ des funérailles,
+Glorifiait la Mort avec simplicité.
+
+- Mon âme est un tombeau que, mauvais cénobite,
+Depuis l'éternité je parcours et j'habite;
+Rien n'embellit les murs de ce cloître odieux.
+
+Ô moine fainéant! quand saurai-je donc faire
+Du spectacle vivant de ma triste misère
+Le travail de mes mains et l'amour de mes yeux?
+# Kambîr kîsmet
+Kótermege şonday miktar,
+Sisif, seníñ kúşúñ lázîm!
+Zahmet etsem beríp ğanîm,
+Sanat uzun, Zaman bek tar.
+
+Uzak şo mot mezarlarga,
+Kózlep saklî bír kabírstan,
+Eğel ğîrlap, sesí batkan
+Dawulday ğuregím ata.
+
+- Bek kóp ğewher-altîn ğata
+Unutulup karañgîda
+Kazmalardan alákasîz.
+
+Bek kóp şeşek peşmanlîkta
+Tatlî sîrlî músún şaşa
+Deren infiratta, ğañgîz. — Le Guignon
+Pour soulever un poids si lourd,
+Sisyphe, il faudrait ton courage!
+Bien qu'on ait du coeur à l'ouvrage,
+L'Art est long et le Temps est court.
+
+Loin des sépultures célèbres,
+Vers un cimetière isolé,
+Mon coeur, comme un tambour voilé,
+Va battant des marches funèbres.
+
+- Maint joyau dort enseveli
+Dans les ténèbres et l'oubli,
+Bien loin des pioches et des sondes;
+
+Mainte fleur épanche à regret
+Son parfum doux comme un secret 
+Dans les solitudes profondes.
+# Ğukağúrek kúnbatmasî
+Ne hoş, gúzel kúneş, temenneler erten
+Etíp infilaklî, taze-taze tuwsa.
+- Ne dewletlí insan, selam bere-alsa
+Batmasîna akşam, taa şereflí túşten.
+
+Onîñ kózlerínde ğúrektiy bayîlgan
+Şeşek, memba, ewlek kórdím… Akîlîmda!...
+- Ufuklarga şabîp, ğuwur, bek keş bola,
+Ğatîk bír kúntayak yakalayîk teran.
+
+Boşka karap turdum, Tăñrî tayîp túşe,
+Şahlîk yerleştíríp beğerúwğí Keşe,
+Kaltîrawga tolî, kara, kaytîk, şensíz. 
+
+Kabír ufúnetí ğalday karañgîda,
+Ğesaretsíz ayak sebír kenarînda
+Buruştura baka, salkîn-salkîn ğílbíz. — Le Coucher du soleil romantique
+Que le soleil est beau quand tout frais il se lève,
+Comme une explosion nous lançant son bonjour! 
+- Bienheureux celui-là qui peut avec amour 
+Saluer son coucher plus glorieux qu'un rêve!
+
+Je me souviens!... J'ai vu tout, fleur, source, sillon, 
+Se pâmer sous son oeil comme un coeur qui palpite... 
+- Courons vers l'horizon, il est tard, courons vite, 
+Pour attraper au moins un oblique rayon!
+
+Mais je poursuis en vain le Dieu qui se retire; 
+L'irrésistible Nuit établit son empire, 
+Noire, humide, funeste et pleine de frissons;
+
+Une odeur de tombeau dans les ténèbres nage, 
+Et mon pied peureux froisse, au bord du marécage, 
+Des crapauds imprévus et de froids limaçons.
+# Hoş korkî
+Óz kîsmetíñdiy kyor, topal,
+Karíp kókten, mor, neşesíz,
+Boş íşíñe ne oy-hayal
+Dalîp-tura? Ayt, telbewsíz.
+
+- Zúlmet karañgîga toymaz,
+Aş, gúwensíz şuphelerge,
+Ovit gibí îñgîrdamaz
+Nefiy ğanîm, ğennetlerge.
+
+Parşa-parşa ğîrtîk kókler
+Şalîmlarîm kaytîmlata.
+Bulut-bulut, kíyíp kara,
+
+Túşúmdekí ğenazeler.
+Ğarîk-ziya inikáaslar
+Ğehennemiy hoş zewuklar. — Horreur sympathique
+De ce ciel bizarre et livide,
+Tourmenté comme ton destin, 
+Quels pensers dans ton âme vide
+Descendent? réponds, libertin.
+
+- Insatiablement avide
+De l'obscur et de l'incertain,
+Je ne geindrai pas comme Ovide
+Chassé du paradis latin.
+
+Cieux déchirés comme des grèves
+En vous se mire mon orgueil;
+Vos vastes nuages en deuil
+
+Sont les corbillards de mes rêves,
+Et vos lueurs sont le reflet
+De l'Enfer où mon coeur se plaît.
 `;
