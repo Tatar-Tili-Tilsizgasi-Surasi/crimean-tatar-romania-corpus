@@ -776,4 +776,214 @@ Et que ton sang chrétien coulât à flots rythmiques,
 Comme les sons nombreux des syllabes antiques,
 Où règnent tour à tour le père des chansons,
 Phoebus, et le grand Pan, le seigneur des moissons.
+# Mîşîk
+Dúlber mîşîgîm, aşîk góñílíme
+Tîrnak şîgarmay kel, oynaş,
+Dalîp batayîm, gúzel kózleríñe
+Melez şînkîl man asîl taş.
+ 
+Mením parmagîm yawaş okşaganda
+Başîñ man esnek arkañnî,
+Kolîm begeníp ğúrek hoplaganda
+Uwup şagîlgan kewdeñní,
+
+Biykem ğoldaşîm, akîlîma kele
+Kózí senkíndiy, hoş haywan,
+Deren we salkîn, oktay ğarîp kese,
+
+Tap ayakkaşîk, hem baştan,
+Ğuka bír kokî, zorga atkan hawa
+Şewresínde uşup tura. — Le Chat
+Viens, mon beau chat, sur mon coeur amoureux;
+Retiens les griffes de ta patte,
+Et laisse-moi plonger dans tes beaux yeux,
+Mêlés de métal et d'agate.
+
+Lorsque mes doigts caressent à loisir
+Ta tête et ton dos élastique,
+Et que ma main s'enivre du plaisir
+De palper ton corps électrique,
+
+Je vois ma femme en esprit. Son regard,
+Comme le tien, aimable bête
+Profond et froid, coupe et fend comme un dard,
+
+Et, des pieds jusques à la tête,
+Un air subtil, un dangereux parfum
+Nagent autour de son corps brun.
+# Ewelkí hayatîm
+Kóp yaşadîm geñíş alakapî astî,
+Deñíz kúneşlerí biñ ateşler atkan,
+Bazalt koñgîlîna, keşe uşap kalgan,
+Yúksek, tík tíreklí, azametníñ dostî.
+
+Kókníñ yúzún sallap şalkalatkan dalga
+Zengín nakîşîndan kawuy úndewlerín,
+Kózímdekí batkan kúneş tús-renklerín,
+Sîrlî we tórenlí karîştîrîp tura.
+
+O yerde yaşadîm hilmiy, hoş hewesler,
+Şewket-debdebede, mawî dalgalarda,
+Tení mús kokîgan kóle arasînda.
+
+Mañlayîma ğellep yaprak ğelpazeler,
+Úyrenmege edí, bo kullarîñ dertí,
+Awurtuwğî sîrnî, kesetan hálímní. — La Vie antérieure
+J'ai longtemps habité sous de vastes portiques
+Que les soleils marins teignaient de mille feux,
+Et que leurs grands piliers, droits et majestueux,
+Rendaient pareils, le soir, aux grottes basaltiques.
+
+Les houles, en roulant les images des cieux,
+Mêlaient d'une façon solennelle et mystique
+Les tout-puissants accords de leur riche musique
+Aux couleurs du couchant reflété par mes yeux.
+
+C'est là que j'ai vécu dans les voluptés calmes,
+Au milieu de l'azur, des vagues, des splendeurs
+Et des esclaves nus, tout imprégnés d'odeurs,
+
+Qui me rafraîchissaient le front avec des palmes,
+Et dont l'unique soin était d'approfondir
+Le secret douloureux qui me faisait languir.
+# Mîşîklar
+Delí sewdalîlar, zahit, sert bílmatlî,
+Beretan súygúsún kelse kemallîkka
+Ğuwaş we kuwetlí úyğí mîşîklîkka,
+Ózleríne uşap salkîn, otîraklî.
+
+Ílím arkadaşî, dost nefsaniyetke,
+Karar istirahat mîşîk karañgîdan;
+Yapar edí aygîr, Erebus mîşîktan,
+Eger şalîmlîgîn alsa esaretke.
+
+Neğip turuş alîr onlar taşînganda,
+Ebúlkewúl gibí ğatîp ğañgîzlîkta,
+Dala-dala ketíp binihayet túşke;
+
+Múmbit kalşasînda tîlsîm ğîlpîldawlar,
+Altîn parşalarî, bír kum tozî, inğe,
+Kózlerínde azar, sîrlî kîzîldawlar. — Les Chats
+Les amoureux fervents et les savants austères
+Aiment également, dans leur mûre saison,
+Les chats puissants et doux, orgueil de la maison,
+Qui comme eux sont frileux et comme eux sédentaires.
+
+Amis de la science et de la volupté
+Ils cherchent le silence et l'horreur des ténèbres;
+L'Erèbe les eût pris pour ses coursiers funèbres,
+S'ils pouvaient au servage incliner leur fierté.
+
+Ils prennent en songeant les nobles attitudes
+Des grands sphinx allongés au fond des solitudes,
+Qui semblent s'endormir dans un rêve sans fin;
+
+Leurs reins féconds sont pleins d'étincelles magiques,
+Et des parcelles d'or, ainsi qu'un sable fin,
+Etoilent vaguement leurs prunelles mystiques.
+# Deren túşúnúw
+Bol akîllî, Ağîm, susup tur terakay,
+"Akşam kayda?" dedíñ, ána, boldî akşam,
+Bír karañgî hawa kasabanî oray,
+Bazîlarga raátlík, bazîlarga da gam.
+
+Alşak kalîmsîzga, bír ólímğí súrúw,
+Ağîmasîz ğellat Zewuk kamîşîndan,
+Bîzîk ziyafetten kalsa tek ókínúw,
+Ağîm, ber kolîñnî, kel ayîrî ğoldan.
+
+Kara ka-típ karay kókten ğamawlîlar
+Balkonlarga şîgîp, eskí-ólí Yîllar,
+Deren suwdan şîksa şo Peşmanlîk, yawaş.
+
+Yukusuna dalîp tajda kúneş ólgen,
+Kúntuwarnî tayîp baskan uzun kefen
+Sesín sesle! Ğúrer Keşe, ğuwaş-ğuwaş. — Recueillement
+Sois sage, ô ma Douleur, et tiens-toi plus tranquille.
+Tu réclamais le Soir; il descend; le voici:
+Une atmosphère obscure enveloppe la ville,
+Aux uns portant la paix, aux autres le souci.
+
+Pendant que des mortels la multitude vile,
+Sous le fouet du Plaisir, ce bourreau sans merci,
+Va cueillir des remords dans la fête servile,
+Ma Douleur, donne-moi la main; viens par ici,
+
+Loin d'eux. Vois se pencher les défuntes Années,
+Sur les balcons du ciel, en robes surannées;
+Surgir du fond des eaux le Regret souriant;
+
+Le soleil moribond s'endormir sous une arche,
+Et, comme un long linceul traînant à l'Orient,
+Entends, ma chère, entends la douce Nuit qui marche.
+# Dúşman
+Ğaşlîk şagîm zulmet boran gibí boldî,
+Ğîltîr kúneşlerge aşîk ara-sîra.
+Gúdúrtúler, ğawun, kîyametler koptî
+Ğemíşíme zarar beríp bakşalarda.
+ 
+Mína, ğettím endí, fikir kúzí kelgen,
+Kúrek men tîrnawuş kullanmaga kerek,
+Seller baskan ğerní toplap tegízlemek
+Ke suw şukur aştî, mezar kadar deren. 
+
+Selíñ topragînda, belkí de, kím bílír,
+Mením túşúmdekí ğañî bo şeşekler
+Sîrlî aşîn tabîp meriyetke kírer.
+
+- Aman, aman dertím! Zaman aşar ómír,
+Ğúrek te kemírgen bo karañgî Dúşman,
+Ósíp kuwetlene kayîp kanîmîzdan. — L'Ennemi
+Ma jeunesse ne fut qu'un ténébreux orage,
+Traversé çà et là par de brillants soleils;
+Le tonnerre et la pluie ont fait un tel ravage,
+Qu'il reste en mon jardin bien peu de fruits vermeils.
+
+Voilà que j'ai touché l'automne des idées,
+Et qu'il faut employer la pelle et les râteaux
+Pour rassembler à neuf les terres inondées,
+Où l'eau creuse des trous grands comme des tombeaux.
+
+Et qui sait si les fleurs nouvelles que je rêve
+Trouveront dans ce sol lavé comme une grève
+Le mystique aliment qui ferait leur vigueur?
+
+- Ô douleur! ô douleur! Le Temps mange la vie,
+Et l'obscur Ennemi qui nous ronge le coeur
+Du sang que nous perdons croît et se fortifie!
+# Akşam ne aytağaksîñ, karíp ğañgîz tînîm
+Akşam ne aytağaksîñ, karíp ğañgîz tînîm,
+Bírwakîtlar solîp sení ğanlandîrgan
+Mewla nazarlîga ne dersíñ, ğóñílím,
+Eñ kîymetlí ğanga, sení karşîlagan?
+ 
+- Taşlarmîz şalîmnî we maktawlar okîr:
+Onday ğuwaş heş yok, onîñ sózí geşer,
+Onîñ etí ruhiy, kókşe gibí kokîr,
+Kózí kewdemízní ziya, nur man órter.
+
+Ğañgîzlîkta bolsîn, karañgîda, keşe,
+Álem arasînda bolsîn, sokak-kóşe,
+Oynar kóríntísí alewdiy hawada. 
+
+Bazî aytîp: "Herkez bílsín emírímní,
+Mením katíríme súysún gúzellíkní,
+Melekmen we Dalmak we Meriyem Ana." — Que diras-tu ce soir, pauvre âme solitaire
+Que diras-tu ce soir, pauvre âme solitaire,
+Que diras-tu, mon coeur, coeur autrefois flétri,
+À la très belle, à la très bonne, à la très chère,
+Dont le regard divin t'a soudain refleuri?
+
+- Nous mettrons notre orgueil à chanter ses louanges:
+Rien ne vaut la douceur de son autorité
+Sa chair spirituelle a le parfum des Anges
+Et son oeil nous revêt d'un habit de clarté.
+
+Que ce soit dans la nuit et dans la solitude
+Que ce soit dans la rue et dans la multitude
+Son fantôme dans l'air danse comme un flambeau.
+
+Parfois il parle et dit: "Je suis belle, et j'ordonne
+Que pour l'amour de moi vous n'aimiez que le Beau;
+Je suis l'Ange gardien, la Muse et la Madone."
 `;
