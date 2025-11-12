@@ -318,4 +318,462 @@ Je connais les engins de son vieil arsenal:
 Crime, horreur et folie! - Ô pâle marguerite!
 Comme moi n'es-tu pas un soleil automnal,
 Ô ma si blanche, ô ma si froide Marguerite?
+# Heşbírwakît toymaz
+Keşe gibí esmer, kuğurday tañrîşa,
+Tútún men tabîrga  melezleşken músler,
+Ğadî faaliyetí, Faust kîlgan eser,
+Zulmet tîlsîmğîsî, abanozlî kalşa,
+
+Zerlí afiyonnî tartkanşîk íşíme,
+Íşermen ólmezlík suwnî awuzuñdan;
+Suwsuz saga kelsem hewes kerwanîndan
+Ekí kózíñ saka bola dertleríme. 
+
+Góñíl îñgîrtîsî ekí engin kózden
+Ey, ağîmaz iblis, azayt alew-şáwle!
+Tuwulman Styks suwî, ópmen dokîz kere.
+
+Ay, ğúgensíz, yapmam, bonî bazgeş menden,
+Ğesaretíñ kesíp, tutup bír kóşede,
+Bolmam Proserpina ğatak ğennemínde. — Sed non satiata
+Bizarre déité, brune comme les nuits,
+Au parfum mélangé de musc et de havane,
+Oeuvre de quelque obi, le Faust de la savane,
+Sorcière au flanc d'ébène, enfant des noirs minuits,
+
+Je préfère au constance, à l'opium, au nuits,
+L'élixir de ta bouche où l'amour se pavane;
+Quand vers toi mes désirs partent en caravane,
+Tes yeux sont la citerne où boivent mes ennuis.
+
+Par ces deux grands yeux noirs, soupiraux de ton âme,
+Ô démon sans pitié! verse-moi moins de flamme;
+Je ne suis pas le Styx pour t'embrasser neuf fois,
+
+Hélas! et je ne puis, Mégère libertine,
+Pour briser ton courage et te mettre aux abois,
+Dans l'enfer de ton lit devenir Proserpine!
+# Ğar
+Paskal kayda barsa bír ğar taşîr edí
+- Ğar herşiyden şîgar!  Íş, túş we meraktan,
+Walla! Kóterílíp tím-tík pîrpîzlaşkan
+Şáşlerímden kóp kez geşer Korkî ğelí.
+
+Yokar betí, aşa, heryer, derenlíkler,
+Índememe, korkînş, ğazibelí uzay…
+Alím parmak tartîp sîzîp tura Kuday,
+Keşe túpleríme, kóppíşímlí túşler.
+
+Korkaman yukudan, tolî úrkúntúge,
+Deren bír ğar gibí, barmaz heşbíryerge.
+Bútún terezede namútenahiyet.
+
+Başîm aylanmalar ğoklay da dolaşa,
+Ğar tuymamasîna şeg-almay kîzgana.
+- Ay! Şîkmasîz sakîn, Yaratîlgan-Adet! — Le Gouffre
+Pascal avait son gouffre, avec lui se mouvant. 
+- Hélas! tout est abîme, - action, désir, rêve, 
+Parole! Et sur mon poil qui tout droit se relève 
+Mainte fois de la Peur je sens passer le vent.
+
+En haut, en bas, partout, la profondeur, la grève, 
+Le silence, l'espace affreux et captivant...
+Sur le fond de mes nuits Dieu de son doigt savant 
+Dessine un cauchemar multiforme et sans trêve.
+
+J'ai peur du sommeil comme on a peur d'un grand trou,
+Tout plein de vague horreur, menant on ne sait où; 
+Je ne vois qu'infini par toutes les fenêtres,
+
+Et mon esprit, toujours du vertige hanté, 
+Jalouse du néant l'insensibilité.
+- Ah! ne jamais sortir des Nombres et des Êtres!
+# Tírí meşale
+Ziya tolî Kózler ğúreler aldîmda
+Alîp mîknatîslîk aydîn bír Melekten,
+Ğayaw ğúrúp maga veliy dogmîş bola,
+Kózím dalgalana elmazday ateşten.
+
+Heşbír kabaw-gúna kondîrmadan maga,
+Mení ğetkízdíríp dogrî Gúzellíkke,
+Olar mením kulum, kólemen olarga,
+Bolaman takipşí tírí meşalege. 
+
+Aziz Kózler sîrlî şaşarsîñîz ateş,
+Tîpkî kúpe-kúndúz ğanganday mayşîrak,
+Sízní kîzîldatsa, óttír-almaz kúneş.
+
+Mumlar ólím kutlar, síz tírílík, şafak,
+Ğîrlaysîz kayîrlap ruhka, ğanga alaz,
+Ke, yîldîzlar, heşbír kúneş sóndír-almaz. — Le Flambeau vivant
+Ils marchent devant moi, ces Yeux pleins de lumières,
+Qu'un Ange très savant a sans doute aimantés
+Ils marchent, ces divins frères qui sont mes frères,
+Secouant dans mes yeux leurs feux diamantés.
+
+Me sauvant de tout piège et de tout péché grave,
+Ils conduisent mes pas dans la route du Beau
+Ils sont mes serviteurs et je suis leur esclave
+Tout mon être obéit à ce vivant flambeau.
+
+Charmants Yeux, vous brillez de la clarté mystique
+Qu'ont les cierges brûlant en plein jour; le soleil
+Rougit, mais n'éteint pas leur flamme fantastique;
+
+Ils célèbrent la Mort, vous chantez le Réveil
+Vous marchez en chantant le réveil de mon âme,
+Astres dont nul soleil ne peut flétrir la flamme!
+# Eugène Delacroix'nîñ "Tasso mápíste" hakkînda
+Ozan mápísínde, karalmagan, kasta,
+Kolyazîsîn sílkken ayak man tîgîrta.
+Korkî ateşlegen bír nazardan ala
+Mestlík merdúwenní ke ğúregí dala.
+
+Sarhîşlatkan kúlúş ğertólege şaşa
+Añnî dawet etíp vahiy, manasîzga.
+Şúphe sargan onî. Şírkín, úlge-úlge,
+Kúldúrúwğí Korkî şewresínde ğúre.
+
+Bír kapalî dahiy maraz bír mallede,
+Betler, ókírúwler, súrúw-súrúw kólge,
+Burumlana yanîp kulak arkasînda,
+
+Bír túşkórer sakin korkuw man odada,
+Mína elametíñ, tuman túşlí Insan,
+Sení Uşun buwup dórt duwarga kîskan! — Sur "Le Tasse en prison" d'Eugène Delacroix
+Le poète au cachot, débraillé, maladif,
+Roulant un manuscrit sous son pied convulsif,
+Mesure d'un regard que la terreur enflamme
+L'escalier de vertige où s'abîme son âme.
+
+Les rires enivrants dont s'emplit la prison
+Vers l'étrange et l'absurde invitent sa raison;
+Le Doute l'environne, et la Peur ridicule,
+Hideuse et multiforme, autour de lui circule.
+
+Ce génie enfermé dans un taudis malsain,
+Ces grimaces, ces cris, ces spectres dont l'essaim
+Tourbillonne, ameuté derrière son oreille,
+
+Ce rêveur que l'horreur de son logis réveille,
+Voilà bien ton emblème, Âme aux songes obscurs,
+Que le Réel étouffe entre ses quatre murs!
+# Tînlî şafak
+Ak-gúl şafak atsa sefih-bîzîklarga
+Eşlík etíp oga kemírúwğí Emel,
+Întîkamğî ğumak iğra etíp amel
+Kaba yukusunda melek ayîndîra.
+
+Tînlî Şafaklarda koltiysetmez zenger,
+Túşler kóríp şekken ğîgîk insanlarga,
+Ğarîñ aldatuwğî ğemí men añşaya. 
+Şonday, aziz Periy, berrak Tuwum, enver,
+
+Haram kiyífíñ tuman atkan zawalîndan
+Seníñ yúzúñ taa bek mubin, pembe, şeker,
+Aşîk kózleríme ille oynay túşer.
+
+Mayşîragîñ nurî kúnden bek karargan;
+Demek, hep ğeñúwğí kólgeñ uşap kete,
+Ğalpîldawğî ğanîm, ólmez bír kúneşke. — L'Aube spirituelle
+Quand chez les débauchés l'aube blanche et vermeille
+Entre en société de l'Idéal rongeur,
+Par l'opération d'un mystère vengeur
+Dans la brute assoupie un ange se réveille.
+
+Des Cieux Spirituels l'inaccessible azur,
+Pour l'homme terrassé qui rêve encore et souffre,
+S'ouvre et s'enfonce avec l'attirance du gouffre.
+Ainsi, chère Déesse, Etre lucide et pur,
+
+Sur les débris fumeux des stupides orgies
+Ton souvenir plus clair, plus rose, plus charmant,
+À mes yeux agrandis voltige incessamment.
+
+Le soleil a noirci la flamme des bougies;
+Ainsi, toujours vainqueur, ton fantôme est pareil,
+Ame resplendissante, à l'immortel soleil!
+# Bír meraklînîñ túşí
+Feliks Nadar'ga
+
+Tattîñ mî, mendiy sen, ağîday bír nezzet?
+"Ay, kuğurlî insan!" ayttîñ mî, ózíñe?
+- Óle edím endí. Şahsiy bír habaset,
+Ístek-korkî karîş, aşîk góñílímde.
+
+Efkáar-koyî umut, heş idalaşmadan,
+Taa şalt suw akkanda eğel suw sáátínden,
+Taa ağîlî tatlî şegíp azabîmdan
+Koba edí ğúrek ózín álemínden.
+
+Bala gibí edím, temaşaga merak,
+Şeg-almay perdení tîpkî engel gibí…
+Soñda suwuk uşun, yúzún maruz ettí:
+
+Şaşîrmadan óldím, yaman-ğawuz şafak
+Ústúm ğabîp órttí. - Tek o kadar mî, ne?
+Perde kóterílgen, bekliy edím gene. — Le Rêve d'un curieux
+À Félix Nadar
+Connais-tu, comme moi, la douleur savoureuse
+Et de toi fais-tu dire: "Oh! l'homme singulier!"
+- J'allais mourir. C'était dans mon âme amoureuse
+Désir mêlé d'horreur, un mal particulier;
+
+Angoisse et vif espoir, sans humeur factieuse.
+Plus allait se vidant le fatal sablier,
+Plus ma torture était âpre et délicieuse;
+Tout mon coeur s'arrachait au monde familier.
+
+J'étais comme l'enfant avide du spectacle,
+Haïssant le rideau comme on hait un obstacle...
+Enfin la vérité froide se révéla:
+
+J'étais mort sans surprise, et la terrible aurore
+M'enveloppait. - Eh quoi! n'est-ce donc que cela?
+La toile était levée et j'attendais encore.
+# Talak
+Kîşîñ dinkalasî kîzîp kasabaga
+Ğañgîrdata kaptan kara ayaz, seller,
+Yakîn mezarlîktan tússúz yúzlí kalkka,
+Kenar mallelerge, eğel-ğenazeler.
+
+Tóşemede mîşîk yuwa karamakta,
+Zayîf, neğasetlí, án-yak-mín-yak gúrer;
+Úrek sesí alîp, kaltîragan, kasta,
+Kart ğîrawuñ tînî şaşaklîkta gezer.  
+
+Şañ ókíníp ğîlay, agaş tútep, otta,
+Sesí buwuk sáátke eşlík etíp şala.
+Şíşken bír ğadîdan veğiy bír veraset
+
+Kírlí kokî şaşkan oyîn kartlarînda
+Kîzîl tokmak oglan, tokmak kîzî, kara,
+Ólí sewdalardan eteler muhabbet. — Spleen
+Pluviôse, irrité contre la ville entière,
+De son urne à grands flots verse un froid ténébreux
+Aux pâles habitants du voisin cimetière
+Et la mortalité sur les faubourgs brumeux.
+
+Mon chat sur le carreau cherchant une litière
+Agite sans repos son corps maigre et galeux;
+L'âme d'un vieux poète erre dans la gouttière
+Avec la triste voix d'un fantôme frileux.
+
+Le bourdon se lamente, et la bûche enfumée
+Accompagne en fausset la pendule enrhumée
+Cependant qu'en un jeu plein de sales parfums,
+
+Héritage fatal d'une vieille hydropique,
+Le beau valet de coeur et la dame de pique
+Causent sinistrement de leurs amours défunts.
+# Sokîrlar
+Kara da tur, góñíl; Şírkínler, píşímsíz!
+Manekinler gibí; Bíraz kúldúrúwğí;
+Yuklar-gezer gibí karíp, úrkútúwğí;
+Nursuz kózşukurun tígíp isabetsíz.
+
+We kózlerí mahrum mewla ziyasîndan  
+Karap uzaklîkka, kóterúwlí kókke,
+Heşbírwakît túşmez kaldîrîmga, ğerge,
+Awur kafalarî, deren túşke dalgan.
+
+Soñsîz sessízlíkke kardaş, onlar geşer,
+Hatsîz karañgîdan; Ey kasaba, şeher!
+Şewremízde şalîp, kúlúp ókírgende
+
+Eglenğege batîp bogazîña kadar,
+Men, súrúnsem bírem, sarhîş sesím aytar:
+"Není karay sokîr, ğennet teşkergende?" — Les Aveugles
+Contemple-les, mon âme; ils sont vraiment affreux!
+Pareils aux mannequins; vaguement ridicules;
+Terribles, singuliers comme les somnambules;
+Dardant on ne sait où leurs globes ténébreux.
+
+Leurs yeux, d'où la divine étincelle est partie,
+Comme s'ils regardaient au loin, restent levés
+Au ciel; on ne les voit jamais vers les pavés
+Pencher rêveusement leur tête appesantie.
+
+Ils traversent ainsi le noir illimité,
+Ce frère du silence éternel. Ô cité!
+Pendant qu'autour de nous tu chantes, ris et beugles,
+
+Eprise du plaisir jusqu'à l'atrocité,
+Vois! je me traîne aussi! mais, plus qu'eux hébété,
+Je dis: Que cherchent-ils au Ciel, tous ces aveugles?
+# Arka búkmez
+Búrkúttiy atîlîp azgîn melek kókten
+Káfír şáşleríne kolîn ğabîştîra,
+Sílkíp te sólene: "Kayidení bílseñ
+(Korşalawğî melek bolaman men saga)
+
+Endí súymeñ kerek awuz kîyşatmadan,
+Kambîr man sarhîşlîk, yaman man pîkare,
+Ondan soñra toplap sewda man imandan
+Zafer halî tokî, Isa geşeğekte.
+
+Bodîr asîl súymek! Góñíl bezíp-buksa
+Hayret tutaştîrîp şúkúr et Alla'ga;
+Bodîr solmaz hewes, saglam nefsaniyet."
+
+Mahkúmiyet-súygí soñra salîp deñkke
+Koğa kolîn súrúp ğezalarîn síle;
+"Kerekmiy!" dep ayta lákin meñgí nálet. — Le Rebelle
+Un Ange furieux fond du ciel comme un aigle, 
+Du mécréant saisit à plein poing les cheveux, 
+Et dit, le secouant: "Tu connaîtras la règle! 
+(Car je suis ton bon Ange, entends-tu?) Je le veux!
+
+Sache qu'il faut aimer, sans faire la grimace, 
+Le pauvre, le méchant, le tortu, l'hébété,
+Pour que tu puisses faire à Jesus, quand il passe, 
+Un tapis triomphal avec ta charité.
+
+Tel est l'Amour! Avant que ton coeur ne se blase,
+À la gloire de Dieu rallume ton extase; 
+C'est la Volupté vraie aux durables appas!"
+
+Et l'Ange, châtiant autant, ma foi! qu'il aime, 
+De ses poings de géant torture 1'anathème;
+Mais le damné répond toujours: "Je ne veux pas!"
+# Akîlga tagîluw
+Yúksek kílse gíbí korkînşsîñ, şatîrtaw;
+Sen, erganun seslí; Nálet ğúregímíz,
+Eskí tabut sílkken, soñsîz ğaska otaw,
+Îñgîr niyazîña şîñlap tura dertsíz.
+
+Buktum senden, Dalay! Akîlîmda oynar
+Dulkun-dalgalarîñ; Zaptetílgen pelwan,
+Zarlî, sókken, ekşí kúlúşúne uşar
+Deñíz uwultusî, engin şarîldagan.
+
+Súyer edím, Keşe, bolgaydîñ yîldîzsîz,
+Sení, ke nur tílí maga kayet kolay!
+Boşlîk, şîpalaklîk, zulmet íşím karay!
+
+Lákin kólekeler bír tokîma, hatsîz,
+Onda biñlerğe bar nazarîmdan atkan,
+Añlayîşlî kózlí, ğokka şîkkan insan. — Obsession
+Grands bois, vous m'effrayez comme des cathédrales;
+Vous hurlez comme l'orgue; et dans nos coeurs maudits,
+Chambres d'éternel deuil où vibrent de vieux râles,
+Répondent les échos de vos De profundis.
+
+Je te hais, Océan! tes bonds et tes tumultes,
+Mon esprit les retrouve en lui; ce rire amer
+De l'homme vaincu, plein de sanglots et d'insultes,
+Je l'entends dans le rire énorme de la mer
+
+Comme tu me plairais, ô nuit! sans ces étoiles
+Dont la lumière parle un langage connu!
+Car je cherche le vide, et le noir, et le nu!
+
+Mais les ténèbres sont elles-mêmes des toiles
+Où vivent, jaillissant de mon oeil par milliers,
+Des êtres disparus aux regards familiers.
+# Koşîk saga berdím
+Koşîk saga berdím, atîm keleğekte
+Uzak kaytîmlarga dewletşe yaklaşsa,
+Insan miyín ğoklap gúzel túş yaşatsa,
+Kemí ğelkeñíne ğeller eseğekte,
+
+Kayîp bolgan atîñ, bír yalanğî masal,
+Bek bukturup salsa yorgîn okîwğunî,
+Sîrlî bír baglantî, aka-kardaş gibí
+O asîlîp kalsîn kafiyeme misal.
+
+Başî batsîn şonîñ, deren-deren ğardan
+Yúksek-yúksek kókke, ğewap al-almagan.
+- Ey geşúwğí íz, sen, ey kalîmsîz kólge,
+
+Ayak astî kalgan súrúwlerge óşek,
+Mátúw ólímğíden kórdíñ muhakkeme,
+Kara kózlí hewkel, ğez mañlaylî melek. — Je te donne ces vers afin que si mon nom
+Je te donne ces vers afin que si mon nom
+Aborde heureusement aux époques lointaines,
+Et fait rêver un soir les cervelles humaines,
+Vaisseau favorisé par un grand aquilon,
+
+Ta mémoire, pareille aux fables incertaines,
+Fatigue le lecteur ainsi qu'un tympanon,
+Et par un fraternel et mystique chaînon
+Reste comme pendue à mes rimes hautaines;
+
+Être maudit à qui, de l'abîme profond
+Jusqu'au plus haut du ciel, rien, hors moi, ne répond!
+- Ô toi qui, comme une ombre à la trace éphémère,
+
+Foules d'un pied léger et d'un regard serein
+Les stupides mortels qui t'ont jugée amère,
+Statue aux yeux de jais, grand ange au front d'airain!
+# Para kastasî dalmak
+Góñíl dalmagîm, ey! Saray hewesínde,
+Toñdîruwğî bora koparganda Oşak,
+Karlî keşeleríñ kara ófkesínde
+Tabarsîñ mî kómír, ğîlîtmaga ayak?
+
+Kelír mí hayatka mermer omîzlarîñ
+Bastîrmadan geşken keşe ziyasîndan?
+Tañlayday kurugan bolsa keseleríñ
+Toplarsîñ mî altîn mawî semalardan?
+
+Meğbursuñ akşamga aşamaga ótmek
+Popazday buwurluk sallay-sallay ğúrmek,
+Murunastî duwa aytîp abîk-sabîk,
+
+Ya sat seletíñní, tílbaz, kalknî aldat,
+Yaşlî kózíñ saklap kúlúşúñe karat,
+Kata-kata kalsîn kaba kalabalîk. — La Muse vénale
+Ô muse de mon coeur, amante des palais,
+Auras-tu, quand Janvier lâchera ses Borées,
+Durant les noirs ennuis des neigeuses soirées,
+Un tison pour chauffer tes deux pieds violets?
+
+Ranimeras-tu donc tes épaules marbrées
+Aux nocturnes rayons qui percent les volets?
+Sentant ta bourse à sec autant que ton palais
+Récolteras-tu l'or des voûtes azurées?
+
+II te faut, pour gagner ton pain de chaque soir,
+Comme un enfant de choeur, jouer de l'encensoir,
+Chanter des Te Deum auxquels tu ne crois guère,
+
+Ou, saltimbanque à jeun, étaler tes appas 
+Et ton rire trempé de pleurs qu'on ne voit pas,
+Pour faire épanouir la rate du vulgaire.
+# Kasta dalmak
+Aman, karíp dalmak, hálíñ ne bo saba?
+Şum kóríntísíne boş kózleríñ tolî.
+Kórdím, şagîm-şagîm yúzúñ kaytîmlata,
+Salkîn-salkîn, sessíz, delírmeler-korkî.
+
+Pembe oynak ğîrttan, yeşíl túş kaltagî,
+Tóktí mí sandîktan korkîzdîrma, sewda?
+Zalim, isiyanğî karatúşúñ kolî
+Minturnae'ge atîp battîñ mî şamîrda?
+
+Múslí saw nefesíñ kokîp, ğanîm ister,
+Kókíregíñ gezsín saglam túşúnğeler,
+Dindar-sofî kanîñ aksîn dalga-dalga
+
+Tartîm sesí gibí, kadmiy mîsralarda,
+Ğîr atasî Phoebus yapsîn húkúmdarlîk
+Bereketlí Pan man kurup ortakşîlîk. — La Muse malade
+Ma pauvre muse, hélas! qu'as-tu donc ce matin?
+Tes yeux creux sont peuplés de visions nocturnes,
+Et je vois tour à tour réfléchis sur ton teint
+La folie et l'horreur, froides et taciturnes.
+
+Le succube verdâtre et le rose lutin 
+T'ont-ils versé la peur et l'amour de leurs urnes?
+Le cauchemar, d'un poing despotique et mutin
+T'a-t-il noyée au fond d'un fabuleux Minturnes?
+
+Je voudrais qu'exhalant l'odeur de la santé
+Ton sein de pensers forts fût toujours fréquenté,
+Et que ton sang chrétien coulât à flots rythmiques,
+
+Comme les sons nombreux des syllabes antiques,
+Où règnent tour à tour le père des chansons,
+Phoebus, et le grand Pan, le seigneur des moissons.
 `;
