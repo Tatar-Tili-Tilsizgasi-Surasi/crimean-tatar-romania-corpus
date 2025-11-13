@@ -120,4 +120,34 @@ dak-taş adj. muntos.
 dak-taşgúlí s. (bot.) mălăoi (lat., Helianthemum alpestre; Helianthemum rupif ragum). 
 dak-tawugî s. (orn.) găiunuşă de alun; ieruncă (lat., Tetrastes bonasia; Bonasia bonasia). 
 daktay adj. cât un munte. //●daktay bír kíşí — un munte de om.
+daktilografiya s. dactilografiere. //●daktilografiya maşinasî — maşină de scris. 
+daktilografiyağî s. dactilografă. 
+daktilografiyalî adj. dactilografiat. 
+dak-tuzlîbalgamotî s. (bot.) vineriŃă; lavrentină (lat., Ajuga reptans). 
+daktúbí s. (geogr.) poalele munŃilor; depresiune. 
+dakyîldîzî s. (bot.) floare-de-colŃ; floarea-reginei; edelvais; albumeală (lat., Leontopodium alpin um). 
+dal I. num. 1. (mong.) şaptezeci. 2. (prsn.) zece. II. s. 1. creangă; cracă; ramură; ram; ciorchine. 2. (fig.) domeniu; branşă. 3. (anat.) membru; organ. 4. sucursală. // ●dalîna basmak — a călca pe cineva pe bătătură. ●míngen dalîn kesmek — a-şi tăia craca de sub picioare. // ●bír dalda turmaz — inconstant. ●erkeklík dalî — (anat.) penis. ●kurî dal — vreasc. ●narus dalî — cetină; creangă de brad. ●sanaye dalî — ramură industrială. 
+dala s. stepă. 
+dalatkan adj. ramificat; derivat. 
+dalatuw s. ramificaŃie; ramificare; derivaŃie; derivare. 
+dalay I. adj. oceanic; imens. II. s. ocean; imensitate. 
+dalayiy adj. oceanic; imens. 
+dalay-láma s. dalai-lama. 
+dalálet s. deviere; abatere. //●daláletke túşmek — a devia; a se abate (de la). 
+daldîrgan s. invadator; năvălitor. 
+daldîrîlgan adj. împânzit. 
+daldîrîp-kírílgen adj. ocupat; invadat; cotropit; năpădit. 
+daldîrma s. 1. invazie; invazie; împânzire; năvală; năvălire; năpădire. 2. (mil.) ocupaŃie. 
+daldîrmak v.t. 1. a scufunda; a cufunda; a afunda; a imersa. 2. a determina să dea iama; a determina să cotropească; a determina să invadeze; a determina să ocupe. 
+daldîruw s. 1. scufundare; cufundare; afundare; imersiune. 2. cotropire; invadare; ocupare. 
+daldîruwğî s. cotropitor; invadator; ocupant. 
+dalga s. 1. val; talaz. 2. (fiz.) unde. 3. ondulare; ondulaŃie; unduire. //●dalga tabuwğî — scală. ●dalga tízúwí — gamă de unde. ●dalga uzunlugî — lungime de undă. ●kabargan dalga — talaz; val mare. ●kayet kîska dalgalar — unde ultrascurte. ●kîska dalga — unde scurte. ●orta dalga — unde medii. ●patlama dalgasî — suflul exploziei. ●şagîlganmîknatîslî/elektro magnetik dalga — undă electromagnetică. ●ses dalgalarî — unde sonore. ●uzun dalga — unde lungi. 
+dalga-dalga adj. ondulat; cu ondulaŃii; cu valuri; valuri-valuri. 
+dalgakesken s. dig. 
+dalgalama s. 1. ondulare; unduire; fluturare. 2. învolburare. 
+dalgalandîrma s. unduire; fluturare. 
+dalgalandîrmak v.t. 1. a învolbura; a stârni valuri. 2. a ondula; a undui; a flutura. 
+dalgalandîruw s. unduire; fluturare. 
+dalgalangan adj. 1. învolburat. 2. ondulat; unduit; fluturat. 
+dalgalanma s. 1. ondulare; unduire; fluturare. 2. învolburare. 3. (nav.) hulă.
 `;
