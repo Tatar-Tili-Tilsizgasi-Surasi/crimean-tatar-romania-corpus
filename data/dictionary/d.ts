@@ -258,4 +258,93 @@ darkîtmak v.t. 1. a împrăştia; a dispersa; a risipi; a răvăşi. 2. a dizol
 darkîtuw s. 1. împrăştiere; dispersare; risipire; răvăşire. 2. dizolvare; descompunere. 
 darkîtuwğî I. adj. subversiv. II. s. dizolvant. 
 darkkan adj. 1. împrăştiat; dispersat; risipit; răvăşit; dezordonat; dezorganizat; deranjat; neorânduit. 2. dizolvat; descompus; disociat; dezagregat; disjuns.
+darkma s. 1. împrăştiere; dispersare; risipire; răvăşire. 2. dizolvare; descompunere; disociere; dezagregare; disjungere. 
+darkmak v.i. 1. a se împrăştia; a se dispersa; a se risipi; a se răvăşi. 2. a se dizolva; a se descompune; a se disocia; a se dezagrega; a se disjunge. 3. a se disocia. 
+darma-darkîn I. adj. 1. împrăştiat; dispersat; risipit; răvăşit; dezordonat; dezorganizat; deranjat; neorânduit; confuz. 2. dizolvat; descompus; disociat; dezagregat; disjuns. II. adv. alandala; anapoda; de-a valma; vraişte. 
+darp s. (fiz.) forŃă. 
+Darr, El- s. (relig., arab.) "Chinuitorul"; “Creatorul patimilor şi deznădejdii” (unul din cele 99 preafrumoase nume atribuite în Coran lui Dumnezeu/Allah). 
+Dartford'nîñ-ğeleşesí s. (orn.) silvie de tufiş (lat., Sylvia u ndata). 
+darúlağeze s. azil; cămin. 
+darúlfúnun s. universitate. //●darúlfúnun rektorî — rectorul universităŃii. ●darúlfúnun talebesí/úyrenğísí — student. ●darúlfúnun úyretmení — cadru didactic universitar. ●darúlfúnunga kírme şartlarî — condiŃii de admitere la universitate. ●darúlfúnunga yazîlma — înscriere la universitate. 
+darúlfúnundansoñ adj. post-universitar. 
+darúlkana I. adj. farmaceutic. II. s. farmacie; drogherie. 
+darúlkanabílímğísí s. farmacolog. 
+darúlkanabílímí s. farmacologie; farmaceutică. 
+darúlkanağî s. farmacist. 
+darúlkanağîlîk s. farmacie (ca ştiinŃă). 
+darvinğí s. darvinist. 
+darvinğílík s. darvinism. 
+dasitaniy adj. (lit.) epic. 
+davázdah num. (prsn.) doisprezece. 
+dawa s. 1. (jur.) proces; judecată. 2. (fig.) cauză; scop. 3. conflict; litigiu; controversă; dispută; ceartă. //●dawa aşmak — (jur.) a intenta un proces. ●dawa ikame etmek — (jur.) a intenta un proces. ●dawada hakklî şîkmak — (jur.) a i se da câştig de cauză. ●dawanî kaybetmek — (jur.) a pierde un proces. ●dawanî kazanmak — (jur.) a câştiga un proces. ●dawasîna barmak — a-şi atinge scopul. ●kan dawasî aşmak — a se răzbuna; a se revanşa. ●wahşiy/kyor dawa tutmak — a linşa. // ●dawa etken — (jur.) reclamant. ●dawa masîraplarî — cheltuieli de judecată. ●ğeza dawasî — (jur.) proces penal. ●hukuk dawasî — (jur.) proces civil. ●kan dawasî — vendetă; răzbunare. 
+dawaaşîlgan s. (jur.) reclamat; pârât. 
+dawaaşkan s. (jur.) reclamant; pârâtor. 
+dawaaşuw s. (jur.) intentare; pâră. 
+dawagabergen s. (jur.) reclamant; pârâtor. 
+dawagaberílgen s. (jur.) pârât; reclamat; învinuit. 
+dawağî s. (jur.) reclamant; petiŃionar. 
+dawalaşkan adj. (jur.) judecat. 
+dawalaşmak v.i. a se judeca; a se certa. 
+dawalî I. adj. litigios; în litigiu; disputabil; controversat. II. s. (jur.) inculpat. 
+dawalî-talaşlî adj. scandalos. 
+dawasîkararlaşmagan adj. (jur.) pendinte. 
+dawasîzóttírúw s. linşaj. 
+dawasîz-talaşsîz adj. liniştit; calm. 
+dawa-talaş s. scandal; încăierare; harŃă. // ●íşínde dawa-talaş kopmak — a se indigna; a se scandaliza; a se supăra; a se revolta. 
+dawawekílí s. avocat. 
+dawawekíllígí s. avovatură. 
+dawet s. invitaŃie; chemare; convocare. // ●dawet etmek — a invita; a convoca. // ●dawetíñíz úşún ğandan şúkúranlar! — mulŃumiri din suflet pentru invitaŃie!; ●dawetíñízge şúkúranlar! — mulŃumesc pentru invitaŃie!; 
+dawetetílgen adj. invitat; chemat; convocat. 
+dawetetme s. invitaŃie; chemare; convocare. 
+dawetiye s. 1. invitaŃie (scrisă). 2. (jur.) citaŃie. 
+dawetlí adj. poftit; invitat; chemat; convocat. 
+dawetname s. invitaŃie (scrisă). 
+dawetsíz adj. nepoftit; neinvitat; nechemat; neconvocat. 
+dawgan s. (zool.) marmotă (lat., Arctomys marmota). 
+dawka s. (iht.) somn-pitic (lat., Ameiurus nebulosus). 
+dawranîş s. 1. acŃiune; faptă. 2. comportare; conduită. 3. atitudine; poziŃie. // ●bo dawranîşnîñ karşîsînda şaştî — în faŃa acestei comportări a rămas uimit. ●ne şírkín bír dawranîş — ce comportare urâtă. ●osal dawranîş — comportare urâtă. 
+dawranmak v.i. 1. a acŃiona; a întreprinde. 2. a se comporta; a se purta. // ●suwuk dawranmak — a se purta cu răceală. ●temkinlí dawranmak — a fi ponderat. ●yakşî dawranmak — a se purta frumos. 
+dawul s. (muz.) tobă. // ●dawul şalmak — a bate toba. ●dawuldan kaşîp şokmarga tutulmak — a fugi de dracul şi a da de tată-său. ●sagîrga dawul şalmak — a bate toba la urechile surdului; a vorbi în zadar. // ●kulak dawulî — (anat.) timpan. 
+dawulğî s. (muz.) toboşar. 
+dawulkursak I. adj. burtos; pântecos. II. s. burtea. 
+Dawullî-Kóy s. (topon.) ("Toboşari") Darabani (jud. ConstanŃa). 
+dawulşalgan s. (muz.) toboşar. 
+dawul-zurna s. (muz.) tobă şi trompetă. 
+dawur s. (iht.) biban-soare; sorete; peşte-curcubeu (lat., Lepomis gibbosus). 
+dawuş s. sunet; răsunet; zgomot. //●binanîñ arkasîndan dawuşlar eşítíle — se aud sunete dinspre spatele clădirii. 
+dawuşlî adj. gălăgios; zgomotos. 
+dawuşsuz-sessíz adv. în linişte deplină. // ●dawuşsuz-sessíz otîrîñîz — staŃi în linişte deplină. 
+Dawut s. (antrop. m., arab.) David. 
+Dawut, Bey- s. (topon.) ("Domnul David") Beidaud (jud. Tulcea). 
+Dawutlar s. (topon., localitate desfiinŃată) Dautlar (jud. ConstanŃa). 
+day s. 1. unchi maternal. 2. (fig.) protector. // ●koñşînîñ dayîsî — unchiul vecinului. 
+daya s. 1. gheretă; chioşc; boxă; cabină. 2. şopron; umbrar; baracă; hangar. 
+dayangan I. adj. 1. rezistent (la ceva). 2. durabil; solid; trainic. 3. răbdător. II. s. rezistenŃă; suportare. 
+dayanganday adj. suportabil; tolerabil. 
+dayanîklî adj. consistent. 
+dayanîklîk s. rezistenŃă; consistenŃă. 
+dayanma s. rezistenŃă; împotrivire; tenacitate; răbdare; durabilitate. //●tezíkke dayanma — rezistenŃă la presiune. 
+dayanmagan adj. (d. oameni) nerezistent; fragil. 
+dayanmak v.i. 1. a rezista. 2. a suporta; a răbda. 
+dayanmama s. 1. lipsă de rezistenŃă; fragilitate. 2. intoleranŃă. 
+dayanmaz adj. 1. intolerant; nerăbdător. 2. nerezistent. 
+dayanuw s. trăinicie; rezistenŃă; tărie. 
+dayima adv. mereu; în permanenŃă; întotdeauna. 
+dayimiy adj. permanent; continuu; constatnt. // ●dayimiy ikametlík — domiciliu stabil. ●dayimiy rakam — (mat.) constantă. 
+dayimiyleşken adj. eternizat; imortalizat; permanentizat; perpetuat. 
+dayimiyleşme s. eternizare; imortalizare; permanentizare; perpetuare. 
+dayimiyleşmek v.i. a deveni constant; a se permanentiza; a se imortaliza. 
+dayimiyleştírílgen adj. permanentizat; imortalizat. 
+dayimiyleştírílmek v.i. a determina să devină constant; a fi permanentizat; a fi imortalizat. 
+dayimiyleştírmek v.t. a determina să devină constant; a permanentiza; a imortaliza. 
+dayimiyleştírúw s. permanentizare; imortalizare. 
+dayimiyleştírúwlí adj. permanentizat; imortalizat. 
+dayimiyleşúw s. eternizare; imortalizare; permanentizare; perpetuare. 
+dayimiylík s. permanenŃă; continuitate; constanŃă. 
+Dayin s. (antrop. m., arab.) "Cel care îndeamnă"; "Cel care îmbie" (unul din cele 400 de nume atribuite în Coran Profetului Muhammed Aliyselam). 
+dayir postp. despre; referitor la; cu privire la; în privinŃa…; 
+dayire s. 1. cerc; roată. 2. apartament. 3. birou; departament; resort. 4. dairea. 5. (fig.) cadru; mediu; sferă. // ●dayire başí — şef de birou. ●dayire ğayî — (mat.) arc de cerc. ●dayire kesmesí — (mat.) sector de cerc. ●dayire şewresí — (mat.) circumferinŃă. ●deñíştírme dayiresí — biroul de schimb valutar. ●ekí odalî dayire — apartament cu două camere. ●haleket dayiresí — birou de mişcare. ●istihbarat dayiresí — serviciu de informaŃii. ●kîdîruwğuluk dayiresí — birou de turism. ●kîtayiy dayire — (mat.) sector. ●saylam dayiresí — circumscripŃie electorală. ●uzunluk dayiresí — longitudine. 
+dayireleme s. rotunjire. 
+dayirelemek v.t. a rotunji. 
+dayirelengen adj. rotunjit.
 `;
