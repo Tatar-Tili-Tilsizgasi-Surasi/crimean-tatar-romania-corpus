@@ -150,4 +150,112 @@ dalgalandîrmak v.t. 1. a învolbura; a stârni valuri. 2. a ondula; a undui; a 
 dalgalandîruw s. unduire; fluturare. 
 dalgalangan adj. 1. învolburat. 2. ondulat; unduit; fluturat. 
 dalgalanma s. 1. ondulare; unduire; fluturare. 2. învolburare. 3. (nav.) hulă.
+dalgalanmak v.i. 1. a se învolbura. 2. a se ondula; a se undui; a se flutura. 
+dalgalanuw s. unduire; învolburare; fâlfâit. 
+dalgalaw s. 1. ondulare; unduire; fluturare. 2. învolburare. 
+dalgalî adj. 1. învolburat; cu valuri. 2. ondulat; unduit; fluturat. 3. (fiz.) alternativ. // ●dalgalî agîm — (electr.) curent alternativ. ●deñíz dalgalî — marea este agitată. 
+dalgan adj. (fig.) absorbit; cufundat. //●túşúnğege dalgan — cufundat în gânduri. 
+dalgaparlagan s. dig. 
+dalgasîz adj. 1. neondulat; neunduit; fără valuri; neted. 2. (fiz.) continuu. //●dalgasîz ğeriyan — (electr.) curent continuu. 
+dalgaşîk s. tildă. 
+dalgîn adj. 1. absent; distrat; preocupat; neatent. 2. somnolent; toropit (de somn). 3. gânditor; melancolic; visător. 
+dalgîn-dalgîn adv. preocupat; gânditor; melancolic; visător. 
+dalgînlaşkan adj. preocupat; gânditor; melancolic; visător. 
+dalgînlaşmak v.i. a deveni preocupat; a deveni gânditor; a deveni melancolic; a deveni visător. 
+dalgînlîk s. 1. absenŃă; distracŃie; neatenŃie; preocupare. 2. somnolenŃă; toropeală; moleşeală. 3. meditaŃie; melancolie; reverie. 
+dalgîş s. scafandru. 
+dalgîş, ak-tumşuklî- s. (orn.) cufundar cu cioc alb (lat., Gavia adamsii). 
+dalgîş, kalîn-tumşuklî- s. (orn.) corcodel cu cioc gros (lat., Podilymbus podiceps). 
+dalgîş, kara-moyînlî- s. 1. (orn.) cufundar polar (lat., Gavia arctica). 2. (orn.) corcodel cu gât negru (lat., Podiceps nigricollis). 
+dalgîş, kekeşlí- s. (orn.) corcodel mare; cufundar mare; bodârlău (lat., Podiceps cristatus). 
+dalgîş, kíşkene- s. (orn.) corcodel mic (lat., Tachybaptus ruficollis). 
+dalgîş, kîzîl-moyînlî- s. 1. (orn.) cufundar mic (lat., Gavia stellata). 2. (orn.) corcodel cu gât roşu (lat., Podiceps grisege na). 
+dalgîş, kulaklî- s. (orn.) corcodel de iarnă (lat., Podiceps au ritus). 
+dalgîşî, buz- s. (orn.) cufundar mare (lat., Gavia immer). 
+daliya s. (bot.) dalie; gherghină (lat., Dahlia cultoru m). 
+dalînabasîlgan adj. agasat; sâcâit. 
+dalînabaskan adj. agasant; sâcâitor. 
+dalînabasuw s. agasare; sâcâire. 
+dalkîlîş I. adv. cu sabia ridicată. II. s. sabie scoasă din teacă. 
+dallandîrmak v.t. a ramifica; a bifurca. 
+dallangan adj. ramificat; bifurcat. 
+dallanma s. ramificaŃie; bifurcaŃie. 
+dallanmak v.i. a se ramifica; a se bifurca. 
+dallanuw s. ramificaŃie; bifurcaŃie. 
+dallî adj. 1. rămuros; cu crengi. 2. (fig.) ramificat. 
+dallî-dallî adj. (d. un copac) stufos. 
+dalma s. 1. scufundare; cufundare; afundare; imersiune. 2. cotropire; invadare; ocupare. 
+dalmak v.i. 1. a se scufunda; a se cufunda; a se afunda; a imersa. 2. (fig.) a fi cufundat; a fi absorbit. 3. (d. bolnavi) a-şi pierde cunoştinŃa. 4. a da iama; a cotropi; a invada; a ocupa. //●tefekkúrge dalmak — a cădea pe gânduri. ●túşúnğelerge dalmak — a-l fura gândurile. ●yukuga dalmak — a-l fura somnul; a adormi; a aŃipi. // ●tawga daldî — s-a cufundat în pădure. ●yemekke daldîlar — au dat iama în mâncare. ●yúzúm kîrsîzlarî bakka daldîlar — hoŃii de struguri au dat iama în vie. 
+Dalmasiye-kortayî s. (orn.) pelican creŃ (lat., Pelecan us c rispus). 
+Dalmasiye-kutanî s. (orn.) pelican creŃ (lat., Pelecan us c rispus). 
+daltonkastalîgî s. daltonism. 
+daluw s. 1. scufundare; cufundare; afundare; imersiune. 2. cotropire; invadare; ocupare. 
+dam s. 1. grajd; staul; saivan. 2. pod (la casă). 
+dama s. damă (carte de joc). // ●dama oyînî — joc de dame. 
+damalî adj. (d. Ńesături) în carouri. 
+dan s. glorie; onoare; slavă. 
+Danimarka s. (topon.) Danemarka. 
+danimarkalî s., adj. danez. 
+daniş s., adj. danez. 
+danişçe I. adv. în limba daneză. II. s. (limba) daneză. 
+danlî adj. glorios; onorat; slăvit. 
+danlîk s. glorie; onoare; slavă. //●azatlîk ğolînda kayîp bolganlarga meñgí danlîk! — glorie veşnică celor ce au pierit pentru libertate!; 
+dans s. dans. // ●dans etmek — a dansa. // ●dans muzikasî — muzică de dans. ●men men dans etersíñ mí? — vrei să dansezi cu mine?; 
+dansşî s. 1. dansator. 2. dansatoare. 
+dantela s. dantelă. 
+dañga s. 1. marcă; semn. 2. fier înroşit; stigmat; danga. 
+dañgalama s. 1. (med.) cauterizare. 2. ardere cu fier înroşit; înfierare; stigmatizare. 
+dañgalamak v.t. 1. a arde cu fier înroşit; a înfiera; a stigmatiza; a pune danga. 2. (med.) a cauteriza. 
+dañgalangan adj. 1. ars cu fier înroşit; înfierat; stigmatizat. 2. (med.) cauterizat. 
+dañgalanmak v.i. 1. (med.) a se cauteriza. 2. a fi ars cu fier înroşit; a fi înfierat; a fi stigmatizat. 
+dañgalaw s. (med.) cauterizare. 
+dañgalî adj. 1. ars cu fier înroşit; înfierat; stigmatizat. 2. cauterizat. 
+dañgasîz adj. nestigmatizat. 
+dañgîrdagan adj. zăngănitor; zdrăngănitor. 
+dañgîrdama s. zăngănit; zdrăngănit. 
+dañgîrdamak v.i. a zăngăni; a zdrăngăni. 
+dañgîr-dañgîr interj. zdrang!; 
+dañgîrdatmak v.t. a determina zăngănitul; a determina zdrăngănitul. 
+dañgîrdaw s. zăngănit; zdrăngănit. 
+dañgîrdawğî adj. zăngănitor; zdrăngănitor. 
+dañgîr-duñgur interj. zdrang!; 
+dañgîrtî s. zăngănit; zdrăngănit. 
+dara adj. 1. singur. 2. sărac; sărman. 
+daragurt s. (bot.) mărar (lat., Anethum graveolens). 
+daragurtî, ayuw- s. (bot.) brioală; chimen-de-munte; chimenul-ursului; mărarul-ursului (lat., Ligusticum mutellina). 
+daralîk s. sărăcie; calicie. 
+darbe s. 1. lovitură; lovire. 2. percuŃie; pulsaŃie. // ●ğerime darbesí — (sport) lovitură de pedeapsă. ●húkúmet/dewlet darbesí — (pol.) lovitură de stat. ●saray darbesí — (pol.) lovitură de palat. 
+darb-î dewlet iz.prsn. (pol.) lovitură de stat. 
+darb-î ğerime iz.prsn. (sport) lovitură de pedeapsă. 
+darb-î húkúmet iz.prsn. (pol.) lovitură de stat. 
+darb-î mesel iz.prsn. proverb; zicală. 
+darb-î meseliy iz.prsn. proverbial. 
+darb-î saray iz.prsn. (pol.) lovitură de palat. 
+dargîn adj. supărat; amărât. 
+dargînlîk s. supărare; amărăciune. 
+dargînşeşek s. (bot.) mimoză; senzitivă (lat., Mimosa pudica). 
+darîlawuygan adj. supărăcios. 
+darîlawuyma s. arŃag; irascibilitate. 
+darîlgan adj. supărăcios. 
+darîlma s. supărare; iritare. 
+darîlmak v.i. a se supăra; a se necăji. 
+darîltkan adj. supărător; întristător. 
+darîltma s. necăjire; zgândărire; înfuriere. 
+darîltmak v.t. a supăra; a necăji; a amărî. 
+darîltuw s. necăjire; zgândărire; înfuriere. 
+darîltuwğî adj. supărător. 
+darîluw s. întristare; supărare. 
+darkam s. disjungere; disociere. 
+darkîlgan adj. 1. dizolvat; descompus; disociat; dezagregat; disjuns. 2. împrăştiat; dispersat; risipit; răvăşit; dezordonat; dezorganizat; deranjat; neorânduit. 
+darkîlma s. 1. dizolvare; descompunere; disociere; dezagregare; disjungere. 2. împrăştiere; dispersare; risipire; răvăşire. 
+darkîlmak v.i. 1. a se dizolva; a se descompune; a se disocia; a se dezagrega; a se disjunge. 2. a se împrăştia; a se dispersa; a se risipi; a se răvăşi. 3. a se disocia. 
+darkîluw s. 1. dizolvare; descompunere; disociere; dezagregare; disjungere. 2. împrăştiere; dispersare; risipire; răvăşire. 
+darkîm s. 1. dizolvare; dispersare; descompunere; disociere; dezagregare; disjungere. 2. (fiz.) fisiune. 
+darkîn adj. 1. împrăştiat; dispersat; risipit; răvăşit; dezordonat; dezorganizat; deranjat; neorânduit. 2. dizolvat; descompus; disociat; dezagregat; disjuns. 
+darkîtîlgan adj. (la jocul de cărŃi) servit. 
+darkîtma s. 1. împrăştiere; dispersare; risipire; răvăşire. 2. dizolvare; descompunere. 
+darkîtmak v.t. 1. a împrăştia; a dispersa; a risipi; a răvăşi. 2. a dizolva; a descompune; a disocia; a dezagrega; a disjunge. 
+darkîtuw s. 1. împrăştiere; dispersare; risipire; răvăşire. 2. dizolvare; descompunere. 
+darkîtuwğî I. adj. subversiv. II. s. dizolvant. 
+darkkan adj. 1. împrăştiat; dispersat; risipit; răvăşit; dezordonat; dezorganizat; deranjat; neorânduit. 2. dizolvat; descompus; disociat; dezagregat; disjuns.
 `;
