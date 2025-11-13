@@ -57,4 +57,67 @@ dagîtmak v.t. 1. a dispersa; a împrăştia. 2. a împărŃi; a distribui. 3. a
 dagîtuwğî I. adj. 1. distributiv. 2. subversiv. II. s. 1. (d. persoane) difuzor; distribuitor. 2. dizolvant. 
 dagma s. 1. bordei; bojdeucă; colibă. 2. cocioabă; coşmelie; magherniŃă. 
 dahil I. adv. 1. înăuntru; în interior; în cadrul. 2. inclusiv. II. s. interior; partea interioară. // ●dahil bolmak — a face parte din; a aparŃine. // ●úğretke dahil — inclus în preŃ.
+dahilen adv. (med.) pe cale bucală. 
+dahiliy adj. intern; interior. //●dahiliy mektúp — scrisoare internă. 
+dahiliye s. 1. ministerul afacerilor interne. 2. (med.) boli interne. 3. permis de intrare. 4. introducere. 
+dahillík s. apartenenŃă; includere. 
+dahiy I. adj. genial. II. s. geniu. 
+dahiyane adv. genial; în mod genial. 
+dahiyğe adv. genial; în mod genial. 
+dahiylík s. genialitate. 
+dak I. adj. muntean; muntenesc; dacic. II. s. 1. munte. 2. muntean; dac. //●bo daklar arasînda bír kóy bar — între aceşti munŃi este un sat. ●dak bogazî — pas; defileu; strâmtoare. ●dak eşkísí — capră-neagră. ●dak etegí — poalele muntelui. ●dak kadar ópkem bar — am o supărare cât un munte. ●dak kîlîşî — creasta muntelui. ●dak kókíregí/yamaşî — versant de munte. ●dak kólí/nawurî — iezer. ●dak otlagî — păşune alpină. ●dak ozîşlarî — (sport) discipline alpine. ●dak sílsílesí — lanŃ de munŃi. ●dak tóbesí — vârf de munte; culme de munte. ●daknîñ yúkseklígí — înălŃimea muntelui. ●sîra daklar — lanŃ de munŃi. ●yúksek dak — munte înalt. 
+Dak, Baba- s. (topon., munte, localitate) ("Muntele Paternal") Babadag (jud. Tulcea). 
+dak-ateşotî s. (bot.) vetricea; piretru (lat., Ch rysanthem um alpin um; Tanacetum alpinu m). 
+dak-bódenesí s. (orn.) prepeliŃă de munte (lat., Oreo rtyx pictus). 
+dakçî I. adj. muntean; muntenesc; dacic. II. s. muntean; dac. 
+Dakçî s. (antrop. m.) Dacian (“Munteanul”); 
+dak-dere adj. muntos. 
+dak-dolaşasî s. (orn.) stăncuŃă alpina (lat., Pyrrhoco rax gracul us). 
+dak-eşkísí s. (zool.) capră-neagră (lat., Rupicapra rupicapra). 
+dak-gúmúştúymesí s. (bot.) vetricea; piretru (lat., Ch rysanthem um alpinum; Ta nacetum alpinu m). 
+dak-ğadîragî s. (orn.) fâsă de munte (lat., Anthus spinoletta). 
+dak-ğawunkuşî s. (orn.) prundăraş de munte (lat., C harad rius morinellus). 
+dak-ğumurankulagî s. (bot.) cornuŃ-de-munte (lat., Ce rastium alpinum). 
+dak-ğumuşkasî s. (bot.) bărcoace (lat., Cotoneaster integerrima). 
+dak-îşanî s. (zool.) hamster; hârciog (lat., C ricetus cricetus). 
+dakka s. minut. // ●bír buşuk dakka — un minut şi jumătate. ●bírkaş dakkada agardî — în câteva minute a albit. ●kîyîn dakkalar — minute grele. ●onbeş dakka ewel kettí — a plecat acum cincisprezece minute. ●tren mínda bír dakka toktay — trenul stă aici un minut. ●uşak on dakkadan konîp keleğek — avionul va ateriza peste zece minute. ●yarîm dakka — o jumătate de minut. 
+dakkada adj. instant; la minut. 
+dak-kadîsî s. (bot.) jep; jneapăn (lat., Pinus m u go). 
+dakkakolî s. (la ceas) minutar. 
+dak-kalampîrî s. (bot.) garofiŃă-de-munte (lat., Dianthus compactus). 
+dak-karanfilí s. (bot.) garofiŃă-de-munte (lat., Dianthus compactus). 
+dak-katîrtîrnagî s. (bot.) drob-de-munte (lat., Cytisus hi rsutus). 
+dak-kîskamahmutotî s. (bot.) dumbeŃ-de-munte; jugărel-de-munte; spulberătură-de-munte (lat., Teuc rium montanum). 
+dak-kîzîlkuyrugî s. (orn.) codroş de munte; codroş negru (lat., Phoenicu ru s oc hru ros). 
+dak-korazbaşî s. (bot.) dulcişor; cap-de-cocoş (lat., Hedysarum obscurum). 
+dak-korîngasî s. (bot.) dulcişor; cap-de-cocoş (lat., Hedysarum obscurum). 
+daklaraşasî adj. subalpin. 
+dak-lálesí s. (bot.) dediŃei; adormiŃele (lat., Pulsatilla montana). 
+daklî I. adj. 1. bădăran; necioplit. 2. muntean; muntenesc; dacic. II. s. 1. muntean; dac. 2. rigă (carte de joc). 
+daklîk s. teren muntos. 
+daklîk-derelík s. zonă muntoasă. 
+daklîk-şayîrlîk adj. zonă muntoasă. 
+daklîk-taşlîk s. zonă muntoasă. 
+dak-menewşesí s. (bot.) toporaş; viorea; micşunea-de-munte (lat., Viola alpina). 
+dak-mezeliyesí s. (bot.) micsandră-de-munte (lat., Erysimum officinalis). 
+dak-míñgírlegí s. (orn.) frunzăriŃă de munte (lat., Hippolais languida). 
+dak-muşmulasî s. (bot.) bărcoace (lat., Cotoneaster integerrima). 
+dak-sarîkaşî s. (orn.) pitulice de munte (lat., Phylloscopus bonelli). 
+dak-sodîrgayî s. (orn.) brumăriŃă de stâncă (lat., Prunella colla ris). 
+dak-surkarlîgaşî s. (orn.) drepnea mare (lat., Apus melba; Tachyma rptis melba). 
+dak-suwtorgayî s. (orn.) prundăraş de munte (lat., Charadrius morinellus). 
+dak-şamî s. (bot.) jep; jneapăn (lat., Pinus mugo). 
+dakşañî s. (bot.) genŃiană; ghinŃură (lat., Gentiana sp.). 
+dakşañî, mawî- s. (bot.) genŃiană-albastră; ghinŃură-albastră; corovatic; lumânărica-pământului (lat., Gentiana asclepiadea). 
+dakşañî, sarî- s. (bot.) genŃiană-galbenă; ghinŃură-galbenă (lat., Gentiana lutea). 
+dakşayî s. (bot.) încheietoare (lat., Sideritis montana). 
+dak-şayîr adj. muntos. 
+dak-şáwkesí s. (orn.) stăncuŃă alpina (lat., Pyrrhoco rax gracul us). 
+dak-şímşígesí s. (orn.) piŃigoi de munte (lat., Parus montanus; Poecile montana). 
+dakşî s. alpinist. 
+dakşîlîk s. alpinism. 
+dak-taş adj. muntos. 
+dak-taşgúlí s. (bot.) mălăoi (lat., Helianthemum alpestre; Helianthemum rupif ragum). 
+dak-tawugî s. (orn.) găiunuşă de alun; ieruncă (lat., Tetrastes bonasia; Bonasia bonasia). 
+daktay adj. cât un munte. //●daktay bír kíşí — un munte de om.
 `;
