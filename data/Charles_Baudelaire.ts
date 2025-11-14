@@ -1196,4 +1196,442 @@ Vos vastes nuages en deuil
 Sont les corbillards de mes rêves,
 Et vos lueurs sont le reflet
 De l'Enfer où mon coeur se plaît.
+# Úrek
+Melek bolîp, kózí al-kan,
+Kaytarman odaña toran,
+Sessíz awarman sen betke
+Keşe tayganday kóleke.
+
+Saga tagarman, esmerím,
+Ayday salkîn erínlerím
+Bír de ğîlan sîypamasî
+Mezarlarîñ dolaşmasî.
+
+Erten kelse, kurşunday hoş,
+Ğoklap yerím tabarsîñ boş,
+Soñra suwuk bolîr hawa. 
+
+Ğuwaşlîknî etíp alat
+Ístiyler ğaşlîgîñ, hayat.
+Mením tarzîm - korkîzdîrma. — Le Revenant
+Comme les anges à l'oeil fauve,
+Je reviendrai dans ton alcôve
+Et vers toi glisserai sans bruit
+Avec les ombres de la nuit;
+
+Et je te donnerai, ma brune,
+Des baisers froids comme la lune
+Et des caresses de serpent
+Autour d'une fosse rampant.
+
+Quand viendra le matin livide,
+Tu trouveras ma place vide,
+Où jusqu'au soir il fera froid.
+
+Comme d'autres par la tendresse,
+Sur ta vie et sur ta jeunesse,
+Moi, je veux régner par l'effroi.
+# Dewletlí ólí
+Ğílbízlerge tolî, maylî bír toprakta,
+Kazar edím ózím deren-deren hendek,
+Ğamkózdiy dalgada yuklap unutmakta, 
+Hewesíme kóre uzatayîm súyek.
+
+Şeg-almayman miras, şeg-almayman mezar;
+Ğîlap bír kózyaşî ğalbarmay álemden
+Taayiy sawlugumda kelsínler kargalar,
+Agîzdîrsîn kanîm kírlí bo kewdemden.
+
+Sagîr-kózsíz ğoldaş, kurtluk, ey! Bír ólí
+Dogrî saga kele, azat we dewletlí!
+Kurî felsefeğí, şúrúk, piş zadesí,
+
+Peşman heş bolmadan ğemdegímní ğoklap,
+Kalgan bolsa, sen ayt, heş eziyet-azap,
+Bo kart mewta úşún, leşler ğenazesí. — Le Mort joyeux
+Dans une terre grasse et pleine d'escargots
+Je veux creuser moi-même une fosse profonde,
+Où je puisse à loisir étaler mes vieux os
+Et dormir dans l'oubli comme un requin dans l'onde.
+
+Je hais les testaments et je hais les tombeaux;
+Plutôt que d'implorer une larme du monde,
+Vivant, j'aimerais mieux inviter les corbeaux
+À saigner tous les bouts de ma carcasse immonde.
+
+Ô vers! noirs compagnons sans oreille et sans yeux,
+Voyez venir à vous un mort libre et joyeux;
+Philosophes viveurs, fils de la pourriture,
+
+À travers ma ruine allez donc sans remords,
+Et dites-moi s'il est encor quelque torture
+Pour ce vieux corps sans âme et mort parmi les morts!
+# Ólgen soñ peşmanlîk
+Karargan gúzelím, yukuñ yuklaganda
+Serdabe túbúnde, kara mermerlerden,
+Bom-boş şukuruñdan, kaytîk ğertóleñden
+Tóşek men sarayîñ tutup yapkanîñda,
+
+Korkak kókíregíñ basîp ezgen taşlar
+Sîgarlar raátlengen inğe kalşalarîñ,
+Attîrmadan ğúrek we tîşawlap ğanîñ,
+Ğúrúş-eglenğege ayaklarîñ baylar.
+
+Kayriymútenáhiy túş sîrdaşîm, kabír
+(Kabír ozanlarnî illa seslep añlar)
+Uzun we yukusuz keşe boyî aytar:
+
+"Ólí ókíníşín bílmiy geştíñ ómír,
+Mínlí-eksík ğanay, şúndí neñe yarar?"
+- Peşman gibí teníñ kurt kemíríp aşar. — Remords posthume
+Lorsque tu dormiras, ma belle ténébreuse,
+Au fond d'un monument construit en marbre noir,
+Et lorsque tu n'auras pour alcôve et manoir
+Qu'un caveau pluvieux et qu'une fosse creuse;
+
+Quand la pierre, opprimant ta poitrine peureuse
+Et tes flancs qu'assouplit un charmant nonchaloir,
+Empêchera ton coeur de battre et de vouloir,
+Et tes pieds de courir leur course aventureuse,
+
+Le tombeau, confident de mon rêve infini
+(Car le tombeau toujours comprendra le poète),
+Durant ces grandes nuits d'où le somme est banni,
+
+Te dira: "Que vous sert, courtisane imparfaite,
+De n'avoir pas connu ce que pleurent les morts?"
+- Et le ver rongera ta peau comme un remords.
+# Mezar
+Kyor-karañgî bír keşede 
+Dindar insanlardan bírsí
+Ağîp enkazlîkka kómse
+O maktalgan ğenazeñní,
+
+Yalşan yîldîz tam şo sáátler
+Awur-awur kóz ğumganda,
+Ğîlîm óríp órímğekler
+Gúrze yapar kíşke bala;
+
+Ğeza tartkan baş ústúnden
+Sene boyî awaz uşar,
+Ulup-ulup boz kaşkîrlar,
+
+Pis ğadîlar, aşlîk şekken,
+Bîzgîn kartlar, telbegesíz,
+Fitne kurgan kara kîrsîz. — Sépulture
+Si par une nuit lourde et sombre
+Un bon chrétien, par charité,
+Derrière quelque vieux décombre
+Enterre votre corps vanté,
+
+À l'heure où les chastes étoiles
+Ferment leurs yeux appesantis,
+L'araignée y fera ses toiles,
+Et la vipère ses petits;
+
+Vous entendrez toute l'année
+Sur votre tête condamnée
+Les cris lamentables des loups
+
+Et des sorcières faméliques,
+Les ébats des vieillards lubriques
+Et les complots des noirs filous.
+# Korkînş museviyge yakîn kalîp keşe
+Korkînş museviyge yakîn kalîp keşe
+Ekí ğansîz gibí ğatîp ğeset-ğeset,
+Satlîk kewdesíne tutup koñşî nispet,
+Túşúndúm kaybetken kederlí gúzelge.
+
+Tuwma azametí keldí akîlîma,
+Ğanlî we kuwetlí, ğazibelí kózí,
+Gúzel kokî taşîp topîz-topîz şáşí,
+Sewda meragîmnî bírtaa ğanlandîra.
+
+Ateş óbúwlerím seríp bay kewdege,
+Kara şáşleríñe suwuk ayagîndan,
+Ğayar edím okşaw asîl kaznasîndan,
+
+Ağîmasîz katun, sen tek bír keşege
+Salkîn kózleríñden bír yaş agîzdîrsañ,
+Balk-balk ğîltîrîmnî teran dumanlatsañ. — Une nuit que j'étais près d'une affreuse Juive
+Une nuit que j'étais près d'une affreuse Juive,
+Comme au long d'un cadavre un cadavre étendu,
+Je me pris à songer près de ce corps vendu
+À la triste beauté dont mon désir se prive.
+
+Je me représentai sa majesté native,
+Son regard de vigueur et de grâces armé,
+Ses cheveux qui lui font un casque parfumé,
+Et dont le souvenir pour l'amour me ravive.
+
+Car j'eusse avec ferveur baisé ton noble corps,
+Et depuis tes pieds frais jusqu'à tes noires tresses
+Déroulé le trésor des profondes caresses,
+
+Si, quelque soir, d'un pleur obtenu sans effort
+Tu pouvais seulement, ô reine des cruelles!
+Obscurcir la splendeur de tes froides prunelles.
+# Ekí yakîn kîz kardaşî
+Ólím men Bîzgînlîk ekí hoş kîzbala
+Óbíşmede ğumart, kayet selametlí,
+Kalşalarî erden, eskí-eskí urba,
+Bala tuwurmagan, meñgí zahmet ğúklí.
+
+Ğehennemge láyîk, az ódelgen asker,
+Korantaga dúşman bela ozanlarga,
+Tewbe tanîmagan bír ğataknî iter
+Sarmaşîklar astî, mezar man kerkana.
+
+Yaman-yaman sefa, korkînş eglenğeler,
+Sîra man kaptîra múmbit bo káfírler,
+Ekí yakîn kardaş, ğatak man kapîrşak.
+
+Kírlí, mení kaşan kómersíñ, Bîzgînlîk?
+Onîñ murt dalîna, ey rakibí, sasîk,
+Ólím kaşanlarga ker añdîzîñ ğalak? — Les Deux bonnes soeurs
+La Débauche et la Mort sont deux aimables filles,
+Prodigues de baisers et riches de santé,
+Dont le flanc toujours vierge et drapé de guenilles
+Sous l'éternel labeur n'a jamais enfanté.
+
+Au poète sinistre, ennemi des familles,
+Favori de l'enfer, courtisan mal renté,
+Tombeaux et lupanars montrent sous leurs charmilles
+Un lit que le remords n'a jamais fréquenté.
+
+Et la bière et l'alcôve en blasphèmes fécondes
+Nous offrent tour à tour, comme deux bonnes soeurs,
+De terribles plaisirs et d'affreuses douceurs.
+
+Quand veux-tu m'enterrer, Débauche aux bras immondes?
+Ô Mort, quand viendras-tu, sa rivale en attraits,
+Sur ses myrtes infects enter tes noirs cyprès?
+# Pîkareler ólímí
+Góñíl algan ólím, way! yaşatkan da o;
+Tek muteber umut we ómírde maksat
+Ke, ólmezlík suwî, zerlep tursatkan, o,
+We akşamga kadar zahmetlerge takat;
+
+Karda-kîşta, buzda, bora man ğîltîray,
+Kaltîr-kaltîr ğarîk kara ufuklarda,
+Kitaplarda geşken mot bír kerwansaray,
+Toktap konmak múmkin, aşap toya-toya;
+
+Yukî man ğazibe túşúñ sîrîn bílgen,
+Ğarlî-şîpalakka tóşek ázírlegen,
+Mîknatîslî parmak, o bír melayike.
+
+Sîr taşîgan orîk, Tañrîlarga izzet,
+Pîkarege kese, kadîm bír memleket,
+Aşîk kalgan kapî tanîlmagan Kókke. — La Mort des pauvres
+C'est la Mort qui console, hélas! et qui fait vivre;
+C'est le but de la vie, et c'est le seul espoir
+Qui, comme un élixir, nous monte et nous enivre,
+Et nous donne le coeur de marcher jusqu'au soir;
+
+À travers la tempête, et la neige, et le givre,
+C'est la clarté vibrante à notre horizon noir
+C'est l'auberge fameuse inscrite sur le livre,
+Où l'on pourra manger, et dormir, et s'asseoir;
+
+C'est un Ange qui tient dans ses doigts magnétiques
+Le sommeil et le don des rêves extatiques,
+Et qui refait le lit des gens pauvres et nus;
+
+C'est la gloire des Dieux, c'est le grenier mystique,
+C'est la bourse du pauvre et sa patrie antique,
+C'est le portique ouvert sur les Cieux inconnus!
+# Sewdalîlar ólímí
+Ğataklarîmîz ğeñgíl mús kokîr,
+Mezarday deren tutarmîz divan,
+Hoş sema astî tek bízge aşkan,
+Kuğurlî şeşek keştemíz taşîr.
+
+Soñ sîğaklarîn ozîşîp alîr,
+Ğúreklerímíz, engin meşale,
+Ruhlarîmîzga, egíz piyale,
+Koşak ziyalar kuyulup kalîr.
+
+Mawî-pembelí akşam sîrînda
+Tek şagîmlaşîp óz aramîzda
+Dermíz elveda tartîp kókírek.
+
+Lekelí ayna, ólí ateşler,
+Aralap kapî soñra tazeler
+Kúlúmsúregen sofî bír melek. — La Mort des amants
+Nous aurons des lits pleins d'odeurs légères,
+Des divans profonds comme des tombeaux,
+Et d'étranges fleurs sur des étagères,
+Ecloses pour nous sous des cieux plus beaux.
+
+Usant à l'envi leurs chaleurs dernières,
+Nos deux coeurs seront deux vastes flambeaux,
+Qui réfléchiront leurs doubles lumières
+Dans nos deux esprits, ces miroirs jumeaux.
+
+Un soir fait de rose et de bleu mystique,
+Nous échangerons un éclair unique,
+Comme un long sanglot, tout chargé d'adieux;
+
+Et plus tard un Ange, entr'ouvrant les portes,
+Viendra ranimer, fidèle et joyeux,
+Les miroirs ternis et les flammes mortes.
+# Ğogetúw
+Yakînîmda toktamay Şaytan şabalana;
+Tutulmagan hawaday etrafîmda ğalday;
+Onî ğutup tuyaman, ğígerímní ğaga
+We ebediy ístek men taksiratnî ğayray. 
+
+Bílíp ke men beremen hoş sanatka ğúrek,
+Bazî kírer kadînday gúzel bír ğehetke,
+Aldatuwğî sebep men bo pezemenk bóğek
+Alîştîra erín men tílím pes şerbetke.
+
+Şay-típ mení ala da Tañrî man boşata,
+Nefes al-almay, zor man, yorgîn bola-kala,
+Taşlay mení Melal man Bukkun boş şóllerde.
+
+Añlamagan kózím men karaganda atar,
+Aşîk-kanlî ğara man urba, kír íşínde,
+Ğogetúwğí zewzek te, kanlî edevatlar. — La Destruction
+Sans cesse à mes côtés s'agite le Démon;
+II nage autour de moi comme un air impalpable;
+Je l'avale et le sens qui brûle mon poumon
+Et l'emplit d'un désir éternel et coupable.
+
+Parfois il prend, sachant mon grand amour de l'Art,
+La forme de la plus séduisante des femmes,
+Et, sous de spécieux prétextes de cafard,
+Accoutume ma lèvre à des philtres infâmes.
+
+II me conduit ainsi, loin du regard de Dieu,
+Haletant et brisé de fatigue, au milieu
+Des plaines de l'Ennui, profondes et désertes,
+
+Et jette dans mes yeux pleins de confusion
+Des vêtements souillés, des blessures ouvertes,
+Et l'appareil sanglant de la Destruction!
+# Meğnun
+Kúneş yúzún órttí bír túl, bír mahrama.
+Sen de, ğanîm Ayîm, kólekege oral,
+Ğatîp sígara íş, bol karañgî, bol lal,
+Dalîp deren-deren Melal ğarlarîna.
+
+Şonday súydúm sení! Búgún ístep, amma,
+Yîldîzday şîkmaga baskan nimzulmetten,
+Tím-tík entíkmege delí oygan yerden,
+Árúw! Gúzel kama, şîk kabîñdan, atla!
+
+Ateşlendír kózíñ lámba alewúnden!
+Kaba kózge de ber kaber heweslerden!
+Dewletsíñ sen maga, maraz, egeştirer;
+
+Ístegeníñdiy bol, kara keşe, al tañ;
+Bútún kewde-beden, vuğutumda teller
+Ğîlap-ğîlap ayta: Ey súygúlúm, Şaytan! — Le Possédé
+Le soleil s'est couvert d'un crêpe. Comme lui,
+Ô Lune de ma vie! emmitoufle-toi d'ombre
+Dors ou fume à ton gré; sois muette, sois sombre,
+Et plonge tout entière au gouffre de l'Ennui;
+
+Je t'aime ainsi! Pourtant, si tu veux aujourd'hui,
+Comme un astre éclipsé qui sort de la pénombre,
+Te pavaner aux lieux que la Folie encombre
+C'est bien! Charmant poignard, jaillis de ton étui!
+
+Allume ta prunelle à la flamme des lustres!
+Allume le désir dans les regards des rustres!
+Tout de toi m'est plaisir, morbide ou pétulant;
+
+Sois ce que tu voudras, nuit noire, rouge aurore;
+II n'est pas une fibre en tout mon corps tremblant
+Qui ne crie: Ô mon cher Belzébuth, je t'adore!
+# Derenlíkten ğîladîm
+Kaálbím dalgan kara derenlíkten, Senden,
+Tek súygením, insaf tílep túştúm tízge.
+Korkî man kargîşlar ğaldar keşesínde,
+Ufuklarî kurşun, kara-boz bír evren.
+
+Îssîz bír kún sarkar ústte yarî sene,
+Altî ay karañgî bútún ğerní basa;
+Kutup buğagîndan taa boştîr bo ulka
+- Ne yeşíllík, haywan, ne taw, ğîlga, dere. 
+
+Ke yok dúniyada korkî, kan toñdîrgan,
+Suwuk, ağîmasîz buz kúneşí kadar,
+Eskí Nizamsîzlîk, engin keşe kadar.
+
+Kúñlermen, suklanîp alşak haywanlardan,
+Şaşma yukularga dalgan súrúwlerden,
+Zaman tomalagî yawaş serílgenden. — De profundis clamavi
+J'implore ta pitié, Toi, l'unique que j'aime,
+Du fond du gouffre obscur où mon coeur est tombé.
+C'est un univers morne à l'horizon plombé,
+Où nagent dans la nuit l'horreur et le blasphème;
+
+Un soleil sans chaleur plane au-dessus six mois,
+Et les six autres mois la nuit couvre la terre;
+C'est un pays plus nu que la terre polaire
+- Ni bêtes, ni ruisseaux, ni verdure, ni bois!
+
+Or il n'est pas d'horreur au monde qui surpasse
+La froide cruauté de ce soleil de glace
+Et cette immense nuit semblable au vieux Chaos;
+
+Je jalouse le sort des plus vils animaux
+Qui peuvent se plonger dans un sommeil stupide,
+Tant l'écheveau du temps lentement se dévide!
+# Ğewaplaşmalar
+Tuwa bír tapînak, tíreklerí tírí,
+Añlaşîlmaz sózler bazda-bír kaşîrgan.
+Yakîn kózín tígíp onî abaylagan
+Ímge tawlarîndan ótíp geşer kíşí.
+
+Uzaklardan melez uzun kaytawazlar
+Bír karañgî ğîyîn, deren toplantîga,
+Geñíş keşelerge, engin ğarîklarga
+Renk, kokîlar, sesler ğewaplaşîp turar.
+
+Bala etí gibí, bazî kokî taze,
+Mera gibí yeşíl, zurna gibí tatlî,
+- Bazî kokî maylî, zengín we şalîmlî,
+
+Soñsîzlîkka uzap yaparlar muğize:
+Sarîember, buwur, asîlşîra, ğupar,
+Bonlar ruh man tuyuw kóşmesínde ğîrlar. — Correspondances
+La Nature est un temple où de vivants piliers
+Laissent parfois sortir de confuses paroles;
+L'homme y passe à travers des forêts de symboles
+Qui l'observent avec des regards familiers.
+
+Comme de longs échos qui de loin se confondent
+Dans une ténébreuse et profonde unité,
+Vaste comme la nuit et comme la clarté,
+Les parfums, les couleurs et les sons se répondent.
+
+II est des parfums frais comme des chairs d'enfants,
+Doux comme les hautbois, verts comme les prairies,
+- Et d'autres, corrompus, riches et triomphants,
+
+Ayant l'expansion des choses infinies,
+Comme l'ambre, le musc, le benjoin et l'encens,
+Qui chantent les transports de l'esprit et des sens.
+# Ğanağîsîñ alkimiyasî
+Bírsíñ ateşínden aşîk-aydîn hikmet 
+Başkasîndan, Tuwa, kara kíysetmesí!
+Bírsíñ mañlayînda: Mezar Kitabesí!
+Başkasînda yazar: Sawluk, Yaşaw, Şewket!
+ 
+Sîrlî Hermes, boldîñ maga yardîm, omîz,
+Ey, sensíñ ğúregím sallatîp úrkútken,
+Ey, sensíñ Midas man mení bírdiy etken,
+Altîn sîrîn aşkan karíp, eñ ogîrsîz.
+
+Men altîndan temír yaparman sayeñde
+Ğennem de ğennetten ğanîm ístegende;
+Tabarman saklangan bír súyúmlí mewta
+
+Ufuktakî biyaz bulut kefenínde,
+Semalarîñ kîyuw, kenar ğagasîna
+Kurarman koş-koğa tabut, ortasîna.
 `;
