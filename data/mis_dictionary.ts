@@ -1,4 +1,5 @@
 export const misDictionaryRawText: string = `
+Beyğe s. Beijing, China. 
 çm s. (abreviere pentru „çentimetre” = centimetru) cm
 dinozor s. dinozaur.
 Ğadîlar Bayramî s. Halloween.
