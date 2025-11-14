@@ -1633,5 +1633,40 @@ Tabarman saklangan bír súyúmlí mewta
 
 Ufuktakî biyaz bulut kefenínde,
 Semalarîñ kîyuw, kenar ğagasîna
-Kurarman koş-koğa tabut, ortasîna.
+Kurarman koş-koğa tabut, ortasîna. — Alchimie de la douleur
+L'un t'éclaire avec son ardeur,
+L'autre en toi met son deuil, Nature!
+Ce qui dit à l'un: Sépulture!
+Dit à l'autre: Vie et splendeur!
+
+Hermès inconnu qui m'assistes
+Et qui toujours m'intimidas,
+Tu me rends l'égal de Midas,
+Le plus triste des alchimistes;
+
+Par toi je change l'or en fer
+Et le paradis en enfer;
+Dans le suaire des nuages
+
+Je découvre un cadavre cher,
+Et sur les célestes rivages
+Je bâtis de grands sarcophages.
+# Sanatşîlar ólímí
+Túşúk mañlayîñnî, gamlî şîraysîzlîk,
+Taa kaş kere óbíp şaldîrayîm şañnî?
+Isabetke alîp sîrlî tabiyatnî
+Atîp kaybetiyím taa kaş ok, ey, oklîk?
+
+Ğîgîp-ğagarmîz bíz awur kîrşawlîknî,
+Şalîştîrîrmîz ruh ğuka tasarîda,
+Ğennemdiy meraktan kózler yaşlanganda
+Siyír eteğekte azim şo Barlîknî.
+
+Kara-kuğur Bólím, tek bír umut tartar,
+Bazî kíşí, tapî, Tañrî tanîmadan,
+Bír de kókírekler, mañlay takîldatkan,
+
+Ímlí, bek sógílgen, nálet hewkeltraşlar.
+Ke yerleşíp ólím, ğañî kúneş gibí,
+Şeşek-şeşek atar onîñ míyíñ túbí.
 `;
