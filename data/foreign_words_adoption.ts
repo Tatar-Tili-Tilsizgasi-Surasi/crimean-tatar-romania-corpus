@@ -12,11 +12,13 @@ Word end -ţie/-ţia becomes -siya: operaţie → operasiya
 Word end -gen because -ğen: oxygen → oksiğen
 Word end -niu (-nium) because -niyum: seleniu → seleniyum
 Word end -tic becomes -tik: sceptic → sçeptik
-Word end -că becomes -ka: sciatică → sçiyatika
+Word end -că/-ză becomes -ka/-za: sciatică → sçiyatika, criză → kriza
 Word end -eu/-au becomes -ew/-aw: croşeu → kroşew
 Word end -filie becomes -filiya: xenofilie → ksenofiliya
 Word end -fobie becomes -fobiya: xenofobie → ksenofobiya
 Word end -fob becomes -fop: xenofob → ksenofop
+Word end -iu because -iyus: crochiu → krokiyus
+Word end -cism becomes -çism: criticism → kritiçism 
 Word with -ce/-ci because -çe/-çi: sceptic → sçeptik, social → soçiyal
 Word with -ge/-gi because -ğe/-ği
 
