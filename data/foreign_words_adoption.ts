@@ -3,6 +3,24 @@ export const foreignWordsAdoptionInfo: string = `
 The Adoption of foreign words:
 Note: The letters B, D, G, Ğ, I, Ó, U, Ú, V typically do not occur as the final letter of a word (with some exceptions: "ald" and "dad"). Word-initial Ñ ñ is dissonant (no words begin with it).
 
+How to get the Romanian loans:
+Word end -logia becomes -loğiya: biologia → biyoloğiya
+Word end -logic becomes -loğik: ontologic → ontoloğik
+Word end -cium becomes -çiyum: calcium → kalçiyum
+Word end -tiv becomes -tif: operativ → operatif
+Word end -ţie/-ţia becomes -siya: operaţie → operasiya
+Word end -gen because -ğen: oxygen → oksiğen
+Word end -niu (-nium) because -niyum: seleniu → seleniyum
+Word end -tic becomes -tik: sceptic → sçeptik
+Word end -că becomes -ka: sciatică → sçiyatika
+Word end -eu/-au becomes -ew/-aw: croşeu → kroşew
+Word edn -filie becomes -filiya: xenofilie → ksenofiliya
+Word end -fobie becomes -fobiya: xenofobie → ksenofobiya
+Word end -fob becomes -fop: xenofob → ksenofop
+Word with -ce/-ci because -çe/-çi: sceptic → sçeptik, social → soçiyal
+Word with -ge/-gi because -ğe/-ği
+
+Other:
 Word end -b becomes -p: Bob → Bop
 Word end -d becomes -t: Sand → Sant
 Word end -g becomes -k: ping-pong → pink-ponk
@@ -15,12 +33,6 @@ Word end -jiang becomes -ğa: Xinjiang → Şînğa
 Word end -ia (in country names) becomes -iye: California → Kaliforniye
 
 
-Word end -logy becomes -loğiya: biology → biyoloğiya
-Word edn -logic becomes -loğik: ontologic → ontoloğik
-Word end -cium becomes -çiyum: calcium → kalçiyum
-Word end -tive becomes -tif: operative→ operatif
-Word end -tion becomes -siya: operation → operasiya
-Word end -gen because -ğen: oxygen → oksiğen
 
 Examples:
 
