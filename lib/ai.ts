@@ -7,6 +7,7 @@ import {
     CRIMEAN_TATAR_RO_VOWEL_HARMONY_INFO,
     CRIMEAN_TATAR_RO_EXAMPLES
 } from '../data/promptData';
+import { foreignWordsAdoptionInfo } from '../data/foreign_words_adoption';
 
 const ai = new GoogleGenAI({ apiKey: process.env.API_KEY });
 
@@ -59,6 +60,7 @@ Your goal is to produce translations that are authentically Dobrujan, strictly a
 ${CRIMEAN_TATAR_RO_ORTHOGRAPHY_INFO}
 ${CRIMEAN_TATAR_RO_SCT_DT_SUMMARY_INFO}
 ${CRIMEAN_TATAR_RO_VOWEL_HARMONY_INFO}
+${foreignWordsAdoptionInfo}
 
 ### REFERENCE EXAMPLES:
 ${CRIMEAN_TATAR_RO_EXAMPLES}
