@@ -4,11 +4,13 @@ Introduction: The loan words from Arabic and Persian are mostly adopted in authe
 Example: Çekiye (not Şekiye!), kalçiyum (not kalşiyum!), soçiyalism (not soçiyalísm, soşîyalísm or different!).
 
 In Crimean Tatar (Standard) most of the loans are from Russian or Ukrainian, in Crimean Tatar (Romania) the loans are from Romanian.
+DON'T USE RUSSIAN OR UKRAINIAN LOANS FROM STANDARD CRIMEAN TATAR!
 
 Why to use loans?
 To have more modern terms.
-Examples: enerğiya, paşaport, ultraviyolet, pyúre, ultimatum, uroloğiya, botanika, hidrodinamika, hipnoza, hiyeroglifa, hokey, meç, imperiyalism, katalok, kategoriya, katalizator, ofsayit, ofis, oktaf (octavă), budism, eksotism, ekspert
+Examples: enerğiya, paşaport, ultraviyolet, pyúre, ultimatum, uroloğiya, botanika, hidrodinamika, hipnoza, hiyeroglifa, hokey, meç, imperiyalism, katalok, kategoriya, katalizator, ofsayit, ofis, oktaf (octavă), budism, eksotism, ekspert, çokolata
 
+milk chocolate → sútlí çokolata 
 soccer match → futbol meçí
 botanic energy → botanika enerğiyasî
 Romanian passport → ruman paşaportî
@@ -16,6 +18,7 @@ Romanian passport → ruman paşaportî
 Which kind or which one of loans words (Romanian loans) to use?
 Terms wich do not exist in the language, example ençiklopediya (enciclopedie)
 Try to use loans if you don't know the Dobrujan Tatar translation, don't create made up terms. Like if you dont have translation for dinosaur don't create word like "korkînş kertenkele", get the loan from Romanian, in this case dinozaur → dinozawîr
+This includes all branches of terms, like people, animals, countries, cities, scientific terms, technology, arts, beliefs, etc...
 
 
 The Adoption of foreign words:
