@@ -23,6 +23,11 @@ Chicago → Çikago
 Texas → Teksas
 Austin → Awustin
 Peru → Peruw
+Equator (the country) → Ekwador
+Fiji → Fijiy
+Finland → Finlant
+Guinea-Bissau → Gúyne-Bissaw
+Djibouti → Ğibutiy
 John → Jan
 Mihai → Mikayil
 David → Dawut
