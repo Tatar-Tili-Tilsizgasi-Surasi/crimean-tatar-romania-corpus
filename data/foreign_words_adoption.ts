@@ -26,12 +26,13 @@ Word end -gen because -ğen: oxygen → oksiğen
 Word end -niu (-nium) because -niyum: seleniu → seleniyum
 Word end -tic becomes -tik: sceptic → sçeptik
 Word end -că/-ză becomes -ka/-za: sciatică → sçiyatika, criză → kriza
-Word end -eu/-au becomes -ew/-aw: croşeu → kroşew
 Word end -filie becomes -filiya: xenofilie → ksenofiliya
 Word end -fobie becomes -fobiya: xenofobie → ksenofobiya
 Word end -fob becomes -fop: xenofob → ksenofop
 Word end -iu because -iyus: crochiu → krokiyus
 Word end -cism becomes -çism: criticism → kritiçism 
+Word end -ia (in country names) becomes -iye: California → Kaliforniye
+Word with -eu/-au becomes -ew/-aw: croşeu → kroşew
 Word with -ce/-ci because -çe/-çi: sceptic → sçeptik, social → soçiyal
 Word with -ge/-gi because -ğe/-ği
 
@@ -43,10 +44,6 @@ Word end -ğ (English: -ge) becomes -j: George → Ğorj
 Word end -i becomes -iy: Gavarni → Gavarniy, Bali → Baliy
 Word end -u becomes -uw or -úw (depends on vowel harmony): Eminescu → Emineskúw
 Word end -v becomes -f or -w.
-
-Word end -jiang becomes -ğa: Xinjiang → Şînğa
-Word end -ia (in country names) becomes -iye: California → Kaliforniye
-
 
 
 Examples:
