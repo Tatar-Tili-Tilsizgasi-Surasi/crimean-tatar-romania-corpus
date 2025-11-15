@@ -14,7 +14,7 @@ Word end -niu (-nium) because -niyum: seleniu → seleniyum
 Word end -tic becomes -tik: sceptic → sçeptik
 Word end -că becomes -ka: sciatică → sçiyatika
 Word end -eu/-au becomes -ew/-aw: croşeu → kroşew
-Word edn -filie becomes -filiya: xenofilie → ksenofiliya
+Word end -filie becomes -filiya: xenofilie → ksenofiliya
 Word end -fobie becomes -fobiya: xenofobie → ksenofobiya
 Word end -fob becomes -fop: xenofob → ksenofop
 Word with -ce/-ci because -çe/-çi: sceptic → sçeptik, social → soçiyal
