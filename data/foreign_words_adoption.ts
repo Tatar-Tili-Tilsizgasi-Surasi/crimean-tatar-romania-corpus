@@ -14,6 +14,14 @@ Word end -v becomes -f or -w.
 Word end -jiang becomes -ğa: Xinjiang → Şînğa
 Word end -ia (in country names) becomes -iye: California → Kaliforniye
 
+
+Word end -logy becomes -loğiya: biology → biyoloğiya
+Word edn -logic becomes -loğik: ontologic → ontoloğik
+Word end -cium becomes -çiyum: calcium → kalçiyum
+Word end -tive becomes -tif: operative→ operatif
+Word end -tion becomes -siya: operation → operasiya
+Word end -gen because -ğen: oxygen → oksiğen
+
 Examples:
 
 Dalmatia → Dalmasiye
