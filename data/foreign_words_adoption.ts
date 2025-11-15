@@ -41,9 +41,12 @@ Word end -fob becomes -fop: xenofob → ksenofop
 Word end -iu because -iyus: crochiu → krokiyus
 Word end -cism becomes -çism: criticism → kritiçism 
 Word end -ia (in country names) becomes -iye: California → Kaliforniye
+Word end -iune becomes -iyon: televiziune → televiziyon
 Word with -eu/-au becomes -ew/-aw: croşeu → kroşew
-Word with -ce/-ci because -çe/-çi: sceptic → sçeptik, social → soçiyal
-Word with -ge/-gi because -ğe/-ği
+Word with -ce/-ci becomes -çe/-çi: sceptic → sçeptik, social → soçiyal
+Word with -ge/-gi becomes -ğe/-ği
+
+The letter ţ becomes s: ţar → sar
 
 Other:
 Word end -b becomes -p: Bob → Bop
