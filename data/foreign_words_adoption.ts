@@ -18,7 +18,7 @@ Which kind or which one of loans words (Romanian loans) to use?
 Terms wich do not exist in the language, example ençiklopediya (enciclopedie)
 Try to use loans if you don't know the Dobrujan Tatar translation, don't create made up terms. Like if you dont have translation for dinosaur don't create word like "korkînş kertenkele", get the loan from Romanian, in this case dinozaur → dinozawî
 Many country and city names in Crimean Tatar (Romania) are from Romanian,  don't create made up terms. Like if you dont have translation for Spain don't create word like "Ispaniya", get the loan from Romanian, in this case Spania → Spaniye
-Example: Norveğiye, Belğiye, Poloniye, Slovakiye, Sloveniye, Somaliye, Spaniye, Tanzaniye, Úyken-Britaniye, Viyetnam, Antiguwa man Barbut, Arğentina, Şarkiy-Timor...
+Example: Norveğiye, Belğiye, Poloniye, Slovakiye, Sloveniye, Somaliye, Spaniye, Tanzaniye, Úyken-Britaniye, Viyetnam, Antiguwa man Barbut, Arğentina, Şarkiy-Timor, Meksika...
 Example: polonğa, slovakşa, slovenğe, somaliyğe, spaniyolğa, viyetnamğa
 
 
@@ -42,6 +42,7 @@ Word end -iu because -iyus: crochiu → krokiyus
 Word end -cism becomes -çism: criticism → kritiçism 
 Word end -ia (in country names) becomes -iye: California → Kaliforniye
 Word end -iune becomes -iyon: televiziune → televiziyon
+Word end -ng becomes -nk: miting → mitink
 Word with -eu/-au becomes -ew/-aw: croşeu → kroşew
 Word with -ce/-ci becomes -çe/-çi: sceptic → sçeptik, social → soçiyal
 Word with -ge/-gi becomes -ğe/-ği
