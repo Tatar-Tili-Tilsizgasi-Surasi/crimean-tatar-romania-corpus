@@ -11,6 +11,14 @@ Word end -i becomes -iy: Gavarni → Gavarniy, Bali → Baliy
 Word end -u becomes -uw or -úw (depends on vowel harmony): Eminescu → Emineskúw
 Word end -v becomes -f or -w.
 
+Slavic names:
+Kralski → Kîralskiy
+Frenski → Fírenskiy
+Peterov → Peterow
+
+Chinese names:
+Word end -jiang becomes -ğa: Xinjiang → Şînğa
+
 Examples:
 
 California → Kaliforniye
