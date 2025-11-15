@@ -1,5 +1,8 @@
 
 export const foreignWordsAdoptionInfo: string = `
+Introduction: The loan words from Arabic and Persian are adopted in authentic language, while the other words from other languages (like European languages) are written in academic language.
+Example: Çekiye (not Şekiye!), kalçiyum (not kalşiyum!).
+
 The Adoption of foreign words:
 Note: The letters B, D, G, Ğ, I, Ó, U, Ú, V typically do not occur as the final letter of a word (with some exceptions: "ald" and "dad"). Word-initial Ñ ñ is dissonant (no words begin with it).
 
