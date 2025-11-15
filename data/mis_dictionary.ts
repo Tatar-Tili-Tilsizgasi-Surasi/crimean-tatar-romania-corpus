@@ -2,7 +2,6 @@ export const misDictionaryRawText: string = `
 Awustin s. (topon.) Austin.
 Çikago s. Chicago.
 çm s. (abreviere pentru „çentimetre” = centimetru) cm
-dinozor s. dinozaur.
 Fukuşima s. (topon.) Fukushima, Japan.
 Ğadîlar Bayramî s. Halloween.
 Kaliforniye s. (topon.) California.
