@@ -12,6 +12,7 @@ Word end -u becomes -uw or -úw (depends on vowel harmony): Eminescu → Eminesk
 Word end -v becomes -f or -w.
 
 Word end -jiang becomes -ğa: Xinjiang → Şînğa
+Word end -ia becomes -iye: California → Kaliforniye
 
 Examples:
 
