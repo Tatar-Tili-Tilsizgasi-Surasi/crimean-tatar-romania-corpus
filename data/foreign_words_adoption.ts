@@ -4,7 +4,6 @@ Introduction: The loan words from Arabic and Persian are mostly adopted in authe
 Example: Çekiye (not Şekiye!), kalçiyum (not kalşiyum!), soçiyalism (not soçiyalísm, soşîyalísm or different!).
 
 In Crimean Tatar (Standard) most of the loans are from Russian or Ukrainian, in Crimean Tatar (Romania) the loans are from Romanian.
-DON'T USE RUSSIAN OR UKRAINIAN LOANS FROM STANDARD CRIMEAN TATAR!
 
 Why to use loans?
 To have more modern terms.
@@ -18,7 +17,7 @@ Romanian passport → ruman paşaportî
 Which kind or which one of loans words (Romanian loans) to use?
 Terms wich do not exist in the language, example ençiklopediya (enciclopedie)
 Try to use loans if you don't know the Dobrujan Tatar translation, don't create made up terms. Like if you dont have translation for dinosaur don't create word like "korkînş kertenkele", get the loan from Romanian, in this case dinozaur → dinozawîr
-This includes all branches of terms, like people, animals, countries, cities, scientific terms, technology, arts, beliefs, etc...
+In Crimean Tatar (Standard) many country and city names are barrowed from Russian/Ukrainian but in Crimean Tatar (Romania) are these from Romanian, like Norveğiye not Norvegiya
 
 
 The Adoption of foreign words:
