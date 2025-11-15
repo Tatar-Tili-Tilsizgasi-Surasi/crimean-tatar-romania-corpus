@@ -1,6 +1,6 @@
 
 export const foreignWordsAdoptionInfo: string = `
-Introduction: The loan words from Arabic and Persian are adopted in authentic language, while the other words from other languages (like European languages) are written in academic language.
+Introduction: The loan words from Arabic and Persian are mostly adopted in authentic language, while the other words from other languages (like European languages) are written in academic language.
 Example: Çekiye (not Şekiye!), kalçiyum (not kalşiyum!).
 
 The Adoption of foreign words:
