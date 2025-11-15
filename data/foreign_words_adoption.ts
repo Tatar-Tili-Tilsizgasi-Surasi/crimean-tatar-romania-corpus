@@ -7,7 +7,11 @@ In Crimean Tatar (Standard) most of the loans are from Russian or Ukrainian, in 
 
 Why to use loans?
 To have more modern terms.
-Examples: enerğiya, paşaport, ultraviyolet, pyúre, ultimatum, uroloğiya, botanika, hidrodinamika, hipnoza, hiyeroglifa, hokey, meç, imperiyalism, katalok, kategoriya, katalizator, ofsayit, ofis, oktaf (octavă) 
+Examples: enerğiya, paşaport, ultraviyolet, pyúre, ultimatum, uroloğiya, botanika, hidrodinamika, hipnoza, hiyeroglifa, hokey, meç, imperiyalism, katalok, kategoriya, katalizator, ofsayit, ofis, oktaf (octavă), budism, eksotism, ekspert
+
+soccer match → futbol meçí
+botanic energy → botanika enerğiyasî
+Romanian passport → ruman paşaportî
 
 Which kind or which one of loans words (Romanian loans) to use?
 Terms wich do not exist in the language, example ençiklopediya (enciclopedie)
