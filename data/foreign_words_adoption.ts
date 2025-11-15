@@ -16,8 +16,9 @@ Romanian passport → ruman paşaportî
 
 Which kind or which one of loans words (Romanian loans) to use?
 Terms wich do not exist in the language, example ençiklopediya (enciclopedie)
-Try to use loans if you don't know the Dobrujan Tatar translation, don't create made up terms. Like if you dont have translation for dinosaur don't create word like "korkînş kertenkele", get the loan from Romanian, in this case dinozaur → dinozawîr
-In Crimean Tatar (Standard) many country and city names are barrowed from Russian/Ukrainian but in Crimean Tatar (Romania) are these from Romanian, like Norveğiye not Norvegiya
+Try to use loans if you don't know the Dobrujan Tatar translation, don't create made up terms. Like if you dont have translation for dinosaur don't create word like "korkînş kertenkele", get the loan from Romanian, in this case dinozaur → dinozawî
+Many country and city names in Crimean Tatar (Romania) are from Romanian,  don't create made up terms. Example: Norveğiye, Belğiye, Poloniye, Slovakiye, Sloveniye, Somaliye, Spaniye, Tanzaniye, Úyken-Britaniye, Viyetnam, Antiguwa man Barbut, Arğentina, Şarkiy-Timor...
+
 
 
 The Adoption of foreign words:
