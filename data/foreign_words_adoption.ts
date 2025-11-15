@@ -7,10 +7,10 @@ In Crimean Tatar (Standard) most of the loans are from Russian or Ukrainian, in 
 
 Why to use loans?
 To have more modern terms.
-Examples: enerğiya, paşaport, ultraviyolet, pyúre, ultimatum, uroloğiya, botanika, hidrodinamika, hipnoza, hiyeroglifa, hokey, meç, imperiyalism, katalok, kategoriya, katalizator, ofsayit, ofis, oktaf (octavă), budism, eksotism, ekspert, çokolata
+Examples: enerğiya, paşaport, ultraviyolet, pyúre, ultimatum, uroloğiya, botanika, hidrodinamika, hipnoza, hiyeroglifa, hokey, meç, imperiyalism, katalok, kategoriya, katalizator, ofsayit, ofis, oktaf (octavă), budism, eksotism, ekspert, çokolata, galaksiya, galeriya, gastrita, turnew, fonta, fruktoza, funksiya, idealism, ideoloğiya, meteorolok
 
 milk chocolate → sútlí çokolata 
-soccer match → futbol meçí
+soccer match → fotbal meçí
 botanic energy → botanika enerğiyasî
 Romanian passport → ruman paşaportî
 
