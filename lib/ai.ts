@@ -1,4 +1,5 @@
 
+
 import { GoogleGenAI } from "@google/genai";
 import { CorpusEntry } from '../types';
 import {
@@ -60,6 +61,17 @@ Your goal is to produce translations that are authentically Dobrujan, strictly a
 ${CRIMEAN_TATAR_RO_ORTHOGRAPHY_INFO}
 ${CRIMEAN_TATAR_RO_SCT_DT_SUMMARY_INFO}
 ${CRIMEAN_TATAR_RO_VOWEL_HARMONY_INFO}
+
+### LOANWORD POLICY (for terms not in corpus):
+- If a word for a concept does not exist in the Dobrujan Tatar corpus, you MUST derive it from its **Romanian** equivalent.
+- DO NOT invent new words (neologisms) by combining Tatar words (e.g., do not translate "dinosaur" as "korkînş kertenkele").
+- DO NOT use loanwords from Russian, Ukrainian, or modern Standard Turkish unless they are already established in the corpus.
+- Adapt the Romanian loanword to Dobrujan Tatar phonology and orthography using the rules specified in "The Adoption of foreign words" section.
+- **Examples:**
+  - "enciclopedie" (Romanian) -> "ençiklopediya"
+  - "dinozaur" (Romanian) -> "dinozawîr"
+  - "Spania" (Romanian) -> "Spaniye"
+
 ${foreignWordsAdoptionInfo}
 
 ### REFERENCE EXAMPLES:
