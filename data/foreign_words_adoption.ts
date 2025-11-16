@@ -21,6 +21,8 @@ Many country and city names in Crimean Tatar (Romania) are from Romanian,  don't
 Example: Norveğiye, Belğiye, Poloniye, Slovakiye, Sloveniye, Somaliye, Spaniye, Tanzaniye, Úyken-Britaniye, Viyetnam, Antiguwa man Barbut, Arğentina, Şarkiy-Timor, Meksika...
 Example (language names): polonğa, slovakşa, slovenğe, somaliyğe, spaniyolğa, viyetnamğa, nemseğe, nepalğa/nepalşa, siyamğa
 
+The company names don't change in orthography, example: Google, Coca-Cola, Facebook, Instagram, Fanta...
+
 The Adoption of foreign words:
 Note: The letters B, D, G, Ğ, I, Ó, U, Ú, V typically do not occur as the final letter of a word (with some exceptions: "ald" and "dad"). Word-initial Ñ ñ is dissonant (no words begin with it).
 
