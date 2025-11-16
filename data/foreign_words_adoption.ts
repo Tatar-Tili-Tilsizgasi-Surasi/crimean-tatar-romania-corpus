@@ -9,9 +9,9 @@ Why to use loans?
 To have more modern terms.
 Examples: enerğiya, paşaport, ultraviyolet, pyúre, ultimatum, uroloğiya, botanika, hidrodinamika, hipnoza, hiyeroglifa, hokey, meç, imperiyalism, katalok, kategoriya, katalizator, ofsayit, ofis, oktaf (octavă), budism, eksotism, ekspert, çokolata, galaksiya, galeriya, gastrita, turnew, fonta, fruktoza, funksiya, idealism, ideoloğiya, meteorolok, porsiya
 
-milk chocolate → sútlí çokolata 
-soccer match → fotbal meçí
-botanic energy → botanika enerğiyasî
+milk chocolate → sútlí çokolata "chocolate with (includes) milk"
+soccer match → fotbal meçí "match of soccer"
+botanic energy → botanika enerğiyasî "energy of botanic"
 Romanian passport → ruman paşaportî
 
 Which kind or which one of loans words (Romanian loans) to use?
@@ -19,7 +19,7 @@ Terms wich do not exist in the language, example ençiklopediya (enciclopedie)
 Try to use loans if you don't know the Dobrujan Tatar translation, don't create made up terms. Like if you dont have translation for dinosaur don't create word like "korkînş kertenkele", get the loan from Romanian, in this case dinozaur → dinozawî
 Many country and city names in Crimean Tatar (Romania) are from Romanian,  don't create made up terms. Like if you dont have translation for Spain don't create word like "Ispaniya", get the loan from Romanian, in this case Spania → Spaniye
 Example: Norveğiye, Belğiye, Poloniye, Slovakiye, Sloveniye, Somaliye, Spaniye, Tanzaniye, Úyken-Britaniye, Viyetnam, Antiguwa man Barbut, Arğentina, Şarkiy-Timor, Meksika...
-Example: polonğa, slovakşa, slovenğe, somaliyğe, spaniyolğa, viyetnamğa, nemseğe, nepalğa/nepalşa, siyamğa
+Example (language names): polonğa, slovakşa, slovenğe, somaliyğe, spaniyolğa, viyetnamğa, nemseğe, nepalğa/nepalşa, siyamğa
 
 
 The Adoption of foreign words:
