@@ -1,6 +1,5 @@
 
 export const foreignWordsAdoptionInfo: string = `
-The Adoption of foreign words:
 Introduction: The loan words from Arabic and Persian are mostly adopted in authentic language, while the other words from other languages (like European languages) are written in academic language.
 Example: Çekiye (not Şekiye!), kalçiyum (not kalşiyum!), soçiyalism (not soçiyalísm, soşîyalísm or different!).
 
@@ -22,6 +21,7 @@ Many country and city names in Crimean Tatar (Romania) are from Romanian,  don't
 Example: Norveğiye, Belğiye, Poloniye, Slovakiye, Sloveniye, Somaliye, Spaniye, Tanzaniye, Úyken-Britaniye, Viyetnam, Antiguwa man Barbut, Arğentina, Şarkiy-Timor, Meksika...
 Example (language names): polonğa, slovakşa, slovenğe, somaliyğe, spaniyolğa, viyetnamğa, nemseğe, nepalğa/nepalşa, siyamğa
 
+The Adoption of foreign words:
 Note: The letters B, D, G, Ğ, I, Ó, U, Ú, V typically do not occur as the final letter of a word (with some exceptions: "ald" and "dad"). Word-initial Ñ ñ is dissonant (no words begin with it).
 
 How to get the Romanian loans:
