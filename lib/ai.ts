@@ -1,5 +1,6 @@
 
 
+
 import { GoogleGenAI } from "@google/genai";
 import { CorpusEntry } from '../types';
 import {
@@ -9,6 +10,7 @@ import {
     CRIMEAN_TATAR_RO_EXAMPLES
 } from '../data/promptData';
 import { foreignWordsAdoptionInfo } from '../data/foreign_words_adoption';
+import { Words as specialWords } from '../data/data_for_translator';
 
 const ai = new GoogleGenAI({ apiKey: process.env.API_KEY });
 
@@ -32,7 +34,7 @@ export async function getAITranslation(
 Translate the input text strictly into the Romania (Dobruja) dialect.
 **MANDATORY CONSTRAINTS:**
 1.  **ORTHOGRAPHY:** You MUST use ONLY the allowed dialect alphabet. FORBIDDEN: 'ö', 'ü', 'ı', 'c', 'ç', 'â'. USE SUBSTITUTES: 'ó', 'ú', 'î'/'í', 'ğ', 'ş'.
-2.  **VOCABULARY:** matches from the CORPUS GLOSSARY below are ABSOLUTE OVERRIDES. Use them exactly as they appear.
+2.  **VOCABULARY:** Matches from the CORPUS GLOSSARY below are ABSOLUTE OVERRIDES. Use them exactly as they appear. Also prefer words from the APPROVED LOANWORD VOCABULARY.
 3.  **GRAMMAR:** Use 'man'/'men' for 'with'. NEVER use '-nen'/'-len'.
 `;
         if (sourceLang === 'Crimean Tatar (Standard)') {
@@ -73,6 +75,9 @@ ${CRIMEAN_TATAR_RO_VOWEL_HARMONY_INFO}
   - "Spania" (Romanian) -> "Spaniye"
 
 ${foreignWordsAdoptionInfo}
+
+### APPROVED LOANWORD VOCABULARY:
+Use these spellings for modern terms: ${specialWords}
 
 ### REFERENCE EXAMPLES:
 ${CRIMEAN_TATAR_RO_EXAMPLES}
