@@ -467,4 +467,492 @@ Omîzîma baş salîp
 Ber uşayîk taşlîkka
 Saray kurup merğandan
 Yaşatayîk adem-ğayka.
+# Elveda ótken şaklay
+Búgún şaklaynî
+hawaalanîna
+ozgarîp kayttîm.
+Ğolda konîşmadîk
+sessíz edík.
+Ózí kulaklîk tagîp
+bútún ğol dúrkí sesledí.
+Hawaalanî kalabalîk.
+Bír torbanîñ
+ústúne otîrgan
+karap sáátke
+o maga
+"Máálí keldí, elveda!"
+dedí. Men oga
+"Elveda ótken şaklay!"
+dedím. Şo man
+ğollarîmîz ayîrîldî.
+ 
+Úyge kaytsam
+túrlí-túrlí şiylerge
+bolağak-bolmayğakka
+tolî bír úy.
+Hawa kaberlerínde
+Kara Deñíz men Balkanlar
+bír kar boranîñ astînda
+kalağaklarîn aytalar.
+Ğolşîlarîñ dîkkatîna
+ayta-ayta turalar:
+tayyare seferlerí
+iptal bolağak
+hawaalanlarî, limanlar
+karağollar kapalağak eken. 
+Úynúñ íşínde
+taa kóp
+aylana-aylana tursam
+elvedalîk manasîñ derenlígíne
+buwulmaga başlayğakman.
+ 
+Elvedalîk
+koparîlmadan solgan gúl.
+Elvedalîk
+totîrîlmagan kade
+boş kalgan şanak.
+Elvedalîk
+kulagînda bîzîldagan sessízlík.
+
+Elvedalîk
+keleğegíñ túkenmegen tasawurlarî.
+
+Elvedalîk konîsînda
+bílmeñíz kerekken herşiy bodîr.
+
+Mením
+bír ótken şaklayga
+yaşagan sewdama
+búgún nokta. 
+Nokta we tamam.
+Yarîndan dewam.
+ 
+Ótken şaklay, elvedalar,
+Aydîn kókler, hoş hawalar,
+Deñíz aşîp şo taşlîklar
+Álemíne raát uşuşlar!
+
+Ğanîm kîzdîrmay saraylar
+Dúrdaneler men merğanlar.
+Káfiy maga óz evrením
+Ata ğurtî, ak kefením…
+# Şaklay karzak toplay
+Şaklay balîklardan
+bek hoşlanîr.
+Eñ bek súygen balîklarîndan
+karlîgaş balîgîdîr.
+Bír de taş balîgî.
+Ker balîgîn da súyer
+turna balîgîn da
+tawuz balîgîn da.
+"Olar maga
+o kadar kóp uşay
+ka-típ te súymem"
+dep aytar. Eger bír
+balîkka suklansa şaklay
+kelínşek balîgîna suklanîr.
+"Keşke bírgún
+men de oga terakay
+uşap ketsem", der.
+
+Şaklay karzak man
+ğílbíz toplamaga bek súyer.
+Anasîn-babasîn yuwasîndan uşup
+ketkenínden berítlí
+bír súrúw karzak man
+ğílbíz topladî.
+
+Onîñ ğîyîmînda
+Meleagrina margaritifera tabîlîr
+dúrdane karzagî.
+Heliotis iris'te tabîlîr
+başka aytuwlî karzak, deñíz kulagî.
+
+Ve túrlí-túrlí başka
+kól, ğîlga bír de deñíz
+karzaklarî man taşkulaklarî.
+
+Ótken şaklay
+karzaklarnî bek añlay
+onlar man ótíp añlaşa
+kullanîp aralarînda
+ayîrî bír tíl
+sîr bír tíl
+ótíşe-ótíşe añlatalar
+sayraşa-sayraşa bír-bírlerín
+añlap kableteler. 
+
+Ótken şaklay şúndí
+mína, mením katîmda.
+Barabarmîz.
+Bír-bírímízní
+añlap kabletmege
+elímízden ne kelse
+onî yasaymîz. 
+
+Balîknî súygen şaklay
+Túrlí tíllerden añlay
+Bo tíllerní kullanîp
+Yapkan íşí bek kolay
+Kóllerden-deñízlerden
+Karzak man ğílbíz toplay.
+
+- Sakîn mení, ótken ğayka
+Salma ğílbíz sîrasîna
+Tîkma mení bír boşlîkka
+Ekí karzak arasîna.
+# Şaklayîñ tumşugî
+Şaklayîñ kalîn we kuwatlî
+bír tumşugî bardîr.
+Onî sáde mením íşímní-bawurumnî
+parşalamaga kullansa da
+o tumşugundan
+heşbírzaman ayîrîlmaz.
+Şaklay tumşugî man ğatar
+tumşugî man turar.
+Bírgún
+mením íşím 
+yok ta tumşugun
+kaydan tapkanîn
+úyreneğek boldîm.
+Ewelkí bír hayattan
+kalgan eken
+Amazon múrenínde
+kîzîl turna
+bolîp ğúrgen kúnlerínden.
+Men oga inandîm…
+ 
+"Aaa, añladîm.
+Men de bírwakîtlar
+Akyarda wurulgan edím"
+dep sîramda
+ğewabîn da berdím. 
+O maga inandî…
+Şo man
+tumşuk meselesí
+o yerde píttí
+o yerde kómílíp kaldî.
+Çúnkí
+bo meselení
+bolay-típ kapatmasak
+başka ómírímízde
+yaşaganlarîmîzga
+hesap bermege
+zorînda kalağakmîz.
+
+Íşíme kongan şaklay
+Insan góñílín añlay
+Ózí ózín súydúre
+Ózíne kelse taşlay
+Ózín sîrasîn atlap
+Sabîrîmnî bek zorlay.
+
+- Yazîk bolsîn saga, kagay
+Ya bódene, ya bír torgay
+Bolîp şîkkaydîñ aldîma
+Tuwul sendiy, keskín gágáa.
+# Şaklay man óbíşmiytanmîz
+Bíz
+ótken şaklayîm man
+bek óbíşmiytanmîz
+bíz kayet siyrek óbíşemíz.
+
+Sáde bazda-bír
+deñíz dalgalî bolganda
+sáde owakît óbíşemíz.
+
+Ya da
+tîşarda ğawun
+ğawmaga başlaganda.
+
+Ya da
+kagay kuşlarî
+ğîyîk-ğîyîk bakîrîp
+úyúmúzúñ ústúnden
+uşup geşkende.
+
+Ya da
+ne bíliyím
+tolînay keşelerínde.
+
+Ya da
+ğukağúrek dúrkúlerí
+seslep otîrganda. 
+
+Ya da
+sóndíríp şîraknî ğatağakta.
+
+Ya da
+saba yukudan turganda.
+
+Ya da
+aşap-toyîp
+sîpîradan turayatîrganda.
+
+Ya da
+saba selamlaşîp
+íşímízge ketiyatîrganda
+ 
+
+Ya da
+kaytîp íşímízden
+úyledensoñ selamlaşayatîrganda.
+
+Ya da
+bír kanun meğlisten şîkkanda.
+
+Ya da
+awurup şaklayîñ arkasî
+men onîñ
+awurgan arkasîn
+uwup alganda.
+
+Bíz
+ótken şaklayîm man
+bek óbíşmiytanmîz
+bíz kayet siyrek óbíşemíz.
+
+Akşam bolayatîr.
+Deñíz dalgalana.
+Zerlek dalgalar wuralar ke
+maniyení koparağak.
+
+Kún batayatîr.
+Kók bulutlana.
+Kaberlerde aytalar ke
+bo keşe ğawunlar ğawağak.
+
+Deñíz yagîndan
+toplaşayatîrlar ğîykîldap kagaylar
+bízím úyúmúz betíne.
+Bo keşe tolînay da bolağak.
+
+Bo keşe
+ótken şaklayîmîñ
+awurup arkasî
+men onîñ arkasîn
+uwup algan soñ
+başta yawaştan
+moyînîn óbeğekmen
+soñra ótken şaklayîm man
+toya-toya óbíşeğekmíz.
+ 
+Tílí balday bír şaklay
+Heş awuzun toplamay
+Tîraşsîz betleríme
+Pítín óbíşín saklay
+Mîyîklî erínímden
+Mení óbíp toktamay.
+
+- Toktap-tur kuş, şaytanlî
+Bír solîşka músaade
+Toymay kalgan şapkîn kîz
+Yapkanlarîñ ziyade.
+# Şaklay man tawga barsak
+Şaklay yeşíllíkke bayîlîr.
+Hawa árúw bolganda
+kaşîp kasabanîñ
+kalabalîgîndan
+tawga baramîz.
+O yerde
+Şeramet tawunda
+dere boyînda
+bír konîlga ğayîp
+pítín-gún otîrîp
+raátlenemíz.
+Barganşîk, ğolda
+Kíríşlíkte
+kóylí apakaylar
+ğolîñ kenarînda
+sîralap sepetlerín
+ğemíş satîp turalar.
+ 
+Erík kórse
+ótken şaklay dargîn
+kíşí bolîp ğîlamsîray
+"Ğanîm erík ístedí"
+dep. Men de
+oga fazla
+tíl tóktírmeden
+tartîp arabanî
+bír kenarga, toktataman.
+Bír sepetke
+tîgîp kollarîmnî
+bír awuş erík
+şîgarîp karayman.
+Eríkler píşken
+kúneşte tîpkî kógerşín
+ğúrekleríndiy ğîltîray.
+Şo kógerşín ğúreklerínden
+satîp alîp şaklayga
+ikram etemen.
+ 
+Şeftalí kórse ótken
+şaklay dargîn kíşí
+bolîp ğîlamsîray
+"Şeftalí aşagîm kele"
+dep. Men de:
+"Amma ğanîm
+sen bonday yapa-bergende
+turmadan bírşiyler
+ístiy-bergende
+mení yorîltasîñ"
+dep aytmayman
+taa da arabanî
+tartîp bír ğagaga
+taa da toktataman.
+Bír sepetke
+tîgîp kollarîmnî
+şîgarîp bírkaş tane
+balaban şeftalí, karayman.
+Şeftalíler píşken
+kúneşte tîpkî ataman
+ğúrekleríndiy ğîltîray.
+Şo ataman ğúreklerínden
+satîp alîp şaklayga
+ikram etemen.
+ 
+Şaklayga
+her ğemíşten
+alîp ikram
+etken soñ
+góñílín alaman.
+Akşam úyge
+barganda şaklayîñ
+aşayatîrgan
+şefatlísínden men de
+bír tíşlem ístiymen.
+O, kolîn
+uzatîp şeftalí bergende
+men yañgîşkanday etíp
+şeftalíníñ yeríne
+onîñ parmagîñ
+uşun yawaşça
+tíşlep óbemen. 
+ 
+Kórmedím onday şaklay
+Daametíp ğîlamsîray
+Men erík ikram etsem
+O ğígerímní saplay
+Şeftalí alîp bersem
+Búyregím şokîp karay.
+
+- Buyur, bír şeftalí tíşle
+Koramîzdan bír şeftalí
+Parmaklarîñ tane-tane 
+Kel óbiyím tatlî-tatlî.
+# Şaklay man haftasoñîlarîmîz
+Haftasoñî kelse bíz
+ótken şaklay man
+bírí-bírímízge uzak turamîz.
+Kolîmîzîñ artî
+bírem tiyíşmiy. 
+Úylege, ústúne
+sarîmay ğagîp
+bír tílím ótmekní
+bólíşíp paylaşîrmîz.
+Salkîn-salkîn
+ğemíş suwumuz da
+tabîlîr buzdolabîmîzda.
+Úyleawgansoñ
+okîp men oga
+sewda manzúmelerí
+o maga kalîn-kalîn
+órme órer.
+ 
+Músúr akelemen
+músúr patlatîp
+eskí parşalarnî seslermíz:
+Jimi Hendrix
+Janis Joplin
+Aretha Franklin
+Eric Clapton
+Carlos Santana
+Cat Stevens.
+Ke bíz tek 
+eskí parşalardan
+añlay-alamîz.
+Soñra Jimi Hendrix'níñ
+ya da Janis Joplin'níñ
+ólímíñ artînda
+bolgan aslî sebeplerní
+tartîşmaga başlaymîz.
+ 
+Ya da
+Cat Stevens
+alîp atîn Yusuf Islam
+músúlmanlîkka geşkende
+pop muzikasîndan ayîrîlganî
+dogrî bolîp bolmaganîn
+tartîşmaga başlaymîz.
+Tartîşmalarîmîzîñ
+eñ gúzel yagî
+şodîr ke
+sîra man kazanamîz.
+Bazîlarî o mením
+yakîştîrgan sebeplerímíñ
+ústúnlúgún tanîy
+bazîlarî da men onîñ
+kóríşín taa dogrî
+ekenín kabletemen.    
+
+Ótken ğoldaşîm şaklay
+Ómírímní yazîklay
+Men íşímden şîk diymen
+O aytkanîmnî saymay
+Men onî kuwalayman
+O da kiyípín heş bîzmay.
+
+- Kes dalganî ótken martî
+Uşup ğelíñ kuyrugunda
+Tabîşayîk mabet úşún
+Deriyanîñ ğagasînda.
+# Şaklayîñ aşçîlîgî
+Bazda-bír
+ótken şaklay maga
+akşam yemegímní
+píşíríp ázírliy.
+Şonday bír
+añlaşmamîz da bar.
+Akşamga
+ne píşírse píşírsín
+sáde mením aldîma
+sedeflí karzak
+akelíp salmasîn.
+Sedef
+mením bírínğí
+sewdamnî
+akîlîma akelgení úşún.
+ 
+Men, ne bolsa-bolsîn
+ótken şaklaydan heşbírwakît
+ne píşírgenín soramam.
+Tabiy, bek aşîksam
+sorarman, o sayîlmaz.
+Mína, bolay-típ
+bírgún yorgîn-argîn
+íşímden kaytîp
+úyge kelgende
+kayet aşîkkanîma
+"Ne píşírdíñ ótken
+şaklay?" dep soradîm.
+O da maga ázírlegenlerín
+sayîp saldî:
+"Katîklî-koşaplî kalakay"
+Inangîñîz kele mí?
+Pítín akşamnî
+pítín keşení
+toktamadan kúlúşúp geşírdík. 
+ 
+Aşçî sîrasînda şaklay
+Añlaşmanî taptalay
+Sedef karzak kaynatîp
+Ğaralarîm kamalay
+Mení wurup-awnatîp
+Ózí raát ğatîp yuklay.
+
+- Eskí ğara aşmayîk
+Bar edí, dep, sózímíz
+Sen sózíñde turmadîñ
+Pakîlğî, ağîmasîz!
 `;
