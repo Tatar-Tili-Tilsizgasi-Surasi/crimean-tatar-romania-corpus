@@ -40,7 +40,8 @@ const sources = {
       { name: 'Taner Murat - Website', description: 'Texts from the website of Taner Murat' },
       { name: 'Taner Murat - The Sounds of Tatar Spoken in Romania', description: 'Linguistic book about the language by Taner Murat' },
       { name: 'Nazar Look, Oşak 2011, Sayî 1', description: 'Magazine in Crimean Tatar Language (regulated by Taner Murat)' },
-      { name: 'Nazar Look, Şubat 2011, Sayî 2', description: 'Magazine in Crimean Tatar Language (regulated by Taner Murat)' }
+      { name: 'Nazar Look, Şubat 2011, Sayî 2', description: 'Magazine in Crimean Tatar Language (regulated by Taner Murat)' },
+      { name: 'Nazar Look, Sene 5, Yarîyîl 1/2015, Sayî 44', description: 'Magazine in Crimean Tatar Language (regulated by Taner Murat)' }
   ]
 };
 
