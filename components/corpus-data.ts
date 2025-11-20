@@ -23,6 +23,7 @@ import { arthurRimbaudEntries } from '../data/Arthur_Rimbaud';
 import { paulVerlaineEntries } from '../data/Paul_Verlaine';
 import { osak2011Entries } from '../data/Nazar_Look/Osak_2011';
 import { subat2011Entries } from '../data/Nazar_Look/Subat_2011';
+import { nazarLook44Entries } from '../data/Nazar_Look/44_2015';
 
 let idCounter = 0;
 
@@ -317,6 +318,7 @@ const arthurRimbaudData = createEntriesFromString(arthurRimbaudEntries, 'Arthur 
 const paulVerlaineData = createEntriesFromString(paulVerlaineEntries, 'Paul Verlaine');
 const osak2011Data = createEntriesFromString(osak2011Entries, 'Nazar Look, Oşak 2011, Sayî 1');
 const subat2011Data = createEntriesFromString(subat2011Entries, 'Nazar Look, Şubat 2011, Sayî 2');
+const nazarLook44Data = createEntriesFromString(nazarLook44Entries, 'Nazar Look, Sene 5, Yarîyîl 1/2015, Sayî 44');
 
 
 export const corpus: CorpusEntry[] = [
@@ -332,6 +334,7 @@ export const corpus: CorpusEntry[] = [
   ...tanerSoundsData,
   ...osak2011Data,
   ...subat2011Data,
+  ...nazarLook44Data,
   ...schillerData,
   ...baudelaireData,
   ...ademMiskiyebicData,
