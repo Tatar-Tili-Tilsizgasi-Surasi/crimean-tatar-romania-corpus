@@ -157,4 +157,245 @@ yaşay-almaz.”
 2
  Mólek - hem bír tañrî atîdîr, hem bír ateş kurbanîñ 
 atîdîr.(terğumeğíníñ ilavesí)
+# Túrkílernín, kóñíl dalasînda... 
+Tamga kibí, tíş ízlerí kalgan 
+Ak bóríníñ kókrek yarasînda. 
+Kókregínden tama yaşaw sútí 
+Adem bolîp engen balasîna. 
+Yaktî awaz, çîñlî sornay arzî 
+Eşítílír dargîn dalamîzda. 
+Túrkilerníñ aziz tamgasîna 
+Tîlsîmîn sunar Ruh babamîz da. 
+Oçkînlanîp soñgî úmít yanar 
+Kókke bakkan bórí karaşînda. 
+Tañrînîñ kózlerínden tamar 
+Tamga otî - siyrek er arasînda. 
+Katírdekí oylar - ótkenlerníñ 
+Katlam-katlam zalím yarasînda. 
+Mekír yanar, soñgî yalan yanar 
+Ğerler men hem kókler arasînda. 
+“Watan!” - dep aziz tílek kalkar 
+Kavimlerníñ ruh kanatînda. 
+Bírdemlíkní zorlap dostlîk kaytar, 
+Bahît kaytar túrkí dalasîna! 
+Ómír óter, aşşî ğeller keter Altay, 
+Kîrîm, Kazan arasîndan. 
+Aziz arzî şîgar koparîlîp 
+Túrkílernín kóñíl dalasîndan, 
+Túrkílernín dargîn dalasîndan! — Торкилэрнен, кунел 
+даласындда... 
+Тамга кебек, теш эзлэре калган 
+Ак буренен кукрэк ярасында. 
+Кукрэгеннэн тама яшэу соте 
+Адэм булып ингэн баласына. 
+Якты аваз, чыНлы сорнай моны 
+Ишетелер боек далабызда. 
+Торкилэрнен изге тамгасына 
+Тылсымын сонар Рух бабабыз да. 
+Очкынланып сонгы омет янар 
+Куккэ баккан буре карашында. 
+Тэнренен кузлареннэн тамар 
+Эрну уты — чикл ар арасында. 
+Хатердаге уйлар — уткэннэрнен 
+Катлам-катлам тиран ярасында. 
+Мэкер янар, сонгы ялган янар 
+Жирлэр бел эн куклэр арасында. 
+«Ватан!» — диеп изге телэк калкыр 
+Кавемнэрнен рух канатында. 
+Бердэмлекне зурлап дуслык кайтыр, 
+Бэхет кайтыр торки даласына! 
+Гомер утар, ачы ж,иллэр китар Алтай, 
+Кырым, Казан арасыннан. 
+Газиз моннар чыгар кубарылып 
+Торкилэрнен кунел даласыннан, 
+Торкилэрнен боек даласыннан!
+# Bar boluw 
+Men hayatîmda ğîlga bolmamnî ístemez edím 
+Ekí ğaganîñ arasîna kîstîrîlmamaga 
+Men agîşîñ ózí bolmak íster edím 
+Heşbírwakît tekrarlanmamaga. — Being 
+I prefer not to be the river in life 
+For not restricted between two banks 
+I'd rather been the flowing itself 
+For not been repeated twice.
+# Kayet-kayet kîska 12 hikáye 
+1. Şakasîzlîk 
+Akşam, koranta toplantîmîznî herzamankî gibí 
+dargîn hem suratsîz kelíp kírgen koñşîmîz kestí. 
+Anam şoyerde bír pílğan kawe píşíríp aldîna 
+saldî. O babamîñ şikáyetşí kózíne karap şolay 
+dedí: 
+- Yok, bo seper kabletíleğek bútún sînîrlarnî aştî;
+pijamalarîmnî kíyíp otîra edí, men kelgende onî 
+şonday taptîm. 
+2. Búrkút 
+Kúnníñ bírínde sabalayîn, níşanîna emin bír awğî 
+kurşunîn ateşlep attî. 
+Ğúregí ğanîp ağîsa da, ğaralî búrkút kókyúzínde 
+yúkselíşín súrdíríp daknîñ obír yagîna túştí. 
+(Ğer yúzínde súríníp ğúrgen bír yaratîgîñ kózníñ 
+aldînda ğan bermiyğek bola edí) 
+3. Kúntuwar… Kúntabatar 
+Baárníñ başînda, Kúntuwar man Kúnbatarnî 
+ayîrgan bogaznîñ yakîn suwlarînda bír balîk bír 
+kuşka aşîk bolgan. Olar barabar uşup ğaldadîlar. 
+Ama yuwa meselesíne kelgende ğollarî ayîrîldî. 
+4. Kólge men sútun 
+Altmîş yaşîn totîrîp tekmílğí bolgan soñ o 
+yazuwğîlarîñ dúniyasîna bírden ortaga şîktî. 
+Bútún gázátalarga da tenkîyîtşî makalelerín 
+yollamaga başladî, kasabalarda, illerde, kóylerde 
+de kîska hikáye akşamlarî tertíplep, kîymetlí 
+kóríşlerín uzay egím programlarîna da tanîtîp, 
+ğer ústínde uzagan kólgesíne de şaşîp ta kalîp. 
+Bírden-bírge herşiy toktadî. Çúnkí onîñ yakîn 
+arkadaşî ağele bír íş men memleket tîşîna ğolga 
+şîkmak zorînda kaldî. 
+5. Kóşken geşúw parmaklîgî 
+O hawaga ateş aşîp bakîrdî: 
+- Motornî toktatîñîz! Herkez túşíp ğerge ğatsîn! 
+Kolînda altîpatî man yawaş-yawaş yaklaşîp şay 
+dedí: 
+Bír şakmagîñîz bar mî? 
+6. Kurtaruw odasînda 
+Kurtaruw odasînda ekí kíşí bar edí:bír kawalğî 
+man marebe ğephesínden ğañî akelíngen bír 
+asker. Bírínğísí parmagî man kawal şalîr edí, 
+obírsí de altîpatîñ tetígí men oynar edí. 
+7. Ótmek trení 
+Kart pîkare koñşîsîna bonî ayttî: kúnníñ bírínde 
+men ósíp balaban bolganda saga ótmek men tolî 
+bír tren vagonî akelírmen. 
+O ósíp ótmek men ğúklí bír tren akeleğek hálíne 
+kelgende kart ólgen edí. 
+8. Ózíñízní tartîñîz! 
+- Endí senden apakayîñ yapkan sarîmay tobî 
+almam! Bír okkalîk dep satkan toplarîñnî tartîp 
+karadîm, 900 díremlík şîktî. 
+- Efendím, bíz pîkaremíz, terazímíz yok. Sízden 
+satîp algan bír okka şeker men deñgelep tartkan 
+edík. 
+9. Ğatuw 
+Mením sesím yúkselíp koñşîmîz man aramîzda 
+geşken bír kawganîñ artîndan itímíz Reks 
+kúnlerğe awîzîna bírşiy almadan koranîñ uzak bír 
+kóşesíne kaşîp ğatîp ğúrdí. Ğaşînîp ğatkanîna 
+kaár etmege başlaganda şay dedím: 
+- Allahîm, saga ne boldî, seníñ neñ bar, Reks? 
+- Eger kîzganda ózíñdiy bír insanga şonday laplar 
+atsañ, mendiy bír itke neler aytmazsîñ? 
+10. Aytuwlî kíşí 
+O ayîrîlîp ketken soñ, onîñ arkadaşlarî onîñ 
+şalîşmalarîñ kîymetíne bír fíkírge kelíp razî 
+bolmadîlar, ama ólímíne herkez razî boldî. 
+11. Kîska hikáyelerníñ eñ kîskasî! 
+Başlîk: SÚRĐYE 
+Metin: Kan 
+12. Íşín bílmek 
+Şáyk Takeddin ğeplerín totîrîp garp elşílíkleríñ bír 
+kapîsîndan şîgayatîr edí. Oga karap turganîmnî 
+añlaganda maga aylanîp: 
+- Şolarnî músúlmanlîkka koşîlmaga şakîrgan 
+edím, ístemedíler, men de para ğezasî ódetmege 
+meğbur kaldîm! dep ayttî — 12 Very very short stories 
+1. Serious development 
+In the evening, our family meeting was cut by 
+the entering our neighbor, stuffy and sad as 
+usual. Mom quickly prepared a cup of coffee and 
+placed it in front of him. He looked into the 
+blaming eyes of my father and said: 
+- No, this time, it exceeded the acceptable 
+limits; I found him wearing my pyjamas! 
+2. An eagle 
+Once upon a dawn, a hunter fired his bullet, all 
+sure that he hit the target. 
+The wounded eagle continued his rise in the 
+sky, despite the skewer of fire which inflamed 
+his heart, then it fell down behind the mountain. 
+(It feared that his death be witnessed, by a 
+creature crawling on the ground.) 
+3. East... West 
+Early at spring, near the strait that separates 
+East and West, a fish fell in love with a bird. 
+They flew and swam. But when they discussed 
+the issue of the marital home, they parted 
+company. 
+4. Shade and pillar 
+He appeared suddenly in the world of writing, 
+after reaching the age of sixty and being retired. 
+And started posting his critical articles in all the 
+newspapers, and assessing the evenings of 
+short stories in cities, counties and villages, 
+presenting his valuable views for the cultural 
+programs in space stations, and looking 
+admiringly to the length of his shadow on the 
+ground... 
+Suddenly everything stopped. Because his good 
+friend "X" had to travel outside the country in an 
+urgent task. 
+5. Movable barrier 
+He fired warning shots in the air, and shouted: 
+- Turn off the engine! Everyone come down! Lie 
+down on the ground! 
+He approached at a slow pace, with his weapon 
+in his hand, and then said: 
+Do you have a lighter? 
+6. In the recovery room 
+In the recovery room, there were two men: a 
+flute player and a soldier they have just brought 
+from the field. The first was playing his flute 
+with his fingers; while the other one was pulling 
+the trigger. 
+7. Bread Train 
+He said to his old poor neighbor: the tomorrow 
+when I become older, I'll get you a large wagon 
+filled with bread. 
+When he grew older and became that he could 
+bring her a train loaded with bread, she had 
+been passed away. 
+8. Weigh for yourself! 
+- I would not buy from you butter balls 
+manufactured by your spouse anymore! You sell 
+them to be weighing 1 kg for each, which, as I 
+found out only 900 grams. 
+- Sir, we are poor and we do not have a 
+balance. I have bought from you 1kg of sugar 
+by which we weigh butter for you. 
+9. A lie 
+After an altercation, between me and my 
+neighbor, in which my voice rose, the dog "Rex" 
+secluded himself for days in a far corner of the 
+garden without eating or drinking. When his 
+repellence and sadness bothered me, I said: 
+- By God, tell me what's wrong with you, Rex? 
+- If you say to a human just like you, when 
+angry, you'r dog, what would you say to me?! 
+10. Celebrity 
+After his departure, comrades disagreed in the 
+evaluation of his creations, but his death won 
+everyone's satisfaction! 
+11. The shortest very short story! 
+Title : SYRIA 
+Text : Blood 
+12. Pedantry 
+Sheikh Taqi al-Din infiltrated at night from the 
+back gate of one of the Western embassies, 
+with his pocket bulged. When he felt that I was 
+watching him, he turned to me and said: 
+- I invited them to Islam, and when they 
+refused, I obliged them to pay the tribute!
+# Búgún Bayram, derler... 
+şarkî - 17 Temmuz 2015 
+Adetke kírgen “Búgún Bayram” 
+Ne ğîrlasak, ne oynasak ”Búgún Bayram”. 
+Biñlerğe sene bolay ketken, “Búgún Bayram” 
+Binlerğe sene bolay súrer ”Búgún Bayram!” 
+Ístesek te, ístemesek te, Bayram keler, keter, 
+Milletleríñ ğúreklerí kan taştîrîp, tíríler! 
+Bayram keler, az bír turar, soñra keter, 
+Keleğekke anam-babam namazînnî ázírler. 
+Ómír geşúwğî barlîk, îzlarî kalsa yeter 
+Bayram bízge olay keler, olay keter! 
+Ómírlerín baylağanlar dúnya şanlî kuvetíne, 
+Atalarîm maga kelgen “Búgún Bayram Kúnínde!”
 `;
