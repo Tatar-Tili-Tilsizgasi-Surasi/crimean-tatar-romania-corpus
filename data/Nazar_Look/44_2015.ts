@@ -474,5 +474,5 @@ bútún "Kóşíñíz!" buyuruklarî, "Kaşîñîz! Kaşîñîz,
 selam eterler!" añlamîn taşîdî. Ğúmle buyurugî, 
 ğúmlesí.
 
-3 boragan - bora, fîrtîna
+³ boragan - bora, fîrtîna
 `;
