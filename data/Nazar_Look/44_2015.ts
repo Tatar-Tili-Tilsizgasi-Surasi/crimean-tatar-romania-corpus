@@ -431,7 +431,7 @@ Soñra, yorîlîp, başî túştí. Túşúnúp kaldîlar,
 - Hakkî bar. Kaytîp kelír, ğálatlarî. Síz, bo 
 yerden kîbîrdamay, Ğaraka Eslígenní karap, 
 kalîñîz! Kelseler, sízge bírşiy yapmazlar, onlarnîñ
-zorî ballarîm man. Bíz de, boragandan3
+zorî ballarîm man. Bíz de, boragandan³
  kaşayîk. 
 Ğaraka Eslígen árúw bolsîn da, ondan soñra 
 tabîşîrmîz. - dedí Elinay Biyke, deren-deren 
