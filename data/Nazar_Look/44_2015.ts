@@ -398,4 +398,81 @@ Keleğekke anam-babam namazînnî ázírler.
 Bayram bízge olay keler, olay keter! 
 Ómírlerín baylağanlar dúnya şanlî kuvetíne, 
 Atalarîm maga kelgen “Búgún Bayram Kúnínde!”
+# Kókten sesler - Temúçin (XXXII) 
+Kesím 1 
+Kaşîñîz, selam eterler! 
+Ğaraka Eslígen ózínden kaberí bolîp, ekí 
+kózín aşkanda, katînda, ğaralî şalkasîn temízlep, 
+orap ogîraşkan, Kók-Kuşî Otşî bar edí. Móñlík 
+Baba da bar. Kewdesí men toktatîp kaytargan 
+îrgîn Tayğîwutlarga ğañî kaşîrgan Elinay Biyke de 
+bar. Tílín oynatîp beğergende: 
+- Kaşîñîz! Kaytîp kelírler, mení taşlap 
+kaşîñîz! - dedí Ğaraka Eslígen, başînda 
+tabîlganlarga. 
+- Kózíñní aşmaganşîk, bo yerden 
+kîbîrdamamîz. - dedí o wakît Elinay Biyke. 
+- Síz maga karamañîz, ekí kózím de 
+toprakka baylanîp kaldî, men yaşayğagîmnî 
+yaşadîm, endí. Síz artîñîzga karamay, toktamay 
+kaşîñîz! - dedí Ğaraka Eslígen. 
+- Sen raátlígíñe kara! Kóp konîşîp 
+karîjlama, ózíñní! - dedíler. 
+- Kîzîm, kaşîñîz, kîzîm! Onlarnîñ zorî 
+ballarîñ man. Ballarîñdan ğan sorap kaytîp 
+keleğekler. Kaşîñîz, kaytîp kelírler! Kaşîñîz, selam 
+eterler! Kaşîñîz, kutar ballarîñnî! - dedí Ğaraka 
+Eslígen. 
+- Móñlík, kaşîñîz, balam! Torînlarîmnî 
+kutar! Yazîk, ğaş-ğaş torînlarîma. - dedí Ğaraka 
+Eslígen. 
+Soñra, yorîlîp, başî túştí. Túşúnúp kaldîlar, 
+ğaralî Ğaraka Eslígenníñ başînda. 
+- Hakkî bar. Kaytîp kelír, ğálatlarî. Síz, bo 
+yerden kîbîrdamay, Ğaraka Eslígenní karap, 
+kalîñîz! Kelseler, sízge bírşiy yapmazlar, onlarnîñ
+zorî ballarîm man. Bíz de, boragandan3
+ kaşayîk. 
+Ğaraka Eslígen árúw bolsîn da, ondan soñra 
+tabîşîrmîz. - dedí Elinay Biyke, deren-deren 
+túşúngen soñ. 
+- Síz ğan kutarîp ketíñíz! - dep razî boldî 
+Móñlík Baba da. 
+Şonday ettíler. Her sene yapkanînday, 
+Kók-Kuşî Otşî şîgîp zanaat ustalarnîñ katîna 
+konmaktan bazgeştí, kartbabasî árúw bolganşîk 
+kartbabasîn karap kaldî. Koñgîrat kaldî, bolgan 
+yerínde, Kîyanlar şîgîp uzaklarga kaştî. Keleğekte 
+tabîşağak bír yer de ayîrdîlar. 
+Kîyanlar ğurt toplayatîrganda, "Bír súrúw 
+kalpazan!" dep Tayğîwutlarnîñ taşlap ketken ekí 
+ğurtluk tul apakayî, kartî, óksízí, ortada kalganîn
+kóríp ğîlap ğíberewuydular. 
+- Kóşiyatîrmîz, kîbîrdañîz! Ózíñízní bír 
+ğurtka sîgîñîz! Kalganî, Şal-Aynîñ ğurtuna geşsín! - 
+dep bakîrdî onlarga Elinay Biyke. 
+"Atîlmadîk" dep kuwandîlar. Kîbîrdadîlar. 
+Bír ğurtka sîgîştîlar. Kalganî da, Şal-Aynîñ ğurtuna 
+geştí. 
+Mína, bondan bírkaş kún soñra, şo 
+tullarnîñ, óksízlerníñ ğurtundan, hergún kîzmet 
+yasap, tañdan ewel turgan bír kartiyní, Kowakçin 
+Kartiyní, Elinay Biyke ózín ğurtuna alağak edí. Şo 
+zamanlardan kelíp kongan edí, Kowakçin Kartiy, 
+Temúçin alar man barabar. 
+- Babamnîñ sawlîgî túzelír-túzelmez, 
+artîñîzdan kelíp, tabîşîrmîz. - dep ozgardî Móñlík 
+Baba Kîyanlarnî. 
+Elinay Biykeníñ sózínde, kóştíler. Kettíler. 
+Yasugay Batîrnîñ yúzí geşer-geşmez, 
+Yasugaynîñ atî okîlmay ketken síptí Kîdîrlezníñ 
+ekínğí kúní, "Kóşíñíz!" degende "Kaşîñîz!" 
+túşúnğesí men, Elinay Biyke, íster-ístemez bólík mañlayîna geştí. Tek erkegí bolmagan bír bólíkníñ 
+mañlayîna geştí, seneler men de mañlaylîkta 
+kalağak. Ómír boyînda bergen Elinay Biykeníñ 
+bútún "Kóşíñíz!" buyuruklarî, "Kaşîñîz! Kaşîñîz, 
+selam eterler!" añlamîn taşîdî. Ğúmle buyurugî, 
+ğúmlesí.
+
+3 boragan - bora, fîrtîna
 `;
