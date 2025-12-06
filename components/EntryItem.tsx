@@ -1,3 +1,4 @@
+
 import React, { useState, useCallback } from 'react';
 import { CorpusEntry } from '../types';
 
@@ -51,7 +52,7 @@ const EntryItem: React.FC<EntryItemProps> = ({ entry, showTranslations, showSour
   }, [isExpandable]);
 
   // Handle clicks on the list item, but avoid toggling if user is selecting text
-  const handleItemClick = (e: React.MouseEvent) => {
+  const handleItemClick = () => {
       if (!isExpandable) return;
       
       const selection = window.getSelection();

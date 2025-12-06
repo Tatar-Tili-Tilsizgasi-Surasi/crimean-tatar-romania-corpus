@@ -716,15 +716,15 @@ const VirtualKeyboard: React.FC<VirtualKeyboardProps> = ({ entries }) => {
                                             )}
 
                                             <button
-                                                onMouseDown={(e) => handlePressStart(displayKey)}
+                                                onMouseDown={() => handlePressStart(displayKey)}
                                                 onMouseUp={(e) => handlePressEnd(displayKey, e)}
-                                                onMouseLeave={(e) => {
+                                                onMouseLeave={() => {
                                                     if(longPressTimer.current) {
                                                         clearTimeout(longPressTimer.current);
                                                         longPressTimer.current = null;
                                                     }
                                                 }}
-                                                onTouchStart={(e) => handlePressStart(displayKey)}
+                                                onTouchStart={() => handlePressStart(displayKey)}
                                                 onTouchEnd={(e) => handlePressEnd(displayKey, e)}
                                                 onTouchMove={handleTouchMove}
                                                 className={`
