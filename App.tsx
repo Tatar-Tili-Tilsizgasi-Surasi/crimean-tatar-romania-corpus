@@ -1,5 +1,5 @@
 
-import React, { useState, useMemo, useCallback } from 'react';
+import React, { useState, useMemo, useCallback, useEffect } from 'react';
 import Header from './components/Header';
 import CorpusControls from './components/CorpusControls';
 import CorpusList from './components/CorpusList';
@@ -14,12 +14,30 @@ import { CorpusEntry } from './types';
 type Page = 'corpus' | 'howto' | 'about' | 'sources' | 'translator' | 'keyboard';
 
 const App: React.FC = () => {
-  const [currentPage, setCurrentPage] = useState<Page>('corpus');
+  // Initialize state based on URL params to support PWA start_url logic
+  const [currentPage, setCurrentPage] = useState<Page>(() => {
+    if (typeof window !== 'undefined') {
+        const params = new URLSearchParams(window.location.search);
+        if (params.get('page') === 'keyboard') {
+            return 'keyboard';
+        }
+    }
+    return 'corpus';
+  });
+
   const entries: CorpusEntry[] = initialCorpus;
   const [searchQuery, setSearchQuery] = useState('');
   const [showTranslations, setShowTranslations] = useState(true);
   const [showSources, setShowSources] = useState(true);
   const [selectedCategory, setSelectedCategory] = useState('All');
+
+  // Sync URL with state (optional, but good for back button behavior if we added history push)
+  useEffect(() => {
+      if (currentPage === 'keyboard') {
+          // If we navigate to keyboard, we might want to ensure URL reflects it for bookmarking, 
+          // but mainly we just want to ensure the state is consistent.
+      }
+  }, [currentPage]);
 
   const categories = useMemo(() => {
     const allSources = entries.map(entry => entry.source);
