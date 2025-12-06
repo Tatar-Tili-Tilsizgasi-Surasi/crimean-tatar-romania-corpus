@@ -198,7 +198,7 @@ eserlerí Hindistan, Kúba, Fas, Sudan, Súriye,
 Danimarka, Helwetiye, Hollanda, Breziliye, 
 Kanada gibi dúniyanîn bírkóp ulkasînda 
 sergílengen edí.
-Evelina Iliyas (Evelina Ilyasova) - Osman Bayramaliy 
+Evelina Iliyas (Evelina Iliyasova) - Osman Bayramaliy 
 (Osman Bayramaliyev)
 # Eşmîrza Oysullî
 Eşmîrza kart 1803 senesí Kerç rayonîñ Oysul kóyínde, 
