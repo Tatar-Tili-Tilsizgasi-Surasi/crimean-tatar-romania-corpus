@@ -1,4 +1,6 @@
 
+
+
 import { CorpusEntry } from '../types';
 import { dictionaryRawText } from '../data/dictionary';
 import { mikayilEmineskuwEntries } from '../data/Mikayil_Emineskuw';
@@ -30,6 +32,7 @@ let idCounter = 0;
 // List of part-of-speech abbreviations used to detect translations when '/' is missing.
 const posAbbreviations = [
     's\\.', 'adj\\.', 'adv\\.', 'pron\\.', 'v\\.', 'interj\\.', 'prep\\.', 'conj\\.', 'num\\.', 'art\\.',
+    'acad\\.', 'adm\\.', 'agr\\.', 'anat\\.', 'antrop\\.', 'aprox\\.', 'arab\\.', 'arh\\.', 'arheol\\.', 'arhit\\.', 'astr\\.', 'auto\\.', 'av\\.', 'biol\\.', 'bis\\.', 'bot\\.', 'card\\.', 'chim\\.', 'cinem\\.', 'col\\.', 'com\\.', 'constr\\.', 'cron\\.', 'd\\.', 'dat\\.', 'dem\\.', 'dim\\.', 'econ\\.', 'electr\\.', 'ent\\.', 'etc\\.', 'expr\\.', 'f\\.', 'fam\\.', 'farm\\.', 'ferov\\.', 'fig\\.', 'filoz\\.', 'fin\\.', 'fitop\\.', 'fiz\\.', 'fiziol\\.', 'folc\\.', 'fon\\.', 'foto\\.', 'gastron\\.', 'geogr\\.', 'geol\\.', 'geom\\.', 'ger\\.', 'gram\\.', 'i\\.', 'iht\\.', 'impers\\.', 'inf\\.', 'inform\\.', 'interog\\.', 'invar\\.', 'ist\\.', 'iz\\.', 'iz\\.prsn\\.', 'jur\\.', 'lat\\.', 'lingv\\.', 'lit\\.', 'log\\.', 'm\\.', 'mat\\.', 'mec\\.', 'med\\.', 'meteo\\.', 'mil\\.', 'minr\\.', 'mitol\\.', 'mong\\.', 'muz\\.', 'n\\.', 'nav\\.', 'neg\\.', 'nehot\\.', 'nom\\.', 'ord\\.', 'orn\\.', 'part\\.', 'peior\\.', 'pers\\.', 'pict\\.', 'pl\\.', 'pol\\.', 'pop\\.', 'pos\\.', 'prsn\\.', 'psih\\.', 'pt\\.', 'r\\.', 'radiof\\.', 'recipr\\.', 'redupl\\.', 'reg\\.', 'rel\\.', 'relig\\.', 'sg\\.', 'şcol\\.', 't\\.', 'teatr\\.', 'tehn\\.', 'tel\\.', 'text\\.', 'tipogr\\.', 'topogr\\.', 'transp\\.', 'univ\\.', 'univsl\\.', 'vet\\.', 'vulg\\.', 'zool\\.',
     '\\(fiziol\\.\\)', '\\(muz\\.\\)', '\\(electr\\.\\)', '\\(antrop\\. f\\.\\)', '\\(fiz\\.\\)',
     // Roman numerals (ordered from longest to shortest to prevent partial matches)
     'X\\.', 'IX\\.', 'VIII\\.', 'VII\\.', 'VI\\.', 'V\\.', 'IV\\.', 'III\\.', 'II\\.', 'I\\.',
