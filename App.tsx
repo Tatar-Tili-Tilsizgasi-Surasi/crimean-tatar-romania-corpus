@@ -1,3 +1,4 @@
+
 import React, { useState, useMemo, useCallback } from 'react';
 import Header from './components/Header';
 import CorpusControls from './components/CorpusControls';
@@ -6,10 +7,11 @@ import HowToUse from './pages/HowToUse';
 import About from './pages/About';
 import Sources from './pages/Sources';
 import Translator from './pages/Translator';
+import KeyboardPage from './pages/KeyboardPage';
 import { corpus as initialCorpus } from './components/corpus-data';
 import { CorpusEntry } from './types';
 
-type Page = 'corpus' | 'howto' | 'about' | 'sources' | 'translator';
+type Page = 'corpus' | 'howto' | 'about' | 'sources' | 'translator' | 'keyboard';
 
 const App: React.FC = () => {
   const [currentPage, setCurrentPage] = useState<Page>('corpus');
@@ -116,6 +118,8 @@ const App: React.FC = () => {
             return <Sources onNavigate={setCurrentPage} />;
         case 'translator':
             return <Translator entries={entries} onNavigate={setCurrentPage} />;
+        case 'keyboard':
+            return <KeyboardPage entries={entries} onNavigate={setCurrentPage} />;
         case 'corpus':
         default:
             return (
@@ -147,8 +151,13 @@ const App: React.FC = () => {
     }
   };
 
+  // For the keyboard page, we want a full-screen standalone look, so we might hide the header/footer
+  if (currentPage === 'keyboard') {
+      return renderContent();
+  }
+
   return (
-    <div className="min-h-screen container mx-auto p-4 md:p-8 flex flex-col">
+    <div className="min-h-screen container mx-auto p-4 md:p-8 flex flex-col h-full">
       <Header onNavigate={setCurrentPage} />
       <main className="flex-grow flex flex-col gap-4 sm:gap-8 mt-4 sm:mt-8">
         {renderContent()}
