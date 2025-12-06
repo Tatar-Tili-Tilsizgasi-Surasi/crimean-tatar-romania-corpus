@@ -5205,7 +5205,7 @@ sebep       due to       ABL
 `;
 
 export const POS_PREFIXES_FOR_CLEANING = [
-  "adj. ", "s. ", "v. ", "adv. ", "pron. ", "prep. ", "conj. ", "interj. ", "num. ", "art. ",
+  "iz.prsn. ", "postp. ", "antrop. ", "adj. ", "s. ", "v. ", "adv. ", "pron. ", "prep. ", "conj. ", "interj. ", "num. ", "art. ",
   "s.m. ", "s.f. ", "s.n. ", 
   "s., adj. ", "adj., s. ", 
   "v.i. ", "v.t. ", "v.r. ", "v.t.ind. ", "v.t.d. ",
