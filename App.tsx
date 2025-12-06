@@ -1,3 +1,4 @@
+
 import React, { useState, useMemo, useCallback, useEffect } from 'react';
 import Header from './components/Header';
 import CorpusControls from './components/CorpusControls';
@@ -26,8 +27,8 @@ const App: React.FC = () => {
 
   const entries: CorpusEntry[] = initialCorpus;
   const [searchQuery, setSearchQuery] = useState('');
-  const [showTranslations] = useState(true);
-  const [showSources] = useState(true);
+  const [showTranslations, setShowTranslations] = useState(true);
+  const [showSources, setShowSources] = useState(true);
   const [selectedCategory, setSelectedCategory] = useState('All');
 
   // Sync URL with state (optional, but good for back button behavior if we added history push)
@@ -149,6 +150,10 @@ const App: React.FC = () => {
                         onSearchChange={setSearchQuery}
                         onExportJson={handleExportJson}
                         onExportTxt={handleExportTxt}
+                        showTranslations={showTranslations}
+                        onShowTranslationsChange={setShowTranslations}
+                        showSources={showSources}
+                        onShowSourcesChange={setShowSources}
                         categories={categories}
                         selectedCategory={selectedCategory}
                         onCategoryChange={setSelectedCategory}
