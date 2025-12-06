@@ -1,5 +1,5 @@
 
-import React, { useState, useMemo, useEffect, useRef } from 'react';
+import React, { useState, useMemo } from 'react';
 import { CorpusEntry } from '../types';
 import { analyzeTextDeep, AnalysisResult } from '../lib/translator';
 import { getAITranslation } from '../lib/ai';
@@ -41,22 +41,18 @@ const SparklesIcon: React.FC<{className?: string}> = ({className}) => (
     </svg>
 );
 
-type OtherLanguage = 'English' | 'Romanian' | 'Crimean Tatar (Standard)';
-type Direction = 'to-ro' | 'from-ro'; // 'to-ro' means Other -> CT(RO), 'from-ro' means CT(RO) -> Other
+type Language = 'Crimean Tatar (Romania)' | 'Crimean Tatar (Standard)' | 'English' | 'Romanian';
 
 const Translator: React.FC<TranslatorProps> = ({ entries, onNavigate }) => {
   const [inputText, setInputText] = useState('');
   const [isKeyboardVisible, setIsKeyboardVisible] = useState(false);
-  const [otherLang, setOtherLang] = useState<OtherLanguage>('English');
-  const [direction, setDirection] = useState<Direction>('to-ro');
+  const [sourceLang, setSourceLang] = useState<Language>('English');
+  const [targetLang, setTargetLang] = useState<Language>('Crimean Tatar (Romania)');
   
   const [aiTranslation, setAiTranslation] = useState<string>('');
   const [isAiLoading, setIsAiLoading] = useState(false);
   
-  // Debounce reference to prevent too many API calls if we wanted auto-translate, 
-  // but we'll stick to manual button for now to save tokens and be intentional.
-  
-  // Perform deep analysis on the input text to provide context
+  // Perform deep analysis on the input text to provide context to AI and user
   const analysisResults: AnalysisResult[] = useMemo(() => {
       return analyzeTextDeep(inputText, entries);
   }, [inputText, entries]);
@@ -69,36 +65,53 @@ const Translator: React.FC<TranslatorProps> = ({ entries, onNavigate }) => {
     setInputText(prev => prev.slice(0, -1));
   };
 
-  const toggleDirection = () => {
-      setDirection(prev => prev === 'to-ro' ? 'from-ro' : 'to-ro');
+  const handleSwapLanguages = () => {
+      setSourceLang(targetLang);
+      setTargetLang(sourceLang);
   };
 
-  const handleAiTranslate = async () => {
+  const handleTranslate = async () => {
       if (!inputText.trim()) return;
       setIsAiLoading(true);
       setAiTranslation('');
 
-      // Flatten all matches from analysis to provide as context to AI
+      // Extract unique relevant entries to pass as context to the AI
       const allMatches = analysisResults.flatMap(res => res.matches);
-      // Deduplicate matches based on ID
       const uniqueMatches = Array.from(new Map(allMatches.map(item => [item.id, item])).values());
-
-      const sourceLang = direction === 'to-ro' ? otherLang : 'Crimean Tatar (Romania)';
-      const targetLang = direction === 'to-ro' ? 'Crimean Tatar (Romania)' : otherLang;
 
       const result = await getAITranslation(inputText, sourceLang, targetLang, uniqueMatches);
       setAiTranslation(result);
       setIsAiLoading(false);
   };
 
-  const sourceLabel = direction === 'to-ro' ? otherLang : 'Crimean Tatar (Romania)';
-  const targetLabel = direction === 'to-ro' ? 'Crimean Tatar (Romania)' : otherLang;
+  const supportedLanguages: Language[] = [
+      'Crimean Tatar (Romania)',
+      'Crimean Tatar (Standard)',
+      'English',
+      'Romanian'
+  ];
 
   return (
-    <div className="flex-grow flex flex-col bg-white rounded-lg shadow-lg border border-slate-200 p-4 sm:p-6 md:p-8 animate-fade-in gap-6 sm:gap-8 overflow-y-auto min-h-0">
+    <div className="flex-grow flex flex-col bg-white rounded-lg shadow-lg border border-slate-200 p-4 sm:p-6 md:p-8 animate-fade-in gap-6 sm:gap-8">
       {/* Header */}
       <div className="flex flex-col sm:flex-row items-start sm:items-center justify-between gap-4">
-        <h2 className="text-2xl sm:text-3xl font-bold text-slate-800">Translator (Beta)</h2>
+        <div>
+            <h2 className="text-2xl sm:text-3xl font-bold text-slate-800 flex items-center gap-2">
+                <SparklesIcon className="h-6 w-6 text-cyan-500" />
+                Translator (Beta)
+            </h2>
+            <div className="mt-2 space-y-1">
+                <p className="text-sm text-slate-600">
+                    This is a translator for Crimean Tatar (Romania), uses the corpus data, note that it is in Beta version (not perfect).
+                </p>
+                <p className="text-xs text-slate-500 flex items-center gap-1">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" className="w-4 h-4 text-slate-400">
+                      <path fillRule="evenodd" d="M18 10a8 8 0 11-16 0 8 8 0 0116 0zm-7-4a1 1 0 11-2 0 1 1 0 012 0zM9 9a.75.75 0 000 1.5h.253a.25.25 0 01.244.304l-.459 2.066A1.75 1.75 0 0010.747 15H11a.75.75 0 000-1.5h-.253a.25.25 0 01-.244-.304l.459-2.066A1.75 1.75 0 009.253 9H9z" clipRule="evenodd" />
+                    </svg>
+                    Powered by Gemini (free tier). Usage limits may apply during high traffic.
+                </p>
+            </div>
+        </div>
         <button
           onClick={() => onNavigate('corpus')}
           className="flex items-center gap-2 px-4 py-2 bg-slate-200 text-sm font-medium rounded-md hover:bg-slate-300 transition-colors self-start sm:self-auto"
@@ -109,72 +122,74 @@ const Translator: React.FC<TranslatorProps> = ({ entries, onNavigate }) => {
         </button>
       </div>
 
-      {/* Translation Controls */}
+      {/* Language Controls */}
       <div className="flex flex-col md:flex-row items-center justify-between gap-4 bg-slate-50 p-4 rounded-xl border border-slate-200">
-          <div className="flex items-center gap-2 w-full md:w-auto">
-              <div className="flex-1 md:flex-none">
-                  <label htmlFor="source-lang" className="sr-only">Source Language</label>
-                  <div className="px-3 py-2 bg-white border border-slate-300 rounded-md text-slate-700 font-medium text-center min-w-[180px]">
-                      {sourceLabel}
-                  </div>
-              </div>
+          <div className="flex items-center gap-2 w-full md:w-auto flex-1 max-w-3xl">
+              <select
+                  value={sourceLang}
+                  onChange={(e) => setSourceLang(e.target.value as Language)}
+                  className="flex-1 bg-white border border-slate-300 rounded-md px-3 py-2 text-sm sm:text-base focus:outline-none focus:ring-2 focus:ring-cyan-500"
+                  aria-label="Source language"
+              >
+                  {supportedLanguages.map(lang => (
+                      <option key={lang} value={lang} disabled={lang === targetLang}>{lang}</option>
+                  ))}
+              </select>
               
               <button 
-                  onClick={toggleDirection}
+                  onClick={handleSwapLanguages}
                   className="p-2 rounded-full bg-slate-200 hover:bg-cyan-100 text-slate-600 hover:text-cyan-700 transition-colors flex-shrink-0"
                   title="Swap languages"
+                  aria-label="Swap source and target languages"
               >
                   <SwitchHorizontalIcon className="h-5 w-5" />
               </button>
 
-              <div className="flex-1 md:flex-none">
-                  <label htmlFor="target-lang" className="sr-only">Target Language</label>
-                  <div className="px-3 py-2 bg-white border border-slate-300 rounded-md text-slate-700 font-medium text-center min-w-[180px]">
-                      {targetLabel}
-                  </div>
-              </div>
+              <select
+                  value={targetLang}
+                  onChange={(e) => setTargetLang(e.target.value as Language)}
+                  className="flex-1 bg-white border border-slate-300 rounded-md px-3 py-2 text-sm sm:text-base focus:outline-none focus:ring-2 focus:ring-cyan-500"
+                  aria-label="Target language"
+              >
+                   {supportedLanguages.map(lang => (
+                      <option key={lang} value={lang} disabled={lang === sourceLang}>{lang}</option>
+                  ))}
+              </select>
           </div>
 
-          <div className="flex items-center gap-4 w-full md:w-auto justify-between md:justify-end">
-               <div className="flex items-center gap-2">
-                  <label htmlFor="other-lang-select" className="text-sm font-medium text-slate-600 hidden sm:inline">Pair with:</label>
-                  <select
-                      id="other-lang-select"
-                      value={otherLang}
-                      onChange={(e) => setOtherLang(e.target.value as OtherLanguage)}
-                      className="bg-white border border-slate-300 rounded-md px-3 py-1.5 text-sm focus:outline-none focus:ring-2 focus:ring-cyan-500"
-                  >
-                      <option value="English">English</option>
-                      <option value="Romanian">Romanian</option>
-                      <option value="Crimean Tatar (Standard)">Crimean Tatar (Standard)</option>
-                  </select>
-               </div>
-
-              <button
-                onClick={() => setIsKeyboardVisible(!isKeyboardVisible)}
-                className={`flex items-center gap-1 px-3 py-1.5 text-sm font-medium rounded-md transition-colors flex-shrink-0 ${isKeyboardVisible ? 'bg-cyan-100 text-cyan-700' : 'bg-white border border-slate-300 text-slate-600 hover:bg-slate-50'}`}
-            >
-                <KeyboardIcon className="h-4 w-4" />
-                Keyboard
-            </button>
-          </div>
+          <button
+            onClick={() => setIsKeyboardVisible(!isKeyboardVisible)}
+            className={`flex items-center gap-1 px-3 py-2 text-sm font-medium rounded-md transition-colors flex-shrink-0 w-full md:w-auto justify-center ${isKeyboardVisible ? 'bg-cyan-100 text-cyan-700' : 'bg-white border border-slate-300 text-slate-600 hover:bg-slate-50'}`}
+        >
+            <KeyboardIcon className="h-5 w-5" />
+            Keyboard
+        </button>
       </div>
 
       {/* Input/Output Area */}
       <div className="grid grid-cols-1 md:grid-cols-2 gap-4 md:gap-6">
           {/* Input Side */}
-          <div className="flex flex-col relative">
-              <label htmlFor="input-text" className="sr-only">Input Text</label>
-              <textarea
-                  id="input-text"
-                  value={inputText}
-                  onChange={(e) => setInputText(e.target.value)}
-                  placeholder={`Enter ${sourceLabel} text here...`}
-                  className="flex-grow min-h-[200px] p-4 bg-slate-50 border-2 border-slate-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-cyan-500 focus:border-cyan-500 transition-colors resize-y text-lg"
-              />
+          <div className="flex flex-col relative gap-4">
+              <div className="relative flex-grow">
+                  <label htmlFor="input-text" className="sr-only">Input Text</label>
+                  <textarea
+                      id="input-text"
+                      value={inputText}
+                      onChange={(e) => setInputText(e.target.value)}
+                      placeholder={`Enter ${sourceLang} text here...`}
+                      className="w-full h-full min-h-[200px] p-4 bg-slate-50 border-2 border-slate-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-cyan-500 focus:border-cyan-500 transition-colors resize-y text-lg"
+                  />
+              </div>
                {isKeyboardVisible && (
                   <Keyboard onKeyPress={handleKeyPress} onBackspace={handleBackspace} />
               )}
+               <button
+                   onClick={handleTranslate}
+                   disabled={!inputText.trim() || isAiLoading}
+                   className="md:hidden w-full flex items-center justify-center gap-2 px-6 py-3 bg-gradient-to-r from-cyan-500 to-blue-600 text-white font-bold text-lg rounded-lg shadow-md hover:shadow-lg disabled:opacity-50 disabled:cursor-not-allowed transition-all active:scale-95"
+               >
+                   {isAiLoading ? 'Translating...' : 'Translate'}
+               </button>
           </div>
 
           {/* Output Side */}
@@ -192,29 +207,19 @@ const Translator: React.FC<TranslatorProps> = ({ entries, onNavigate }) => {
                        <div className="text-lg text-slate-800 whitespace-pre-wrap">{aiTranslation}</div>
                    ) : (
                        <div className="flex flex-col items-center justify-center h-full text-center gap-4 opacity-60">
-                          <SparklesIcon className="h-12 w-12 text-slate-300" />
-                          <p className="text-slate-500 italic">
+                          <p className="text-slate-400 italic">
                               Translation will appear here.
                           </p>
                        </div>
                    )}
               </div>
               
-              {/* Translate Button Overlay (centered between columns on desktop if we wanted, but simpler to put below input or just have a big button) */}
-               <div className="mt-4 md:mt-0 md:absolute md:top-1/2 md:-left-3 md:-translate-x-1/2 md:-translate-y-1/2 z-10 flex justify-center">
+               {/* Desktop Translate Button (centered overlay) */}
+               <div className="hidden md:flex absolute top-1/2 -left-3 -translate-x-1/2 -translate-y-1/2 z-10">
                    <button
-                       onClick={handleAiTranslate}
+                       onClick={handleTranslate}
                        disabled={!inputText.trim() || isAiLoading}
-                       className="flex items-center gap-2 px-6 py-3 bg-gradient-to-r from-cyan-500 to-blue-600 text-white font-bold text-lg rounded-full shadow-lg hover:shadow-xl hover:from-cyan-600 hover:to-blue-700 disabled:opacity-50 disabled:cursor-not-allowed transition-all active:scale-95 md:hidden"
-                   >
-                       <SparklesIcon className="h-5 w-5" />
-                       Translate
-                   </button>
-                   {/* Desktop arrow button */}
-                   <button
-                       onClick={handleAiTranslate}
-                       disabled={!inputText.trim() || isAiLoading}
-                       className="hidden md:flex items-center justify-center w-12 h-12 bg-gradient-to-r from-cyan-500 to-blue-600 text-white rounded-full shadow-md hover:shadow-lg hover:scale-110 disabled:opacity-50 disabled:cursor-not-allowed transition-all active:scale-95"
+                       className="flex items-center justify-center w-14 h-14 bg-gradient-to-r from-cyan-500 to-blue-600 text-white rounded-full shadow-lg hover:shadow-xl hover:scale-105 disabled:opacity-50 disabled:cursor-not-allowed transition-all active:scale-95 border-4 border-white"
                        title="Translate"
                    >
                        {isAiLoading ? (
@@ -233,39 +238,47 @@ const Translator: React.FC<TranslatorProps> = ({ entries, onNavigate }) => {
       {/* Detailed Word Analysis Section */}
       {inputText && (
           <div className="border-t border-slate-200 pt-8 animate-fade-in">
-              <h3 className="flex items-center gap-2 text-xl font-bold text-slate-800 mb-2">
-                  <SearchIcon className="h-5 w-5 text-cyan-600" />
-                  Corpus Context
-              </h3>
-              <p className="text-sm text-slate-600 mb-6">
-                  The AI uses these entries from the corpus to ensure accurate terminology.
-              </p>
+              <div className="mb-6">
+                  <h3 className="flex items-center gap-2 text-xl font-bold text-slate-800 mb-2">
+                      <SearchIcon className="h-5 w-5 text-cyan-600" />
+                      Corpus Context
+                  </h3>
+                  <p className="text-sm text-slate-600">
+                      The AI uses these entries from the corpus to ensure accurate, dialect-specific terminology.
+                  </p>
+              </div>
               
               {analysisResults.length === 0 ? (
-                  <div className="text-slate-500 italic bg-slate-50 p-4 rounded-lg border border-slate-200 text-center">
-                      No direct matches found in the corpus for individual words. The AI will rely on general linguistic rules.
+                  <div className="text-slate-500 italic bg-slate-50 p-4 rounded-lg border border-slate-200 text-center text-sm">
+                      No direct matches found in the corpus for individual words. The AI will rely on its general linguistic knowledge of the dialect.
                   </div>
               ) : (
                   <div className="grid grid-cols-1 lg:grid-cols-2 gap-4">
-                      {analysisResults.map((res, index) => (
-                          <div key={`${res.originalWord}-${index}`} className="bg-slate-50 rounded-lg border border-slate-200 overflow-hidden flex flex-col max-h-[300px]">
+                      {analysisResults.slice(0, 6).map((res, index) => (
+                          <div key={`${res.originalWord}-${index}`} className="bg-slate-50 rounded-lg border border-slate-200 overflow-hidden flex flex-col max-h-[250px]">
                               <div className="bg-slate-100 px-4 py-2 border-b border-slate-200 flex items-center gap-2 shrink-0">
-                                  <span className="text-sm font-medium text-slate-500">Matches for:</span>
-                                  <span className="text-lg font-bold text-cyan-700">"{res.originalWord}"</span>
+                                  <span className="text-xs font-medium text-slate-500 uppercase tracking-wider">Matches for:</span>
+                                  <span className="text-base font-bold text-cyan-700">"{res.originalWord}"</span>
                                   <span className="text-xs text-slate-400 ml-auto bg-slate-200 px-2 py-0.5 rounded-full">{res.matches.length}</span>
                               </div>
-                              <ul className="divide-y divide-slate-200 overflow-y-auto flex-grow">
-                                  {res.matches.map(entry => (
-                                      <EntryItem 
-                                          key={entry.id} 
-                                          entry={entry} 
-                                          showTranslations={true} 
-                                          showSources={true} 
-                                      />
+                              <ul className="divide-y divide-slate-200 overflow-y-auto flex-grow p-0">
+                                  {res.matches.slice(0, 5).map(entry => (
+                                      <div key={entry.id} className="scale-90 origin-top-left -mb-4 last:mb-0">
+                                        <EntryItem 
+                                            entry={entry} 
+                                            showTranslations={true} 
+                                            showSources={true} 
+                                        />
+                                      </div>
                                   ))}
                               </ul>
                           </div>
                       ))}
+                      {analysisResults.length > 6 && (
+                          <div className="text-center text-sm text-slate-500 col-span-full pt-2">
+                              and {analysisResults.length - 6} more terms analyzed...
+                          </div>
+                      )}
                   </div>
               )}
           </div>
