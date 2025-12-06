@@ -76,4 +76,54 @@ ganimlík s. duşmănie; adversitate; rivalitate.
 ganiy adj. bogat; abundent; îmbelşugat; opulent. // ●ganiy góñíllí — generos; darnic. ●góñílí ganiy — mărinimos; darnic. 
 Ganiy s. (antrop. m., arab.) "Cel bogat" (unul din cele 400 de nume atribuite în Coran Profetului Muhammed Aliyselam).
 Ganiy, El- s. (relig., arab.) "Cel îmbelşugat"; “Cel plin de belşug şi lipsit de nevoi” (unul din cele 99 preafrumoase nume atribuite în Coran lui Dumnezeu/Allah).
+ganiy-ganiy adj. abundent; din abundenŃă. 
+ganiygóñíl(lí) adj. darnic; generos; milostiv; mărinimos. 
+ganiygóñíllík s. dărnicie; generozitate; milostivire; mărinimie. 
+ganiylík s. bogăŃie; abundenŃă; îmbelşugare; opulenŃă. 
+gank s. gang. 
+gara s. gară. // ●awtobuz garasî — autogară. ●bo garanîñ atî ne? — cum se numeşte gara aceasta? ; 
+garabet s. ciudăŃenie; extravaganŃă; excentricitate. 
+garabetlí adj. ciudat; extravagant; excentric. 
+garaj s. garaj. // ●kamiyonlar garajî — autobază. 
+garajgatartuw s. garare. 
+garansiya s. garanŃie. 
+garansiyalî adj. garantat. 
+garaz s. 1. Ńel; obiectiv; Ńintă. 2. (fig.) ranchiună; pică; ură ascunsă. 
+garazkáar adj. ranchiunos; răzbunător. 
+garbiy adj. vestic; apusean; occidental. 
+garderoba s. garderobă; vestiar. 
+gardiyan s. gardian; paznic; strajă. 
+garez s. (fig.) ranchiună; pică; ură ascunsă. 
+gargara s. gargară. // ●gargara yapmak — a face gargară. 
+garibe s. ciudăŃenie; curiozitate. 
+Garip s. (antrop. m., arab.) "Cel nevoiaş" (unul din cele 400 de nume atribuite în Coran Profetului Muhammed Aliyselam).
+gark s. 1. scufundare; afundare. 2. (fig.) copleşire; covârşire; năpădire. 
+garketílgen adj. scufundat; afundat. 
+garketmek v.t. 1. a scufunda; a afunda. 2. (fig.) a copleşi; a covârşi; a năpădi. 
+garnitura s. 1. garnitură; ornament; podoabă. 2. (gastron.) garnitură. 
+garnizona s. garnizoană. 
+garp s. (geogr.) vest; apus; occident. 
+garplî s., adj. vestic; apusean; occidenta. 
+garptan adj. vestic; occidental. 
+garsoniyera s. garsonieră. 
+garun num. (mong.) cinci. 
+gasil s. (relig., la musulmani) spălarea mortului. 
+gasletmek v.t. (relig., la musulmani) a spăla mortul. 
+gasp s. uzurpare. 
+gaspetken s. uzurpator. 
+gaspetmek v.t. a uzurpa. 
+gasplî adj. uzurpat. 
+gastrita s. (med.) gastrită. 
+gayda s. (muz.) cimpoi. 
+gaye s. Ńel; scop. // ●gayesíne barmak — a-şi atinge scopul. 
+gayile s. neplăcere; necaz; belea. 
+gayilelí adj. 1. neplăcut; anevoios; greu. 2. necăjit; supărat; amărât. 
+gayîlmak v.i. a se desfăşura. 
+gayîluw s. desfăşurare. 
+gayzer s. gheizer. 
+gaz s. 1. gaz; gaze. 2. petrol lampant. // ●gaz maskasî — mască de gaze. ●gaz sáátí/sayaşî — (tehn.) contor de gaze. ●kóz yaşartuwğî gaz — gaz lacrimogen. 
+Gazanfer s. (antrop. m., prsn.) "Leul". 
+gazap s. mânie; furie. // ●gazapka kelmek — a se înfuria; a se mânia. 
+gazapkakelgen adj. înfuriat; mâniat; mânios. 
+gazapkakelúw s. înfuriere; mânie.
 `;
