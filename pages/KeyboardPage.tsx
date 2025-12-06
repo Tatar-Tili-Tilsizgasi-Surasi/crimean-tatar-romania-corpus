@@ -54,7 +54,7 @@ const KeyboardPage: React.FC<KeyboardPageProps> = ({ entries, onNavigate }) => {
                     </p>
                     <ol className="list-decimal pl-5 space-y-2 text-sm text-slate-700 mb-4">
                         <li>Type your message here using the Tatar keys.</li>
-                        <li>Long-press keys to <strong>automatically paste</strong> special Crimean Tatar characters (e.g., hold <strong>s</strong> for <strong>ş</strong>).</li>
+                        <li>Long-press keys (like <strong>s</strong> or <strong>i</strong>) to reveal variants, then <strong>slide to select</strong> the desired character (e.g., <strong>ş</strong>, <strong>î</strong>).</li>
                         <li>Tap <strong>Share</strong> to send directly to Communication Apps.</li>
                         <li>Or tap <strong>Copy</strong> and paste it manually.</li>
                     </ol>
