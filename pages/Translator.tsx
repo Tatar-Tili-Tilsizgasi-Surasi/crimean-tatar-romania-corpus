@@ -98,7 +98,7 @@ const Translator: React.FC<TranslatorProps> = ({ entries, onNavigate }) => {
     <div className="flex-grow flex flex-col bg-white rounded-lg shadow-lg border border-slate-200 p-4 sm:p-6 md:p-8 animate-fade-in gap-6 sm:gap-8 overflow-y-auto min-h-0">
       {/* Header */}
       <div className="flex flex-col sm:flex-row items-start sm:items-center justify-between gap-4">
-        <h2 className="text-2xl sm:text-3xl font-bold text-slate-800">AI Translator</h2>
+        <h2 className="text-2xl sm:text-3xl font-bold text-slate-800">Translator (Beta)</h2>
         <button
           onClick={() => onNavigate('corpus')}
           className="flex items-center gap-2 px-4 py-2 bg-slate-200 text-sm font-medium rounded-md hover:bg-slate-300 transition-colors self-start sm:self-auto"
