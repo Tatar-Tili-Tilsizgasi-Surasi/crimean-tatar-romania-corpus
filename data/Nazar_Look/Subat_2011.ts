@@ -7,25 +7,11 @@ export const subat2011Entries: string = `
 # ŞÎNĞA'NÎÑ túş kórmek SÎRASÎ TANÎLSÎN — LET XINJIANG dream
 # BAŞ KABÎMÎZDA: Hanna Turonek — ON THE COVER: Hanna Turonek
 # MEMBALAR: Aydîn Şemi-zade
-Borasan Ahmet (Borasan Ametov)
-Ioana Grecu, dreamstime.com
-Jon Helgason, dreamstime.com
-Tomasz Swiadczynski
-QHA
-Vasiliy Koval, dreamstime.com
-Zoï Environment Network — CONTRIBUTORS: Aydîn Şemi-zade
-Borasan Ahmet (Borasan Ametov)
-Ioana Grecu, dreamstime.com
-Jon Helgason, dreamstime.com
-Tomasz Swiadczynski
-QHA
-Vasiliy Koval, dreamstime.com
-Zoï Environment Network
 # ÍŞÍNDEKÍLER — CONTENTS
 # Tomrîğa Kîrîm Tatarlarîñ turuş-mamuriyet meğmuwasî — Attitude and culture magazine of Dobrudja’s Crimean Tatars
 # BAŞ-NAŞIR: Taner Murat — FOUNDER & EDITOR-IN-CHIEF: Taner Murat
 # SAYAR SÎZGAĞÎSÎ: Elif Abdul
-Hakaan Kalila (Hakan Calila) — COMPUTER GRAPHICS: Elif Abdul
+Hakaan Kalila — COMPUTER GRAPHICS: Elif Abdul
 Hakaan Kalila (Hakan Calila)
 # ESER KEÑEŞÇÍSÍ: Gúner Akmolla — CREATIVE CONSULTANTS: Gúner Akmolla
 # Mamuriyet kaberlerí
@@ -41,7 +27,7 @@ tertíplengendír.
 Sergí 12 martkaşîk kalkka aşîk 
 kalağaktîr.
  
-Ankara, 07.01.2011 (QHA) - Kîrîm 
+Ankara, 07.01.2011 (KKA) - Kîrîm 
 Túrklerí we Yardîmlaşma Dernegí'ñ 
 tertíplemesínde aytuwlî Kîrîm kalk oyînlarî we 
 şarkîlarî takîmî Kîrîm Ansamblî koşaksîz 
@@ -64,7 +50,7 @@ Koğaeli, 23 oşak Gebze, 25 oşak Bandîrma, 28
 oşak Izmir, 29 oşak Istanbul.
  
 Akmesğit (Simferopol) 12.01.2011 
-(QHA) - Nesíl dergísí, Akmesğit’íñ Ukrayna 
+(KKA) - Nesíl dergísí, Akmesğit’íñ Ukrayna 
 Múzikal Tiyatrosînda tertíplegen tórení men 2010 
 yîlînda túrlí-túrlí alanlarda başaruwlî bolgan 
 Kîrîm Tatarlarîna ódíller dagîttî.
@@ -106,20 +92,19 @@ Nara Nariman (Nara Narimanova) – Osman Bayramaliy
 (Osman Bayramaliyev)
  
 Kóstenğe, 15.01.2011 - Kóstenğe 
-Yazarlar Bírlígí kazak şayirí Mihay Eminesku'nî 
-(Mihai Eminescu) añgan 
+Yazarlar Bírlígí kazak şayirí Mikayil Emineskúw'ní  añgan 
 bír şiir kúní 
 tertípledí. 
 Programga tatar 
 yazuwğîlarîmîz da dawetiye 
 alîp koşîldîlar. 
-Eminesku'nuñ eserlerínden 
+Emineskúw'níñ eserlerínden 
 tatarğa kaytarmasîndan 
 Gúner Akmolla we túrúkşe 
 kaytarmasîndan Nermin 
 Hoğa-Susam okîp toplantîga ayîrî bír renk 
 berdíler. 
-Akmesğit, 19.01.2011 (QHA) - Akmesğit 
+Akmesğit, 19.01.2011 (KKA) - Akmesğit 
 Etnografiy Múzesínde Kîrîm Ózerk Ğumhuriyetíñ 
 kuruluşuñ 20-ínğí yîlkaytîmînda “Kóp îrklî 
 Kîrîm” atlî sergísí aşîldî.
@@ -164,7 +149,7 @@ sayifalîk karton kapaklî kitap internet
 kitapşîlarînda satîlmaga başladî.
  
 Kezlew (Yevpatoriya), 11.01.2011 
-(QHA) – Kezlew’de ballarîñ şekken resímlerí 
+(KKA) – Kezlew’de ballarîñ şekken resímlerí 
 “Mením Ukraynam” we “Kîrîm-Mením Gúzel 
 Yerím” konîlî sergísínde yer aldî.
 Kezlew Belediyesíñ bergen bílgísíne kóre sergíde, 
@@ -183,7 +168,7 @@ katîlmaga hakk eteğekler. 27 aralîkta başlagan we
 Blik Fotograf Merkezí boldî.
 Çingiz Súliyman (Çingiz Súleymanova) - Osman 
 Bayramaliy (Osman Bayramaliyev)
-Ankara, 20.01.2011 (QHA) - Kîrîm 
+Ankara, 20.01.2011 (KKA) - Kîrîm 
 Túrklerí we Yardîmlaşma Dernegí'ñ 
 tertíplemesínde 20 oşak 2011 perşembe kúní 
 “Altîndak Belediyesí Hamamóní sóyleşilerí – Oşak 
@@ -196,7 +181,7 @@ Program Altîndak Belediyesí Tarihiy
 Kabakşî Konagînda yapîldî.
  
 Akmesğit (Simferopol), 13.01.2011 
-(QHA) – Kîrîm Ressamlar Úyúnde 12 oşakta 
+(KKA) – Kîrîm Ressamlar Úyúnde 12 oşakta 
 ballarîñ yapkan resímlerí yer algan bír sergí 
 aşîldî. Sergí, Akmesğit Sanat Mektebíñ 
 kuruluşuñ 65-ínğí yîlkaytîmî múnasebetí men 
