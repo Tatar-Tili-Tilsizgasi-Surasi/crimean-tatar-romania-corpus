@@ -92,9 +92,9 @@ const Translator: React.FC<TranslatorProps> = ({ entries, onNavigate }) => {
   ];
 
   return (
-    <div className="flex-grow flex flex-col bg-white rounded-lg shadow-lg border border-slate-200 p-4 sm:p-6 md:p-8 animate-fade-in gap-6 sm:gap-8">
+    <div className="flex-grow flex flex-col bg-white rounded-lg shadow-lg border border-slate-200 p-4 sm:p-6 md:p-8 animate-fade-in min-h-0">
       {/* Header */}
-      <div className="flex flex-col sm:flex-row items-start sm:items-center justify-between gap-4">
+      <div className="flex flex-col sm:flex-row items-start sm:items-center justify-between gap-4 mb-6 sm:mb-8 shrink-0">
         <div>
             <h2 className="text-2xl sm:text-3xl font-bold text-slate-800 flex items-center gap-2">
                 <SparklesIcon className="h-6 w-6 text-cyan-500" />
@@ -122,167 +122,169 @@ const Translator: React.FC<TranslatorProps> = ({ entries, onNavigate }) => {
         </button>
       </div>
 
-      {/* Language Controls */}
-      <div className="flex flex-col md:flex-row items-center justify-between gap-4 bg-slate-50 p-4 rounded-xl border border-slate-200">
-          <div className="flex items-center gap-2 w-full md:w-auto flex-1 max-w-3xl">
-              <select
-                  value={sourceLang}
-                  onChange={(e) => setSourceLang(e.target.value as Language)}
-                  className="flex-1 bg-white border border-slate-300 rounded-md px-3 py-2 text-sm sm:text-base focus:outline-none focus:ring-2 focus:ring-cyan-500"
-                  aria-label="Source language"
-              >
-                  {supportedLanguages.map(lang => (
-                      <option key={lang} value={lang} disabled={lang === targetLang}>{lang}</option>
-                  ))}
-              </select>
-              
-              <button 
-                  onClick={handleSwapLanguages}
-                  className="p-2 rounded-full bg-slate-200 hover:bg-cyan-100 text-slate-600 hover:text-cyan-700 transition-colors flex-shrink-0"
-                  title="Swap languages"
-                  aria-label="Swap source and target languages"
-              >
-                  <SwitchHorizontalIcon className="h-5 w-5" />
-              </button>
+      <div className="flex-grow overflow-y-auto min-h-0 flex flex-col gap-6 sm:gap-8 pr-1">
+        {/* Language Controls */}
+        <div className="flex flex-col md:flex-row items-center justify-between gap-4 bg-slate-50 p-4 rounded-xl border border-slate-200 shrink-0">
+            <div className="flex items-center gap-2 w-full md:w-auto flex-1 max-w-3xl">
+                <select
+                    value={sourceLang}
+                    onChange={(e) => setSourceLang(e.target.value as Language)}
+                    className="flex-1 bg-white border border-slate-300 rounded-md px-3 py-2 text-sm sm:text-base focus:outline-none focus:ring-2 focus:ring-cyan-500"
+                    aria-label="Source language"
+                >
+                    {supportedLanguages.map(lang => (
+                        <option key={lang} value={lang} disabled={lang === targetLang}>{lang}</option>
+                    ))}
+                </select>
+                
+                <button 
+                    onClick={handleSwapLanguages}
+                    className="p-2 rounded-full bg-slate-200 hover:bg-cyan-100 text-slate-600 hover:text-cyan-700 transition-colors flex-shrink-0"
+                    title="Swap languages"
+                    aria-label="Swap source and target languages"
+                >
+                    <SwitchHorizontalIcon className="h-5 w-5" />
+                </button>
 
-              <select
-                  value={targetLang}
-                  onChange={(e) => setTargetLang(e.target.value as Language)}
-                  className="flex-1 bg-white border border-slate-300 rounded-md px-3 py-2 text-sm sm:text-base focus:outline-none focus:ring-2 focus:ring-cyan-500"
-                  aria-label="Target language"
-              >
-                   {supportedLanguages.map(lang => (
-                      <option key={lang} value={lang} disabled={lang === sourceLang}>{lang}</option>
-                  ))}
-              </select>
-          </div>
+                <select
+                    value={targetLang}
+                    onChange={(e) => setTargetLang(e.target.value as Language)}
+                    className="flex-1 bg-white border border-slate-300 rounded-md px-3 py-2 text-sm sm:text-base focus:outline-none focus:ring-2 focus:ring-cyan-500"
+                    aria-label="Target language"
+                >
+                    {supportedLanguages.map(lang => (
+                        <option key={lang} value={lang} disabled={lang === sourceLang}>{lang}</option>
+                    ))}
+                </select>
+            </div>
 
-          <button
-            onClick={() => setIsKeyboardVisible(!isKeyboardVisible)}
-            className={`flex items-center gap-1 px-3 py-2 text-sm font-medium rounded-md transition-colors flex-shrink-0 w-full md:w-auto justify-center ${isKeyboardVisible ? 'bg-cyan-100 text-cyan-700' : 'bg-white border border-slate-300 text-slate-600 hover:bg-slate-50'}`}
-        >
-            <KeyboardIcon className="h-5 w-5" />
-            Keyboard
-        </button>
+            <button
+                onClick={() => setIsKeyboardVisible(!isKeyboardVisible)}
+                className={`flex items-center gap-1 px-3 py-2 text-sm font-medium rounded-md transition-colors flex-shrink-0 w-full md:w-auto justify-center ${isKeyboardVisible ? 'bg-cyan-100 text-cyan-700' : 'bg-white border border-slate-300 text-slate-600 hover:bg-slate-50'}`}
+            >
+                <KeyboardIcon className="h-5 w-5" />
+                Keyboard
+            </button>
+        </div>
+
+        {/* Input/Output Area */}
+        <div className="grid grid-cols-1 md:grid-cols-2 gap-4 md:gap-6 shrink-0">
+            {/* Input Side */}
+            <div className="flex flex-col relative gap-4">
+                <div className="relative flex-grow">
+                    <label htmlFor="input-text" className="sr-only">Input Text</label>
+                    <textarea
+                        id="input-text"
+                        value={inputText}
+                        onChange={(e) => setInputText(e.target.value)}
+                        placeholder={`Enter ${sourceLang} text here...`}
+                        className="w-full h-full min-h-[200px] p-4 bg-slate-50 border-2 border-slate-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-cyan-500 focus:border-cyan-500 transition-colors resize-y text-lg"
+                    />
+                </div>
+                {isKeyboardVisible && (
+                    <Keyboard onKeyPress={handleKeyPress} onBackspace={handleBackspace} />
+                )}
+                <button
+                    onClick={handleTranslate}
+                    disabled={!inputText.trim() || isAiLoading}
+                    className="md:hidden w-full flex items-center justify-center gap-2 px-6 py-3 bg-gradient-to-r from-cyan-500 to-blue-600 text-white font-bold text-lg rounded-lg shadow-md hover:shadow-lg disabled:opacity-50 disabled:cursor-not-allowed transition-all active:scale-95"
+                >
+                    {isAiLoading ? 'Translating...' : 'Translate'}
+                </button>
+            </div>
+
+            {/* Output Side */}
+            <div className="flex flex-col relative">
+                <div className={`flex-grow min-h-[200px] p-4 rounded-lg border-2 transition-colors relative ${aiTranslation ? 'bg-white border-cyan-500' : 'bg-slate-50 border-slate-200'}`}>
+                    {isAiLoading ? (
+                        <div className="flex flex-col items-center justify-center h-full text-slate-500 gap-3">
+                            <svg className="animate-spin h-8 w-8 text-cyan-600" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
+                                <circle className="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" strokeWidth="4"></circle>
+                                <path className="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"></path>
+                            </svg>
+                            <p className="font-medium text-cyan-700 animate-pulse">Translating...</p>
+                        </div>
+                    ) : aiTranslation ? (
+                        <div className="text-lg text-slate-800 whitespace-pre-wrap">{aiTranslation}</div>
+                    ) : (
+                        <div className="flex flex-col items-center justify-center h-full text-center gap-4 opacity-60">
+                            <p className="text-slate-400 italic">
+                                Translation will appear here.
+                            </p>
+                        </div>
+                    )}
+                </div>
+                
+                {/* Desktop Translate Button (centered overlay) */}
+                <div className="hidden md:flex absolute top-1/2 -left-3 -translate-x-1/2 -translate-y-1/2 z-10">
+                    <button
+                        onClick={handleTranslate}
+                        disabled={!inputText.trim() || isAiLoading}
+                        className="flex items-center justify-center w-14 h-14 bg-gradient-to-r from-cyan-500 to-blue-600 text-white rounded-full shadow-lg hover:shadow-xl hover:scale-105 disabled:opacity-50 disabled:cursor-not-allowed transition-all active:scale-95 border-4 border-white"
+                        title="Translate"
+                    >
+                        {isAiLoading ? (
+                                <svg className="animate-spin h-6 w-6" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
+                                <circle className="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" strokeWidth="4"></circle>
+                                <path className="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"></path>
+                            </svg>
+                        ) : (
+                            <ArrowLeftIcon className="h-6 w-6 rotate-180" />
+                        )}
+                    </button>
+                </div>
+            </div>
+        </div>
+
+        {/* Detailed Word Analysis Section */}
+        {inputText && (
+            <div className="border-t border-slate-200 pt-8 animate-fade-in shrink-0 pb-4">
+                <div className="mb-6">
+                    <h3 className="flex items-center gap-2 text-xl font-bold text-slate-800 mb-2">
+                        <SearchIcon className="h-5 w-5 text-cyan-600" />
+                        Corpus Context
+                    </h3>
+                    <p className="text-sm text-slate-600">
+                        The AI uses these entries from the corpus to ensure accurate, dialect-specific terminology.
+                    </p>
+                </div>
+                
+                {analysisResults.length === 0 ? (
+                    <div className="text-slate-500 italic bg-slate-50 p-4 rounded-lg border border-slate-200 text-center text-sm">
+                        No direct matches found in the corpus for individual words. The AI will rely on its general linguistic knowledge of the dialect.
+                    </div>
+                ) : (
+                    <div className="grid grid-cols-1 lg:grid-cols-2 gap-4">
+                        {analysisResults.slice(0, 6).map((res, index) => (
+                            <div key={`${res.originalWord}-${index}`} className="bg-slate-50 rounded-lg border border-slate-200 overflow-hidden flex flex-col max-h-[250px]">
+                                <div className="bg-slate-100 px-4 py-2 border-b border-slate-200 flex items-center gap-2 shrink-0">
+                                    <span className="text-xs font-medium text-slate-500 uppercase tracking-wider">Matches for:</span>
+                                    <span className="text-base font-bold text-cyan-700">"{res.originalWord}"</span>
+                                    <span className="text-xs text-slate-400 ml-auto bg-slate-200 px-2 py-0.5 rounded-full">{res.matches.length}</span>
+                                </div>
+                                <ul className="divide-y divide-slate-200 overflow-y-auto flex-grow p-0">
+                                    {res.matches.slice(0, 5).map(entry => (
+                                        <div key={entry.id} className="scale-90 origin-top-left -mb-4 last:mb-0">
+                                            <EntryItem 
+                                                entry={entry} 
+                                                showTranslations={true} 
+                                                showSources={true} 
+                                            />
+                                        </div>
+                                    ))}
+                                </ul>
+                            </div>
+                        ))}
+                        {analysisResults.length > 6 && (
+                            <div className="text-center text-sm text-slate-500 col-span-full pt-2">
+                                and {analysisResults.length - 6} more terms analyzed...
+                            </div>
+                        )}
+                    </div>
+                )}
+            </div>
+        )}
       </div>
-
-      {/* Input/Output Area */}
-      <div className="grid grid-cols-1 md:grid-cols-2 gap-4 md:gap-6">
-          {/* Input Side */}
-          <div className="flex flex-col relative gap-4">
-              <div className="relative flex-grow">
-                  <label htmlFor="input-text" className="sr-only">Input Text</label>
-                  <textarea
-                      id="input-text"
-                      value={inputText}
-                      onChange={(e) => setInputText(e.target.value)}
-                      placeholder={`Enter ${sourceLang} text here...`}
-                      className="w-full h-full min-h-[200px] p-4 bg-slate-50 border-2 border-slate-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-cyan-500 focus:border-cyan-500 transition-colors resize-y text-lg"
-                  />
-              </div>
-               {isKeyboardVisible && (
-                  <Keyboard onKeyPress={handleKeyPress} onBackspace={handleBackspace} />
-              )}
-               <button
-                   onClick={handleTranslate}
-                   disabled={!inputText.trim() || isAiLoading}
-                   className="md:hidden w-full flex items-center justify-center gap-2 px-6 py-3 bg-gradient-to-r from-cyan-500 to-blue-600 text-white font-bold text-lg rounded-lg shadow-md hover:shadow-lg disabled:opacity-50 disabled:cursor-not-allowed transition-all active:scale-95"
-               >
-                   {isAiLoading ? 'Translating...' : 'Translate'}
-               </button>
-          </div>
-
-          {/* Output Side */}
-          <div className="flex flex-col relative">
-               <div className={`flex-grow min-h-[200px] p-4 rounded-lg border-2 transition-colors relative ${aiTranslation ? 'bg-white border-cyan-500' : 'bg-slate-50 border-slate-200'}`}>
-                   {isAiLoading ? (
-                       <div className="flex flex-col items-center justify-center h-full text-slate-500 gap-3">
-                           <svg className="animate-spin h-8 w-8 text-cyan-600" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
-                               <circle className="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" strokeWidth="4"></circle>
-                               <path className="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"></path>
-                           </svg>
-                           <p className="font-medium text-cyan-700 animate-pulse">Translating...</p>
-                       </div>
-                   ) : aiTranslation ? (
-                       <div className="text-lg text-slate-800 whitespace-pre-wrap">{aiTranslation}</div>
-                   ) : (
-                       <div className="flex flex-col items-center justify-center h-full text-center gap-4 opacity-60">
-                          <p className="text-slate-400 italic">
-                              Translation will appear here.
-                          </p>
-                       </div>
-                   )}
-              </div>
-              
-               {/* Desktop Translate Button (centered overlay) */}
-               <div className="hidden md:flex absolute top-1/2 -left-3 -translate-x-1/2 -translate-y-1/2 z-10">
-                   <button
-                       onClick={handleTranslate}
-                       disabled={!inputText.trim() || isAiLoading}
-                       className="flex items-center justify-center w-14 h-14 bg-gradient-to-r from-cyan-500 to-blue-600 text-white rounded-full shadow-lg hover:shadow-xl hover:scale-105 disabled:opacity-50 disabled:cursor-not-allowed transition-all active:scale-95 border-4 border-white"
-                       title="Translate"
-                   >
-                       {isAiLoading ? (
-                            <svg className="animate-spin h-6 w-6" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
-                               <circle className="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" strokeWidth="4"></circle>
-                               <path className="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"></path>
-                           </svg>
-                       ) : (
-                           <ArrowLeftIcon className="h-6 w-6 rotate-180" />
-                       )}
-                   </button>
-               </div>
-          </div>
-      </div>
-
-      {/* Detailed Word Analysis Section */}
-      {inputText && (
-          <div className="border-t border-slate-200 pt-8 animate-fade-in">
-              <div className="mb-6">
-                  <h3 className="flex items-center gap-2 text-xl font-bold text-slate-800 mb-2">
-                      <SearchIcon className="h-5 w-5 text-cyan-600" />
-                      Corpus Context
-                  </h3>
-                  <p className="text-sm text-slate-600">
-                      The AI uses these entries from the corpus to ensure accurate, dialect-specific terminology.
-                  </p>
-              </div>
-              
-              {analysisResults.length === 0 ? (
-                  <div className="text-slate-500 italic bg-slate-50 p-4 rounded-lg border border-slate-200 text-center text-sm">
-                      No direct matches found in the corpus for individual words. The AI will rely on its general linguistic knowledge of the dialect.
-                  </div>
-              ) : (
-                  <div className="grid grid-cols-1 lg:grid-cols-2 gap-4">
-                      {analysisResults.slice(0, 6).map((res, index) => (
-                          <div key={`${res.originalWord}-${index}`} className="bg-slate-50 rounded-lg border border-slate-200 overflow-hidden flex flex-col max-h-[250px]">
-                              <div className="bg-slate-100 px-4 py-2 border-b border-slate-200 flex items-center gap-2 shrink-0">
-                                  <span className="text-xs font-medium text-slate-500 uppercase tracking-wider">Matches for:</span>
-                                  <span className="text-base font-bold text-cyan-700">"{res.originalWord}"</span>
-                                  <span className="text-xs text-slate-400 ml-auto bg-slate-200 px-2 py-0.5 rounded-full">{res.matches.length}</span>
-                              </div>
-                              <ul className="divide-y divide-slate-200 overflow-y-auto flex-grow p-0">
-                                  {res.matches.slice(0, 5).map(entry => (
-                                      <div key={entry.id} className="scale-90 origin-top-left -mb-4 last:mb-0">
-                                        <EntryItem 
-                                            entry={entry} 
-                                            showTranslations={true} 
-                                            showSources={true} 
-                                        />
-                                      </div>
-                                  ))}
-                              </ul>
-                          </div>
-                      ))}
-                      {analysisResults.length > 6 && (
-                          <div className="text-center text-sm text-slate-500 col-span-full pt-2">
-                              and {analysisResults.length - 6} more terms analyzed...
-                          </div>
-                      )}
-                  </div>
-              )}
-          </div>
-      )}
     </div>
   );
 };
