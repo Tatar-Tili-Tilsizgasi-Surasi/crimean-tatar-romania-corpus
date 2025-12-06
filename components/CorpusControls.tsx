@@ -33,10 +33,6 @@ interface CorpusControlsProps {
   onSearchChange: (query: string) => void;
   onExportJson: () => void;
   onExportTxt: () => void;
-  showTranslations: boolean;
-  onShowTranslationsChange: (show: boolean) => void;
-  showSources: boolean;
-  onShowSourcesChange: (show: boolean) => void;
   categories: string[];
   selectedCategory: string;
   onCategoryChange: (category: string) => void;
@@ -50,10 +46,6 @@ const CorpusControls: React.FC<CorpusControlsProps> = ({
   onSearchChange,
   onExportJson,
   onExportTxt,
-  showTranslations,
-  onShowTranslationsChange,
-  showSources,
-  onShowSourcesChange,
   categories,
   selectedCategory,
   onCategoryChange
@@ -150,38 +142,6 @@ const CorpusControls: React.FC<CorpusControlsProps> = ({
               ))}
             </select>
           </div>
-
-          <label htmlFor="show-sources" className="flex items-center cursor-pointer select-none w-full md:w-auto justify-between">
-            <span className="mr-3 text-sm font-medium text-slate-700 whitespace-nowrap">Show Sources</span>
-            <div className="relative">
-                <input
-                    type="checkbox"
-                    id="show-sources"
-                    className="sr-only peer"
-                    checked={showSources}
-                    onChange={(e) => onShowSourcesChange(e.target.checked)}
-                    aria-label="Show or hide sources"
-                />
-                <div className="block bg-slate-300 w-12 h-7 rounded-full peer-checked:bg-cyan-600 transition-colors"></div>
-                <div className="dot absolute left-1 top-1 bg-white w-5 h-5 rounded-full transition-transform peer-checked:translate-x-full"></div>
-            </div>
-          </label>
-
-          <label htmlFor="show-translations" className="flex items-center cursor-pointer select-none w-full md:w-auto justify-between">
-            <span className="mr-3 text-sm font-medium text-slate-700 whitespace-nowrap">Show Translations</span>
-            <div className="relative">
-                <input
-                    type="checkbox"
-                    id="show-translations"
-                    className="sr-only peer"
-                    checked={showTranslations}
-                    onChange={(e) => onShowTranslationsChange(e.target.checked)}
-                    aria-label="Show or hide translations"
-                />
-                <div className="block bg-slate-300 w-12 h-7 rounded-full peer-checked:bg-cyan-600 transition-colors"></div>
-                <div className="dot absolute left-1 top-1 bg-white w-5 h-5 rounded-full transition-transform peer-checked:translate-x-full"></div>
-            </div>
-          </label>
           
           <div className="relative w-full md:w-auto" ref={exportMenuRef}>
             <button
@@ -217,9 +177,7 @@ const CorpusControls: React.FC<CorpusControlsProps> = ({
                     Export TXT
                   </a>
                   <p className="text-xs text-slate-500 px-4 pt-2 pb-1 border-t border-slate-100">
-                    {showTranslations ? 'Includes translations.' : 'Excludes translations.'}
-                    <br />
-                    {showSources ? 'Includes sources.' : 'Excludes sources.'}
+                    Includes translations and sources.
                   </p>
                 </div>
               )}

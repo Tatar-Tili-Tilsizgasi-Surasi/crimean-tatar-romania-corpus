@@ -137,10 +137,12 @@ const VirtualKeyboard: React.FC<VirtualKeyboardProps> = ({ entries }) => {
         // Group 2: Sentence delimiters (. ? !)
         const tokenizerRegex = /([a-zA-ZáÁçÇğĞíÍîÎñÑóÓşŞúÚţŢ]+(?:['\-][a-zA-ZáÁçÇğĞíÍîÎñÑóÓşŞúÚţŢ]+)*)|([.?!]+)/g;
 
-        // Pass 1: Identify Definite Proper Nouns (capitalized in middle of sentence)
+        // Pass 1: Identify Definite Proper Nouns (capitalized in middle of sentence OR in Dictionary source)
         entries.forEach(entry => {
+            const isDictionary = entry.source.includes('Dictionary');
             const matches = entry.text.matchAll(tokenizerRegex);
             let isStart = true;
+
             for (const match of matches) {
                 if (match[2]) { 
                     isStart = true; 
@@ -148,22 +150,40 @@ const VirtualKeyboard: React.FC<VirtualKeyboardProps> = ({ entries }) => {
                 }
                 if (match[1]) {
                     const word = match[1];
-                    // Check if it's a proper noun based on capitalization in non-start position
-                    // We also check parts of hyphenated words
-                    const parts = word.split('-');
-                    
-                    parts.forEach((part, index) => {
-                         // If we are NOT at start of sentence, any capitalized part is a proper noun.
-                         // If we ARE at start of sentence, we can't be sure about the first part, 
-                         // but internal parts (index > 0) that are capitalized are proper nouns.
-                         if ((!isStart && /^[A-ZÁÇĞÍÎÑÓŞÚŢ]/.test(part)) || (index > 0 && /^[A-ZÁÇĞÍÎÑÓŞÚŢ]/.test(part))) {
-                             properNouns.add(part);
-                         }
-                    });
+                    const isCapitalized = /^[A-ZÁÇĞÍÎÑÓŞÚŢ]/.test(word);
 
-                    // Also check the whole word if it doesn't contain hyphens, or even if it does
-                    if (!isStart && /^[A-ZÁÇĞÍÎÑÓŞÚŢ]/.test(word)) {
+                    // Add to proper nouns if:
+                    // 1. It is from a dictionary and is capitalized (headwords).
+                    // 2. OR it is from a sentence/text but NOT at the start.
+                    
+                    if (isDictionary && isCapitalized) {
                         properNouns.add(word);
+                    } else if (!isStart && isCapitalized) {
+                        properNouns.add(word);
+                    }
+
+                    // Handle hyphenated parts
+                    if (word.includes('-')) {
+                        const parts = word.split('-');
+                        parts.forEach((part, index) => {
+                             // Clean quotes
+                             const cleanPart = part.replace(/^[']+|[']+$/g, '');
+                             if (!cleanPart) return;
+                             
+                             const partIsCap = /^[A-ZÁÇĞÍÎÑÓŞÚŢ]/.test(cleanPart);
+                             
+                             // For dictionary entries: if part is capitalized, it's proper.
+                             if (isDictionary && partIsCap) {
+                                 properNouns.add(cleanPart);
+                             }
+                             // For regular text: 
+                             // If word was !isStart, all capitalized parts are proper.
+                             // If word was isStart, only non-first parts that are capitalized are definitely proper.
+                             else if (!isDictionary) {
+                                 if (!isStart && partIsCap) properNouns.add(cleanPart);
+                                 if (isStart && index > 0 && partIsCap) properNouns.add(cleanPart);
+                             }
+                        });
                     }
                     
                     isStart = false;
@@ -188,6 +208,11 @@ const VirtualKeyboard: React.FC<VirtualKeyboardProps> = ({ entries }) => {
                 }
 
                 if (wordToken) {
+                    // Filter out Roman numerals (uppercase IVXLCDM)
+                    if (/^[IVXLCDM]+$/.test(wordToken)) {
+                        continue;
+                    }
+
                     let processedWord = wordToken;
                     
                     // Logic for the whole token
@@ -195,7 +220,21 @@ const VirtualKeyboard: React.FC<VirtualKeyboardProps> = ({ entries }) => {
                         if (properNouns.has(wordToken)) {
                             processedWord = wordToken;
                         } else {
-                            processedWord = wordToken.toLowerCase();
+                            // If not explicitly in properNouns, check if a proper noun form exists (case-insensitive)
+                            // This ensures words like "Gabon" found in dictionary (capitalized) are suggested as "Gabon"
+                            // even if they appear at start of sentence here.
+                            let foundProper = null;
+                            for (const proper of properNouns) {
+                                if (proper.toLowerCase() === wordToken.toLowerCase()) {
+                                    foundProper = proper;
+                                    break;
+                                }
+                            }
+                            if (foundProper) {
+                                processedWord = foundProper;
+                            } else {
+                                processedWord = wordToken.toLowerCase();
+                            }
                         }
                     } else {
                         processedWord = wordToken;
@@ -208,15 +247,17 @@ const VirtualKeyboard: React.FC<VirtualKeyboardProps> = ({ entries }) => {
                     if (wordToken.includes('-')) {
                         const parts = wordToken.split('-');
                         parts.forEach((part, index) => {
-                            // Clean punctuation from part if any exists (rare with current regex but possible)
+                            // Clean punctuation from part
                             const cleanPart = part.replace(/^[']+|[']+$/g, '');
                             if (!cleanPart) return;
+
+                            // Filter Roman numerals in parts too
+                            if (/^[IVXLCDM]+$/.test(cleanPart)) return;
 
                             let partToAdd = cleanPart;
                             
                             // Determine casing:
                             // If it's a known proper noun, use that casing.
-                            // If it matches the proper noun set (case-insensitive check to be safe), use the proper noun version.
                             let foundProper = false;
                             for (const proper of properNouns) {
                                 if (proper.toLowerCase() === cleanPart.toLowerCase()) {
@@ -227,9 +268,6 @@ const VirtualKeyboard: React.FC<VirtualKeyboardProps> = ({ entries }) => {
                             }
                             
                             if (!foundProper) {
-                                // If not a known proper noun, default to lowercase for parts,
-                                // unless it appeared capitalized mid-sentence (which Pass 1 would catch).
-                                // If it appeared at start of sentence, we default to lowercase unless it was caught in Pass 1 as internal part.
                                 partToAdd = cleanPart.toLowerCase();
                             }
 
