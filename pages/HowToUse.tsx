@@ -12,8 +12,8 @@ const ArrowLeftIcon: React.FC<{className?: string}> = ({className}) => (
 
 const HowToUse: React.FC<HowToUseProps> = ({ onNavigate }) => {
   return (
-    <div className="flex-grow flex flex-col bg-white rounded-lg shadow-lg border border-slate-200 p-6 md:p-8 animate-fade-in min-h-0">
-      <div className="flex flex-col sm:flex-row items-start sm:items-center justify-between gap-4 mb-6 shrink-0">
+    <div className="flex-grow flex flex-col bg-white rounded-lg shadow-lg border border-slate-200 p-6 md:p-8 animate-fade-in">
+      <div className="flex flex-col sm:flex-row items-start sm:items-center justify-between gap-4 mb-6">
         <h2 className="text-2xl sm:text-3xl font-bold text-slate-800">How to Use This Corpus</h2>
         <button
           onClick={() => onNavigate('corpus')}
@@ -24,18 +24,20 @@ const HowToUse: React.FC<HowToUseProps> = ({ onNavigate }) => {
           Back to Corpus
         </button>
       </div>
-      <div className="prose prose-slate max-w-none text-slate-700 space-y-4 overflow-y-auto flex-grow pr-2">
+      <div className="prose prose-slate max-w-none text-slate-700 space-y-4">
         <p>This application allows you to explore and export a language corpus for Crimean Tatar (Romania). Here's how to use its features:</p>
         
         <h3 className="text-xl font-semibold text-slate-800">Searching and Filtering</h3>
         <ul>
-          <li><strong>Search Bar:</strong> Type any word or phrase into the search bar at the top to filter entries. The search looks through the Crimean Tatar text, translations, and source names.</li>
+          <li><strong>Search Bar:</strong> Type any word or phrase into the search bar at the top to filter entries. The search looks through the Crimean Tatar text, translations (if visible), and source names.</li>
           <li><strong>On-Screen Keyboard:</strong> Click the keyboard icon next to the search bar to show a virtual keyboard. This helps you type special characters unique to the Crimean Tatar alphabet (e.g., <code className="bg-slate-200 px-1 rounded">á, ç, ğ, í, î, ñ, ó, ş, ú</code>).</li>
           <li><strong>Category Filter:</strong> Use the "Category" dropdown to view entries from a specific source, like "Dictionary (Taner Murat)" or "Mikayil Emineskúw". Select "All (Dictionaries)" to see all dictionary sources combined, or "All" to see everything.</li>
         </ul>
 
         <h3 className="text-xl font-semibold text-slate-800">Viewing Entries</h3>
         <ul>
+          <li><strong>Show Sources:</strong> Use the "Show Sources" toggle switch to show or hide the source labels for each entry.</li>
+          <li><strong>Show Translations:</strong> Use the "Show Translations" toggle switch to show or hide translations for entries that have them.</li>
           <li><strong>Expand Long Entries:</strong> If an entry is too long to display fully, it will be truncated. Click on the entry to expand it and see the full text. Click it again to collapse it.</li>
         </ul>
 
@@ -45,7 +47,7 @@ const HowToUse: React.FC<HowToUseProps> = ({ onNavigate }) => {
             <li><strong className="font-semibold">Export JSON:</strong> Creates a <code className="bg-slate-200 px-1 rounded">.json</code> file, which is useful for developers and data analysis.</li>
             <li><strong className="font-semibold">Export TXT:</strong> Creates a plain <code className="bg-slate-200 px-1 rounded">.txt</code> file, which is easy to read and use in documents.</li>
         </ul>
-        <p>The exported files include translations and sources where available.</p>
+        <p>Note: The "Show Sources" and "Show Translations" toggles determine whether the exported files will include these fields.</p>
       </div>
     </div>
   );

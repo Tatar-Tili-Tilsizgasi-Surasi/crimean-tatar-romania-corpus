@@ -1,4 +1,3 @@
-
 import React from 'react';
 
 interface AboutProps {
@@ -13,8 +12,8 @@ const ArrowLeftIcon: React.FC<{className?: string}> = ({className}) => (
 
 const About: React.FC<AboutProps> = ({ onNavigate }) => {
   return (
-    <div className="flex-grow flex flex-col bg-white rounded-lg shadow-lg border border-slate-200 p-6 md:p-8 animate-fade-in min-h-0">
-      <div className="flex flex-col sm:flex-row items-start sm:items-center justify-between gap-4 mb-6 shrink-0">
+    <div className="flex-grow flex flex-col bg-white rounded-lg shadow-lg border border-slate-200 p-6 md:p-8 animate-fade-in">
+      <div className="flex flex-col sm:flex-row items-start sm:items-center justify-between gap-4 mb-6">
         <h2 className="text-2xl sm:text-3xl font-bold text-slate-800">About Crimean Tatar (Romania)</h2>
         <button
           onClick={() => onNavigate('corpus')}
@@ -25,7 +24,7 @@ const About: React.FC<AboutProps> = ({ onNavigate }) => {
           Back to Corpus
         </button>
       </div>
-      <div className="prose prose-slate max-w-none text-slate-700 space-y-4 overflow-y-auto flex-grow pr-2">
+      <div className="prose prose-slate max-w-none text-slate-700 space-y-4">
         <p>The Crimean Tatar language as spoken in Romania is a unique dialect with a rich history. This project aims to collect, preserve, and provide access to a corpus of this language variant.</p>
 
         <h3 className="text-xl font-semibold text-slate-800">Linguistic Features</h3>
