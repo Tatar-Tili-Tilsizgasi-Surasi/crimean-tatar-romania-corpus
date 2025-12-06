@@ -1,20 +1,19 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+## Crimean Tatar (Romania) Language Corpus
+Language Corpus for Crimean Tatar language spoken in Romania (also known as Dobrujan Tatar): **Crimean Tatar (Romania)**
 
-# Run and deploy your AI Studio app
+## Information
+The entries are in Crimean Tatar (Romania), you can also find translation for many entries. For more information about the language, see: https://github.com/Tatar-Tili-Tilsizgasi-Surasi/crimean-tatar-romania/tree/main
 
-This contains everything you need to run your app locally.
+## Contributing
 
-View your app in AI Studio: https://ai.studio/apps/drive/1SadUP2u0xt-d3Jp0UwOQtZlAXHQjtNI_
+Contributions are welcome! If you have knowledge of Crimean Tatar spoken in Romania, linguistic expertise, or can provide additional sources or examples, please feel free to open issues or pull requests.
 
-## Run Locally
+The entries are added in `data`. 
 
-**Prerequisites:**  Node.js
+## About using the data
+It's a pleasure to allow everyone to use this data, the main interest is to integrate the Crimean Tatar spoken in Romania to the internet.
 
+**Note**: To integrate this language to the internet, the recommendation is to use the term "Crimean Tatar (Romania)" [crh-RO].
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## Website
+Link: https://tatar-tili-tilsizgasi-surasi.github.io/crimean-tatar-romania-corpus/
