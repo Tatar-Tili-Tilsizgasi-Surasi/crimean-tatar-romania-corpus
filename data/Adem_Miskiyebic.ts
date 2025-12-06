@@ -10,7 +10,7 @@ Sade siyasiy kóríşínden tuwul, edebiyat man sanat kóríşínden de onsekíz
 yuzîl Urusiye men Polagîstan úşún emiyetlí bír kaytîm boldî. Dewlet, 
 ğurtsúygen, şayir men yazuwğîlarnîñ tuwumîna paya boldî. Bo aytuwlî 
 ísímler men faaliyetlerníñ Polagîstanînda kelgendír dúniyaga 1798’de 
-pîkareleşken eskí soylî bír korantanîñ balasî Adem Miskiebiç. Tuwumîndan 
+pîkareleşken eskí soylî bír korantanîñ balasî Adem Miskiyebiç. Tuwumîndan 
 úş sene ewel atağurtîñ úşúnğí we soñ bólmesí yer alîp imzalî belgeler ağele-
 ağele Úyken Katerina’nîñ tuwum kúnín taa muzaffer etmege Petersburk'ka 
 yollangan edí.
