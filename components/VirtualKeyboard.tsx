@@ -97,7 +97,6 @@ const VirtualKeyboard: React.FC<VirtualKeyboardProps> = ({ entries }) => {
     const [isNum, setIsNum] = useState(false);
     const [isEmoji, setIsEmoji] = useState(false);
     const [suggestions, setSuggestions] = useState<string[]>([]);
-    const [activeVariantKey, setActiveVariantKey] = useState<string | null>(null);
     const [showCopyFeedback, setShowCopyFeedback] = useState(false);
     const inputRef = useRef<HTMLTextAreaElement>(null);
     const longPressTimer = useRef<ReturnType<typeof setTimeout> | null>(null);
@@ -106,12 +105,34 @@ const VirtualKeyboard: React.FC<VirtualKeyboardProps> = ({ entries }) => {
     const predictionModel = useMemo(() => {
         const freqMap = new Map<string, number>();
         const bigramMap = new Map<string, Map<string, number>>();
-        
-        // Regex to tokenize:
-        // Group 1: Words (alphanumeric + dialect characters + apostrophe/hyphen)
-        // Group 2: Sentence delimiters (. ? !)
-        const tokenizerRegex = /([a-zA-Z0-9áÁçÇğĞíÍîÎñÑóÓşŞúÚţŢ]+(?:['\-][a-zA-Z0-9áÁçÇğĞíÍîÎñÑóÓşŞúÚţŢ]+)*)|([.?!]+)/g;
+        const properNouns = new Set<string>();
 
+        // Regex to tokenize:
+        // Group 1: Words (alphabetic + dialect characters + apostrophe/hyphen). NO NUMBERS.
+        // Group 2: Sentence delimiters (. ? !)
+        const tokenizerRegex = /([a-zA-ZáÁçÇğĞíÍîÎñÑóÓşŞúÚţŢ]+(?:['\-][a-zA-ZáÁçÇğĞíÍîÎñÑóÓşŞúÚţŢ]+)*)|([.?!]+)/g;
+
+        // Pass 1: Identify Definite Proper Nouns (capitalized in middle of sentence)
+        entries.forEach(entry => {
+            const matches = entry.text.matchAll(tokenizerRegex);
+            let isStart = true;
+            for (const match of matches) {
+                if (match[2]) { 
+                    isStart = true; 
+                    continue; 
+                }
+                if (match[1]) {
+                    const word = match[1];
+                    // If capitalized and NOT at start of sentence, it's a proper noun
+                    if (!isStart && /^[A-ZÁÇĞÍÎÑÓŞÚŢ]/.test(word)) {
+                        properNouns.add(word);
+                    }
+                    isStart = false;
+                }
+            }
+        });
+
+        // Pass 2: Build Frequency and Bigram Maps
         entries.forEach(entry => {
             const matches = entry.text.matchAll(tokenizerRegex);
             let isStartOfSentence = true;
@@ -130,15 +151,18 @@ const VirtualKeyboard: React.FC<VirtualKeyboardProps> = ({ entries }) => {
                 if (wordToken) {
                     let processedWord = wordToken;
 
-                    // If word is at start of sentence, lowercase it (unless it appears capitalized elsewhere as a proper noun,
-                    // but the logic here is to simply index the lowercase version for start-of-sentence occurrences
-                    // so suggestions don't default to Capitalized for common words).
                     if (isStartOfSentence) {
-                        processedWord = wordToken.toLowerCase();
+                        // If it's a known proper noun, keep it capitalized.
+                        // Otherwise, assume it's a common word capitalized for grammar, so lowercase it.
+                        if (properNouns.has(wordToken)) {
+                            processedWord = wordToken;
+                        } else {
+                            processedWord = wordToken.toLowerCase();
+                        }
+                    } else {
+                        // In middle of sentence, trust the casing (Proper Noun or Common)
+                        processedWord = wordToken;
                     }
-                    
-                    // Note: If wordToken was "Taner" in middle of sentence, processedWord stays "Taner".
-                    // If "Kitap" at start, it becomes "kitap".
 
                     // Update Frequency
                     freqMap.set(processedWord, (freqMap.get(processedWord) || 0) + 1);
@@ -210,6 +234,7 @@ const VirtualKeyboard: React.FC<VirtualKeyboardProps> = ({ entries }) => {
             
             if (lastToken.length > 0) {
                  // Filter case-insensitively but return original case from model
+                 // Exclude exact duplicates (e.g. if user typed "Kita", and "kitap" and "Kitap" both exist, maybe show preferred one)
                  const matches = predictionModel.sortedFreq
                     .filter(w => w.toLowerCase().startsWith(lastToken) && w.toLowerCase() !== lastToken)
                     .slice(0, 3);
@@ -335,12 +360,26 @@ const VirtualKeyboard: React.FC<VirtualKeyboardProps> = ({ entries }) => {
         }
     };
 
+    // Auto-Paste Variant Logic
+    const handleAutoPasteVariant = (key: string) => {
+        const variants = VARIANTS[key] || VARIANTS[key.toUpperCase()];
+        if (variants && variants.length > 0) {
+            const variantToPaste = variants[0]; // Paste the first variant automatically
+            // Haptic feedback if available
+            if (navigator.vibrate) {
+                navigator.vibrate(50); 
+            }
+            handleInput(variantToPaste);
+        }
+    };
+
     // Touch logic
     const handleTouchStart = (key: string) => {
-        if (VARIANTS[key] || VARIANTS[key.toUpperCase()]) {
+        const variants = VARIANTS[key] || VARIANTS[key.toUpperCase()];
+        if (variants) {
              longPressTimer.current = setTimeout(() => {
-                 setActiveVariantKey(key);
-             }, 400); 
+                 handleAutoPasteVariant(key);
+             }, 400); // 400ms for long press
         }
     };
 
@@ -348,8 +387,8 @@ const VirtualKeyboard: React.FC<VirtualKeyboardProps> = ({ entries }) => {
         if (longPressTimer.current) {
             clearTimeout(longPressTimer.current);
             longPressTimer.current = null;
-        }
-        if (!activeVariantKey) {
+            
+            // If timer was cleared (short tap), treat as normal input
             if (key === 'SHIFT') setIsShift(!isShift);
             else if (key === 'BACK') handleBackspace();
             else if (key === '123') { setIsNum(true); setIsEmoji(false); }
@@ -358,16 +397,15 @@ const VirtualKeyboard: React.FC<VirtualKeyboardProps> = ({ entries }) => {
             else if (key === 'SPACE') handleSpace();
             else if (key === 'ENTER') handleEnter();
             else handleInput(key);
+        } else {
+            // Timer fired (long press happened)
+            // Do nothing here, as the input was already handled by the timer
         }
     };
     
+    // Mouse events mimic touch for desktop testing
     const handleMouseDown = (key: string) => handleTouchStart(key);
     const handleMouseUp = (key: string) => handleTouchEnd(key);
-
-    const handleVariantSelect = (variant: string) => {
-        handleInput(variant);
-        setActiveVariantKey(null);
-    };
 
     const currentLayout = isNum ? NUM_KEYS : KEYS;
 
@@ -484,32 +522,6 @@ const VirtualKeyboard: React.FC<VirtualKeyboardProps> = ({ entries }) => {
                      </div>
                  ) : (
                     <>
-                    {/* Variants Popup Bubble */}
-                    {activeVariantKey && (
-                        <div 
-                            className="absolute left-0 right-0 z-50 flex justify-center pointer-events-none"
-                            style={{ bottom: '100%', marginBottom: '-40px' }}
-                        >
-                            <div className="bg-white p-2 rounded-xl shadow-xl flex gap-1 animate-fade-in-fast mb-12 border border-slate-100 pointer-events-auto">
-                                {VARIANTS[isShift ? activeVariantKey.toUpperCase() : activeVariantKey].map(v => (
-                                    <button
-                                        key={v}
-                                        className="w-10 h-12 flex items-center justify-center text-xl font-bold bg-slate-50 rounded-lg hover:bg-blue-500 hover:text-white transition-colors border border-slate-200 shadow-sm"
-                                        onClick={() => handleVariantSelect(v)}
-                                    >
-                                        {v}
-                                    </button>
-                                ))}
-                                <button 
-                                    onClick={() => setActiveVariantKey(null)} 
-                                    className="w-10 h-12 flex items-center justify-center text-slate-400 font-bold"
-                                >
-                                    ✕
-                                </button>
-                            </div>
-                        </div>
-                    )}
-
                     <div className="flex flex-col gap-1.5 max-w-3xl mx-auto w-full">
                         {currentLayout.map((row, rowIndex) => (
                             <div key={rowIndex} className="flex justify-center gap-1.5 w-full px-0.5">
