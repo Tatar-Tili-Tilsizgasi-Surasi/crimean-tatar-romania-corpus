@@ -14,12 +14,6 @@ const ArrowLeftIcon: React.FC<{className?: string}> = ({className}) => (
     </svg>
 );
 
-const DownloadIcon: React.FC<{className?: string}> = ({className}) => (
-    <svg xmlns="http://www.w3.org/2000/svg" className={className} fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
-        <path strokeLinecap="round" strokeLinejoin="round" d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-4l-4 4m0 0l-4-4m4 4V4" />
-    </svg>
-);
-
 const InfoIcon: React.FC<{className?: string}> = ({className}) => (
     <svg xmlns="http://www.w3.org/2000/svg" className={className} fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
       <path strokeLinecap="round" strokeLinejoin="round" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
@@ -27,29 +21,7 @@ const InfoIcon: React.FC<{className?: string}> = ({className}) => (
 );
 
 const KeyboardPage: React.FC<KeyboardPageProps> = ({ entries, onNavigate }) => {
-  const [deferredPrompt, setDeferredPrompt] = React.useState<any>(null);
   const [showInfo, setShowInfo] = useState(false);
-
-  React.useEffect(() => {
-    window.addEventListener('beforeinstallprompt', (e) => {
-      e.preventDefault();
-      setDeferredPrompt(e);
-    });
-  }, []);
-
-  const handleInstallClick = () => {
-    if (deferredPrompt) {
-      deferredPrompt.prompt();
-      deferredPrompt.userChoice.then((choiceResult: any) => {
-        if (choiceResult.outcome === 'accepted') {
-          console.log('User accepted the install prompt');
-        }
-        setDeferredPrompt(null);
-      });
-    } else {
-        alert("To install: Tap your browser's menu (⋮ or Share) and select 'Add to Home Screen'.");
-    }
-  };
 
   return (
     <div className="flex flex-col h-full bg-slate-50 absolute inset-0 z-50">
@@ -63,19 +35,13 @@ const KeyboardPage: React.FC<KeyboardPageProps> = ({ entries, onNavigate }) => {
                 <ArrowLeftIcon className="h-6 w-6" />
             </button>
             
-            <div className="flex items-center gap-2" onClick={() => setShowInfo(true)}>
-                <h1 className="text-lg font-bold text-slate-800 tracking-tight cursor-pointer">Kîrîm Tatarşa Klaviyatura</h1>
+            <div className="flex-grow flex justify-center items-center gap-2" onClick={() => setShowInfo(true)}>
+                <h1 className="text-lg font-bold text-slate-800 tracking-tight cursor-pointer text-center">Online Virtual Keyboard</h1>
                 <InfoIcon className="h-5 w-5 text-slate-400" />
             </div>
             
-            <button
-                onClick={handleInstallClick}
-                className="flex items-center gap-2 px-3 py-1.5 bg-cyan-50 text-cyan-700 text-sm font-semibold rounded-full hover:bg-cyan-100 transition-colors border border-cyan-100"
-                title="Install App"
-            >
-                <DownloadIcon className="h-4 w-4" />
-                <span className="hidden sm:inline">App</span>
-            </button>
+            {/* Empty div to balance header layout since Install button is removed */}
+            <div className="w-10"></div>
         </div>
 
         {/* Info Modal */}
@@ -84,10 +50,11 @@ const KeyboardPage: React.FC<KeyboardPageProps> = ({ entries, onNavigate }) => {
                 <div className="bg-white rounded-xl shadow-2xl p-6 max-w-sm w-full" onClick={e => e.stopPropagation()}>
                     <h3 className="text-xl font-bold text-slate-800 mb-2">How to use</h3>
                     <p className="text-slate-600 text-sm mb-4">
-                        Due to security restrictions, web apps cannot run inside Communication Apps directly.
+                        This is an online virtual keyboard for Crimean Tatar (Romania).
                     </p>
                     <ol className="list-decimal pl-5 space-y-2 text-sm text-slate-700 mb-4">
                         <li>Type your message here using the Tatar keys.</li>
+                        <li>Long-press keys to reveal special Crimean Tatar characters (e.g., hold <strong>s</strong> for <strong>ş</strong>).</li>
                         <li>Tap <strong>Share</strong> to send directly to Communication Apps.</li>
                         <li>Or tap <strong>Copy</strong> and paste it manually.</li>
                     </ol>
