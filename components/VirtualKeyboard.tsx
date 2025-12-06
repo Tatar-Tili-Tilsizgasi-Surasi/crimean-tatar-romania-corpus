@@ -1,4 +1,3 @@
-
 import React, { useState, useEffect, useRef, useMemo } from 'react';
 import { CorpusEntry } from '../types';
 
@@ -188,6 +187,11 @@ const VirtualKeyboard: React.FC<VirtualKeyboardProps> = ({ entries }) => {
                 }
 
                 if (wordToken) {
+                    // Filter out Roman numerals (uppercase IVXLCDM)
+                    if (/^[IVXLCDM]+$/.test(wordToken)) {
+                        continue;
+                    }
+
                     let processedWord = wordToken;
                     
                     // Logic for the whole token
@@ -211,6 +215,9 @@ const VirtualKeyboard: React.FC<VirtualKeyboardProps> = ({ entries }) => {
                             // Clean punctuation from part if any exists (rare with current regex but possible)
                             const cleanPart = part.replace(/^[']+|[']+$/g, '');
                             if (!cleanPart) return;
+
+                            // Filter Roman numerals in parts too (e.g. Volume-II)
+                            if (/^[IVXLCDM]+$/.test(cleanPart)) return;
 
                             let partToAdd = cleanPart;
                             
