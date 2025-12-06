@@ -106,32 +106,56 @@ const VirtualKeyboard: React.FC<VirtualKeyboardProps> = ({ entries }) => {
     const predictionModel = useMemo(() => {
         const freqMap = new Map<string, number>();
         const bigramMap = new Map<string, Map<string, number>>();
+        
+        // Regex to tokenize:
+        // Group 1: Words (alphanumeric + dialect characters + apostrophe/hyphen)
+        // Group 2: Sentence delimiters (. ? !)
+        const tokenizerRegex = /([a-zA-Z0-9áÁçÇğĞíÍîÎñÑóÓşŞúÚţŢ]+(?:['\-][a-zA-Z0-9áÁçÇğĞíÍîÎñÑóÓşŞúÚţŢ]+)*)|([.?!]+)/g;
 
         entries.forEach(entry => {
-            // Clean text: remove numbers, punctuation (keep apostrophes/hyphens inside words if valid, but mostly remove)
-            // We use entry.text which is the CT text.
-            const cleanText = entry.text
-                .toLowerCase()
-                .replace(/[0-9.,!?;:()"[\]{}«»“”‘’—–/_|●•]/g, ' ') // Replace punctuation with space
-                .replace(/\s+/g, ' ')
-                .trim();
+            const matches = entry.text.matchAll(tokenizerRegex);
+            let isStartOfSentence = true;
+            let prevWord: string | null = null;
             
-            const words = cleanText.split(' ').filter(w => w.length > 0);
-            
-            words.forEach((word, index) => {
-                // Update Frequency
-                freqMap.set(word, (freqMap.get(word) || 0) + 1);
+            for (const match of matches) {
+                const wordToken = match[1];
+                const punctToken = match[2];
 
-                // Update Bigram (Next Word)
-                if (index < words.length - 1) {
-                    const nextWord = words[index + 1];
-                    if (!bigramMap.has(word)) {
-                        bigramMap.set(word, new Map());
-                    }
-                    const nextMap = bigramMap.get(word)!;
-                    nextMap.set(nextWord, (nextMap.get(nextWord) || 0) + 1);
+                if (punctToken) {
+                    isStartOfSentence = true;
+                    prevWord = null;
+                    continue;
                 }
-            });
+
+                if (wordToken) {
+                    let processedWord = wordToken;
+
+                    // If word is at start of sentence, lowercase it (unless it appears capitalized elsewhere as a proper noun,
+                    // but the logic here is to simply index the lowercase version for start-of-sentence occurrences
+                    // so suggestions don't default to Capitalized for common words).
+                    if (isStartOfSentence) {
+                        processedWord = wordToken.toLowerCase();
+                    }
+                    
+                    // Note: If wordToken was "Taner" in middle of sentence, processedWord stays "Taner".
+                    // If "Kitap" at start, it becomes "kitap".
+
+                    // Update Frequency
+                    freqMap.set(processedWord, (freqMap.get(processedWord) || 0) + 1);
+
+                    // Update Bigram
+                    if (prevWord) {
+                        if (!bigramMap.has(prevWord)) {
+                            bigramMap.set(prevWord, new Map());
+                        }
+                        const nextMap = bigramMap.get(prevWord)!;
+                        nextMap.set(processedWord, (nextMap.get(processedWord) || 0) + 1);
+                    }
+                    
+                    prevWord = processedWord;
+                    isStartOfSentence = false;
+                }
+            }
         });
 
         // Convert bigram maps to sorted arrays for fast lookup
@@ -158,14 +182,22 @@ const VirtualKeyboard: React.FC<VirtualKeyboardProps> = ({ entries }) => {
         // Case 1: Input ends with whitespace -> User finished a word, suggest NEXT word
         if (input.length > 0 && /\s$/.test(input)) {
             const tokens = trimmedInput.split(/\s+/);
-            const lastWord = tokens[tokens.length - 1].toLowerCase().replace(/[.,!?;:]/g, ''); // strip punct from last word for lookup
+            // Clean last word of punctuation for lookup
+            const lastWordRaw = tokens[tokens.length - 1];
+            const lastWord = lastWordRaw.replace(/[.?!,;:"'()]/g, ''); 
             
+            let suggestionsList: string[] = [];
+
+            // Try exact match (for proper nouns) first, then lowercase match
             if (predictionModel.sortedBigrams.has(lastWord)) {
-                setSuggestions(predictionModel.sortedBigrams.get(lastWord)!);
+                suggestionsList = predictionModel.sortedBigrams.get(lastWord)!;
+            } else if (predictionModel.sortedBigrams.has(lastWord.toLowerCase())) {
+                 suggestionsList = predictionModel.sortedBigrams.get(lastWord.toLowerCase())!;
             } else {
                 // Fallback to top frequency words if no bigram exists
-                setSuggestions(predictionModel.sortedFreq.slice(0, 3));
+                suggestionsList = predictionModel.sortedFreq.slice(0, 3);
             }
+            setSuggestions(suggestionsList);
         } 
         // Case 2: Input is empty -> Suggest top frequency words
         else if (input.trim().length === 0) {
@@ -177,8 +209,9 @@ const VirtualKeyboard: React.FC<VirtualKeyboardProps> = ({ entries }) => {
             const lastToken = tokens[tokens.length - 1].toLowerCase();
             
             if (lastToken.length > 0) {
+                 // Filter case-insensitively but return original case from model
                  const matches = predictionModel.sortedFreq
-                    .filter(w => w.startsWith(lastToken) && w !== lastToken)
+                    .filter(w => w.toLowerCase().startsWith(lastToken) && w.toLowerCase() !== lastToken)
                     .slice(0, 3);
                 setSuggestions(matches);
             } else {
