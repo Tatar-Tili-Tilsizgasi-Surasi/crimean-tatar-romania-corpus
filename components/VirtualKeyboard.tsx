@@ -6,11 +6,11 @@ interface VirtualKeyboardProps {
     entries: CorpusEntry[];
 }
 
-// Updated Layout: q->ğ, x->ş, c->ç
+// Layout: q and x present, ç present.
 const KEYS = [
-    ['ğ', 'w', 'e', 'r', 't', 'y', 'u', 'i', 'o', 'p'],
+    ['q', 'w', 'e', 'r', 't', 'y', 'u', 'i', 'o', 'p'],
     ['a', 's', 'd', 'f', 'g', 'h', 'j', 'k', 'l'],
-    ['SHIFT', 'z', 'ş', 'ç', 'v', 'b', 'n', 'm', 'BACK'],
+    ['SHIFT', 'z', 'x', 'ç', 'v', 'b', 'n', 'm', 'BACK'],
     ['123', ',', '😊', 'SPACE', '.', 'ENTER']
 ];
 
@@ -18,7 +18,7 @@ const NUM_KEYS = [
     ['1', '2', '3', '4', '5', '6', '7', '8', '9', '0'],
     ['@', '#', '$', '_', '&', '-', '+', '(', ')', '/'],
     ['%', '*', '"', "'", ':', ';', '!', '?', 'BACK'],
-    ['ABC', ',', '😊', 'SPACE', '.', 'ENTER']
+    ['ABÇ', ',', '😊', 'SPACE', '.', 'ENTER']
 ];
 
 const EMOJIS = [
@@ -34,7 +34,7 @@ const EMOJIS = [
   "🐱", "🐶", "🐭", "🐹", "🐰", "🦊", "🐻", "🐼", "🐨", "🐯", "🦁", "🐮", "🐷", "🐸", "🐵", "🐔", "🐧", "🐦", "🦄"
 ];
 
-// Updated Variants
+// Variants (cleaned up to match QWERTY layout with special chars accessible via long press where needed)
 const VARIANTS: { [key: string]: string[] } = {
     'a': ['á'],
     'ç': ['c'], // c on long press
@@ -45,8 +45,6 @@ const VARIANTS: { [key: string]: string[] } = {
     's': ['ş'], 
     't': ['ţ'],
     'u': ['ú'],
-    'ğ': ['q'], // q on long press
-    'ş': ['x'], // x on long press
     
     // Uppercase
     'A': ['Á'],
@@ -57,9 +55,7 @@ const VARIANTS: { [key: string]: string[] } = {
     'O': ['Ó'],
     'S': ['Ş'],
     'T': ['Ţ'],
-    'U': ['Ú'],
-    'Ğ': ['Q'],
-    'Ş': ['X']
+    'U': ['Ú']
 };
 
 // Icons
@@ -360,7 +356,7 @@ const VirtualKeyboard: React.FC<VirtualKeyboardProps> = ({ entries }) => {
         } else if (key === '123') {
             setIsNum(true);
             setIsEmoji(false);
-        } else if (key === 'ABC') {
+        } else if (key === 'ABC' || key === 'ABÇ') {
             setIsNum(false);
             setIsEmoji(false);
         } else if (key === '😊') {
@@ -524,7 +520,7 @@ const VirtualKeyboard: React.FC<VirtualKeyboardProps> = ({ entries }) => {
                                  onClick={() => setIsEmoji(false)} 
                                  className="flex-[1.5] h-11 rounded-[4px] flex items-center justify-center text-sm font-bold bg-[#DEE1E6] text-slate-800 shadow-[0_1px_1px_rgba(0,0,0,0.2)] active:bg-[#C8CCD1]"
                              >
-                                 ABC
+                                 ABÇ
                              </button>
                              <div className="flex-[4] px-2 text-center text-xs text-slate-500">Emojis</div>
                              <button 
@@ -550,7 +546,7 @@ const VirtualKeyboard: React.FC<VirtualKeyboardProps> = ({ entries }) => {
                                     
                                     let widthClass = "flex-1";
                                     if (isSpace) widthClass = "flex-[4]";
-                                    if (isEnter || isShiftKey || isBack || key === '123' || key === 'ABC') widthClass = "flex-[1.5]";
+                                    if (isEnter || isShiftKey || isBack || key === '123' || key === 'ABC' || key === 'ABÇ') widthClass = "flex-[1.5]";
 
                                     let bgClass = 'bg-white text-slate-900 shadow-[0_1px_1px_rgba(0,0,0,0.3)]';
                                     if (isActionKey) {
