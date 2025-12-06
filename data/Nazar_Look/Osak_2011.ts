@@ -208,7 +208,7 @@ Akmesğit (Simferopol), 16.12.2010
 toplîlîgî, Túrúk sanatşî Gúnay Naiboğlu man 
 barabar Kîrîm turnesíne şîktî. Turneníñ 
 tertíplewğílerínden Ayşe Yakup'núñ (Ayşe Yakubova) 
-QHA’ga bergen bílgílerge góre İlham man Gúnay, 
+KKA’ga bergen bílgílerge góre İlham man Gúnay, 
 Akyar (Sevastopol), Bakçesaray, Akmesğit men 
 Akmeçet’te (Çernomorskoye) ortak konserler berdí. 
 Yakup, siyírğíler men tîklîm-tîklîm salonlarda 
