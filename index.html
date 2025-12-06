@@ -1,9 +1,12 @@
+
 <!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
-    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="icon" type="image/svg+xml" href="/book.svg" />
+    <link rel="manifest" href="/manifest.json" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <meta name="theme-color" content="#06b6d4" />
     
     <!-- Primary Meta Tags for SEO -->
     <title>Crimean Tatar (Romania) Dictionary & Translator | Dobrujan Tatar Corpus</title>
@@ -18,13 +21,13 @@
     <meta property="og:url" content="https://crimean-tatar-romania-corpus.github.io/" />
     <meta property="og:title" content="Crimean Tatar (Romania) Dictionary & Translator" />
     <meta property="og:description" content="Explore the Crimean Tatar language spoken in Romania (Dobruja). Features a comprehensive corpus, dictionary, and AI-powered Dobrujan Tatar translator." />
-    <meta property="og:image" content="/vite.svg" />
+    <meta property="og:image" content="/book.svg" />
 
     <!-- Twitter -->
     <meta property="twitter:card" content="summary_large_image" />
     <meta property="twitter:title" content="Crimean Tatar (Romania) Dictionary & Translator" />
     <meta property="twitter:description" content="Explore the Crimean Tatar language spoken in Romania (Dobruja). Features a comprehensive corpus, dictionary, and AI-powered Dobrujan Tatar translator." />
-    <meta property="twitter:image" content="/vite.svg" />
+    <meta property="twitter:image" content="/book.svg" />
 
     <script src="https://cdn.tailwindcss.com"></script>
 <style>
@@ -33,6 +36,9 @@
 
   @keyframes fadeInFast { from { opacity: 0; transform: translateY(-5px); } to { opacity: 1; transform: translateY(0); } }
   .animate-fade-in-fast { animation: fadeInFast 0.15s ease-in-out; }
+  
+  /* Prevent pull-to-refresh on mobile for the keyboard app feel */
+  body { overscroll-behavior-y: none; }
 </style>
 <script type="importmap">
 {
@@ -48,8 +54,19 @@
 </script>
 <link rel="stylesheet" href="/index.css">
 </head>
-  <body class="bg-slate-50 text-slate-900 antialiased">
-    <div id="root"></div>
+  <body class="bg-slate-50 text-slate-900 antialiased h-[100dvh] overflow-hidden flex flex-col">
+    <div id="root" class="flex-grow flex flex-col h-full"></div>
     <script type="module" src="/index.tsx"></script>
+    <script>
+      if ('serviceWorker' in navigator) {
+        window.addEventListener('load', () => {
+          navigator.serviceWorker.register('/sw.js').then(registration => {
+            console.log('SW registered: ', registration);
+          }).catch(registrationError => {
+            console.log('SW registration failed: ', registrationError);
+          });
+        });
+      }
+    </script>
   </body>
 </html>
