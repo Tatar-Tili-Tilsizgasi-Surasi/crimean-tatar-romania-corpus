@@ -76,9 +76,9 @@ Ukrayna Úyretím Reformlarî Merkezínde
 tanîtîldî.
 Tanîtîma, Fulbright Ukrayna Programî 
 Múdúrí Miron Stahiv, ABD Úniversitelerínde 
-úyretím programî ğónetúwğísí İnna Barîş, Kîrîm 
-Kúltúr ve Sanat Úniversitesí Rektorî Oleg 
-Gabrieliyan, Tavriya Milliy Úniversitesí úyretím 
+úyretím programî ğónetúwğísí Inna Barîş, Kîrîm 
+Kúltúr ve Sanat Úniversitesí Rektorî Ólek 
+Gabriyeliyan, Tavriya Milliy Úniversitesí úyretím 
 úyesi Doçent Dr. Elmira Murat (Elmira Muratova), 
 program bursalîsî Terrel Starr, program 
 mensuplarî ve program mezunlarî katîldî.
@@ -161,10 +161,10 @@ Sarîgól'níñ kolîna tutturgan paranî saklî tutup
 aytmadîlar. Eger bo dewletten kelgen paradan 
 berílgen ódílíñ degerí aytîlgan bolsa hakklî-
 hakksîz şúphelerge ğol aşîlmaz edí.
-Kóstenğe, 10.12.2010 (QHA) – Askeriye 
+Kóstenğe, 10.12.2010 (KKA) – Askeriye 
 Úyúnde tertíplengen kitap imzalamasînda kazak 
-yazuwğusî Vasilica Mitrea Tatarlîk konîsînda 
-yazgan "Vremuri, oameni şi… destine" kitabîn 
+yazuwğusî Vasilika Mitriya Tatarlîk konîsînda 
+yazgan "..." kitabîn 
 tanîttî. Bo kitap yazuwğunuñ Kîrîm'ga yapkan 
 bír ziyaretíñ artînda kalemge alîndî. Sayifalar 
 bazî Tatarlarîñ bír de bútún Tatarlîgîñ kaderín 
@@ -177,15 +177,13 @@ edím. Bo ğolda hem Rumaniye'dekí Tatarlarî
 man, hem Kîrîm'dakî Tatarlarî man tanîşîp 
 konîşkan soñ onlarîñ insanlîgî bízge úyretílgen 
 masallar man heş uyumaganîn añlaganda, 
-utanuwumdan bo kitapnî yazmaga karar aldîm."
-"Vremuri, oameni şi… destine" Vasilica 
-Mitrea'níñ dórtínğí kitabîdîr. Bondan ewel "Ştiai 
-ca timpu-i colorat?", "Cândva,… prietene" bír de 
-"Confesiunile Angelei" kitaplarîna da imza atkan 
-edí. Vasilica'nîñ toplîm we mamuriyet şalîşmalarî 
+utanuwumdan bo kitapnî yazmaga karar aldîm."..." Vasilika 
+Mitriya'nîñ dórtínğí kitabîdîr. Bondan ewel "...", "..." bír de 
+"..." kitaplarîna da imza atkan 
+edí. Vasilika'nîñ toplîm we mamuriyet şalîşmalarî 
 bírkóp meğmuwanîñ íşínde de yer taba. 
 Akmesğit (Simferopol), 13.12.2010 
-(QHA) - Kîrîm Tatar tílí, UNESCO’nîñ Aralîk 
+(KKA) - Kîrîm Tatar tílí, UNESCO’nîñ Aralîk 
 ayînda ğañîlaştîrgan Kaybolma Tehlikesí 
 Astîndakî Dúniya Tíllerí Listesíne kírdí. 
 UNESCO’nîñ ğañî şîgargan listede túrlí 
@@ -205,7 +203,7 @@ Bayramaliy (Osman Bayramaliyev)
  
 Akmesğit (Simferopol), 16.12.2010 
 (KKA) – Ilham atlî Kîrîm Tatar kalk oyînlarî 
-toplîlîgî, Túrúk sanatşî Gúnay Naiboğlu man 
+toplîlîgî, Túrúk sanatşî Gúnay Nayiboglî man 
 barabar Kîrîm turnesíne şîktî. Turneníñ 
 tertíplewğílerínden Ayşe Yakup'núñ (Ayşe Yakubova) 
 KKA’ga bergen bílgílerge góre İlham man Gúnay, 
@@ -228,9 +226,9 @@ Ankara, 17.12.2010 (KKA) - 16 ulkadan
 29 edebiyat dergísín katîlîmî man Ankara’da 
 úşúnğí Túrúk Dúniyasî Edebiyat Dergílerí 
 Kongresí yapîldî.
-Avrasya Yazarlar Bírlígí'ñ bergen bílgísíne kóre, 
+Awrasiye Yazarlar Bírlígí'ñ bergen bílgísíne kóre, 
 14-16 aralîk 2010 tewúkelerí arasînda yapîlgan 
-Kongre, TİKA’nîñ katkîlarî man Avrasya Yazarlar 
+Kongre, TIKA’nîñ katkîlarî man Awrasiye Yazarlar 
 Bírlígí men Túrksoy yagîndan tertíplendí.
 Kongrede Azerbayğan, Başkurtustan, 
 Bulgariye, Hollant, Iran, Karaçay-Balkar, 
