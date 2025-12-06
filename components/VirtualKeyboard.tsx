@@ -6,10 +6,11 @@ interface VirtualKeyboardProps {
     entries: CorpusEntry[];
 }
 
+// Updated Layout: q->ğ, x->ş, c->ç
 const KEYS = [
-    ['q', 'w', 'e', 'r', 't', 'y', 'u', 'i', 'o', 'p'],
+    ['ğ', 'w', 'e', 'r', 't', 'y', 'u', 'i', 'o', 'p'],
     ['a', 's', 'd', 'f', 'g', 'h', 'j', 'k', 'l'],
-    ['SHIFT', 'z', 'x', 'c', 'v', 'b', 'n', 'm', 'BACK'],
+    ['SHIFT', 'z', 'ş', 'ç', 'v', 'b', 'n', 'm', 'BACK'],
     ['123', ',', '😊', 'SPACE', '.', 'ENTER']
 ];
 
@@ -33,25 +34,32 @@ const EMOJIS = [
   "🐱", "🐶", "🐭", "🐹", "🐰", "🦊", "🐻", "🐼", "🐨", "🐯", "🦁", "🐮", "🐷", "🐸", "🐵", "🐔", "🐧", "🐦", "🦄"
 ];
 
+// Updated Variants
 const VARIANTS: { [key: string]: string[] } = {
     'a': ['á'],
-    'c': ['ç'],
+    'ç': ['c'], // c on long press
     'g': ['ğ'],
-    'i': ['í', 'î'],
+    'i': ['í', 'î'], 
     'n': ['ñ'],
     'o': ['ó'],
-    's': ['ş'],
+    's': ['ş'], 
     't': ['ţ'],
     'u': ['ú'],
+    'ğ': ['q'], // q on long press
+    'ş': ['x'], // x on long press
+    
+    // Uppercase
     'A': ['Á'],
-    'C': ['Ç'],
+    'Ç': ['C'],
     'G': ['Ğ'],
     'I': ['Í', 'Î'],
     'N': ['Ñ'],
     'O': ['Ó'],
     'S': ['Ş'],
     'T': ['Ţ'],
-    'U': ['Ú']
+    'U': ['Ú'],
+    'Ğ': ['Q'],
+    'Ş': ['X']
 };
 
 // Icons
@@ -98,6 +106,11 @@ const VirtualKeyboard: React.FC<VirtualKeyboardProps> = ({ entries }) => {
     const [isEmoji, setIsEmoji] = useState(false);
     const [suggestions, setSuggestions] = useState<string[]>([]);
     const [showCopyFeedback, setShowCopyFeedback] = useState(false);
+    
+    // Popup State
+    const [activePopup, setActivePopup] = useState<{ key: string, variants: string[] } | null>(null);
+    const [highlightedVariant, setHighlightedVariant] = useState<string | null>(null);
+
     const inputRef = useRef<HTMLTextAreaElement>(null);
     const longPressTimer = useRef<ReturnType<typeof setTimeout> | null>(null);
     
@@ -152,22 +165,17 @@ const VirtualKeyboard: React.FC<VirtualKeyboardProps> = ({ entries }) => {
                     let processedWord = wordToken;
 
                     if (isStartOfSentence) {
-                        // If it's a known proper noun, keep it capitalized.
-                        // Otherwise, assume it's a common word capitalized for grammar, so lowercase it.
                         if (properNouns.has(wordToken)) {
                             processedWord = wordToken;
                         } else {
                             processedWord = wordToken.toLowerCase();
                         }
                     } else {
-                        // In middle of sentence, trust the casing (Proper Noun or Common)
                         processedWord = wordToken;
                     }
 
-                    // Update Frequency
                     freqMap.set(processedWord, (freqMap.get(processedWord) || 0) + 1);
 
-                    // Update Bigram
                     if (prevWord) {
                         if (!bigramMap.has(prevWord)) {
                             bigramMap.set(prevWord, new Map());
@@ -182,17 +190,15 @@ const VirtualKeyboard: React.FC<VirtualKeyboardProps> = ({ entries }) => {
             }
         });
 
-        // Convert bigram maps to sorted arrays for fast lookup
         const sortedBigrams = new Map<string, string[]>();
         bigramMap.forEach((nextMap, currentWord) => {
             const sortedNext = Array.from(nextMap.entries())
-                .sort((a, b) => b[1] - a[1]) // Sort by count descending
-                .slice(0, 5) // Keep top 5 next words
+                .sort((a, b) => b[1] - a[1])
+                .slice(0, 5)
                 .map(item => item[0]);
             sortedBigrams.set(currentWord, sortedNext);
         });
 
-        // Convert freq map to sorted array
         const sortedFreq = Array.from(freqMap.entries())
             .sort((a, b) => b[1] - a[1])
             .map(item => item[0]);
@@ -201,40 +207,32 @@ const VirtualKeyboard: React.FC<VirtualKeyboardProps> = ({ entries }) => {
     }, [entries]);
 
     useEffect(() => {
-        const trimmedInput = input.trimEnd(); // Don't trim start, but ignore trailing spaces for "last word" check if typing
+        const trimmedInput = input.trimEnd();
         
-        // Case 1: Input ends with whitespace -> User finished a word, suggest NEXT word
         if (input.length > 0 && /\s$/.test(input)) {
             const tokens = trimmedInput.split(/\s+/);
-            // Clean last word of punctuation for lookup
             const lastWordRaw = tokens[tokens.length - 1];
             const lastWord = lastWordRaw.replace(/[.?!,;:"'()]/g, ''); 
             
             let suggestionsList: string[] = [];
 
-            // Try exact match (for proper nouns) first, then lowercase match
             if (predictionModel.sortedBigrams.has(lastWord)) {
                 suggestionsList = predictionModel.sortedBigrams.get(lastWord)!;
             } else if (predictionModel.sortedBigrams.has(lastWord.toLowerCase())) {
                  suggestionsList = predictionModel.sortedBigrams.get(lastWord.toLowerCase())!;
             } else {
-                // Fallback to top frequency words if no bigram exists
                 suggestionsList = predictionModel.sortedFreq.slice(0, 3);
             }
             setSuggestions(suggestionsList);
         } 
-        // Case 2: Input is empty -> Suggest top frequency words
         else if (input.trim().length === 0) {
             setSuggestions(predictionModel.sortedFreq.slice(0, 3));
         }
-        // Case 3: Typing a word -> Suggest completions
         else {
-            const tokens = input.split(/\s+/); // don't trim input here, we want the raw last token
+            const tokens = input.split(/\s+/);
             const lastToken = tokens[tokens.length - 1].toLowerCase();
             
             if (lastToken.length > 0) {
-                 // Filter case-insensitively but return original case from model
-                 // Exclude exact duplicates (e.g. if user typed "Kita", and "kitap" and "Kitap" both exist, maybe show preferred one)
                  const matches = predictionModel.sortedFreq
                     .filter(w => w.toLowerCase().startsWith(lastToken) && w.toLowerCase() !== lastToken)
                     .slice(0, 3);
@@ -261,7 +259,6 @@ const VirtualKeyboard: React.FC<VirtualKeyboardProps> = ({ entries }) => {
             textarea.focus();
         });
         
-        // Reset shift but allow emoji/num state to persist if needed
         if (isShift) setIsShift(false);
     };
 
@@ -296,9 +293,7 @@ const VirtualKeyboard: React.FC<VirtualKeyboardProps> = ({ entries }) => {
         const textarea = inputRef.current;
         if (!textarea) return;
 
-        // Determine if we are completing a word or adding a new one
         if (input.length > 0 && /\s$/.test(input)) {
-            // Adding a next-word prediction
              const newValue = input + word + ' ';
              setInput(newValue);
              requestAnimationFrame(() => {
@@ -306,7 +301,6 @@ const VirtualKeyboard: React.FC<VirtualKeyboardProps> = ({ entries }) => {
                 textarea.selectionStart = textarea.selectionEnd = newValue.length;
             });
         } else {
-            // Completing current word
             const lastWordMatch = input.match(/(\S+)$/);
             if (lastWordMatch) {
                 const matchIndex = lastWordMatch.index!;
@@ -317,7 +311,6 @@ const VirtualKeyboard: React.FC<VirtualKeyboardProps> = ({ entries }) => {
                     textarea.selectionStart = textarea.selectionEnd = newValue.length;
                 });
             } else {
-                // Edge case: Empty input but suggestion clicked (e.g., from top freq)
                 const newValue = word + ' ';
                 setInput(newValue);
                  requestAnimationFrame(() => {
@@ -328,7 +321,6 @@ const VirtualKeyboard: React.FC<VirtualKeyboardProps> = ({ entries }) => {
         }
     };
 
-    // Actions
     const handleCopy = () => {
         if (!input) return;
         navigator.clipboard.writeText(input).then(() => {
@@ -360,58 +352,89 @@ const VirtualKeyboard: React.FC<VirtualKeyboardProps> = ({ entries }) => {
         }
     };
 
-    // Auto-Paste Variant Logic
-    const handleAutoPasteVariant = (key: string) => {
+    const handleStandardClick = (key: string) => {
+        if (key === 'SHIFT') {
+            setIsShift(!isShift);
+        } else if (key === 'BACK') {
+            handleBackspace();
+        } else if (key === '123') {
+            setIsNum(true);
+            setIsEmoji(false);
+        } else if (key === 'ABC') {
+            setIsNum(false);
+            setIsEmoji(false);
+        } else if (key === '😊') {
+            setIsEmoji(true);
+        } else if (key === 'SPACE') {
+            handleSpace();
+        } else if (key === 'ENTER') {
+            handleEnter();
+        } else {
+            handleInput(key);
+        }
+    };
+
+    // Unified Press Handling for Popup
+    const handlePressStart = (key: string) => {
+        if (longPressTimer.current) clearTimeout(longPressTimer.current);
+        
+        // Only start long press if it's a character key with variants
         const variants = VARIANTS[key] || VARIANTS[key.toUpperCase()];
         if (variants && variants.length > 0) {
-            const variantToPaste = variants[0]; // Paste the first variant automatically
-            // Haptic feedback if available
-            if (navigator.vibrate) {
-                navigator.vibrate(50); 
+            longPressTimer.current = setTimeout(() => {
+                setActivePopup({ key, variants });
+                if (navigator.vibrate) navigator.vibrate(50);
+            }, 500); // 500ms delay for long press
+        }
+    };
+
+    const handleTouchMove = (e: React.TouchEvent) => {
+        if (activePopup) {
+            e.preventDefault(); // Prevent scroll while selecting variant
+            const touch = e.touches[0];
+            const element = document.elementFromPoint(touch.clientX, touch.clientY);
+            const variantBtn = element?.closest('[data-variant]');
+            if (variantBtn) {
+                setHighlightedVariant(variantBtn.getAttribute('data-variant'));
+            } else {
+                setHighlightedVariant(null);
             }
-            handleInput(variantToPaste);
         }
     };
 
-    // Touch logic
-    const handleTouchStart = (key: string) => {
-        const variants = VARIANTS[key] || VARIANTS[key.toUpperCase()];
-        if (variants) {
-             longPressTimer.current = setTimeout(() => {
-                 handleAutoPasteVariant(key);
-             }, 400); // 400ms for long press
+    const handlePressEnd = (key: string, e?: React.SyntheticEvent) => {
+        if (e && e.type !== 'mouseleave') {
+             e.preventDefault();
         }
-    };
-
-    const handleTouchEnd = (key: string) => {
+        
         if (longPressTimer.current) {
             clearTimeout(longPressTimer.current);
             longPressTimer.current = null;
-            
-            // If timer was cleared (short tap), treat as normal input
-            if (key === 'SHIFT') setIsShift(!isShift);
-            else if (key === 'BACK') handleBackspace();
-            else if (key === '123') { setIsNum(true); setIsEmoji(false); }
-            else if (key === 'ABC') { setIsNum(false); setIsEmoji(false); }
-            else if (key === '😊') { setIsEmoji(true); }
-            else if (key === 'SPACE') handleSpace();
-            else if (key === 'ENTER') handleEnter();
-            else handleInput(key);
+        }
+
+        if (activePopup) {
+            // Popup was open
+            if (highlightedVariant) {
+                handleInput(highlightedVariant);
+            } else {
+                // If popup was open but no variant selected (released on main key or outside),
+                // type the base key (standard Gboard behavior for release on base)
+                handleStandardClick(key);
+            }
+            // Reset popup state
+            setActivePopup(null);
+            setHighlightedVariant(null);
         } else {
-            // Timer fired (long press happened)
-            // Do nothing here, as the input was already handled by the timer
+            // Standard short tap
+            handleStandardClick(key);
         }
     };
-    
-    // Mouse events mimic touch for desktop testing
-    const handleMouseDown = (key: string) => handleTouchStart(key);
-    const handleMouseUp = (key: string) => handleTouchEnd(key);
 
     const currentLayout = isNum ? NUM_KEYS : KEYS;
 
     return (
         <div className="flex flex-col h-full bg-slate-50 relative">
-            {/* Main Input Area (Like a notepad) */}
+            {/* Main Input Area */}
             <div className="flex-grow flex flex-col relative bg-white">
                 <textarea
                     ref={inputRef}
@@ -427,16 +450,13 @@ const VirtualKeyboard: React.FC<VirtualKeyboardProps> = ({ entries }) => {
                     spellCheck="false"
                 />
                 
-                {/* Floating feedback toast */}
                 <div className={`absolute top-4 left-1/2 transform -translate-x-1/2 bg-slate-800 text-white px-4 py-2 rounded-full text-sm font-medium transition-opacity duration-300 ${showCopyFeedback ? 'opacity-100' : 'opacity-0 pointer-events-none'}`}>
                     Copied to clipboard!
                 </div>
             </div>
 
-            {/* Toolbar (Actions + Suggestions) */}
+            {/* Toolbar */}
             <div className="flex flex-col bg-[#F1F3F4] border-t border-slate-200 shadow-[0_-2px_5px_rgba(0,0,0,0.05)] z-20">
-                
-                {/* Action Bar */}
                 <div className="flex items-center justify-between px-2 py-1 border-b border-slate-200/50">
                     <div className="flex gap-1">
                         <button 
@@ -463,7 +483,6 @@ const VirtualKeyboard: React.FC<VirtualKeyboardProps> = ({ entries }) => {
                     </button>
                 </div>
 
-                {/* Suggestions Strip - Only show if not in Emoji mode */}
                 {!isEmoji && (
                     <div className="h-10 flex items-center w-full">
                         {suggestions.length > 0 ? (
@@ -479,9 +498,7 @@ const VirtualKeyboard: React.FC<VirtualKeyboardProps> = ({ entries }) => {
                                 ))}
                             </div>
                         ) : (
-                            <div className="flex-1 text-center text-slate-400 text-sm italic">
-                                
-                            </div>
+                            <div className="flex-1 text-center text-slate-400 text-sm italic"></div>
                         )}
                     </div>
                 )}
@@ -489,8 +506,6 @@ const VirtualKeyboard: React.FC<VirtualKeyboardProps> = ({ entries }) => {
 
             {/* Keyboard Keys Area */}
             <div className="bg-[#F1F3F4] pb-2 px-1 select-none relative w-full pt-1">
-                 
-                 {/* Emoji View */}
                  {isEmoji ? (
                      <div className="flex flex-col h-[220px] sm:h-[240px]">
                          <div className="flex-grow overflow-y-auto grid grid-cols-8 gap-1 p-2 content-start">
@@ -534,46 +549,79 @@ const VirtualKeyboard: React.FC<VirtualKeyboardProps> = ({ entries }) => {
                                     const isActionKey = key.length > 1 || key === '😊';
                                     
                                     let widthClass = "flex-1";
-                                    if (isSpace) widthClass = "flex-[4]"; // Slightly smaller space to accommodate emoji key
+                                    if (isSpace) widthClass = "flex-[4]";
                                     if (isEnter || isShiftKey || isBack || key === '123' || key === 'ABC') widthClass = "flex-[1.5]";
 
-                                    // Gboard Colors
-                                    let bgClass = 'bg-white text-slate-900 shadow-[0_1px_1px_rgba(0,0,0,0.3)]'; // Standard key
+                                    let bgClass = 'bg-white text-slate-900 shadow-[0_1px_1px_rgba(0,0,0,0.3)]';
                                     if (isActionKey) {
                                         if (isEnter) {
                                             bgClass = 'bg-[#4285F4] text-white shadow-[0_1px_1px_rgba(0,0,0,0.3)] active:bg-[#3367D6]';
                                         } else if (isShiftKey && isShift) {
-                                            bgClass = 'bg-white text-[#4285F4] shadow-[0_1px_1px_rgba(0,0,0,0.3)] ring-1 ring-[#4285F4]'; // Active shift
+                                            bgClass = 'bg-white text-[#4285F4] shadow-[0_1px_1px_rgba(0,0,0,0.3)] ring-1 ring-[#4285F4]';
                                         } else if (isSpace) {
-                                            bgClass = 'bg-white text-slate-900 shadow-[0_1px_1px_rgba(0,0,0,0.3)]'; // Space
+                                            bgClass = 'bg-white text-slate-900 shadow-[0_1px_1px_rgba(0,0,0,0.3)]';
                                         } else {
-                                            bgClass = 'bg-[#DEE1E6] text-slate-800 shadow-[0_1px_1px_rgba(0,0,0,0.2)] active:bg-[#C8CCD1]'; // Functional keys
+                                            bgClass = 'bg-[#DEE1E6] text-slate-800 shadow-[0_1px_1px_rgba(0,0,0,0.2)] active:bg-[#C8CCD1]';
                                         }
                                     }
 
+                                    // Check if this specific key has an active popup
+                                    const isPopupActive = activePopup?.key === displayKey;
+
                                     return (
-                                        <button
-                                            key={key}
-                                            onMouseDown={(e) => { e.preventDefault(); handleMouseDown(displayKey); }}
-                                            onMouseUp={(e) => { e.preventDefault(); handleMouseUp(displayKey); }}
-                                            onMouseLeave={() => { if(longPressTimer.current) { clearTimeout(longPressTimer.current); longPressTimer.current = null; } }}
-                                            onTouchStart={(e) => { e.preventDefault(); handleTouchStart(displayKey); }}
-                                            onTouchEnd={(e) => { e.preventDefault(); handleTouchEnd(displayKey); }}
-                                            className={`
-                                                ${widthClass} h-11 sm:h-12 rounded-[4px] flex items-center justify-center text-xl font-normal transition-all active:translate-y-[1px]
-                                                ${bgClass}
-                                            `}
-                                        >
-                                            {isBack ? <BackspaceIcon /> : 
-                                            isShiftKey ? <ShiftIcon active={isShift} /> : 
-                                            isEnter ? <EnterIcon /> : 
-                                            isSpace ? <span className="text-sm font-medium text-slate-500">Kîrîm Tatarşa</span> : 
-                                            displayKey}
-                                            
-                                            {!isActionKey && (VARIANTS[key] || VARIANTS[key.toUpperCase()]) && (
-                                                <span className="absolute top-1 right-1 text-[7px] text-slate-300">...</span>
+                                        <div key={key} className={`${widthClass} relative flex justify-center`}>
+                                            {/* Popup Bubble */}
+                                            {isPopupActive && (
+                                                <div 
+                                                    className="absolute bottom-[115%] left-1/2 transform -translate-x-1/2 flex items-center justify-center bg-white rounded-lg shadow-[0_4px_10px_rgba(0,0,0,0.2)] p-1.5 gap-1 z-30 animate-fade-in-fast border border-slate-100"
+                                                    style={{ minWidth: activePopup.variants.length > 1 ? 'auto' : '48px' }}
+                                                >
+                                                    {activePopup.variants.map((variant) => (
+                                                        <div
+                                                            key={variant}
+                                                            data-variant={variant}
+                                                            className={`
+                                                                w-10 h-10 flex items-center justify-center text-xl font-medium rounded-md transition-colors
+                                                                ${highlightedVariant === variant ? 'bg-cyan-500 text-white' : 'bg-slate-50 text-slate-800 hover:bg-slate-100'}
+                                                            `}
+                                                        >
+                                                            {variant}
+                                                        </div>
+                                                    ))}
+                                                    {/* Little triangle arrow at bottom */}
+                                                    <div className="absolute -bottom-2 left-1/2 transform -translate-x-1/2 w-0 h-0 border-l-[8px] border-l-transparent border-r-[8px] border-r-transparent border-t-[8px] border-t-white"></div>
+                                                </div>
                                             )}
-                                        </button>
+
+                                            <button
+                                                onMouseDown={(e) => handlePressStart(displayKey)}
+                                                onMouseUp={(e) => handlePressEnd(displayKey, e)}
+                                                onMouseLeave={(e) => {
+                                                    if(longPressTimer.current) {
+                                                        clearTimeout(longPressTimer.current);
+                                                        longPressTimer.current = null;
+                                                    }
+                                                }}
+                                                onTouchStart={(e) => handlePressStart(displayKey)}
+                                                onTouchEnd={(e) => handlePressEnd(displayKey, e)}
+                                                onTouchMove={handleTouchMove}
+                                                className={`
+                                                    w-full h-11 sm:h-12 rounded-[4px] flex items-center justify-center text-xl font-normal transition-all active:translate-y-[1px]
+                                                    ${bgClass}
+                                                    ${isPopupActive ? 'brightness-95' : ''}
+                                                `}
+                                            >
+                                                {isBack ? <BackspaceIcon /> : 
+                                                isShiftKey ? <ShiftIcon active={isShift} /> : 
+                                                isEnter ? <EnterIcon /> : 
+                                                isSpace ? <span className="text-sm font-medium text-slate-500">Kîrîm Tatarşa</span> : 
+                                                displayKey}
+                                                
+                                                {!isActionKey && (VARIANTS[key] || VARIANTS[key.toUpperCase()]) && (
+                                                    <span className="absolute top-1 right-1 text-[7px] text-slate-300">...</span>
+                                                )}
+                                            </button>
+                                        </div>
                                     );
                                 })}
                             </div>
