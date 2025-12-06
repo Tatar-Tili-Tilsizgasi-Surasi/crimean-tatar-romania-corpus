@@ -1,7 +1,8 @@
+
 import React from 'react';
 import Menu from './Menu';
 
-type Page = 'corpus' | 'howto' | 'about' | 'sources' | 'translator';
+type Page = 'corpus' | 'howto' | 'about' | 'sources' | 'translator' | 'keyboard';
 
 interface HeaderProps {
     onNavigate: (page: Page) => void;
