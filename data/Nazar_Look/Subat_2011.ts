@@ -111,9 +111,9 @@ Kîrîm” atlî sergísí aşîldî.
 Kîrîm Ózerk Ğumhuriyetí, 20 oşak 1991 
 yapîlgan ilan we Kîrîm'îñ ózerlígín belletken 
 referendum soñîşlarî esasînda Ukrayna Parlamentosîn (O kaytîmda Ukrayna Soviyet 
-Sosyalist Ğumhuriyetí Parlamentosî) 12 şubat 
+Soçiyalist Ğumhuriyetí Parlamentosî) 12 şubat 
 1991 tewúkesínde algan “Kîrîm Ózerk Soviyet 
-Sosyalist Ğumhuriyetín Kaytarîp Akelme” kararî 
+Soçiyalist Ğumhuriyetín Kaytarîp Akelme” kararî 
 man kurulgan edí.
 Kîrîm Ózerk Ğumhuriyetí Súrgúnden 
 Kaytkan Vatandaşlar we Etnik Ílíşkíler Komitesín 
