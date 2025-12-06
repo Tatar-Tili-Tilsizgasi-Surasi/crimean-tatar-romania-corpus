@@ -69,7 +69,7 @@ TUWUL MEZATLARGA SATLÎK
 BO TATARLÎK
 # Mamuriyet kaberlerí
 Akmesğit (Simferopol), 03.12.2010 
-(QHA) - ABD’níñ eñ prestijlí burs programî 
+(KKA) - ABD’níñ eñ prestijlí burs programî 
 bolgan Fulbright Programîñ Ukrayna’dakî kolî 
 bolgan Fulbright Ukraine, 2 Aralîkta Akmesğit 
 Ukrayna Úyretím Reformlarî Merkezínde 
@@ -78,7 +78,7 @@ Tanîtîma, Fulbright Ukrayna Programî
 Múdúrí Miron Stahiv, ABD Úniversitelerínde 
 úyretím programî ğónetúwğísí İnna Barîş, Kîrîm 
 Kúltúr ve Sanat Úniversitesí Rektorî Oleg 
-Gabrieliyan, Tavriya Milli Úniversitesí úyretím 
+Gabrieliyan, Tavriya Milliy Úniversitesí úyretím 
 úyesi Doçent Dr. Elmira Murat (Elmira Muratova), 
 program bursalîsî Terrel Starr, program 
 mensuplarî ve program mezunlarî katîldî.
@@ -96,7 +96,7 @@ bílím adamî da Ukrayna’nî ziyaret ettí.
 Nara Nariman (Nara Narimanova) - Osman Bayramaliy 
 (Osman Bayramaliyev)
  
-Kiyev, 06.12.2010 (QHA) - Ukrayna’nîñ 
+Kiyev, 06.12.2010 (KKA) - Ukrayna’nîñ 
 “Ukraina” Televizyonînda yapîlgan şarkî 
 yarîşmasîñ úşúnğí sezonîn Kîrîm Tatar şarkîğîsî 
 Asan Bilal (Asan Bilalov) kazandî.
@@ -110,12 +110,12 @@ Uçkuduk kasabasînda tuwdî. Klarinet sahasînda
 múzik okulîn pítírdí. Tewúke úyretmení Asan 
 Bilal balşîbînğîlîk man inşaattan ilgílene. Úylí, 
 ekí kîz balasî babasî. Bilal, projede kazangan 
-parasî man úy salîp eñ súygen eskí SSCB filmín 
+parasî man úy salîp eñ súygen eskí SSĞB filmín 
 de bírtaa şegeğegín ayttî.
-Iliyas Aliy (Ilyas Ali)
+Iliyas Aliy
  
 Akmesğit (Simferopol), 10.12.2010 
-(QHA) - Akmesğit’te 10 aralîkta Kîrîm Tatar 
+(KKA) - Akmesğit’te 10 aralîkta Kîrîm Tatar 
 Sanat Múzesínde, “Kîrîm Tatar ressamlarîñ 
 eserlerínde múzik dúniyasî” sergísí aşîldî. 
 Sergíde ressamlarîñ we Kîrîm Tatar Múzesí 
@@ -133,15 +133,12 @@ Múzikasî Toplîlîgî ğónetúwğúsí Ğemil Karîk (Ğemil
 Karikov), Ukrayna Kalk Sanatşîsî Rústem Memet'íñ 
 (Rústem Memetov) katîlîmî man kerşekleştí.
 Sergíde yer algan aytuwlî Kîrîm Tatar ressamlarî 
-Zarema Trasin (Zarema Trasinova), Alim Húseyin (Alim 
-Useinov), Asan Baraş, Ramazan Húseyin (Ramazan 
-Useinov), İrfan Nafiy (Irfan Nafiyev), Ayder Aliy (Ayder 
+Zarema Trasin (Zarema Trasinova), Alim Húseyin, Asan Baraş, Ramazan Húseyin, İrfan Nafiy (Irfan Nafiyev), Ayder Aliy (Ayder 
 Aliyev), Rústem Emin (Rustem Eminov), Aliy Bekir (Ali 
 Bekirov), Yakup Ablay (Yakubovve Ablayev) hanedanî 
-ressamlarî, Ismet Veliyulla (Ismet Veliullayev),
-Rústem Vahap (Rústem Vaapov), Enver Izzet (Enver 
+ressamlarî, Ismet Veliyulla,Rústem Vahap, Enver Izzet (Enver 
 Izzetov), Mustafa Murtaza (Mustafa Murtazayev), Kázîm 
-Ğeppar (Kazîm Cepparov) man Mayre Lúman'nîñ 
+Ğeppar (Kazîm Ğepparov) man Mayre Lúman'nîñ 
 (Mayre Lúmanova) eserlerínde múzik dúnyasî tasvir 
 etílgen.
 Resímler, eñ gúzel sanat dallarîndan bírsí 
@@ -149,8 +146,8 @@ bolgan múzikasîn bírleştírgen ressamlarîñ
 tuygularîn yansîta. 
 Nara Nariman (Nara Narimanova) - Yunus Kîrîmlî
  
-Mejdiye (Medgidia), Rumaniye, 
-04.12.2010 (QHA) – Mejdiye'de aytuwlî şayirímíz 
+Mejdiye, Rumaniye, 
+04.12.2010 (KKA) – Mejdiye'de aytuwlî şayirímíz 
 Mehmet Niyaziy anîldî. Anîlmanîñ síftí bólímínde kasabanîñ merkezínde tabîlgan şayirníñ 
 hewkelíne şeşek tóşeldí. Ekínğí bólím mezarlîkta 
 tutulup, şayirníñ hewkelíne şeşek tóşelíp duwa 
@@ -207,7 +204,7 @@ Emine Muzafar (Emine Muzafarova) - Osman
 Bayramaliy (Osman Bayramaliyev)
  
 Akmesğit (Simferopol), 16.12.2010 
-(QHA) – Ilham atlî Kîrîm Tatar kalk oyînlarî 
+(KKA) – Ilham atlî Kîrîm Tatar kalk oyînlarî 
 toplîlîgî, Túrúk sanatşî Gúnay Naiboğlu man 
 barabar Kîrîm turnesíne şîktî. Turneníñ 
 tertíplewğílerínden Ayşe Yakup'núñ (Ayşe Yakubova) 
@@ -227,7 +224,7 @@ bekliy edí.” dedí.
 Çingiz Súleyman (Çingiz Súleymanova) - Osman 
 Bayramaliy (Osman Bayramaliyev)
  
-Ankara, 17.12.2010 (QHA) - 16 ulkadan 
+Ankara, 17.12.2010 (KKA) - 16 ulkadan 
 29 edebiyat dergísín katîlîmî man Ankara’da 
 úşúnğí Túrúk Dúniyasî Edebiyat Dergílerí 
 Kongresí yapîldî.
