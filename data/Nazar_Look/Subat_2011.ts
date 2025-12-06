@@ -817,7 +817,7 @@ YARDÎMÎÑNÎ TIYSET
 Samokişa 8
 Simferopol
 Ukrayna, Kîrîm, 95011
-www.kitaphane.crimea.ua
+
 # Kóstenğe, Rumaniye
 Dr.Mollağihan
 buwun ğelí uzmanî
