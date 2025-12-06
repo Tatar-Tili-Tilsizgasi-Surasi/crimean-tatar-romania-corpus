@@ -94,7 +94,7 @@ const Translator: React.FC<TranslatorProps> = ({ entries, onNavigate }) => {
   return (
     <div className="flex-grow flex flex-col bg-white rounded-lg shadow-lg border border-slate-200 p-4 sm:p-6 md:p-8 animate-fade-in min-h-0">
       {/* Header */}
-      <div className="flex flex-col sm:flex-row items-start sm:items-center justify-between gap-4 mb-6 sm:mb-8 shrink-0">
+      <div className="flex flex-col sm:flex-row items-start sm:items-center justify-between gap-4 mb-6 shrink-0">
         <div>
             <h2 className="text-2xl sm:text-3xl font-bold text-slate-800 flex items-center gap-2">
                 <SparklesIcon className="h-6 w-6 text-cyan-500" />
