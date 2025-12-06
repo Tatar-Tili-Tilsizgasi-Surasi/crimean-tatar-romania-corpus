@@ -126,4 +126,40 @@ Gazanfer s. (antrop. m., prsn.) "Leul".
 gazap s. mânie; furie. // ●gazapka kelmek — a se înfuria; a se mânia. 
 gazapkakelgen adj. înfuriat; mâniat; mânios. 
 gazapkakelúw s. înfuriere; mânie.
+gazaplî adj. mâniat; mânios. 
+gazel s. (lit.) gazel. 
+gazela s. (zool.) antilopă; gazelă (lat., Antilopinae sp.). 
+gazgakarşî I. adj. antigaz. II. s. mască de gaze. 
+gaziy I. adj. victorios; biruitor; triumfător. II. s., adj. (la musulmani) apărător al religiei. 
+gazlî adj. gazos. 
+gazmayî s. petrol lampant. 
+gazometre s. (tehn.) gazometru. 
+gazon s. gazon. 
+gazólşer s. (tehn.) gazometru. 
+gazpaylawğî s. distribuitor de gaze. 
+gágáa s. (la păsări) cioc; clonŃ; plisc. 
+gágáalamak v.t. 1. (d. păsări) a ciuguli. 2. (d. păsări) a da cu ciocul; a ciupi. 
+gágáwuz s. găgăuz. 
+gálba adv. probabil; după cât se pare; după toate probabilităŃile. 
+gázáta s. ziar. // ●akşam gázátasî — ziar de seară. ●aylîk gázáta — ziar lunar. ●baş gázáta — ziar important. ●edebiyat gázátasî — ziar literar. ●gázáta fîkrasî — cronică de ziar. ●gázáta ilanî — anunŃ în ziar; inserare; informaŃie. ●gázáta kaberğísí/muhabirí — reporter; corespondent (la un ziar). ●gázáta yazuwğusî/muharrirí — redactor (la un ziar). ●haptalîk gázáta — ziar săptămânal. ●kúndelík gázáta — cotidian. ●resmiy gázáta — buletin oficial. ●saba gázátasî — ziar de dimineaŃă. 
+gázátagîlîk s. jurnalistică. 
+gázátağî s. 1. ziarist. 2. vânzător de ziare. 3. jurnalist. // ●gázátağî soraştîrmasî — interviu. 
+gázátağîlîk s. ziaristică. 
+gázátasatkan s. vânzător de ziare. 
+gázete s. ziar. // ●tínewúngí gázete — ziarul de ieri. 
+gázeteğí s. 1. ziarist. 2. vânzător de ziare. 
+gázeteğílík s. ziaristică. 
+gebe adj. (d. femei) gravidă; însărcinată. 
+gebeden s. Ńarc. 
+gebelík s. (med.) graviditate; sarcină. 
+gebeş adj. 1. (d. oameni) gras; îndesat. 2. (fig.) prost; imbecil. 
+gelenek s. tradiŃie. // ●kalknîñ geleneklerí — tradiŃiile poporului. 
+geleneklí adj. tradiŃional. 
+gelenekşí s. tradiŃionalist. 
+gelenekten adv. tradiŃional; prin tradiŃie. 
+gemane s. 1. vioară; scripcă; laută. 2. arc (cu săgeŃi). // ●gemane şalmak — a cânta la vioară. 
+gemaneğí s. violonist; scripcar; lăutar. 
+gemí s. vas; vapor; navă; corabie. //●alîştîrma/talim gemísí — (nav.) navă şcoală. ●bo gemíde kaş kayîk bar? — câte bărci sunt pe acest vas? ; ●ğelkeñ gemísí — (nav.) corabie cu pânze. ●gemí ğalpa wura — vasul are tangaj. ●gemí inşaatî — construcŃia de nave. ●gemí limanga ogîrayğak — vasul va face escală în port. ●harbiye gemísí — (nav.) navă de război. ●uzay gemísí — navă cosmică. ●zîrhlî gemí — (mil.) crucişător; cuirasat. 
+gemíğí s. (nav.) marinar; navigator. 
+gemíğílík s. (nav.) marină; navigaŃie. // ●kîyuw boyî gemíğílígí — (nav.) cabotaj.
 `;
