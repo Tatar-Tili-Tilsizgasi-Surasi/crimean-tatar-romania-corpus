@@ -246,7 +246,7 @@ const VirtualKeyboard: React.FC<VirtualKeyboardProps> = ({ entries }) => {
                     // Logic for parts of hyphenated words
                     if (wordToken.includes('-')) {
                         const parts = wordToken.split('-');
-                        parts.forEach((part, index) => {
+                        parts.forEach((part) => {
                             // Clean punctuation from part
                             const cleanPart = part.replace(/^[']+|[']+$/g, '');
                             if (!cleanPart) return;
