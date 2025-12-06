@@ -22,7 +22,7 @@ const NUM_KEYS = [
 
 const EMOJIS = [
   "😀", "😃", "😄", "😁", "😆", "😅", "😂", "🤣", "🥲", "☺️", "😊", "😇", "🙂", "🙃", "😉", "😌", "😍", "🥰", "😘", "😗",
-  "😋", "😛", "😝", "😜", "🤪", "🤨", "🧐", "🤓", "😎", "🤩", "🥳", "😏", "😒", "😞", "😔", "😟", "😕", "🙁", "☹️", "😣",
+  "😋", "😝", "😜", "🤪", "🤨", "🧐", "🤓", "😎", "🤩", "🥳", "😏", "😒", "😞", "😔", "😟", "😕", "🙁", "☹️", "😣",
   "😖", "😫", "😩", "🥺", "😢", "😭", "😤", "😠", "😡", "🤬", "🤯", "😳", "🥵", "🥶", "😱", "😨", "😰", "😥", "😓", "🤗",
   "🤔", "🤭", "🤫", "🤥", "😶", "😐", "😑", "😬", "🙄", "😯", "😦", "😧", "😮", "😲", "🥱", "😴", "🤤", "😪", "😵", "🤐",
   "👋", "🤚", "🖐", "✋", "🖖", "👌", "🤌", "🤏", "✌️", "🤞", "🤟", "🤘", "🤙", "👈", "👉", "👆", "🖕", "👇", "☝️", "👍",
@@ -102,33 +102,90 @@ const VirtualKeyboard: React.FC<VirtualKeyboardProps> = ({ entries }) => {
     const inputRef = useRef<HTMLTextAreaElement>(null);
     const longPressTimer = useRef<ReturnType<typeof setTimeout> | null>(null);
     
-    // Suggestion logic
-    const dictionary = useMemo(() => {
-        const wordCounts = new Map<string, number>();
+    // Prediction Model (Bigram + Frequency)
+    const predictionModel = useMemo(() => {
+        const freqMap = new Map<string, number>();
+        const bigramMap = new Map<string, Map<string, number>>();
+
         entries.forEach(entry => {
-            const cleanText = entry.text.toLowerCase().replace(/[.,!?;:()"[\]{}«»“”‘’—–\-/_|●•]/g, ' ');
-            const words = cleanText.split(/\s+/);
-            words.forEach(w => {
-                if (w.length > 1) {
-                    wordCounts.set(w, (wordCounts.get(w) || 0) + 1);
+            // Clean text: remove numbers, punctuation (keep apostrophes/hyphens inside words if valid, but mostly remove)
+            // We use entry.text which is the CT text.
+            const cleanText = entry.text
+                .toLowerCase()
+                .replace(/[0-9.,!?;:()"[\]{}«»“”‘’—–/_|●•]/g, ' ') // Replace punctuation with space
+                .replace(/\s+/g, ' ')
+                .trim();
+            
+            const words = cleanText.split(' ').filter(w => w.length > 0);
+            
+            words.forEach((word, index) => {
+                // Update Frequency
+                freqMap.set(word, (freqMap.get(word) || 0) + 1);
+
+                // Update Bigram (Next Word)
+                if (index < words.length - 1) {
+                    const nextWord = words[index + 1];
+                    if (!bigramMap.has(word)) {
+                        bigramMap.set(word, new Map());
+                    }
+                    const nextMap = bigramMap.get(word)!;
+                    nextMap.set(nextWord, (nextMap.get(nextWord) || 0) + 1);
                 }
             });
         });
-        return Array.from(wordCounts.entries())
+
+        // Convert bigram maps to sorted arrays for fast lookup
+        const sortedBigrams = new Map<string, string[]>();
+        bigramMap.forEach((nextMap, currentWord) => {
+            const sortedNext = Array.from(nextMap.entries())
+                .sort((a, b) => b[1] - a[1]) // Sort by count descending
+                .slice(0, 5) // Keep top 5 next words
+                .map(item => item[0]);
+            sortedBigrams.set(currentWord, sortedNext);
+        });
+
+        // Convert freq map to sorted array
+        const sortedFreq = Array.from(freqMap.entries())
             .sort((a, b) => b[1] - a[1])
             .map(item => item[0]);
+
+        return { sortedFreq, sortedBigrams };
     }, [entries]);
 
     useEffect(() => {
-        const lastWordMatch = input.match(/(\S+)$/);
-        if (lastWordMatch) {
-            const prefix = lastWordMatch[1].toLowerCase();
-            const matches = dictionary.filter(w => w.startsWith(prefix) && w !== prefix).slice(0, 3);
-            setSuggestions(matches);
-        } else {
-            setSuggestions([]);
+        const trimmedInput = input.trimEnd(); // Don't trim start, but ignore trailing spaces for "last word" check if typing
+        
+        // Case 1: Input ends with whitespace -> User finished a word, suggest NEXT word
+        if (input.length > 0 && /\s$/.test(input)) {
+            const tokens = trimmedInput.split(/\s+/);
+            const lastWord = tokens[tokens.length - 1].toLowerCase().replace(/[.,!?;:]/g, ''); // strip punct from last word for lookup
+            
+            if (predictionModel.sortedBigrams.has(lastWord)) {
+                setSuggestions(predictionModel.sortedBigrams.get(lastWord)!);
+            } else {
+                // Fallback to top frequency words if no bigram exists
+                setSuggestions(predictionModel.sortedFreq.slice(0, 3));
+            }
+        } 
+        // Case 2: Input is empty -> Suggest top frequency words
+        else if (input.trim().length === 0) {
+            setSuggestions(predictionModel.sortedFreq.slice(0, 3));
         }
-    }, [input, dictionary]);
+        // Case 3: Typing a word -> Suggest completions
+        else {
+            const tokens = input.split(/\s+/); // don't trim input here, we want the raw last token
+            const lastToken = tokens[tokens.length - 1].toLowerCase();
+            
+            if (lastToken.length > 0) {
+                 const matches = predictionModel.sortedFreq
+                    .filter(w => w.startsWith(lastToken) && w !== lastToken)
+                    .slice(0, 3);
+                setSuggestions(matches);
+            } else {
+                setSuggestions([]);
+            }
+        }
+    }, [input, predictionModel]);
 
     // Handlers
     const handleInput = (char: string) => {
@@ -181,15 +238,35 @@ const VirtualKeyboard: React.FC<VirtualKeyboardProps> = ({ entries }) => {
         const textarea = inputRef.current;
         if (!textarea) return;
 
-        const lastWordMatch = input.match(/(\S+)$/);
-        if (lastWordMatch) {
-            const matchIndex = lastWordMatch.index!;
-            const newValue = input.substring(0, matchIndex) + word + ' ';
-            setInput(newValue);
+        // Determine if we are completing a word or adding a new one
+        if (input.length > 0 && /\s$/.test(input)) {
+            // Adding a next-word prediction
+             const newValue = input + word + ' ';
+             setInput(newValue);
              requestAnimationFrame(() => {
                 textarea.focus();
                 textarea.selectionStart = textarea.selectionEnd = newValue.length;
             });
+        } else {
+            // Completing current word
+            const lastWordMatch = input.match(/(\S+)$/);
+            if (lastWordMatch) {
+                const matchIndex = lastWordMatch.index!;
+                const newValue = input.substring(0, matchIndex) + word + ' ';
+                setInput(newValue);
+                requestAnimationFrame(() => {
+                    textarea.focus();
+                    textarea.selectionStart = textarea.selectionEnd = newValue.length;
+                });
+            } else {
+                // Edge case: Empty input but suggestion clicked (e.g., from top freq)
+                const newValue = word + ' ';
+                setInput(newValue);
+                 requestAnimationFrame(() => {
+                    textarea.focus();
+                    textarea.selectionStart = textarea.selectionEnd = newValue.length;
+                });
+            }
         }
     };
 
