@@ -95,6 +95,22 @@ const TrashIcon = () => (
     </svg>
 );
 
+// Helper to remove diacritics for fuzzy matching
+const removeDiacritics = (str: string) => {
+    return str
+        .replace(/ğ/g, "g").replace(/Ğ/g, "G")
+        .replace(/ş/g, "s").replace(/Ş/g, "S")
+        .replace(/ç/g, "c").replace(/Ç/g, "C")
+        .replace(/ñ/g, "n").replace(/Ñ/g, "N")
+        .replace(/ţ/g, "t").replace(/Ţ/g, "T")
+        .replace(/á/g, "a").replace(/Á/g, "A")
+        .replace(/í/g, "i").replace(/Í/g, "I")
+        .replace(/î/g, "i").replace(/Î/g, "I")
+        .replace(/ó/g, "o").replace(/Ó/g, "O")
+        .replace(/ú/g, "u").replace(/Ú/g, "U")
+        .normalize("NFD").replace(/[\u0300-\u036f]/g, "");
+};
+
 const VirtualKeyboard: React.FC<VirtualKeyboardProps> = ({ entries }) => {
     const [input, setInput] = useState('');
     const [isShift, setIsShift] = useState(false);
@@ -132,10 +148,24 @@ const VirtualKeyboard: React.FC<VirtualKeyboardProps> = ({ entries }) => {
                 }
                 if (match[1]) {
                     const word = match[1];
-                    // If capitalized and NOT at start of sentence, it's a proper noun
+                    // Check if it's a proper noun based on capitalization in non-start position
+                    // We also check parts of hyphenated words
+                    const parts = word.split('-');
+                    
+                    parts.forEach((part, index) => {
+                         // If we are NOT at start of sentence, any capitalized part is a proper noun.
+                         // If we ARE at start of sentence, we can't be sure about the first part, 
+                         // but internal parts (index > 0) that are capitalized are proper nouns.
+                         if ((!isStart && /^[A-ZÁÇĞÍÎÑÓŞÚŢ]/.test(part)) || (index > 0 && /^[A-ZÁÇĞÍÎÑÓŞÚŢ]/.test(part))) {
+                             properNouns.add(part);
+                         }
+                    });
+
+                    // Also check the whole word if it doesn't contain hyphens, or even if it does
                     if (!isStart && /^[A-ZÁÇĞÍÎÑÓŞÚŢ]/.test(word)) {
                         properNouns.add(word);
                     }
+                    
                     isStart = false;
                 }
             }
@@ -159,7 +189,8 @@ const VirtualKeyboard: React.FC<VirtualKeyboardProps> = ({ entries }) => {
 
                 if (wordToken) {
                     let processedWord = wordToken;
-
+                    
+                    // Logic for the whole token
                     if (isStartOfSentence) {
                         if (properNouns.has(wordToken)) {
                             processedWord = wordToken;
@@ -170,7 +201,41 @@ const VirtualKeyboard: React.FC<VirtualKeyboardProps> = ({ entries }) => {
                         processedWord = wordToken;
                     }
 
+                    // Add the whole word
                     freqMap.set(processedWord, (freqMap.get(processedWord) || 0) + 1);
+
+                    // Logic for parts of hyphenated words
+                    if (wordToken.includes('-')) {
+                        const parts = wordToken.split('-');
+                        parts.forEach((part, index) => {
+                            // Clean punctuation from part if any exists (rare with current regex but possible)
+                            const cleanPart = part.replace(/^[']+|[']+$/g, '');
+                            if (!cleanPart) return;
+
+                            let partToAdd = cleanPart;
+                            
+                            // Determine casing:
+                            // If it's a known proper noun, use that casing.
+                            // If it matches the proper noun set (case-insensitive check to be safe), use the proper noun version.
+                            let foundProper = false;
+                            for (const proper of properNouns) {
+                                if (proper.toLowerCase() === cleanPart.toLowerCase()) {
+                                    partToAdd = proper;
+                                    foundProper = true;
+                                    break;
+                                }
+                            }
+                            
+                            if (!foundProper) {
+                                // If not a known proper noun, default to lowercase for parts,
+                                // unless it appeared capitalized mid-sentence (which Pass 1 would catch).
+                                // If it appeared at start of sentence, we default to lowercase unless it was caught in Pass 1 as internal part.
+                                partToAdd = cleanPart.toLowerCase();
+                            }
+
+                            freqMap.set(partToAdd, (freqMap.get(partToAdd) || 0) + 1);
+                        });
+                    }
 
                     if (prevWord) {
                         if (!bigramMap.has(prevWord)) {
@@ -226,13 +291,36 @@ const VirtualKeyboard: React.FC<VirtualKeyboardProps> = ({ entries }) => {
         }
         else {
             const tokens = input.split(/\s+/);
-            const lastToken = tokens[tokens.length - 1].toLowerCase();
+            const lastToken = tokens[tokens.length - 1]; 
+            const lowerToken = lastToken.toLowerCase();
+            const normToken = removeDiacritics(lowerToken);
             
             if (lastToken.length > 0) {
-                 const matches = predictionModel.sortedFreq
-                    .filter(w => w.toLowerCase().startsWith(lastToken) && w.toLowerCase() !== lastToken)
-                    .slice(0, 3);
-                setSuggestions(matches);
+                 // 1. Exact/Prefix matches (standard behavior)
+                 const exactMatches = predictionModel.sortedFreq
+                    .filter(w => w.toLowerCase().startsWith(lowerToken));
+
+                 // 2. Fuzzy/Diacritic-insensitive matches
+                 const fuzzyMatches: string[] = [];
+                 // optimization: scan sortedFreq (most frequent first)
+                 let count = 0;
+                 for (const w of predictionModel.sortedFreq) {
+                     if (count >= 5) break; 
+                     const wNorm = removeDiacritics(w.toLowerCase());
+                     // Check if normalized matches AND it's not already in exactMatches
+                     if (wNorm.startsWith(normToken) && !w.toLowerCase().startsWith(lowerToken)) {
+                         fuzzyMatches.push(w);
+                         count++;
+                     }
+                 }
+
+                 // Merge: Exact matches first, then fuzzy matches
+                 const combined = [...exactMatches, ...fuzzyMatches];
+                 
+                 // Deduplicate just in case
+                 const uniqueCombined = Array.from(new Set(combined));
+
+                 setSuggestions(uniqueCombined.slice(0, 3));
             } else {
                 setSuggestions([]);
             }
