@@ -1,5 +1,4 @@
-
-import React, { useState, useMemo, useCallback, useEffect } from 'react';
+import React, { useState, useMemo, useCallback } from 'react';
 import Header from './components/Header';
 import CorpusControls from './components/CorpusControls';
 import CorpusList from './components/CorpusList';
@@ -7,37 +6,18 @@ import HowToUse from './pages/HowToUse';
 import About from './pages/About';
 import Sources from './pages/Sources';
 import Translator from './pages/Translator';
-import KeyboardPage from './pages/KeyboardPage';
 import { corpus as initialCorpus } from './components/corpus-data';
 import { CorpusEntry } from './types';
 
-type Page = 'corpus' | 'howto' | 'about' | 'sources' | 'translator' | 'keyboard';
+type Page = 'corpus' | 'howto' | 'about' | 'sources' | 'translator';
 
 const App: React.FC = () => {
-  // Initialize state based on URL params to support PWA start_url logic
-  const [currentPage, setCurrentPage] = useState<Page>(() => {
-    if (typeof window !== 'undefined') {
-        const params = new URLSearchParams(window.location.search);
-        if (params.get('page') === 'keyboard') {
-            return 'keyboard';
-        }
-    }
-    return 'corpus';
-  });
-
+  const [currentPage, setCurrentPage] = useState<Page>('corpus');
   const entries: CorpusEntry[] = initialCorpus;
   const [searchQuery, setSearchQuery] = useState('');
   const [showTranslations, setShowTranslations] = useState(true);
   const [showSources, setShowSources] = useState(true);
   const [selectedCategory, setSelectedCategory] = useState('All');
-
-  // Sync URL with state (optional, but good for back button behavior if we added history push)
-  useEffect(() => {
-      if (currentPage === 'keyboard') {
-          // If we navigate to keyboard, we might want to ensure URL reflects it for bookmarking, 
-          // but mainly we just want to ensure the state is consistent.
-      }
-  }, [currentPage]);
 
   const categories = useMemo(() => {
     const allSources = entries.map(entry => entry.source);
@@ -136,12 +116,10 @@ const App: React.FC = () => {
             return <Sources onNavigate={setCurrentPage} />;
         case 'translator':
             return <Translator entries={entries} onNavigate={setCurrentPage} />;
-        case 'keyboard':
-            return <KeyboardPage entries={entries} onNavigate={setCurrentPage} />;
         case 'corpus':
         default:
             return (
-                <div className="flex-grow flex flex-col bg-white rounded-lg shadow-lg border border-slate-200 p-4 md:p-6 animate-fade-in min-h-0">
+                <div className="flex-grow flex flex-col bg-white rounded-lg shadow-lg border border-slate-200 p-4 md:p-6 animate-fade-in">
                     <CorpusControls
                         entryCount={filteredEntries.length}
                         totalCount={entries.length}
@@ -169,18 +147,13 @@ const App: React.FC = () => {
     }
   };
 
-  // For the keyboard page, we want a full-screen standalone look, so we might hide the header/footer
-  if (currentPage === 'keyboard') {
-      return renderContent();
-  }
-
   return (
-    <div className="h-full container mx-auto p-4 md:p-8 flex flex-col overflow-hidden">
+    <div className="min-h-screen container mx-auto p-4 md:p-8 flex flex-col">
       <Header onNavigate={setCurrentPage} />
-      <main className="flex-grow flex flex-col gap-4 sm:gap-8 mt-4 sm:mt-8 min-h-0">
+      <main className="flex-grow flex flex-col gap-4 sm:gap-8 mt-4 sm:mt-8">
         {renderContent()}
       </main>
-      <footer className="text-center mt-4 sm:mt-8 text-slate-500 text-sm shrink-0">
+      <footer className="text-center mt-8 text-slate-500 text-sm">
         <p>
           You can find the source of this website in <a href="https://github.com/Tatar-Tili-Tilsizgasi-Surasi/crimean-tatar-romania-corpus" target="_blank" rel="noopener noreferrer" className="text-cyan-500 hover:underline">GitHub</a>.
         </p>
