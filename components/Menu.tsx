@@ -1,7 +1,6 @@
-
 import React, { useState, useRef, useEffect } from 'react';
 
-type Page = 'corpus' | 'howto' | 'about' | 'sources' | 'translator' | 'keyboard';
+type Page = 'corpus' | 'howto' | 'about' | 'sources' | 'translator';
 
 interface MenuProps {
   onNavigate: (page: Page) => void;
@@ -56,7 +55,7 @@ const Menu: React.FC<MenuProps> = ({ onNavigate }) => {
       {isOpen && (
         <div 
           id="main-menu"
-          className="absolute left-0 mt-2 w-48 bg-white rounded-lg shadow-xl border border-slate-200 py-2 z-10 animate-fade-in-fast text-left"
+          className="absolute left-0 mt-2 w-48 bg-white rounded-lg shadow-xl border border-slate-200 py-2 z-10 animate-fade-in-fast"
           role="menu"
         >
           <a
@@ -74,14 +73,6 @@ const Menu: React.FC<MenuProps> = ({ onNavigate }) => {
             role="menuitem"
           >
             Translator (Beta)
-          </a>
-          <a
-            href="#"
-            onClick={(e) => { e.preventDefault(); handleNavigation('keyboard'); }}
-            className="block px-4 py-2 text-slate-700 hover:bg-slate-100 font-medium text-indigo-600"
-            role="menuitem"
-          >
-            Keyboard
           </a>
           <a
             href="#"
