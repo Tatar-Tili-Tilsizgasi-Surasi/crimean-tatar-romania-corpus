@@ -1,0 +1,20 @@
+{
+  "name": "Kîrîm Tatarşa Klaviyatura",
+  "short_name": "CT Keyboard",
+  "start_url": "/?page=keyboard",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#06b6d4",
+  "icons": [
+    {
+      "src": "/book.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "/book.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ]
+}
