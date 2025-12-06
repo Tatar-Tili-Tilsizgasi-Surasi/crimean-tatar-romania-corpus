@@ -931,7 +931,7 @@ tuman man ayna
 kózler ekranda 
 ğîltîrawuk resímler 
 așșî çay 
-Trump, Modi, Xi Jimping 
+Tramp, Modiy, Şiy Jimpink 
 kutaruw șáreleríñ kerekmesí 
 terasada 
 kúneșke karagan 
@@ -1119,7 +1119,7 @@ my love’s union again
  indicates widowhood in India
 # patlamalar 
 ğarîknîñ bíteklígí 
-Diwali 
+Diwaliy 
 saba sáátí dórt 
 dawușlî-dawușlî bașlar 
 Çhat puja⁴
