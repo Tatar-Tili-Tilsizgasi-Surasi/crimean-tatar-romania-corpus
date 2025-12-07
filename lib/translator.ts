@@ -1,6 +1,5 @@
 
 import { CorpusEntry } from '../types';
-import { POS_PREFIXES_FOR_CLEANING } from '../data/promptData';
 
 // Normalized Suffixes for Romania dialect (simplified)
 // Used to analyze CT input and provide rough translations + grammatical notes.
@@ -36,9 +35,6 @@ export interface AnalysisResult {
 
 const PUNCTUATION_REGEX = /[.,!?;:()"[\]{}«»“”‘’—–\-/_|●•]/g;
 const SPLIT_REGEX = /([\s.,!?;:()"[\]{}«»“”‘’—–\-/_|●•]+)/;
-
-// Sort prefixes longest first to avoid partial replacements (e.g. replacing "s." inside "s.n.")
-const SORTED_POS_PREFIXES = [...POS_PREFIXES_FOR_CLEANING].sort((a, b) => b.length - a.length);
 
 // Exporting for use in deep analysis if needed elsewhere, but primarily internal here.
 export const normalize = (s: string) => {
@@ -80,21 +76,9 @@ export const buildIndex = (entries: CorpusEntry[]): Index => {
         // Enhanced indexing for dictionary entries
         if (entry.source.includes('Dictionary')) {
              // Clean up translation for better reverse keywords.
-             let cleanTranslation = entry.translation;
-
-             // Iterate and replace each POS prefix with a space.
-             // We use a simple replaceAll (or split/join for broader compatibility if needed, though modern JS has replaceAll)
-             // Since we want to replace globally, and some might have regex special chars (like dot), we need care.
-             // A loop with split/join is safe and effective for this defined list.
-             for (const prefix of SORTED_POS_PREFIXES) {
-                  // Only replace if it's likely a true prefix (start of string or preceded by space/punctuation)
-                  // Actually, given the erratic nature of some dictionary entries, a simple global replace might be safest
-                  // to catch them even if formatting is slightly off, as long as the prefix itself is distinct enough.
-                  // Most prefixes in the list end with space or dot, making them relatively distinct.
-                  cleanTranslation = cleanTranslation.split(prefix).join(' ');
-             }
-
-             cleanTranslation = cleanTranslation
+             // We replace abbreviations with spaces to avoid merging words when splitting.
+             let cleanTranslation = entry.translation
+                .replace(/\b(s\.|adj\.|adv\.|v\.|prep\.|conj\.|interj\.|num\.|art\.|fiziol\.|muz\.|electr\.|fiz\.|antrop\. f\.)/g, ' ')
                 // Remove numbered lists like "1.", "2."
                 .replace(/\b\d+\./g, ' ')
                 // Remove parenthetical info
