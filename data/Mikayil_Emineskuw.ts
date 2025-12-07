@@ -435,4 +435,95 @@ Hem múbarek, hem hoştîr.” — De-aceea zilele îmi sunt
 Pustii ca nişte stepe,
 Dar nopţile-s de-un farmec sfânt
 Ce nu-l mai pot pricepe.”
+# – „Balasîñ sen… Tut kolîmnî,
+Dúniyaga kaşarmîz,
+Bíldírmeden atîmîznî
+Awlaklarda yaşarmîz. — – „Tu eşti copilă, asta e...
+Hai ş-om fugi în lume,
+Doar ni s-or pierde urmele
+Şi nu ne-or şti de nume,
+# Saw-neşelí bolîrmîz hem
+Dewletímíz pítmez,
+Şolpan tuwul, anañ bírem
+Akîlîña kelmez.” — Căci amândoi vom fi cuminţi,
+Vom fi voioşi şi teferi,
+Vei pierde dorul de părinţi
+Şi visul de luceferi.”
+# Ğolga şîgîp keñ kanatlar 
+Şolpan kaga kókte,
+Biñ senelík uzun ğollar
+Bíñ tînîşta óte. — Porni luceafărul. Creşteau
+În cer a lui aripe,
+Şi căi de mii de ani treceau
+În tot atâtea clipe.
+# Yîldîz ğolî aşalarda,
+Bír ğîltîrîm ózí,
+Toktamadan da kîdîra
+Yokarlarnî kózí. — Un cer de stele dedesubt,
+Deasupra-i cer de stele -
+Părea un fulger nentrerupt
+Rătăcitor prin ele.
+# Urkansîzlîk şayîrîndan
+Alay yaktan tuwar,
+Síftí kúnníñ umayîndan,
+Tertípleníp, nurlar; — Şi din a chaosului văi,
+Jur împrejur de sine,
+Vedea, ca-n ziua cea de-ntâi,
+Cum izvorau lumine;
+# Alay yerden tuwgan nurlar
+Onî sarîp alîrlar,
+Şo deñízní ğaldap uşar,
+Artta sóníp kalîrlar; — Cum izvorând îl înconjor
+Ca nişte mări, de-a-notul...
+El zboară, gând purtat de dor,
+Pân' piere totul, totul;
+# Bargan yerí şegarasîz,
+Kózge tanîlmagan,
+Tuwmay kalîr, netiğesíz,
+Boşlîklardan zaman. — Căci unde-ajunge nu-i hotar,
+Nici ochi spre a cunoaşte,
+Şi vremea-ncearcă în zadar
+Din goluri a se naşte.
+# Bír suwsîzlîk onî emer
+Herşiy boşlîk bolsa da,
+Unutîlgan derenlíkler
+Barlîk yerní kapsa da. — Nu e nimic şi totuşi e
+O sete care-l soarbe,
+E un adânc asemene
+Uitării celei oarbe.
+# – „Kara-awur ólmezlíkten
+Atam, mení boşat, 
+Soñsîz maktaw ğúmle evren
+Saga kîlsîn, káyinat. — – „De greul negrei vecinicii,
+Părinte, mă dezleagă
+Şi lăudat pe veci să fii
+Pe-a lumii scară-ntreagă;
+# Íste, Tañrîm, ne ísteseñ,
+Kader yazgan tek Sensíñ,
+Ke Sensíñ tírílík Bergen,
+Óttírúwğí de Sensíñ; — O, cere-mi, Doamne, orice preţ,
+Dar dă-mi o altă soarte,
+Căci tu izvor eşti de vieţi
+Şi dătător de moarte;
+# Nazar ateşímní sóndír,
+Ólmezlíkten boşat,
+Karşîlîklî sewdalandîr,
+Kuwant mení bír sáát... — Reia-mi al nemuririi nimb
+Şi focul din privire,
+Şi pentru toate dă-mi în schimb
+O oră de iubire...
+# Tañrîm, hareketten tuwdîm,
+Hareketke kaytarman...
+Tîñgînlîktan piyda boldîm,
+Tîñgînlîkka suwsarman.” — Din chaos, Doamne,-am apărut
+Şi m-aş întoarce-n chaos...
+Şi din repaos m-am născut.
+Mi-e sete de repaos."
+# – „Hiperiyon, kím ğarlardan
+Ğihan taşîp tuwarsîñ,
+Heşbolmayğak tîlsîmlardan
+Ğaba umut tartarsîñ; — – „Hyperion, ce din genuni
+Răsai c-o-ntreagă lume,
+Nu cere semne şi minuni
+Care n-au chip şi nume;
 `;
