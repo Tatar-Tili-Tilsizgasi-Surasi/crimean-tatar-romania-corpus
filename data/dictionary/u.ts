@@ -538,4 +538,286 @@ uzunluk s. lungime. // ●dalga/dulkun uzunluğî — lungime de undă. ●ómí
 uzunómírlí adj. peren.
 uzun-uzun adj. foarte lung; foarte înalt.
 uzuw s. (anat.) organ; membru; mădular.
+úflemek v.t. a sufla; a expira; a vântura.
+úflengen adj. suflat.
+úfleş s. (tehn.) suflai.
+úflew s. 1. suflare; vânturare. 2. descântare; descântec.
+úflewğí s. (muz.) suflător.
+úfúrmek v.t. 1. a sufla; a expira; a vântura. 2. a descânta. // ●okîp úfúrmek — a descânta.
+úfúrúk s. 1. suflare; expirare; vânturare. 2. descântec.
+úfúrúkşí s. descântător.
+úfúrúkşúlúk s. descântare.
+úfúrúlgen adj. 1. descântat. 2. suflat; expirat; vânturat.
+úfúrúlmek v.i. 1. a fi descântat. 2. a se sufla; a se vântura.
+úfúrúw s. 1. descântare; descântec. 2. suflare; expirare; vânturare.
+úfúrúwğí s. (muz.) suflător.
+úgúle s. (orn.) ciovică (lat., Strix passerina; Glaucidium passerinum).
+úgúle, kîzîlğa- s. (orn.) huhurez mic (lat., Strix aluco).
+úğret s. salariu; leafă; retribuție; plată (pt. muncă depusă). // ●ğeñkşí úğretí — (mil.) soldă. ●kíríş úğretí — taxa de intrare. ●odanîñ úğretí — costul camerei. ●tekmillík úğretí — pensie. ●úğretke dahil — inclus în preț.
+úğretlí I. adj. cu plată; plătit; achitat. II. s., adj. salariat; lefegiu. // ●úğretlí kónçet — concediu cu plată.
+úğretsíz adj. gratis; gratuit; fără plată. // ●úğretsíz kónçet — concediu fără plată.
+úla interj. mă!; măi!; bă!;
+úleş s. parte; contribuție; cotă.
+úleşmek v.t. a-şi împărți; a-şi distribui; a-şi repartiza.
+úleştírílgen adj. împărțit; distribuit; repartizat.
+úleştírme I. adj. (gram.) distributiv. II. s. împărțire; distribuire; repartizare.
+úleştírmek v.t. a împărți; a distribui; a repartiza.
+úleştírúwğí I. adj. (gram.) distributiv. II. s. distribuitor. // ●úleştírúwğí sayî — (mat.) numeral distributiv.
+úlge s. 1. exemplu; pildă. 2. model; mostră; eşantion; tipar; şablon. 3. pereche; egal.
+úlgeleme s. exemplificare.
+úlgelemek v.t. a exemplifica; a da ca exemplu.
+úlgelengen adj. exemplificat.
+úlgelenmek v.i. a se exemplifica; a se da ca exemplu.
+úlgelep-aşîklama s. exemplificare; ilustrare.
+úlgelep-aşîklangan adj. exemplificat; ilustrat.
+úlgelew s. exemplificare.
+úlgesíz adj. fără pereche; fără egal; fără seamăn; neasemuit.
+úlkí s. ideal; aspirație; năzuință. // ●milliy úlkí — ideal național.
+úlkúğí s. (fil.) idealist.
+úlkúğúlúk s. (fil.) idealism.
+úmmet s. (relig.) credincioşi; tagma credincioşilor; enoriaşi.
+úmmiy s., adj. analfabet; incult; ignorant.
+Úmmiy s. (antrop. m., arab.) "Cel fără ştiință de carte" (unul din cele 400 de nume atribuite în Coran Profetului Muhammed Aliyselam).
+úmmiyet s. analfabetism; incultură; ignoranță.
+úmmiylík s. analfabetism; incultură; ignoranță.
+úmúlmegen adj. nesperat; neaşteptat.
+úmút s. speranță; nădejde. // ●úmút etmek — a trage speranță; a nădăjdui. ●úmút peslemek — a nutri speranța; a nădăjdui. ●úmútún kesmek — a pierde orice speranță. // ●keleğekke dogrî úmút bayladîk — ne-am legat speranța de viitor. ●úmút kestírúwğí — dezolant.
+úmútbaylagan adj. încrezător; dependent.
+úmútbaylaw s. încredere; dependență.
+úmútbergen adj. încurajator; îmbucurător; promițător.
+úmútberílgen adj. încurajat.
+úmútberúw s. încurajare.
+úmútberúwğí adj. încurajator; îmbucurător; promițător.
+úmútíkesílgen adj. descurajat; demoralizat; descumpănit; demobilizat; deznădăjduit; desperat.
+úmútkesílmesí s. descurajare; demoralizare; descumpănire; demobilizare; deznădăjde; desperare.
+úmútkesken adj. descurajant; descumpănitor; demobilizator; dezolant.
+úmútlendírmek v.t. a da speranțe; a determina să spere.
+úmútlenme s. speranță; nădejde.
+úmútlenmek v.i. a spera; a nădăjdui; a-şi face speranțe.
+úmútlí adj. care speră; care are speranță; optimist. // ●úmútlí bolmak — a avea speranță; a fi optimist.
+úmútsúz adj. descurajat; demoralizat; descumpănit; demobilizat; deznădăjduit; desperat.
+úmútsúzleşken adj. descurajat; demoralizat; descumpănit; demobilizat; deznădăjduit; desperat.
+úmútsúzleşme s. descurajare; demoralizare; descumpănire; demobilizare; deznădăjde; desperare.
+úmútsúzleşmek v.i. a se descuraja; a se demoraliza; a fi descumpănit; a se demobiliza; a fi deznădăjduit; a despera.
+úmútsúzlúk s. descurajare; demoralizare; descumpănire; demobilizare; deznădăjde; desperare.
+úmútsúzlúkbergen adj. descurajant; descumpănitor; demobilizator; dezolant.
+ún s. 1. sunet; răsunet. 2. renume; faimă; celebritate.
+úndelengen adj. acordat (d. un instrument, aparat etc.).
+úndelí adj. acordat (d. un instrument, aparat etc.).
+úndemek v.t. a acorda (un instrument, aparat etc.).
+úndew s. lozincă; slogan; motto; parolă. // ●bakîra-bakîra úndew aytmak — a scanda.
+úndewğí s. (muz.) acordor.
+úndewleme s. scandare.
+úndewlemek v.t. a scanda.
+únlem s. (gram.) interjecție; exclamație.
+únlí I. adj. renumuit; faimos; reputat; celebru. II. s. (lingv.) vocală. // ●awuzaldî únlí — (lingv.) vocală anterioară. ●awuzartî únlí — (lingv.) vocală posterioară. ●geñíş únlí — (lingv.) vocală deschisă. ●tar únlí — (lingv.) vocală închisă. ●únlí uyumî — (lingv.) armonie vocalică.
+únsiyet s. apropiere; prietenie; amiciție.
+únsiyetlí adj. apropiat; prietenos; amical.
+únsúz I. adj. fără renume; fără reputație; necunoscut. II. s. (lingv.) consoană. // ●ğîmşak únsúz — (lingv.) consoană moale. ●kattî/sert únsúz — (lingv.) consoană dură. ●ótken únsúz — (lingv.) consoană sonoră. ●ótmegen únsúz — (lingv.) consoană surdă. ●únsúz uyumî — (lingv.) armonie consonantică.
+únvan s. titlu; adresă.
+únvanlî adj. cu titlu; cu adresă; adresat.
+úplemek v.t. a sufla; a expira; a vântura.
+úplengen adj. suflat; expirat; vânturat.
+úpleş s. (tehn.) suflai.
+úplew s. 1. suflare; vânturare. 2. descântare; descântec.
+úplewğí s. (muz.) suflător.
+úpúrmek v.t. 1. a descânta. 2. a sufla; a expira; a vântura. // ●kózíne kúl úpúrmek — a arunca praf în ochii cuiva; a-l înşela. ●okîp úpúrmek — a descânta.
+úpúrúk s. 1. suflare; expirare; vânturare. 2. descântec.
+úpúrúkşeşegí s. (bot.) păpădie (lat., Taraxacum officinale).
+úpúrúkşí s. descântător.
+úpúrúkşúlúk s. descântare.
+úpúrúlgen adj. 1. descântat. 2. suflat; expirat; vânturat.
+úpúrúlmek v.i. 1. a se descânta. 2. a se sufla; a fi expirat; a se vântura.
+úpúrúw s. 1. suflare; expirare; vânturare. 2. descântare; descântec.
+úpúrúwğí s. (muz.) suflător.
+úrdún s., adj. iordanian.
+Úrdún s. (topon.) Iordania.
+úrdúnlí s., adj. iordanian.
+úre s. (chim.) uree.
+úrek s. vedenie; nălucă; himeră; fantomă; stafie; spectru.
+úreklí adj. himeric; fantomatic; închipuit; iluzoriu.
+úrem s. (fin.) dobândă.
+úreme s. (biol.) înmulțire; reproducere; proliferare.
+úremek v.i. (biol.) a se înmulți; a se reproduce; a prolifera.
+úreñge s. (bot.) arțar-tătăresc; gladiş (lat., Acer tataricum).
+úreñgesí, Frengístan- s. (bot.) jugastru de Banat (lat., Acer monspessulanum).
+úreñgesí, kîr- s. (bot.) jugastru (lat., Acer campestre).
+úretím s. (econ.) producție. // ●úretím alatlarî — unelte de producție. ●úretím kúşí — productivitate. ●úretím kuwatlarî — forțe de producție. ●úretím vasîtalarî — mijloace de producție.
+úretímpazlalîgî s. supraproducție.
+úretkeş s. (fiz.) generator.
+úretkeşburumğa s. (electr.) turbogenerator.
+úretmek v.t. 1. (biol.) a înmulți; a reproduce. 2. (econ.) a produce.
+úretmen s. (d. persoane) producător.
+úretúwğí s. (d. persoane) producător.
+úriyañ adj. gol; nud; dezbrăcat.
+úriyañkaluw s. despuiere; dezbrăcare.
+úriyañlîk s. goliciune; nuditate.
+úrkek adj. timid; sfios; fricos; sperios; temător.
+úrkeklík s. timiditate; sfială; frică; teamă.
+úrkí s. panică.
+úrkken adj. 1. înfiorat; care tresare; speriat; înspăimântat. 2. (d. piele, țesuturi, organe etc.) iritat. 3. (d. pomi) lipsit de roade.
+úrkme s. 1. înfiorare; tresărire; sperietură; înspăimântare. 2. (d. piele, țesuturi, organe etc.) iritare; iritație. 3. (d. pomi) lipsă de roade.
+úrkmek v.i. 1. (d. piele, țesuturi, organe etc.) a se irita. 2. a se înfiora; a tresări; a se speria; a se înspăimânta. 3. (d. pomi) a nu da roade; a nu rodi.
+úrkúntí s. 1. sperietură; spaimă. 2. teamă; groază.
+úrkútme s. 1. înfiorare; speriere; înspăimântare; înfricoşare. 2. (d. animale) stârnire; întărâtare; speriere.
+úrkútmek v.t. 1. a înfiora; a speria; a înspăimânta; a înfricoşa. 2. a stârni; a întărâta; a speria (animale). // ●ólím gibí úrkútken — macabru.
+úrkútúwğí adj. înfiorător; cutremurător; oribil; teribil; îngrozitor. // ●aytmasî úrkútúwğí — îngrozitor de spus.
+úrmek v.i. a lătra.
+úrún s. recoltă; producție (agricolă). // ●sanaye úrúní — produs industrial. ●tarîm úrúní — produs agricol.
+úrúw s. lătrat.
+ús s. (mat.) exponent.
+ús s. bază; centru.
+úslup s. stil; metodă; manieră.
+úsluplî adj. stilistic.
+úslupşî s. (d. scriitori) stilist; maestru al scrisului.
+úslupşuluk s. stilistică.
+úst I. adj. superior; de sus. II. postp. deasupra; peste; pe. III. s. 1. partea de sus; partea superioară. 2. suprafață superioară; înveliş; strat superior. 3. îmbrăcăminte; haine. 4. (d. persoane) superior. 5. rest. // ●astîndan kíríp ústúnden şîkmak — a-i da de cap; a-l rezolva. ●ayak ústúne turmak — a se ridica în picioare. ●bír-bírníñ ústúne salmak — a suprapune. ●dórt ayak ústí túşmek — a cădea în picioare. ●kol ústúnde tutmak — a ține pe cineva ca în palmă; a-l răsfăța. ●úst kelmek — a ieşi deasupra; a învinge. ●úst perdeden konîşmak — a vorbi cuiva pe un ton superior; a-i vorbi de sus. ●ústún basmak/bastîrmak — a-l turti; a-l acoperi; a-l camufla; a-l muşamaliza. ●ústún kakmak — a-şi scutura îmbrăcămintea. ●ústúne ğukmak — a se mula pe…; // ●faaliyet ústí — asupra faptului; în flagrant. ●kabaát ústí — în flagrant delict. ●masanîñ ústún súrt! — şterge masa!; ●mektúp ústí — adresa scrisorii. ●paranîñ ústí — rest de bani. ●úst şene — maxilar superior. ●úst subay — ofițer superior. ●úst tabaka — elită. ●ústí kapalî — voalat. ●ústúme fenalîk keldí — mi-e rău.
+ústadem s. supraom.
+úst-baş s. înfățişare; port; îmbrăcăminte; vestimentație.
+ústçawuş s. (mil.) sergent-major.
+ústeleme s. 1. insistență; stăruință. 2. (med.) revenire; recidivă.
+ústelemek v.i. 1. a insista; a stărui. 2. (med.) a reveni; a recidiva. // ●neşín ústeliysíñíz? — de ce insistați?;
+ústelík adv. pe deasupra; pe lângă aceasta; încă; mai; în plus.
+ústeme s. adaos.
+ústenğí s. antreprenor.
+ústgeşme s. pasaj aerian.
+ústinsan s. supraom.
+ústíaşîk adj. 1. dezvelit; dezgolit. 2. sincer; deschis; corect.
+ústíaşîlgan adj. dezvelit; dezgolit.
+ústíbasîk adj. acoperit; astupat; camuflat; muşamalizat; turtit.
+ústíbasîlgan adj. acoperit; astupat; camuflat; muşamalizat; turtit.
+ústíğabîk adj. acoperit. // ●ústíğabîk sóz — parolă.
+ústíğabîlmagan adj. neacoperit.
+ústíğabuwlî adj. acoperit cu voal; voalat.
+ústíórtílgen adj. acoperit; muşamalizat.
+ústíşkólmek s. bluză.
+ústkat s. 1. etaj superior; strat superior. 2. (la o sală de spectacole) galerie.
+ústke postp. în sus; deasupra. // ●ústke şîkmak — a ieşi deasupra; a învinge.
+ústkekelgen adj. 1. excesiv; excedentar. 2. adunat; adăugat; acumulat. 3. suplimentar; superior.
+ústkekelme s. 1. (mat.) plus. 2. surplus; exces; excedent. 3. adunare; adăugare; acumulare. 4. supliment; suplimentare; superioritate.
+ústkelgen adj. biruitor; învingător.
+ústkelúw s. biruință; izbândă.
+ústkeşîguw s. impunere; afirmare.
+ústkuruluş s. suprastructură.
+ústkurum s. suprastructură.
+ústlokotenent s. (mil.) locotenent-major.
+ústlúk s. halat; capot.
+ústotîr s. apostrof.
+ústórtísí s. mantie.
+ústórúw s. suprastructură.
+ústserğent s. (mil.) sergent-major.
+ústte adv. deasupra.
+ústten adv. de sus.
+ústten-aşaga adv. de sus în jos.
+ústterí s. (anat., bot.) epidermă.
+ústtiymen s. (mil.) locotenent-major.
+ústtokta s. apostrof.
+ústún I. adj. 1. superior; situat deasupra. 2. eminent. II. adv. mai presus de. // ●ústún tutmak — a considera superior; a acorda întâietate; a prefera.
+ústúnaşma s. dezvelire; dezgolire.
+ústúnde postp. (arată locul) asupra; pe; peste; deasupra; pe deasupra. // ●paranîñ ústúnde ğatmak — a avea bani la ciorap; a fi doldora de bani. ●taş ústúnde taş bîrakmamak — a nu lăsa piatră pe piatră. ●tegenek ústúnde otîrmak — a sta ca pe ghimpi. ●ústúnde árúw kelmek — a-i sta bine; a-l prinde bine (d. îmbrăcăminte). ●ústúnde turmak — a stărui asupra…; a insista asupra…; // ●anterníñ ústúnde ak menekler bar — pe rochie sunt buline albe. ●masanîñ ústúnde — pe masă. ●píkírníñ ústúnde turmagan — inconsecvent. ●sózníñ ústúnde turgan — insistent; parolist. ●úynúñ ústúnde mîşîk bar — pe casă este pisica.
+ústúnden postp. de deasupra; pe deasupra; de pe; de peste. // ●ğer ústúnden sílmek — a rade de pe fața pământului. ●ústúnden geşmek — a trece peste…; a necinsti; a viola.
+ústúndengeşílgen adj. dezonorat; batjocorit; necinstit; violat; stigmatizat.
+ústúndengeşken adj. dezonorant; batjocoritor; viol; violare; stigmatizare.
+ústúndeturgan adj. tenace; perseverent; insistent; stăruitor.
+ústúne postp. (arată direcția) asupra; pe; peste; deasupra. // ●gúnanî ústúne almak — a lua păcatele asupra sa; a pleda vinovat. ●ústúne almak — a lua asupra sa; a-şi însuşi; a-şi asuma. ●ústúne atmak — a arunca asupra cuiva; a-l învinovăți. ●ústúne geşírmek — a trece ceva pe numele cuiva. ●ústúne gezdírmek — a presăra deasupra…; ●ústúne otîrmak — a se aşeza pe…; a-şi însuşi; a uzurpa. ●ústúne salmak — a pune deasupra…; a-l completa; a-i adăuga. ●ústúne túşmek — a-i reveni; a i se cădea; a i se cuveni (d. sarcini, bunuri materiale sau spirituale). ●ústúne túşmek — a prinde pe cineva asupra faptului; a-l surprinde; a tăbărî asupra…; // ●ayak ayak ústúne — picior peste picior.
+ústúnealgan s. antreprenor.
+ústúnealîngan adj. adoptat; asumat; însuşit; asimilat.
+ústúnealuw s. 1. promisiune; făgăduială; obligație. 2. adoptare; asumare; însuşire; asimilare.
+ústúneatîlgan adj. pus pe seama; atribuit.
+ústúneatuw s. reproş; imputare; atribuire.
+ústúnegezdírílgen adj. presărat.
+ústúnegezdírme s. presărare.
+ústúneğukkan adj. mulat.
+ústúneğukma s. mulare.
+ústúneotîrgan s. uzurpator.
+ústúneotîrîlgan adj. uzurpat.
+ústúneotîruw s. uzurpare.
+ústúnesalîngan adj. adăugat; completat; întregit.
+ústúnesaluw s. adăugare; completare; întregire.
+ústúneser s. capodoperă.
+ústúnetamgan adj. pătat.
+ústúnetamma s. pătare.
+ústúnetúşúw s. surprindere.
+ústúnğabuw s. acoperire; muşamalizare.
+ústúnkelgen adj. covârşitor; preponderent.
+ústúnkelúw s. covârşire; preponderență.
+ústúnkyorî adj. superficial; neglijent.
+ústúnkyorîlîk s. superficialitate.
+ústúnlúk s. superioritate; avantaj.
+ústúnórtúw s. acoperire; muşamalizare.
+ústúntutulgan adj. preferat.
+ústúntutuw s. preferință.
+úst-ústke adv. unul peste altul; unul după altul; consecutiv; succesiv. // ●úst-ústke kelmek — a se succeda; a se suprapune. ●úst-ústke salmak — a suprapune; a stivui.
+ústúvane s. (mat., tehn.) cilindru.
+ústúvaniy adj. (mat.) cilindric.
+úş num. trei. // ●bo sayî úş rakamdan múrekkep — acest număr este alcătuit din trei cifre. ●múrekkep úşlí kuralî — (mat.) regula de trei compusă. ●úş atlama — (sport) triplu salt. ●úş fazalî — (fiz.) trifazic. ●úş músúr tanesí — trei boabe de porumb. ●úş nokta — (tipogr.) puncte de suspensie. ●úş tegerşíklí — tricicletă. ●úşlí kuralî — (mat.) regula de trei simplă.
+úşay s. trimestru.
+úşayak s. trepied.
+úşayda adv. din trimestru în trimestru; trimestrial.
+úşaydan-úşayga adv. din trimestru în trimestru; trimestrial.
+úşaylîk adj. 1. de un trimestru. 2. trimestrial; pe trimestru.
+úşbírleşmedegerlí adj. (chim.) trivalent.
+úşboylî adj. tridimensional.
+úş-dórt num. aproximativ trei-patru.
+úşeğíklí adj. (lingv.) trisilabic.
+úşek s. (zool.) râs; linx (lat., Lynx lynx).
+úşer num. câte trei.
+úşer-úşer num. trei câte trei.
+úşeserlík s. (lit.) trilogie.
+úşew I. num. grup de trei. II. s. (muz.) trio; terțet; triolet.
+úşewí pron. toți trei.
+úşewlerbírleşmesí s. triumvirat.
+úşew-úşew num. grupuri de câte trei.
+úşgúl(lí) adj. (bot.) trilobat.
+úşgúl, ak- s. (bot.) trifoi (lat., Trifolium repens).
+úşgúl, aşşî- s. (bot.) trifoişte; trifoi-amar (lat., Menyanthes trifoliata).
+úşgúl, ekşí- s. (bot.) măcrişul-iepurelui; măcrişul-caprei (lat., Oxalis acetosella).
+úşgúlí, kîr- s. (bot.) trifoiaş (lat., Trifolium campestre).
+úşgúlí, şayîr- s. (bot.) trifoi-roşu; trifoi-sălbatic (lat., Trifolium pratense).
+úşgúlí, şoban- s. (bot.) vătămătoare; renoloare; iarbă-de-vătămătură (lat., Anthyllis vulneraria).
+úşgúllúk s. teren semănat cu trifoi; trifoişte.
+úşheğelí adj. (lingv.) trisilabic.
+úşkat adj. întreit; triplu. // ●úşkat arttîrmak — a tripla.
+úşkatartkan adj. întreit; triplu.
+úşkatartma s. întreire; triplare.
+úşkatlî adj. întreit; triplu.
+úşkenar s. (mat.) triunghi.
+úşkenarlí adj. triunghiular.
+úşkeñ s. (mat.) triunghi. // ●egíz kenar úşkeñ — (mat.) triunghi isoscel.
+úşkeñlí adj. triunghiular.
+úşkîlşîk s. (iht.) zborş (lat., Gasterosteus platygaster).
+úşkóşe s. (mat.) triunghi. // ●şaytan úşkóşesí — triunghiul morții.
+úşkóşelí adj. triunghiular.
+úşleme s. întreire; triplare.
+úşlemek v.t. a întrei; a tripla.
+úşlengen adj. întreit; triplu.
+úşlenmek v.i. a se întrei; a se tripla.
+úşlep adv. întreit; reciclând de trei ori.
+úşlerde num. aproximativ trei.
+úşlúk I. adj. tripartit; trilateral. II. s. 1. (muz.) terță. 2. (mat., muz.) treime. // ●baş úşlúk — (muz.) terță mare. ●kíşke úşlúk — (muz.) terță mică. ●úşlúk meşawre — conferință tripartită.
+úşmúyúz s. (mitol.) tricorn.
+úşnewbetlí adj. în trei schimburi; în trei ture.
+úşoklî adj. (tehn.) triaxial.
+úşólşewlí adj. tridimensional.
+úşparmak adj. cu trei degete; tridactil.
+úş-parmaklî-kúrte s. (orn.) ciocănitoare de munte (lat., Picoides tridactylus).
+úş-parmaklî-terekkakkan s. (orn.) ciocănitoare de munte (lat., Picoides tridactylus).
+úş-parmaklî-tokîldak s. (orn.) ciocănitoare de munte (lat., Picoides tridactylus).
+úşperdelí adj. (teatr.) în trei acte.
+úşpoşmak s. (mat.) triunghi. // ●geñíş aşîlî úşpoşmak — (mat.) triunghi obtuz.
+úşpoşmaklî adj. triunghiular.
+úşrenklí adj. tricolor.
+úş-renklí-karkara s. (orn.) egretă tricoloră (lat., Egretta tricolor).
+úş-renklí-kumtawuk s. (orn.) notatiță tricoloră marină; notatiță Wilson (lat., Phalaropus tricolor; Steganopus tricolor).
+úş-renklí-şapur s. (orn.) egretă tricoloră (lat., Egretta tricolor).
+úşsestílímlí adj. (lingv.) trisilabic.
+úşsozîkawazlî s. (lingv.) triftong.
+úşşat s. (mat.) triunghi.
+úşşatlî adj. triunghiular.
+úşte I. adv. la trei; din trei. II. s. (mat.) treime.
+úşte-bír num. o treime.
+úştíllí adj. trilingv. // ●úştíllí sózlík — dicționar trilingv.
+úştírsek s. (mat.) triunghi. // ●eşkenar úştírsek — (mat.) triunghi echilateral.
+úştírseklí adj. triunghiular.
+úşúmek v.i. a-i fi frig; a îngheța (de frig).
 `;
