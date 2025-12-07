@@ -42,8 +42,7 @@ export const rawDictionaryText = `
 çelt s. celt. 
 çeltlík adj. celtic. 
 çeluloza s. celuloză. 
-çemen s. (bot.) schinduf (lat., 
-Trigonella foenum graecum). 
+çemen s. (bot.) schinduf (lat., Trigonella foenum graecum). 
 çentigram s. centigram. 
 çentilitre s. centilitru. 
 çentima s. centimă. 
