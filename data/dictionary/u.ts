@@ -91,4 +91,50 @@ ulusşuluk s. naŃionalism.
 uluw adj. măreŃ; grandios; impunător. 
 uluwanay s. străbunică. 
 uluwbabay s. străbunic.
+uluwlama s. slavă; slăvire; glorificare; preamărire. 
+uluwlamak v.t. a preamări; a slăvi; a glorifica. 
+uluwlangan adj. slăvit. 
+uluwluk s. măreŃie; grandoare; maiestate. 
+ulviy adj. înalt; elevat; sublim. //●ulviy başlîk — hegemonie. ●ulviy refah — binele suprem. 
+Ulviy s. (antrop. m., arab.) “Cel elevat”. 
+Ulviye s. (antrop. f., arab.) “Cea elevată”. 
+ulviyet s. sfinŃenie; sanctitate. 
+ulviylík s. 1. sfinŃenie; sanctitate. 2. înălŃime; supremaŃie. 
+Uman s. (topon.) Oman. 
+umanism s. umanism. 
+umanist s., adj. umanist. 
+umay s. (anat.) uter; mitră. 
+umde s. principiu. 
+umdelí adj. principial. 
+umma s. nădejde; speranŃă. 
+ummak v.t. a aştepta; a spera; a nădăjdui. 
+ummak s. ocean. 
+umtamak v.i. a fanda. 
+umtaw s. fandare. 
+umulmagan adj. nesperat; neaşteptat. 
+umum adj. general; total; în general. //●umum múdúr — director general. 
+umumdewlet adj. naŃional; public. 
+umumdewletşí adj. naŃionalist. 
+umumdewletşílík s. naŃionalism. 
+umumdúniya adj. global; mondial; universal. 
+umumdúniyalîk s. universalitate. 
+umumiy adj. general; total; în general. // ●eñ balaban umumiy bólúwğí — (mat.) cel mai mare divizor comun. ●umum baylam figelí — (gram.) gerunziu universal. ●umumiy efkáar — opinia publică. ●umumiy kalk ses bermesí — plebiscit. ●umumiy kitaplar sîzgasî — bibliografie generală. ●umumiy merkezlí — concentric. ●umumiy telefon/uzakses — telefon public. 
+umumiye s. generalitate; caracter general. // ●efkáariy umumiye — opinia publică. 
+umumiyet s. generalitate; caracter general. // ●umumiyet men — în general; în linii mari; grosso modo. 
+umumiyğe adv. complet; integral; totalmente; de-a binelea. 
+umumiyleşken adj. generalizat. 
+umumiyleşmek v.i. a se generaliza. 
+umumiyleştírme s. generalizare. 
+umumiyleştírmek v.t. a generaliza. 
+umumiysorgî s. referendum. 
+umumkalk adj. naŃional; public. 
+umumkalkşî adj. naŃionalist. 
+umumkalkşîlîk s. naŃionalism. 
+Umurlar s. (topon., localitate desfiinŃată) Umurlar (jud. Tulcea). 
+umut s. speranŃă; nădejde. // ●umut etmek — a trage speranŃă; a nădăjdui. ●umut peslemek — a nutri speranŃa; a nădăjdui. ●umutun baylamak — a-şi lega speranŃa de…; ●umutun kesmek — a pierde orice speranŃă. //●sónmez umutlar — speranŃe nepotolite. 
+umutbaylagan adj. încrezător; dependent. 
+umutbaylaw s. încredere; dependenŃă. 
+umutbergen adj. încurajator; îmbucurător; promiŃător. 
+umutberílgen adj. încurajat. 
+umutberúw s. încurajare.
 `;
