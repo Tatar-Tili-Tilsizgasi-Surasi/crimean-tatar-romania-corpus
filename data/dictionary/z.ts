@@ -67,4 +67,24 @@ zalim s., adj. despot; tiran (şi fig.).
 zalimlík s. despotism; tiranie (şi fig.). 
 zam s. 1. adaos; supliment. 2. majorare; mărire. 
 zaman s. 1. timp; vreme. 2. timp; perioadă. 3. sezon; anotimp. 4. epocă; eră; ev. // ●uygun bír zaman kollamak — a pândi momentul potrivit. ●zaman aldatmak — a-şi trece din vreme; a-şi petrece timpul mai uşor. ●zaman kaybetmek — a pierde timp; a-şi trece vremea; a-şi omorî vremea. ●zaman kazanmak — a câştiga timp. ●zaman taşlamak — a da răgaz. ●zamanga ayak uydurmak — a Ńine pas cu vremea. ●zamanî geşmek — a-i trece vremea; a se învechi; a îmbătrâni. ●zamanî kelmek — a fi timpul cuiva; a-i sosi momentul. ●zamanîn geşírmek — a-şi petrece vremea. // ●az zaman ewel — cu puŃin timp înainte. ●az/kîska zamanda — în scurt timp. ●bírleşken zaman — (gram.) timp compus. ●boş zaman — vacanŃă. ●eñ kîska zamanda — în cel mai scurt timp. ●eskí zamanlarda — pe vremuri. ●geñíş zaman — (gram.) aorist. ●geşken zaman — (gram.) timpul trecut. ●her zaman — totdeauna; mereu; tot timpul. ●her zamankî — uzual. ●kanama ne zaman başladî? — când a început hemoragia?; ●kaybeteğek zamanîm yok — n-am timp de pierdut. ●keleğek zaman — (gram.) timpul viitor. ●mínawday zamanda — pe asemenea vreme. ●ne kadar zaman? — cât timp?; ●ne zaman? — când?; ●o zamandan ekí sene boldî — de atunci au trecut doi ani. ●o zamanlar — da în acea vreme. ●oynamak zamanî — timp de joacă. ●şaktaş zamanlar tewúkesí — istoria modernă. ●şo zaman nenesín kórdí — atunci şi-a văzut mama. ●şúndúgí zaman — (gram.) timpul prezent. ●tartuw ne zaman? — când va avea loc cântarul?; ●tatil zamanî — vacanŃă. ●uygun zamanda — la momentul oportun. ●yakîn zamanda — într-un viitor apropiat; în scurt timp. ●yakîn zamanga! — pe curând!; ●yuklamak zamanî — oră de culcare; vremea somnului. ●zaman bírímí — unitate de timp. ●zaman man — cu timpul. ●zaman tarlîgî — criză de timp. ●zaman tílímí  — o scurtă perioadă. ●zamanîndan burun — prematur.
+zamanaşîmî s. (jur.) prescripŃie. 
+zamanda adv. la momentul; în momentul. 
+zamandan adv. din momentul; din vremea; în avans; înainte de. 
+zamandan-zamanga adv. din când în când; uneori. 
+zamandaş adj. 1. simultan. 2. contemporan; modern. 
+zamandaşlaşkan adj. modernizat; renovat. 
+zamandaşlaşma s. modernizare; renovare. 
+zamandaşlaşmak v.i. a se moderniza; a se renova. 
+zamandaşlaştîrmak v.t. a moderniza; a renova. 
+zamandaşlaştîruw s. modernizare; renovare. 
+zamandaşlaştîruwğî adj. modernizator; renovator. 
+zamandaşlîk s. 1. simultaneitate. 2. modernism; contemporaneitate. 
+zamangauymama s. anacronism. 
+zamanîgeşken adj. demodat; perimat; învechit; depăşit. zamanînda adv. 1. în timpul; pe vremea când; exact când. 2. la momentul potrivit. 
+zamanîndan adv. din timp; din timpul; de pe vremea când. 
+zamanlar s., pl. împrejurare; circumstanŃă; context; conjunctură. 
+zamanlî adv. la momentul potrivit; din timp; devreme. 
+zamanlî-zamanînda adv. 1. bine făcut. 2. la momentul potrivit; din timp; devreme. 
+zamanlî-zamansîz adv. 1. în momente nepotrivite. 2. chiar şi în criză de timp. 
+zamansîz I. adj. fără timp. II. adv. în momente nepotrivite.
 `;
