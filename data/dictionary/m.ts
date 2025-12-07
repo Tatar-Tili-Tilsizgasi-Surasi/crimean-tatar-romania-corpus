@@ -240,4 +240,104 @@ maksustan adv. intenționat; dinadins; în cunoştință de cauză. // ●maksus
 maksusiye s. intenție; dedicație; omagiu.
 maktagan adj. lăudator; elogiator.
 maktaganday adj. lăudabil.
+maktalgan adj. elogiat; lăudat.
+maktalmak v.i. a fi lăudat; a fi elogiat.
+maktama s. laudă; elogiu.
+maktamak v.t. a lăuda; a elogia.
+maktangan adj. 1. lăudăros; mândru; fălos. 2. îngâmfat; orgolios.
+maktanmak v.i. 1. a se lăuda; a se mândri; a se făli. 2. a se îngâmfa; a fi orgolios.
+maktanşî adj. îngâmfat; orgolios; lăudăros; mândru; fălos.
+maktanşîlîk adj. îngâmfare; orgoliu; lăudăroşenie; mândrie; fală.
+maktanuw s. 1. lăudăroşenie; mândrie; fală; ifose. 2. îngâmfare; orgoliu.
+maktaw s. laudă; elogiu. // ●ayîrî maktaw man — cu deosebită laudă; magna cum laude. ●bolatanústí maktaw man — excepțional; summa cum laude. ●maktaw man — cu laude. ●maktawga láyîk — lăudabil.
+maktawğî adj. lăudător; elogios; flatant; măgulitor.
+maktawğuluk s. lăudăroşenie; elogiere.
+maktawlî adj. lăudat; elogiat. // ●bek maktawlî — foarte lăudat.
+maktuw adj. fix; stabil. // ●maktuw piyat — preț fix.
+makul I. adj. 1. logic; rațional. 2. (d. oameni) înțelept. II. s. logică. // ●makuluna yaramamak — a-i veni la socoteală; a-i conveni. // ●makuluma yaramay — nu-mi convine.
+makule s. 1. gen; specie; sort. 2. categorie; fel; tagmă.
+makulgayaramagan adj. ilogic; irațional; nelogic.
+makulğî s. raționalist.
+makulğuluk s. raționalism.
+makulluk s. înțelepciune.
+makulsuz adj. ilogic; irațional.
+makulsuzluk s. iraționalism.
+makulunayaragan adj. eclectic.
+makulunayarama s. eclectism.
+makúsen adv. invers; dandoaselea. // ●makúsen mútenasip — (mat.) invers proporțional.
+makyaj s. machiaj. // ●makyajîn súrtmek — a se demachia.
+makyajğî s. machior.
+makyajîsúrtúlgen adj. demachiat.
+makyajlî adj. machiat.
+mal s. 1. vite; cireadă de vite. 2. bun; avere; avuție. 3. marfă; lucru. // ●ithal malî — marfă de import. ●kaşak malî — marfă de contrabandă. ●kayriymenkul mallar — bunuri imobiliare. ●kópíşlengen mallar — bunuri de larg consum. ●mal ambarî — antrepozit. ●mal vagonî — vagon de marfă. ●mal zemanetí — asigurare de bunuri. ●malnîñ kózí — marfă de calitate superioară. ●menkul mallar — bunuri mobiliare. ●mezat malî — lucruri licitate. ●uğuzlaşkan mallar — (com.) solduri.
+mala s. mistrie; paletă. // ●mala atmak — a tencui.
+malaatîlgan adj. tencuit.
+malaatuw s. tencuială.
+malakay s. pălărie. // ●kasîr malakay — pălărie de paie.
+malakayğî s. pălărier.
+malakeş s. mistrie; paletă.
+malakka-ğewezí s. 1. anacard; fructul anacardierului. 2. (bot.) anacardier (lat., Anacardium orientale).
+malalama s. tencuire; stucatură.
+malalamak v.t. a tencui.
+malalangan adj. tencuit.
+malalaw s. tencuire; stucatură.
+malaluw s. aprovizionare; alimentare.
+malariya s. (med.) malarie.
+Malawiy s. (topon.) Malawi.
+malay s. mălai.
+malayiz s., adj. malaiez.
+Malayiziye s. (topon.) Malaiezia.
+malayiziyelí s., adj. malaiez.
+malberúw s. împroprietărire.
+Maldif s. (topon.) Insulele Maldive.
+malebe s. (gastron.) cremă făcută din ouă şi lapte; budincă de lapte.
+malgaş s., adj. malgaş.
+malgaşça I. adv. în limba malgaşă. II. s. (limba) malgaşă.
+malik s. stăpân; posesor; proprietar.
+Malik, El- s. (relig., arab.) "Atotstăpânitorul"; “Stăpânul absolut al întregului univers” (unul din cele 99 preafrumoase nume atribuite în Coran lui Dumnezeu/Allah).
+Malik-úl-Múlk s. (relig., arab.) "Atotstăpânitorul nepieritor"; “Stăpânul absolut şi veşnic dăinuitor al întregului univers” (unul din cele 99 preafrumoase nume atribuite în Coran lui Dumnezeu/Allah).
+maliy adj. financiar; fiscal; pecuniar. // ●maliy yîl — an financiar. ●maliy zaruriyet — criză financiară.
+Maliy s. (topon.) Mali.
+maliye s. finanțe; fisc. // ●maliye bakanlîgî/nazirlígí — (pol.) ministerul de finanțe.
+maliyeleşken adj. finanțat.
+maliyeleştírílgen adj. finanțat.
+maliyeleştírílmek v.i. a se finanța.
+maliyeleştírme s. finanțare.
+maliyeleştírmek v.t. a finanța.
+maliyet s. preț de cost.
+maliyğoklawğî s. inspector financiar; cenzor.
+maliylí s., adj. malian.
+maliynezaretşí s. inspector financiar; cenzor.
+malle s. cartier; zonă; teritoriu. // ●awlak malle — cartier mărginaş. ●malle/mahalle mektebí/okîlî — şcoală de cartier. ●tîş malle — periferie.
+mallelí s. locuitor din cartier; localnic.
+mallî adj. 1. alimentat; aprovizionat. 2. cu marfă; cu bunuri; avut.
+mal-múlk s. bun; avere; avuție; marfă; proprietate; domeniu.
+mals s. malț.
+malsabîsî s. proprietar.
+Malşuwa s. (topon.) Abrud (jud. Constanța).
+Malta s. (topon.) Malta.
+maltalî s., adj. maltez.
+maltîz s., adj. maltez.
+maltîzğa I. adv. în limba malteză. II. s. (limba) malteză.
+malúl s., adj. infirm; invalid. // ●harbiye malúlí — invalid de război.
+malúliyet s. infirmitate; invaliditate.
+malúm adj. cunoscut; ştiut.
+Malúm s. (antrop. m., arab.) "Cel binecunoscut" (unul din cele 400 de nume atribuite în Coran Profetului Muhammed Aliyselam).
+malúmat s. cunoştințe; date.
+malúmatlî adj. cunoscător; ştiutor.
+malzeme s. material; echipament. // ●inşaat malzemesí — materiale de construcție. ●karma malzeme — material compozit. ●kewşek malzeme — împroşcare cu criblură.
+mamafih conj. deşi; cu toate că.
+mamay s. (în graiul copiilor sau al maturilor care vorbesc cu copiii mici) papă; mâncare. // ●mamay aşamak — (în limbajul copiilor mici sau al maturilor când vorbesc cu copiii mici) a păpa.
+Mambetşí s. (topon.) Straja (jud. Constanța).
+mamelek s. mămăligă. // ●yaşayğagîn yaşamak, mamelegín aşamak — a-şi trăi traiul şi a-şi mânca mălaiul.
+mamîr s. (bot.) muşchi.
+mamlîk s. 1. sclav. 2. mameluc.
+mamnetúw s. interdicție.
+mamur adj. 1. prosper; înfloritor. 2. (d. terenuri) cultivat; lucrat. 3. (d. locuri, ținuturi) locuit.
+mamut s. (zool.) mamut (lat., Elelphas primigenius).
+Mamut/Mahmut s. (antrop. m., arab.) "Preamăritul"; "Cel demn de glorie" (unul din cele 400 de nume atribuite în Coran Profetului Muhammed Aliyselam).
+Mamut/Mahmut-Kuyusî s. (topon.) ("Fântâna lui Mahmut") Izvoru Mare (jud. Constanța).
+mamúl s. produs; fabricat. // ●kazak mamúllerí — produse româneşti.
+mamúlát s. produse; fabricate.
+man/men I. conj. şi. II. postp. cu; împreună cu. // ●alağak niyetí men — cu intenția de a lua. ●aláka man — cu interes. ●arkasî/yardîmî man — cu ajutorul; sub auspiciile. ●arzî man talep — cerere şi ofertă. ●ayîrîlîk man — în special. ●bar kuwatî man — din răsputeri. ●barîş ğolî man — pe cale paşnică. ●basîn ğolî man — prin presă. ●bayram dolayîsî man — cu ocazia sărbătorii. ●biñler men — cu miile. ●bíz men — cu noi. ●bo man barabar — totodată. ●boş kol man — cu mâna goală. ●burşak man ğawun ğawa — plouă cu grindină. ●eñge men bereket — pace şi prosperitate. ●erten men — de dimineață. ●esef men — cu regret. ●ğan man, baş man — cu trup şi suflet. ●genellík men — în general; în linii mari; grosso modo. ●ğolî/vasîtasî man — prin intermediul…; ●gúzellík men — cu frumosul. ●hakkem kararî man ğeñdí — a învins prin decizia arbitrului. ●hál men şartlar — circumstanță. ●her şiyí men — cu tot ce are. ●íşí-bawurî man — din adâncul sufletului; din toată inima. ●it men mîşîk — câinele şi pisica. ●kanun ğolî man — pe cale legală. ●kaş man kóz arasînda — într-o clipă. ●kayîrlîsî man bardîk — am ajuns cu bine. ●kol man tutulur — palpabil. ●kolaylîk man — cu uşurință; fără dificultate. ●koraz man túlkí — cocoşul şi vulpea. ●kórgením men añladîm — cum am văzut am şi înțeles. ●korkak adîmlar man — cu paşi temători. ●kúldúrúw tuyuwî man — cu simțul umorului. ●kúndelík men — cu ziua. ●lájler yazî man beríle — medicamentele se dau pe bază de rețetă. ●mañlay terí men — cu sudoarea frunții. ●maşina man — cu maşina. ●memnunlîk man — cu plăcere. ●men men dans etersíñ mí? — vrei să dansezi cu mine?; ●men men gezmege şîgarsîñ mî? — vrei să ieşi la plimbare cu mine?; ●men men úylenírsíñ mí? — vrei să te căsătoreşti cu mine?; ●mîşîk man it arasînda dostlîk yok — între pisică şi câine nu e prietenie. ●múnasebetí men — cu prilejul…; cu ocazia…; ●músaadeñíz men — cu permisiunea dumneavoastră. ●ne men başlay? — cu ce începe?; ●ne sebep men? — din ce cauză?; ●o kalem men yaza — el scrie cu creionul. ●o man arañîz kayday? — ce relație aveți cu el?; ●olar man — cu ei; cu ele. ●onlar man — cu zecile. ●osalniyet men kullanma — (jur.) abuz. ●óz kolî man — cu propria mână. ●papîr man gezgím kele — aş vrea să face o croazieră. ●papîr man keteğek — va pleca cu vaporul. ●papîr man kîdîruw — croazieră cu vaporul. ●para/nakît man — pe bani. ●şaltlîk man — la repezeală. ●şartî man — cu condiția de a… ; cu obligația de a…; ●sebebí men — din cauza. ●selamet men barîñîz! — mergeți sănătoşi!; drum bun!; ●sen men bolağak bolaman — vreau să fiu cu tine. ●sen men kalağak bolaman — vreau să rămân cu tine. ●şîpalak kóz men — cu ochiul liber. ●sîra man — pe rând. ●síz men bír píkírdemen — sunt de aceeaşi părere cu dumneavoastră. ●sízní kúnler men bekledík — v-am aşteptat zile de-a rândul. ●sorawğî kózler men — cu ochi întrebători. ●sunuw man ístew — cerere şi ofertă. ●suwuk suw man ğuwula — se spală cu apă rece. ●taksiy men barîñîz! — să mergeți cu un taxi!; ●tayyare men ketkím kele — aş pleca cu avionul. ●tren men — cu trenul. ●tuwum yerí men tewúkesí — locul şi data naşterii. ●ustalîk man — cu măiestrie; cu iscusință. ●yarî góñíl men — vrând-nevrând; nolens-volens; cu forța; forțat; obligat. ●yúksek ses men — cu voce tare. ●yúzler men — cu sutele. ●zaman man — cu timpul. ●zor man — vrând-nevrând; nolens-volens; cu forța; forțat; obligat.
 `;
