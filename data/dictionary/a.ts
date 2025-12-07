@@ -1344,5 +1344,252 @@ alatkayragan s. sculer; tocilar; persoană care ascute la tocilă.
 alatlandîrma s. utilare; dotare; echipare. 
 alatlandîrmak v.t. a utila; a dota; a echipa. 
 alatlandîruw s. utilare; dotare; echipare.
+alatlangan adj. utilat; dotat; echipat.
+alatlanmak v.i. a se utila; a se dota; a se echipa.
+alatlar s., pl. unelte; instrumente; aparataj; aparatură.
+alatlî adj. utilat; dotat; echipat.
+alatşî s. sculer.
+alatşîlîk s. sculărie.
+alaturka adj. în stil turcesc; oriental.
+alawuymak v.t. a înşfăca; a lua repede.
+alay s. 1. cortegiu; alai; pompă. 2. mulțime; gloată. 3. (mil.) regiment. // ●ğenaze alayî — cortegiu funerar; procesiune funerară; funeralii. ●muhafîz alayî — (mil.) regiment de gardă.
+alay s. ironie; zeflemea. // ●alay etmek — a ironiza; a lua în zeflemea.
+alay adj. tot; toată; toți; toate. // ●alay yerlerní karap taramak — a scotoci peste tot; a răscoli cerul şi pământul. // ●alay şiyler yerínde bútún dúniya yúzúnde — nimic nou sub soare. ●alay şiyní aşagan — omnivor.
+alaygaalîngan adj. satirizat.
+alaygaaluw s. satirizare.
+alayğî s. zeflemist.
+alayî pron. tot; toată; toți; toate.
+alayîn pron. pe tot; pe toată; pe toți; pe toate.
+alayîna pron. spre tot; spre toată; spre toți; spre toate; tuturor; oricui.
+alayînda pron. la tot; la toată; la toți; la toate.
+alayîndan pron. de la/dinspre tot; de la/dinspre toată; de la/dinspre toți; de la/dinspre toate.
+alayînday pron. ca tot; ca toată; ca toți; ca toate.
+alayîñ adj. tuturor.
+alaylî adj. pompos.
+al-aynak s. (orn.) ibis roşu (lat., Eudocimus ruber).
+alaysî pron. tot; toată; toți; toate. // ●alaysî bír diy — toți ca unul.
+alaysîn pron. pe tot; pe toată; pe toți; pe toate.
+alaysîna pron. spre tot; spre toată; spre toți; spre toate; tuturor; oricui.
+alaysînda pron. la tot; la toată; la toți; la toate.
+alaysîndan pron. de la/dinspre tot; de la/dinspre toată; de la/dinspre toți; de la/dinspre toate.
+alaysînday pron. ca tot; ca toată; ca toți; ca toate.
+alaysîñ adj. tuturor.
+alayyagî postp. împrejurul.
+alayyakka adv. spre toate părțile; împrejur.
+alayyaknîñ adj. al tuturor părților.
+alayyakta adv. pretutindeni; peste tot; în toate părțile; împrejur.
+alayyaktan adv. de pretutindeni; de peste tot; din toate părțile; dimprejur.
+alayyerde adv. pretutindeni; peste tot; în toate părțile; împrejur; de colo până colo; când încolo; când încoace.
+alayyerden adv. de pretutindeni; de peste tot; din toate părțile; dimprejur.
+alayyerge adv. spre toate părțile; împrejur.
+alaz s. flamă; flacără.
+Aláddin/Aláttin s. (antrop. m., arab.) “Noblețea credinței”.
+aláka s. 1. legătură; raport; relație; corelație. 2. interes; grijă. // ●alákasî bolmak — a se referi la…; // ●aláka man — cu interes.
+alákağî s. cel interesat; cel în relație. // ●alákağî bolmak — a se interesa; a se preocupa.
+alákalandîrmak v.t. a preocupa.
+alákalangan adj. preocupat; interesat.
+alákalanma s. îndeletnicire; preocupare; interes.
+alákalanmak v.i. a se interesa; a se preocupa.
+alákalî adj. interesat; preocupat.
+alákasîkesílgen adj. (tehn.) deconectat.
+alákasînkesme s. (tehn.) deconectare.
+alákasîz adj. dezinteresat; indiferent; nepăsător.
+alákasîzlík s. dezinteres; incoerență.
+alámet s. 1. notă (la şcoală). 2. simptom; indiciu; semn; indicație. 3. (arheol.) vestigiu. 4. (econ.) marcă; simbol; emblemă.
+alámetlí adj. 1. simptomatic; însemnat; marcat. 2. simbolic; emblematic.
+aláyim isema s. curcubeu.
+albastî s. (mitol.) vrăjitoare; baba-cloanța.
+al-başlî-tokîmağî s. (orn.) pasăre-țesător cu cap roşu (lat., Anaplectes rubriceps).
+albatros, ak-kekeşlí- s. (orn.) albatros cu moț alb (lat., Diomedea cauta).
+albatros, gezgen- s. (orn.) albatros călător (lat., Diomedea exulans).
+albatros, kara-ayaklî- s. (orn.) albatros cu picioare negre (lat., Diomeda nigripes).
+albatros, kara-kaşlî- s. (orn.) albatros cu sprâncene negre (lat., Thalassarche melanophrys; Diomedea melanophrys).
+albatros, kral- s. (orn.) albatros regal (lat., Diomedea epomophora).
+albatros, sarî-murunlî- s. (orn.) albatros cu nas galben (lat., Diomedea chlororhyncos).
+albatros, şal-başlî- s. (orn.) albatros cu cap cenuşiu (lat., Diomedea chlorostoma).
+albawur s. (orn.) măcăleandru; guşă-roşie (lat., Erithacus rubecula).
+al-bawurlî-kaz s. (orn.) gâscă cu gât roşu (lat., Branta ruficollis).
+albay s. (mil.) colonel.
+album s. album.
+albumina s. (chim.) albumină.
+albuminalî adj. (chim.) albuminos.
+ald I. postp. din față; dinaintea; din fața. II. s. partea din față; partea de dinainte; față. // ●ald sîrada bolmak — a fi în primele rânduri. ●aldîn almak — a prevedea; a preîntâmpina; a avansa; a o lua înainte. ●aldîn aşmak — a-i croi cuiva drum; a-i crea condiții; a-l favoriza. ●aldîn kapatmak — a-i închide calea; a-i bloca drumul. ●aldîn kesmek — a-i tăia calea; a-l tâlhări. ●aldîna şîkmak — a ieşi în calea cuiva; a-l întâmpina. ●kóz aldîna ketírmek — a aduce înaintea ochilor; a-şi imagina; a-şi închipui; a pune în vedere; a avertiza. ●kóz aldînda tutmak — a avea în vedere; a lua în considerare; a ține seama de…; ●kóz aldîndan kaşîrmak — a pierde din vedere. // ●ald betí/yagî — partea de dinainte. ●ald sîra — rândul din față. ●aylanîşta aldîma geşeğeklí boldî — a vrut să mă depăşească în curbă. ●garada bízím aldîmîzga túşseñíz! — vă rugăm să ne aşteptați la gară!; ●seníñ aldîñda şîgîp kettí — a plecat înaintea ta.
+aldabaylagan adj. prevăzător.
+aldabaylamak v.t. a presimți; a intui.
+aldabaylangan adj. presimțit; intuit.
+aldabaylaw s. 1. intuiție. 2. presimțire; presentiment.
+aldabaylawlî adj. intuitiv.
+aldak s. 1. falsificare; fals; contrafacere. 2. viclenie; şiretlic. 3. minciună.
+aldakşî I. adj. viclean; şiret. II. s. 1. falsificator. 2. mincinos.
+aldakşîlîk s. prefăcătorie; viclenie.
+aldanawuyatan adj. credul.
+aldanawuygan adj. credul.
+aldanawuyma s. credulitate.
+aldanawuymagan adj. incredul; neîncrezător; bănuitor; sceptic.
+aldanawuymama s. scepticism.
+aldanawuymaytan adj. incredul; neîncrezător; bănuitor; sceptic.
+aldangan adj. înşelat; păcălit.
+aldanma s. amăgire; înşelare; păcălire. // ●kóz aldanmasî — iluzie optică.
+aldanmak v.i. a se amăgi; a se înşela; a se păcăli. // ●aldanasîñîz — vă înşelați.
+aldanş adj. credul; naiv.
+aldanuw s. amăgire; înşelare; păcălire.
+aldaşman s. armură; platoşă; cuirasă; zale.
+aldaşmanlî adj. împlătoşat; înzăuat; cuirasat; blindat.
+aldatîlgan adj. înşelat; păcălit.
+aldatîlmak v.i. a fi amăgit; a fi înşelat; a fi păcălit.
+aldatkan s., adj. trişor.
+aldatma s. înşelătorie; păcăleală.
+aldatmağa s. păcăleală.
+aldatmak v.t. a amăgi; a înşela; a păcăli; a trişa. // ●kóz aldatmak — a înşela privirile cuiva; a truca; a trişa. ●zaman aldatmak — a-şi trece din vreme; a-şi petrece timpul mai uşor.
+aldatmalî adj. mistificat.
+aldatuw s. păcăleală; ademenire; înşelare; tentație.
+aldatuwğî adj. 1. înşelător. 2. viclean; şiret; falsificator. // ●aldatuwğî ğem — momeală.
+aldatuwğuluk s. înşelătorie; falsificare; contrafacere.
+aldayak s. inițiator; promotor. // ●aldayak basmak — a pune piciorul undeva; a pătrunde; a iniția.
+aldayakbasîlgan adj. inițiat.
+aldayakbaskan s. inițiator.
+aldayakbasuw s. inițiere.
+aldbargan s. predecesor.
+aldbaskan s. predecesor.
+aldda adv. în față; înainte. // ●aldda/ókte kelgenler — notabilitate; fruntaş.
+alddagî adj. de față.
+alddagîsî s. cel din față.
+alddakelgen adj. fruntaş; notabilitate.
+alddakî adj. de față.
+alddakîsî s. cel din față.
+alddan adv. din față; anticipat.
+aldedat s. (gram.) prepoziție.
+aldedatlî adj. (gram.) prepozițional.
+aldek s. (gram.) prefix.
+aldga adv. spre înainte; în față. // ●aldga barmak/ketmek — a avansa; a se dezvolta. ●aldga geşmek — a avansa; a înainta; a trece în frunte; a o lua înainte; a călăuzi; a conduce. ●aldga ketmek — a avansa; a înainta; a se dezvolta. ●aldga súrmek — a propune; a susține (o problemă, etc.). ●aldga túşmek — a o lua înainte; a călăuzi; a conduce. // ●aldga kete-kete — progresiv. ●óteberí aldga ketíñíz! — mergeți puțin mai înainte!;
+aldgabargan adj. înaintat; avansat; dezvoltat.
+aldgabaruw s. înaintare; dezvoltare; avansare; avânt; progres; proces.
+aldgageşken adj. înaintat; avansat.
+aldgageşúw s. înaintare; avansare.
+aldgakelíş s. avansare; dezvoltare.
+aldgaketíş s. avansare; dezvoltare.
+aldgaketken adj. înaintat; dezvoltat; avansat.
+aldgaketúw s. înaintare; dezvoltare; avansare; avânt; progres; proces.
+aldgaketúwğí s., adj. progresist.
+aldgasúrme s. 1. susținere; afirmație; declarare. 2. propunere; oferire. 3. afirmație; propunere.
+aldgasúrúlgen adj. 1. propus; oferit. 2. afirmat; declarat.
+aldgatúşúw s. conducere; călăuzire; ghidare.
+aldîalîngan adj. 1. prevenit; preîntâmpinat. 2. întrecut; depăşit. 3. devansat; preîntâmpinat; surclasat.
+aldîalînmaz adj. neîntrecut.
+aldîaşîlgan adj. înlesnit; privilegiat; favorizat.
+aldîn adj. înaintat; avansat. // ●aldîn kete — o ia înainte. ●aldîn píkírler — idei înaintate. ●sáátím aldîn ala — ceasul meu merge înainte.
+aldîna postp. dinaintea; în fața.
+aldînageşílgen adj. întrecut; depăşit; devansat; surclasat.
+aldînageşílmez adj. neîntrecut.
+aldînageşúw s. întrecere; depăşire; devansare; surclasare.
+aldînalgan adj. precaut; premergător; prevăzător.
+aldînaluw s. 1. întrecere; depăşire. 2. devansare; premergere; surclasare. 3. prevedere; precauție; preîntâmpinare. 4. întrezărire; previziune.
+aldînaluwğî adj. preventiv; care împiedică.
+aldînaşîgîlgan adj. întâmpinat.
+aldînaşîguw s. 1. călăuzire. 2. întâmpinare.
+aldînaşuw s. înlesnire; favorizare.
+aldînatúşúlgen adj. 1. călăuzit. 2. întâmpinat.
+aldînğî s. 1. inițiator; promotor. 2. predecesor; precursor. 3. (mil.) avangardă; diversionist. 4. (mil.) cercetaş.
+aldînkesken s. tâlhar; bandit.
+aldînkesme s. tâlhărie; banditism.
+aldîrmak v.t. a determina să ia. // ●nefes aldîrmamak — a nu lăsa să respire; a nu da răgaz. ●solîk aldîrmamak — a nu da răgaz nici să respire.
+aldkórgen adj. prevăzător.
+aldkórílgen adj. previzibil; prevăzut; anticipat.
+aldkórílmegen adj. neprevăzut.
+aldkórílmiykalgan adj. neprevăzut.
+aldkórme s. prevedere; clarviziune.
+aldkórmegen adj. neprevăzător.
+aldkórmek v.t. a prevedea; a prezice. // ●keleğekní aldkórmek — a prezice viitorul; a proroci.
+aldkórúw s. previziune; prezicere.
+aldkúrsí s. avanscenă.
+aldlîk s. şorț.
+aldsahne s. avanscenă.
+aldsezgen adj. prevăzător.
+aldsezílgen adj. presimțit; prevăzut.
+aldsezmek v.t. a intui.
+aldsezúw s. 1. presimțire; presentiment. 2. intuiție.
+aldsezúwlí adj. intuitiv.
+aldsóz s. prefață; cuvânt înainte; introducere.
+aldtakî s. (gram.) prepoziție.
+aldtakîlî adj. (gram.) prepozițional.
+alef s. (bot.) ovăz (lat., Avena sativa).
+alef, ğîr- s. (bot.) ovăz-sălbatic (lat., Avena fatua).
+alefí, şayîr- s. (bot.) ovăscior (lat., Arrhenatherum elatius).
+alel-ağele adv. 1. în grabă; în pripă. 2. de urgență; urgent.
+alem s. 1. stindard; drapel. 2. semilună (la minaret). 3. marcă; semn.
+alemdar s. stegar; portdrapel.
+alemlí adj. 1. care are semilună la minaret. 2. marcat; însemnat. 3. care are stindard; care are drapel.
+alemşík s. steguleț.
+alerğiya s. (med.) alergie.
+alet s. 1. instrument; aparat; sculă; unealtă. 2. (tehn.) piesă; mecanism.
+aletkayîrgan s. sculer; tocilar; persoană care ascute la tocilă.
+aletşí s. sculer.
+aletşílík s. sculărie.
+alew s. 1. flacără; flamă; vâlvătaie. 2. înflăcărae; entuziasm; însuflețire; exaltare. // ●toban alewí — foc de paie.
+alewlemek v.t. a aprinde.
+alewlendírgen adj. incendiat.
+alewlendírme s. incendiere.
+alewlendírmek v.t. 1. a da foc; a incendia. 2. (fig.) a înflăcăra; a entuziasma; a însufleți.
+alewlendírúw s. 1. incendiere; aprindere. 2. incendiere.
+alewlendírúwğí adj. incendiar.
+alewlengen adj. 1. ars; mistuit; incendiat; învăpăiat. 2. însuflețit; aprins; entuziasmat; exaltat; înfocat.
+alewlenme s. 1. însuflețire; aprindere; entuziasm; exaltare; înfocare. 2. ardere; mistuire; incendiere; învăpăiere.
+alewlenmek v.i. 1. a lua foc; a se aprinde. 2. (fig.) a se înflăcăra; a se entuziasma; a se însufleți.
+alewlenúw s. 1. însuflețire; aprindere; entuziasm; exaltare; înfocare. 2. ardere; mistuire; incendiere; învăpăiere.
+alewlí adj. cu flacără; înflăcărat.
+alewsúz adj. fără flacără; fără flamă. // ●alewsúz ğanmak — a mocni.
+Alewút-karkîldagî s. (orn.) pescăriță de Aleutine (lat., Onychoprion aleuticus).
+aleyh postp. contra; împotriva. // ●aleyhte bolmak — a fi împotrivă.
+aleyhtar s. oponent; opozant.
+alfa s. (prima literă a alfabetului grecesc) alfa.
+alfabet s. alfabet.
+alfabetik adj. alfabetic.
+alfabetlí adj. alfabetic.
+algan adj. care a luat; care a primit. // ●kúrek ğezasî algan — ocnaş.
+alganday adj. 1. fermecător; atractiv; îmbietor. 2. avantajos; convenabil; ieftin.
+algan-satkan s. comerciant; traficant; speculant; negustor.
+algar s. (bot.) scai; rostogol; scaiete (lat., Echinops sphaerocephalus).
+algî s. (psih.) percepție.
+algîlama s. percepere; sesizare.
+algîlamak v.t. (psih.) a percepe.
+algîlanaalgan adj. perceptibil.
+algîlanaalmaz adj. imperceptibil.
+algîlanatan adj. perceptibil.
+algîlangan adj. perceput; sesizat.
+algîlanîr adj. perceptibil.
+algîlanmagan adj. imperceptibil.
+algîlanmaykalîr adj. imperceptibil.
+algîlanmaytan adj. imperceptibil.
+algîlanmaz adj. imperceptibil.
+algîlaw s. percepere; sesizare.
+algînğî s. (mil.) avangardă; diversionist.
+algoritm s. (mat.) algoritm.
+alğî s. nebunie; sminteală; alienație; demență.
+alğîgan adj. nebun; smintit; alienat; dement.
+alğîma s. alienație; nebunie; demență; zăpăceală; sminteală.
+alğîmak v.i. 1. a înnebuni; a se sminti. 2. (fig.) a se înfuria; a se enerva.
+alğîtmak v.t. a înnebuni; a sminti; a înfuria; a enerva.
+al-ibis s. (orn.) ibis roşu (lat., Eudocimus ruber).
+aligator s. (zool.) aligator (lat., Alligator mississippiensis/sinensis).
+alil adj. infirm; invalid.
+Alim s. (antrop. m., arab.) "Învățatul"; "Înțeleptul"; "Eruditul" (unul din cele 400 de nume atribuite în Coran Profetului Muhammed Aliyselam).
+Alim, El- s. (relig., arab.) "Cel atotştiutor" (unul din cele 99 preafrumoase nume atribuite în Coran lui Dumnezeu/Allah).
+Alime s. (antrop. f., arab.) “Cea înțeleaptă”; “Cea erudită”.
+aliy adj. cel mai înalt; superior; suprem; sublim; elevat; ilustru. // ●aliy húkúm — hegemonie. ●aliy mahkeme — curte supremă. ●aliy riyaziyet — (mat.) matematică superioară. ●aliy terbiye — educație superioară.
+Aliy, El- s. (relig., arab.) "Preaînaltul" (unul din cele 99 preafrumoase nume atribuite în Coran lui Dumnezeu/Allah).
+Aliy/Alí s. (antrop. m., arab.) "Cel elevat"; "Cel ilustru" (unul din cele 400 de nume atribuite în Coran Profetului Muhammed Aliyselam).
+aliyaj s. (chim.) aliaj.
+aliyajlî adj. (d. metale) aliat.
+Aliye s. (antrop. f., arab.) “Cea elevată”; “Cea ilustră”.
+Aliyğan s. (antrop. m.) "Cel cu suflet mare".
+aliyğenáp adj. generos; darnic; mărinimos.
+aliyğenáplík s. generozitate; dărnicie; mărinimie.
+Aliy-Hanife s. (topon.) Dobrevo (Bulgaria).
+aliyhazret s. alteță; maiestate; excelență.
+aliylík s. superioritate; supremație.
+alí adj. cel mai înalt; superior; suprem; sublim; elevat; ilustru.
+Alí-Bey-Kóy s. (topon., localitate desființată, lângă Căscioarele) Alibeichioi (jud. Constanța).
+Alí-Fakih/Alí-Bakî s. (topon.) ("Ali Evlaviosul") Alifaca (azi Războieni, prin unire cu satul Ciauşchioi) (jud. Tulcea).
+alím s., adj. învățat; savant; cărturar; erudit.
 `;
 export default rawDictionaryText;
