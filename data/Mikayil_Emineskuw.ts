@@ -526,4 +526,165 @@ Heşbolmayğak tîlsîmlardan
 Răsai c-o-ntreagă lume,
 Nu cere semne şi minuni
 Care n-au chip şi nume;
+# Bo mî, seníñ bolağagîñ,
+Insan man bír bolmak ne?
+Batsa da insanlîk búgún,
+Yarîn gene tuwar ke. — Tu vrei un om să te socoţi,
+Cu ei să te asameni?
+Dar piară oamenii cu toţi,
+S-ar naşte iarăşi oameni.
+# Insan boşka umut ete,
+Ğelge emel kuradîr,
+Dalga kabír tabîp ketse
+Artta dalga tuwadîr. — Ei numai doar durează-n vânt
+Deşerte idealuri -
+Când valuri află un mormânt,
+Răsar în urmă valuri;
+# Insan yîkpal túşí kórer
+We şegíşíp yaşaydîr,
+Bízge zaman, mesafeler,
+Ólímsízlík kolaydîr. — Ei doar au stele cu noroc
+Şi prigoniri de soarte,
+Noi nu avem nici timp, nici loc,
+Şi nu cunoaştem moarte.
+# Soñsîz tínewúnden tazmin
+Búgún insan piydadîr,
+Kókte kúneş sónse, emin,
+Başka kún tutaşadîr. — Din sânul vecinicului ieri
+Trăieşte azi ce moare,
+Un soare de s-ar stinge-n cer
+S-aprinde iarăşi soare;
+# Insan toktamadan tuwar,
+Arttan ólím keledír,
+Ólmek úşún ózí yaşar,
+Yaşamaga óledír. — Părând pe veci a răsări,
+Din urmă moartea-l paşte,
+Căci toţi se nasc spre a muri
+Şi mor spre a se naşte.
+# Seníñ tírílígíñ amma
+Pítmez we kaluwğî,
+Başka şiy beriyím saga,
+Ólím aldatuwğî. — Iar tu, Hyperion, rămâi
+Oriunde ai apune...
+Cere-mi cuvântul meu de-ntâi -
+Să-ţi dau înţelepciune?
+# Razî bolsañ awazîña
+Ğazibelík katarman,
+Tírkeleşsín ğîrlaganda
+Deñíz-ada tawlar man. — Vrei să dau glas acelei guri,
+Ca dup-a ei cântare
+Să se ia munţii cu păduri
+Şi insulele-n mare?
+# Íste sebat, adaletní,
+Ne ísteseñ berermen,
+Parşalayîm dúniyanî,
+Sení kamuk etermen. — Vrei poate-n faptă să arăţi
+Dreptate şi tărie?
+Ţi-aş da pământul în bucăţi
+Să-l faci împărăţie.
+# Ordî al, sayîsîz papîr,
+Sáde ólím tíleme,
+Deñíz-kara boylap kîdîr,
+Menden vefat bekleme... — Îţi dau catarg lângă catarg,
+Oştiri spre a străbate
+Pământu-n lung şi marea-n larg,
+Dar moartea nu se poate...
+# Hem kím úşún ğalbarmaga
+Tíz ğúgíndíñ? Tartîl
+Şo gezegen dúniyaga,
+Kóríp te, et, akîl!” — Şi pentru cine vrei să mori?
+Întoarce-te, te-ndreaptă
+Spre-acel pământ rătăcitor
+Şi vezi ce te aşteaptă.”
+# Şolpan kókte yaratîlgan
+Óz yeríne kaytar,
+Ewelkísíndiy, şagîlgan
+Ziya-nurlar şaşar. — În locul lui menit din cer
+Hyperion se-ntoarse
+Şi, ca şi-n ziua cea de ieri,
+Lumina şi-o revarsă.
+# Endí kúneş awîp batkan,
+Karañgîlîk başlay,
+Kaltîrawğî dalgalardan
+Yawaş tuwar ak ay. — Căci este sara-n asfinţit
+Şi noaptea o să-nceapă;
+Răsare luna liniştit
+Şi tremurând din apă.
+# We balkîldap ğolşîklardan
+Togay aydînlata,
+Tereklíkte ğatîp kalgan
+Ğaş kîz man ğaş bala. — Şi împle cu-ale ei scântei
+Cărările din crânguri.
+Sub şirul lung de mândri tei
+Şedeau doi tineri singuri
+# – „Tokta teran ğatkîzdîrîp
+Kókírekke başîm,
+Kózleríñe dalîp-dalîp
+Kuwanayîm, tatlîm. — – „O, lasă-mi capul meu pe sân,
+Iubito, să se culce
+Sub raza ochiului senin
+Şi negrăit de dulce;
+# Ótíp salkîn ziyalardan
+Túşúnğemní kîdîr,
+Tînîş geşír karañgîdan
+Şegíşmemní sóndír. — Cu farmecul luminii reci
+Gândirile străbate-mi,
+Revarsă linişte de veci
+Pe noaptea mea de patimi.
+# Kal katîmda, órtíp ústím,
+Ağî kesken kúşímsín,
+Síptí sewdamsîñ sen mením,
+Soñgî kórgen túşímsíñ.” — Şi de asupra mea rămâi
+Durerea mea de-o curmă,
+Căci eşti iubirea mea de-ntâi
+Şi visul meu din urmă.”
+# Kókte şagîmlagan şolpan
+Taağúpleníp karay,
+Kol uzatsa bala teran,
+Kîz, hemen, kuşaklay. — Hyperion vedea de sus
+Uimirea-n a lor faţă;
+Abia un braţ pe gât i-a pus
+Şi ea l-a prins în braţe...
+# Akşa şeşek tatlî-tatlî
+Ğawîp múst kuyîla,
+Ekí ğaşîñ uzun şáşlí,
+Sarî başlarîna. — Miroase florile-argintii
+Şi cad, o dulce ploaie,
+Pe creştetele-a doi copii
+Cu plete lungi, bălaie.
+# Kîz sewdaga sarhîşlangan,
+Kóz kóteríp karay,
+Kókte şolpan toña kalgan,
+Ğalbarmaga başlay: — Ea, îmbătată de amor,
+Ridică ochii. Vede
+Luceafărul. Şi-ncetişor
+Dorinţele-i încrede
+# – „Túş yaratîp, ğuwaş şolpan,
+Hayatîma ziya,
+Geş tawlardan, geş oyîmdan,
+Nurdan taya-taya.” — – „Cobori în jos, luceafăr blând,
+Alunecând pe-o rază,
+Pătrunde-n codru şi în gând,
+Norocu-mi luminează!"
+# O taa da taw-bayîrlarda
+Ğarîk kaltîratadîr,
+Ğolşîlarîñ dalgalarda
+Ğañgîz ğolîn aşadîr. — El tremură ca alte dăţi
+În codri şi pe dealuri,
+Călăuzind singurătăţi
+De mişcătoare valuri;
+# Deñízge batmay bo newbet,
+Yúkseklíkten, ağî man:
+– „Karîştîrasîñ, balşîk bet,
+Mení başkalarî man. — Dar nu mai cade ca-n trecut
+În mări din tot înaltul
+– „Ce-ţi pasă ţie, chip de lut,
+Dac-oi fi eu sau altul?
+# Yaşarsîz tar şewreñízde
+Tapkan yîkpalîñîz man,
+Ke men ózím álemímde,
+Sónmez yîldîz, salkînman.” — Trăind în cercul vostru strâmt
+Norocul vă petrece,
+Ci eu în lumea mea mă simt
+Nemuritor şi rece."
 `;
