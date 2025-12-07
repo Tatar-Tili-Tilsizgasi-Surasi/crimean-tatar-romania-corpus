@@ -220,4 +220,35 @@ urusiyelí I. adj. rusesc. II. s., adj. rus.
 urusşa I. adv. în limba rusă; ruseşte. II. s. (limba) rusă. 
 us s. minte; raŃiune; judecată. 
 usandîruwğî adj. plictisitor; agasant; enervant.
+usanmak v.i. a se plictisi; a-i fi urât. 
+usanş s. plictiseală; urât. 
+usare s. suc; sevă; zeamă; extract. 
+usarelí adj. suculent; zemos. 
+usarelík s. suculenŃă. 
+uskumrî s. (iht.) scrumbie-albastră; macrou (lat., Scomber scombrus). 
+uskur s. (nav.) elice. 
+uslî adj. cuminte; aşezat; liniştit. //●uslî turmak — a şedea liniştit; a sta cuminte. 
+uslîturgan adj. astâmpărat; cuminŃit; cuminte. 
+uslîturuw s. astâmpărare; cuminŃire. 
+usluluk s. cuminŃenie; seriozitate. 
+usşî s. raŃionalist. 
+usşuluk s. raŃionalism. 
+usta I. adj. priceput; îndemânatic; iscusit; meşter. II. s. meşter; maistru. // ●balta ustasî — tâmplar. ●laf ustasî — orator. ●oyîn ustasî — coregraf. 
+ustabaşî s. maistru principal. 
+ustalaplî I. adj. 1. cu elocinŃă; retoric. 2. sfătos; subtil; rafinat. II. s. orator. 
+ustalîk s. măiestrie; meşteşug; iscusinŃă; pricepere; abilitate. // ●sóz ustalîgî — usurinŃă în exprimare. ●ustalîk man — cu măiestrie; cu iscusinŃă. 
+ustaname s. capodoperă. 
+ustat s. maestru. // ●kalem ustatî — maestru al scrisului. 
+ustatlîk adj. magistral. 
+ustura s. 1. brici. 2. (fig.) băutură tare. 
+usturpa s. câlŃi. 
+usul s. 1. metodă; procedeu; mijloc; cale. 2. (jur.) procedură. 3. (muz.) măsură; timp; tact. // ●ela usul — metodă clasică. ●ğeza muhakkeme usulî — (jur.) procedură penală. ●tedaviy usulî — metodă de tratament. ●tedris usulî — metodă de predare; didactic. ●yargîlama usulî — (jur.) procedură juridică. 
+usullî adj. 1. metodic; sistematic. 2. procedural. 3. (muz.) cu măsură; cu timp; cu tact. 
+uş s. 1. vârf. 2. capăt; cap; extremitate; sfârşit. // ●murunnuñ uşun kórmemek — a nu-şi vedea lungul nasului. ●tílníñ uşunda turmak — a-i sta pe limbă. ●uşun uşlamak — a-i ascuŃi vârful. ●uşunda bírşiy bolmak — a avea ceva necurat; a fi cam dubios. // ●ayakkabî uşî — bombeu. ●ayaklarnîñ uşunda — în vârful picioarelor. ●dúniyanîñ uşî — capătul lumii. ●ğíp uşî — urmă; indiciu. ●parmaklarnîñ uşî — vârful degetelor. ●pîşaknîñ uşî — vârful cuŃitului. ●tíl uşî — vârful limbii. ●uşî altîn tolmak — a l em stilou cu peniŃă de aur. 
+uşa s. (anat.) coccis; noadă. 
+uşagan adj. asemănător; asemenea; analog; similar. 
+uşak s. avion. // ●tayyare men siyahat etmek — a călători cu avionul. // ●deñíz uşagî — hidroavion. ●mení uşak tuttî — am rău de avion. ●uşak hatî — linie aeriană. ●uşak keldí mí? — a sosit avionul?; ●uşak on dakkadan konîp keleğek — avionul va ateriza peste zece minute. 
+uşak s. slugă; lacheu. 
+uşakalanî s. aeroport. 
+uşakşî s. aviator; pilot.
 `;
