@@ -546,4 +546,163 @@ ziytín-míñgírlegí s. (orn.) frunzăriță balcanică (lat., Hippolais olive
 ziytínrengí adj. măsliniu; oliv.
 ziytúniy adj. măsliniu; oliv.
 zíl s. clopoțel; sonerie. // ●eteklerí zíl şalmak — a nu mai putea de bucurie. ●zíl şalmak — a suna soneria; a suna la sonerie. ●zílge basmak — a suna la sonerie; a apăsa pe sonerie. // ●zílden ewel derslíkke kír! — intră în clasă înainte de clopoțel!;
+Zíliyka/Zúleyka s. (antrop. f., prsn.) “Frumusețe strălucitoare”.
+zíñgírdegen adj. zăngănitor; zdrăngănitor.
+zíñgírdeme s. zăngănit; zdrăngănit.
+zíñgírdemek v.i. a zăngăni; a zdrăngăni.
+zíñgírdetmek v.t. a determina zăngănitul; a determina zdrăngănitul.
+zíñgírdewğí adj. zăngănitor; zdrăngănitor.
+zíñgírtí s. zăngănit; zdrăngănit.
+zíñgír-zíñgír interj. zdrang!;
+zírínş s. (bot.) dracilă (lat., Berberis vulgaris).
+zírkír s. bură; burniță.
+zírkíreme s. bură; burniță.
+zírkíremek v.i. a bura; a burnița; a cerne; a ploua ca prin sită.
+zîk s. mâl; noroi; nămol; mocirlă; mâzgă.
+zîklî adj. mâlos; noroios; nămolos; mocirlos.
+zîklîk s. mâl; noroi; nămol; mocirlă; mâzgă.
+zîmba s. perforator.
+zîmbalama s. perforare.
+zîmbalamak v.t. a perfora.
+zîmbalangan adj. perforat.
+zîmbalanmak v.i. a se perfora.
+zîmbalî adj. perforat.
+zîmbalaw s. perforare.
+zîmpara s. şmirghel; glaspapir.
+zîngîrdagan adj. zăngănitor; zdrăngănitor.
+zîngîrdama s. zăngănit; zdrăngănit.
+zîngîrdamak v.i. a zăngăni; a zdrăngăni.
+zîngîrdatmak v.t. a determina zăngănitul; a determina zdrăngănitul.
+zîngîrdawğî adj. zăngănitor; zdrăngănitor.
+zîngîrdaw s. zăngănit; zdrăngănit.
+zîngîrtî s. zăngănit; zdrăngănit.
+zîngîr-zîngîr interj. zdrang!;
+zîñk s. găinaț.
+zîñklamak v.i. a se găinăța.
+zîpkîn s. harpon.
+zîr adj. sfruntat. // ●zîr yalan — minciună sfruntată.
+zîrh s. armură; platoşă; zale; blindaj; cuirasă; pieptar. // ●kókírek zîrhî — (mil.) cuirasă; platoşă.
+zîrhlî adj. împlătoşat; înzăuat; cuirasat; blindat. // ●zîrhlî gemí — (mil.) crucişător; cuirasat.
+zîrîldagan adj. 1. zăngănitor; zdrăngănitor. 2. trăncănitor; flecar. 3. care se jeleşte; care se smiorcăie; care scânceşte.
+zîrîldama s. 1. trăncăneală; flecăreală. 2. zăngănit; zdrăngănit. 3. plâns cu suspine; smiorcăială; scâncet.
+zîrîldamak v.i. 1. a trăncăni; a flecări. 2. a zăngăni; a zdrăngăni. 3. a jeli; a se smiorcăi; a scânci.
+zîrîldatîlgan adj. 1. aruncat; azvârlit. 2. determinat să plângă cu suspine.
+zîrîldatîlmak v.i. 1. a se arunca; a se azvârli. 2. a fi determinat să plângă cu suspine.
+zîrîldatîp adv. cât colo; la oarecare depărtare.
+zîrîldatmak v.t. 1. a arunca; a azvârli; a-i face vânt. 2. a determina zăngănitul; a determina zdrăngănitul. 3. a determina să plângă cu suspine.
+zîrîldawğî adj. 1. zăngănitor; zdrăngănitor. 2. care plânge cu suspine.
+zîrîldawuk adj. plângăcios; plângăreț; smiorcăit; scâncit; bâzâit.
+zîrîldaw s. 1. trăncăneală; flecăreală. 2. zăngănit; zdrăngănit. 3. plâns cu suspine; smiorcăială; scâncet.
+zîrîltî s. 1. trăncăneală; flecăreală. 2. zăngănit; zdrăngănit. 3. plâns cu suspine.
+zîrîl-zîrîl interj. zdrang!;
+zît I. adj. opus; contrar; antagonic. II. interj. (către pisică) zât!; // ●şaplay/taban-tabanga zît — diametral opus.
+zîtiyet s. 1. opunere; împotrivire; contradicție; contrast; opunere; discrepanță; antagonism. 2. polaritate.
+zîtîna adv. dimpotrivă; în ciuda; în contra. // ●zîtîna ketmek — a-i fi nesuferit; a-l călca pe nervi.
+zîtkelgen adj. combativ; oponent; opozant.
+zîtkelúw s. 1. opunere; împotrivire. 2. combatere; opoziție.
+zîtlîk s. 1. opunere; împotrivire; contradicție; contrast; opunere; discrepanță; antagonism. 2. polaritate.
+zîvana s. 1. tub; țeavă. 2. (tehn.) mufă; cuplaj.
+zîvanalar s., pl. țevi; țevărie.
+zîvanalîk s. țevărie.
+zodiyak s. zodiac.
+zogal s. fructul sângerului.
+zogal s. (bot.) sânger (lat., Cornus sanguinea).
+zoğiy s. călător; drumeț; musafir.
+zoğiylík s. drumeție; călătorie; voiaj; vizită.
+zolak s. bandă; fâşie; baretă.
+zooloğik adj. zoologic.
+zooloğiya I. adj. zoologic. II. s. zoologie.
+zooloğiyalî adj. zoologic.
+zooteknik adj. zootehnic.
+zootekniya I. adj. zootehnic. II. s. zootehnie.
+zootekniyağî s. zootehnician.
+zootekniyalî adj. zootehnic.
+zor I. adj. greu; dificil; anevoios; periculos. II. adv. de abia; cu greutate; cu dificultate. III. interj. e cam greu!; e cam dificil!; e cam încet!; IV. s. 1. greutate; dificultate; nevoie. 2. obligație; datorie; necesitate. 3. violență; presiune; pericol. 4. impas; inconvenient; încurcătură; strâmtorare; constrângere. // ●zor man almak — a lua cu zorul; a constrânge; a forța; a uzurpa. ●zor man aşatmak — a hrăni peste măsură; a îndopa. ●zor man îrîz kírletmek — a necinsti; a viola. ●zor man kírmek — a intra cu forța; a năvăli. ●zor man tîkmak — a băga cu forța; a îndesa. ●zorî bolmamak — a nu avea zor de ceva; a nu-i trebui; a nu-i păsa. ●zorînda kalmak — a avea zor de ceva; a avea neapărată nevoie. // ●kîrîmtatar tílí zor mî? — limba tătară crimeană e dificilă?; ●zor búgúlgen/búkriygen — rigid. ●zor man — vrând-nevrând; nolens-volens; cu forța; forțat; obligat; în silă; cu de-a sila. ●zor nokta — punct critic. ●zor turum — situație critică. ●zorî bolsa mení taba — dacă are nevoie mă găseşte.
+zorakiy adv. cu forța; cu de-a sila.
+zorba adj. 1. uzurpator. 2. zdravăn; robust; vânjos.
+zorbalî adj. uzurpat.
+zorbalîk s. 1. uzurpare. 2. robustețe.
+zorbúgúlgen adj. rigid.
+zorbúgúlme s. rigiditate.
+zorbúkriygen adj. rigid.
+zorbúkriyme s. rigiditate.
+zorda adv. la greu; la strâmtoare; în pericol. // ●zorda bolmak — a se afla la strâmtoare; a fi în încurcătură; a avea dificultăți.
+zordabolgan adj. aflat în impas; încurcat.
+zordaboluw s. impas; dificultate; încurcare.
+zordamîz interj. suntem în pericol!;
+zorga adv. la greu; la strâmtoare; în pericol. // ●zorga atîlmak — a se pune în pericol; a se vârî în bucluc. ●zorga atmak — a da cuiva de lucru; a-i da de furcă; a-l vârî în bucluc; a-i crea dificultăți. ●zorga kírmek — a intra la strâmtoare; a intra în încurcătură; a da de greu. ●zorga túşmek — a da de greu; a da de necaz; a da de bucluc.
+zorgaatîlgan adj. 1. hazardat; riscant; expus; periclitat; primejduit. 2. pus în impas; îngreunat; înrăutățit.
+zorgaatîlmadan adj. 1. nesilit. 2. facil; lesnicios.
+zorgaatkan adj. 1. agravant. 2. coercitiv; periculos; primejdios; periclitant; riscant. 3. stringent. // ●zorgaatkan sîğaklîk — temperatură critică.
+zorgaatmaz adj. nepericulos.
+zorgaatuw s. hazardare; risc; expunere; periclitare; primejduire.
+zorgakalgan adj. nevoit; silit; constrâns.
+zoriyílgen adj. rigid.
+zoriyílme s. rigiditate.
+zorîbolgan adj. nevoit; silit; constrâns.
+zorlagan adj. necesar; stringent.
+zorlama s. 1. necesitate; stringență. 2. constrângere; obligare; forțare. 3. violare; forțare. 4. (fiz.) forță. // ●araşîk zorlamasî — forțarea frontierei. ●şípt zorlama — (fiz.) cuplu. ●zorlama katsayîsî — coeficient de forță.
+zorlamak v.t. 1. a obliga; a determina. 2. a viola; a forța; a constrânge; a lua cu zorul; a lua la zor; a cere socoteală. // ●îrîzîn zorlamak — a necinsti; a viola; a silui. ●kanunnî zorlamak — a viola legea. ●kapîsîn zorlamak — a forța uşa cuiva. ●ózín zorlamak — a se strădui; a se sili.
+zorlangan adj. 1. obligat; forțat; constrâns. 2. violat; forțat.
+zorlanmak v.i. 1. a fi obligat; a fi forțat; a fi constrâns. 2. a întâmpina greutăți. // ●îrîzî zorlanmak — a fi siluit.
+zorlap-yaptîrma s. constrângere; silire; impunere.
+zorlaşkan adj. înrăutățit; agravat; îngreunat.
+zorlaşma s. agravare; înrăutățire; îngreunare.
+zorlaşmak v.i. a se înrăutăți; a se agrava; a se îngreuna.
+zorlaştîrgan adj. agravant.
+zorlaştîrmak v.t. a agrava; a înrăutăți; a îngreuna.
+zorlaştîruwğî adj. agravant.
+zorlaşuw s. agravare; înrăutățire; îngreunare.
+zorlaw s. 1. necesitate; stringență. 2. constrângere; obligare; forțare. 3. violare; forțare. 4. (fiz.) forță.
+zorlî adj. violent; năprasnic.
+zorlîk s. 1. greutate; dificultate; nevoie. 2. impas; inconvenient; încurcătură; strâmtorare; constrângere; punct critic. // ●zorlîk şîgarmak — a crea dificultăți; a crea probleme; a se opune. // ●zorlîklardan yîldîzlarga — pe căi aspre, până la astre. ●zorlîklarnîñ ğeñmesí — înfrângerea greutăților.
+zorlîkkaalîşkan adj. învățat cu greul; încercat; călit.
+zorlîkşîgargan adj. care crează dificultăți; potrivnic; ostil.
+zor-zar adv. anevoie; cu greu.
+zor-zor adv. anevoie; cu greu.
+Zóhre s. (astr.) Luceafărul; Venus.
+zóhreviy adj. veneric.
+zóhreviybílímğísí s. (med.) venerolog.
+zóhreviybílímí I. adj. (med.) veneric. II. s. (med.) venerologie.
+zóhreviybílímlí adj. (med.) veneric.
+zóhreviyğí s. venerolog.
+zóhreviyğílík s. venerologie.
+zubur s. (zool.) zimbru (lat., Bos bonasus).
+zuhur s. apariție; ivire.
+zuhurlî adj. apărut; ivit.
+zulmet s. întuneric; umbră; negură; obscuritate.
+zulmetlí adj. întunecat; înnegurat; obscur.
+zulúm s. tiranie; despotism (şi fig.).
+zurga num. (mong.) şase.
+zurna s. (muz.) goarnă; trompetă; trâmbiță.
+zurnağî s. gornist; tropetist; trâmbițaş.
+zuw-şuw s. gălăgie; hărmălaie; tărăboi.
+zúberğet s. (minr.) smarald; smaragd.
+Zúbeyde s. (antrop. f., arab.) “Excelență”.
+zúgúrt adj. falit; falimentar; ruinat.
+zúgúrtlegen adj. falit; falimentar; ruinat.
+zúgúrtleme s. faliment; bancrută; crah; ruinare.
+zúgúrtlemek v.i. a da faliment.
+zúgúrtletmek v.t. (fin.) a ruina.
+zúgúrtlúk s. faliment; bancrută; crah; ruinare.
+Zúhal s. (astr.) Saturn.
+zúlal s. (chim.) albumină.
+zúlaliy adj. (chim.) albuminos.
+Zúleyka/Zíliyka s. (antrop. f., prsn.) “Frumusețe strălucitoare”.
+Zúlfikar s. (antrop. m., arab.) denumirea purtată de sabia Profetului Muhammed Aliyselam.
+Zúlfiy s. (antrop. m., arab.) “Cel cârlionțat”.
+Zúlfiye s. (antrop. f., arab.) “Cea cârlionțată”.
+Zúlğelaliy-vel-Ikram s. (relig., arab.) "Stăpânul măreției şi generozității" (unul din cele 99 preafrumoase nume atribuite în Coran lui Dumnezeu/Allah).
+zúl-kútúk adj. beat criță.
+zúlúf s. buclă; zuluf; cârlionț.
+zúlúflí adj. buclat; ondulat; cu zulufi; cârlionțat.
+zúmre s. grupă; clasă.
+zúmrút s. (minr.) smarald; smaragd.
+zúmzúme s. susur; şipot.
+zúmzúmelí adj. susurător.
+zúppe adj. snob; excentric; extravagant.
+zúppelík s. snobism; excentricitate; extravaganță.
+zúrafe s. (zool.) girafă (lat., Giraffa camelopardalis).
+zúrriyet s. (fiziol.) făt.
+zufa s. (bot.) isop (lat., Hyssopus officinalis). .
 `;
