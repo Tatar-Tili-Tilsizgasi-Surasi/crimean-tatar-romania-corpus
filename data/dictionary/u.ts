@@ -820,4 +820,254 @@ uzuw s. (anat.) organ; membru; mădular.
 úştírsek s. (mat.) triunghi. // ●eşkenar úştírsek — (mat.) triunghi echilateral.
 úştírseklí adj. triunghiular.
 úşúmek v.i. a-i fi frig; a îngheța (de frig).
+úşún postp. 1. pentru; ca. 2. pentru că; deoarece; întrucât; de vreme ce; din cauza. // ●añîlmasî úşún — în memoria; comemorativ. ●bîyîl úşún aşayîtlîk — hrană pentru anul acesta. ●búgún úşún ders — temă pentru azi. ●dawetíñíz úşún ğandan şúkúranlar! — mulțumiri din suflet pentru invitație!; ●hawa uşuş úşún músayit tuwul — timpul nu e favorabil pentru zbor. ●katírím úşún — de dragul meu; pentru hatârul meu. ●kayak yapmak úşún kelemen — vin pentru a face schi. ●keleğek ay úşún — pentru luna viitoare. ●keleğek úşún — pentru viitor. ●kelmegenler úşún ğeza — pedeapsă pentru cei care nu au venit. ●mením úşún — pentru mine. ●misal úşún — de exemplu. ●ómírín kalk úşún berdí — şi-a dat viața pentru popor. ●onîñ kelmegení úşún — pentru că el nu a venit. ●onîñ úşún — pentru el. ●ózníñ úşún — în interes propriu. ●píşím úşún — de formă; pro forma. ●sáde bonîñ úşún — ad hoc; numai pentru această situație. ●şonlar úşún kawga etme — nu te certa pentru aceia. ●talebesí úşún kuwana — se bucură pentru elevul său. ●vizam bír ay úşún — viza o am pentru o lună.
+úşúnğí I. adj. terț. II. num. al treilea. // ●úşúnğí dúniya memleketí — (pol.) țară din lumea a treia. ●úşúnğí imkáanga yer kalmaz — a treia posibilitate nu există. ●úşúnğí şahîs — (gram.) persoana a treia. ●úşúnğí vagon — al treilea vagon.
+úşúnğúlúk adj. terțiar.
+úşútmek v.i. (med.) a răci.
+úşvalensalî adj. (chim.) trivalent.
+úşyaklî adj. tripartit; trilateral.
+úşyaprak(lî) adj. (bot.) trilobat.
+úş-yakalî-ğawunkuşî s. (orn.) prundăraş cu trei gulere (lat., Charadrius tricollaris).
+úş-yakalî-suwtorgay s. (orn.) prundăraş cu trei gulere (lat., Charadrius tricollaris).
+útmek v.t. a pârli; a perpeli; a arde uşor la suprafață.
+útúlgen adj. pârlit; perpelit; ars uşor la suprafață.
+útúlme s. pârlire; perpelire; ardere uşoară la suprafață.
+útúlmek v.i. a se pârli; a se perpeli; a se arde uşor la suprafață.
+úwez s. 1. scoruşă. 2. (bot.) scoruş (lat., Sorbus domestica).
+úy I. adj. domestic. II. s. 1. casă; gospodărie. 2. domiciliu. 3. (fig.) familie. // ●dúniya úyúne kírmek — a se aşeza la casa lui; a se căpătui; a se căsători. ●úy bolmak — a se aşeza la casa lui; a întemeia o familie; a se căsători. ●úy kakmak — a face curățenie prin casă; a deretica. ●úy salmak — a construi o casă. ●úyní ast-úst etmek — a întoarce casa pe dos. ●úyní ğayratmak — a răvăşi casa. ●úyní ğîyîştîrmak — a strânge prin casă. ●úyní úy etmek — a gospodări. ●úyún basmak — a călca casa cuiva. ●úyún bîzmak — a-i strica cuiva casa. // ●bízím úyúmúz — casa noastră. ●ğartî úy — cocioabă; coşmelie; magherniță. ●ğîyma úy — casă prefabricată. ●kiralîk úy — casă de închiriat. ●kíşkene úy — casă mică. ●kópmenzillí úy — apartament. ●kóy úyí — casă țărănească. ●ordî úyí — casa armatei. ●úy atasî — tatăl familei. ●úy betínde kaldî — a rămas lângă casă. ●úy eşiyasî — mobilier. ●úy haywanî — animal domestic. ●úy haywanlarî — şeptel. ●úy kalkî — membrii familiei. ●úy kîzmetşísí — menajeră. ●úy koyanî — iepure de casă. ●úy reyisí — capul familiei. ●úynúñ íşí toldî — s-a umplut casa. ●úynúñ katînda terek bar — lângă casă sunt pomi. ●úynúñ numarasî — numărul casei. ●úynúñ ústúnde mîşîk bar — pe casă este pisica. ●úynúñ yarîsînda kím otîra? — cine locuieşte în jumătate de casă?; ●úyúmúzge kaytağakmîz — ne vom întoarce acasă.
+úy-akrebí s. (ent.) scorpionul-de-cărți; scorpia-de-hârtie; chelifer (lat., Chelifer cancroides).
+úyapakayî s. gospodină; casnică.
+úybaskan s. spărgător de case; hoț.
+úybaskanlar s., pl. hoții; hoțime.
+úy-beúy adv. din casă în casă.
+úybolgan adj. căsătorit; căpătuit.
+úybolmagan adj. necăsătorit; neînsurat.
+úyboluw s. căsătorie; cununie; măritiş.
+úyde adv. acasă; în casă. // ●Memet akay úyde mí? — domnul Memet este acasă?; ●taştan úyde Altanlar otîralar — în casa de piatră locuiesc alde Altan. ●úyde tuwul — nu este acasă.
+úyden adv. de acasă; din casă.
+úyden-úyge adv. din casă în casă.
+úy-domîzî s. (zool.) porc (lat., Sus scrofa domesticus).
+úye s. 1. (pol.) membru. 2. (anat.) organ; membru; mădular. // ●partit úyesí — (pol.) membru de partid.
+úyek s. (meteo.) lapoviță; zloată.
+úyeñ s. (zool.) hermelină; hermină; cacom (lat., Mustela erminea).
+úyge I. adv. acasă; spre casă. II. s. (fiziol.) estru; rut. // ●úyge ayîrî-ayîrî ğollardan kayttîk — ne-am întors acasă pe drumuri diferite.
+úyğe adv. cu toată casa; cu toată familia.
+úyğí adj. domestic.
+úyğúleşken adj. domesticit.
+úyğúleşmek v.i. a se domestici.
+úyğúleştírmek v.t. a domestici.
+úyğúleştírúw s. domesticire.
+úyíşlerí s. menaj; gospodărie. // ●úyíşlerí men ogîraşmak — a face menajul; a gospodări.
+úy-îşanî s. (zool.) şoarece-de-casă (lat., Mus musculus).
+úykegen adj. crescut; mărit; dezvoltat; amplificat.
+úykeme s. creştere; mărire; dezvoltare; amplificare.
+úykemek v.i. a creşte; a se mări; a se dezvolta; a se amplifica.
+úyken adj. mare; amplu; grandios. // ●úyken konaklîk — ospăț; banchet.
+úykenanniy s. străbunică.
+Úyken-Ayuw s. (astr.) Carul-Mare; Ursa-Mare.
+úykenbabay s. străbunic.
+úykenbaş adj. macrocefal.
+úykenbaşlîk s. macrocefalie.
+Úyken-Britaniye s. (topon.) Marea Britanie.
+Úyken-Búlbúl s. (topon.) ("Privighetoarea Mare") Ciocârlia de Sus (jud. Constanța).
+Úyken-Kargalîk s. (topon.) ("Ciorăria Mare") Gargalâcul Mare; Corbu de Sus (jud. Constanța).
+úykenkaytîm s. jubileu.
+úykenkaytîmlî adj. jubiliar.
+úykenlík s. amploare; grandoare; mărime; măreție.
+úyken-úyken adj. măreț; grandios.
+úyketeş s. (fiz.) amplificator.
+úyketken adj. amplificator; augmentativ; intensificator.
+úyketme s. creştere; mărire; dezvoltare; amplificare; augmentare.
+úyketmek v.t. a creşte; a mări; a dezvolta; a amplifica; a augmenta.
+úyketúwğí adj. amplificator; augmentativ; intensificator.
+úykiy-úykiy adv. progresiv.
+úykîskaayaklîsî s. gospodină; casnică.
+úy-koyanî s. (zool.) iepure-de-casă (lat., Lepus cuniculus; Oryctolagus cuniculus).
+úyken-boraganğî s. (orn.) fregată magnifică (lat., Fregata magnificens).
+úyken-ğembeşeşegí s. (bot.) țâța-vacii (lat., Primula elatior).
+úyken-kuralay s. (orn.) mugurar mare (lat., Carpodacus rubicilla).
+úyken-ládin s. (bot.) brad de Vancouver (lat., Abies grandis).
+úyken-narus s. (bot.) brad de Vancouver (lat., Abies grandis).
+úyken-şîrşî s. (bot.) brad de Vancouver (lat., Abies grandis).
+úyle I. adj. de amiază; de prânz. II. s. 1. amiază; prânz. 2. dejun; prânz. // ●úyle máálí — ora prânzului. ●úyle paydosî — pauza de prânz. ●úyle yukusî — siestă.
+úyleawgansoñ adv. după amiază; postmeridian.
+úyleawganşîk adv. până în prânz; înainte de amiază; antemeridian.
+úylede adv. în timpul prânzului; la prânz; la amiază. // ●tínewún úylede — ieri la prânz.
+úyleden adv. din timpul prânzului.
+úyledenewel adv. până în prânz; înainte de amiază; antemeridian.
+úyledensoñra adv. după amiază; postmeridian.
+úylege adv. pentru amiază. // ●úylege dogrî — spre prânz; către prânz. ●úylege kadar kayt! — întoarce-te până la prânz!;
+úylegeşík adv. până în prânz; înainte de amiază; antemeridian.
+úylegí adj. de amiază.
+úylegísí s. cel de amiază.
+úylelík I. adj. de amiază; de prânz. II. s. dejun; prânz.
+úylendírmek v.t. a căsători; a însura; a mărita.
+úylengen adj. însurat; căsătorit.
+úylenme s. căsătorie; însurătoare; măritiş. // ●úylenme káátí — certificat de căsătorie. ●úylenme teklibí — cerere în căsătorie. ●úylenme tewúkesí — data căsătoriei.
+úylenmegen adj. necăsătorit; neînsurat.
+úylenmek v.i. a se căsători; a se însura; a se mărita. // ●bír taa úylenmek — a se recăsători. // ●men men úylenírsíñ mí? — vrei să te căsătoreşti cu mine?;
+úylenmetîşî adj. extraconjugal; extramarital.
+úylenúw s. însurătoare; căsătorie; mariaj. // ●úylenúw máálí — vremea însurătorii.
+úyleyemegí s. prânz; dejun. // ●úyleyemegín aşamak — a prânzi.
+úylí adj. căsătorit; însurat; măritată. // ●úylí akay — bărbat însurat. ●úylí tuwulman — nu sunt căsătorit. ●úylúsúñúz mí? — sunteți căsătorit?;
+úylúlúk s. căsnicie; căsătorie.
+úylúlúktîşî adj. extraconjugal; extramarital.
+úymek v.t. a stivui; a face morman.
+úymúşúk s. muşuroi.
+úynepísí s. menaj; gospodărie. // ●úynepísímen ogîraşmak — a face menajul; a gospodări. ●úynepísín bílmek — a fi bun gospodar; a fi bună gospodină.
+úyp-úyken adj. enorm; măreț; grandios.
+úyre s. terci.
+úyrelengen adj. terciuit.
+úyrelenme s. terciuire.
+úyrelenmek v.i. a se terciui.
+úyreletmek v.t. a terciui.
+úyrelí adj. cu terci; terciuit.
+úyrenek s. 1. pildă; povață; exemplu. 2. model; mostră; eşantion. 3. pereche; egal. // ●úyrenek almak — a lua exemplu. ●úyrenek bolmak — a fi exemplu.
+úyrenekleme s. exemplificare.
+úyreneklemek v.t. a exemplifica; a da ca exemplu.
+úyreneklengen adj. exemplificat.
+úyrengen adj. instruit; învățat.
+úyrenğí s. elev; student. // ●darúlfúnun úyrenğísí — student. ●liçew úyrenğísí — elev de liceu; licean. ●sînîfta kalgan úyrenğí — repetent. ●úyrenğí ğurtî — cămin studențesc. ●úyrenğíler okîldan şîktî mî? — elevii au ieşit de la şcoală?;
+úyrenğílík I. adj. studențesc; şcolar. II. s. studenție.
+úyrenílgen adj. învățat.
+úyrením s. studiu; studiere; învățătură.
+úyrenme s. studiu; învățare.
+úyrenmegen adj. neinstruit.
+úyrenmek v.t. 1. a studia; a învăța. 2. a afla; a lua cunoștință (de…). // ●ğenábíñíz tatarğanî ózíñíz úyrenesíñíz mí? — dumneavoastră învățați singur tătăreşte?; ●kayda úyrendíñíz? — unde ați învățat?; ●kazakşa úyreneğek bolaman — aş dori să învăț româneşte. ●mektepte úyrendím — am învățat la şcoală.
+úyrenmelík s. bursă (de elev, de student).
+úyrenmiykalgan adj. needucat; neinstruit.
+úyrenúw s. instruire; învățare.
+úyretí s. doctrină. // ●úyretí ezberletmek — a îndoctrina.
+úyretílmek v.i. a fi instruit; a fi învățat.
+úyretím s. învățământ; instrucție; educație. // ●askerlík úyretímí — (mil.) instrucție militară. ●feniy úyretím — învățământ tehnic. ●liçew úyretímí genelleşmekte — învățământul liceal este în curs de generalizare. ●meğburiy orta úyretím — învățământ secundar obligatoriu. ●síptí úyretím — învățământul primar. ●úyretím sistemí — sistemul de învățământ. ●úyretím súresí — durata învățământului. ●úyretím yîlî — an şcolar. ●yúksek úyretím — învățământ superior.
+úyretke s. didactică.
+úyretken s. învățător; instructor; preparator.
+úyretme s. instruire; învățare; predare. // ●úyretme ğolî — metodă de predare.
+úyretmek v.t. a instrui; a învăța. // ●akîl úyretmek — a-i deschide cuiva capul; a-l sfătui; a-l povățui; a-i recomanda. ●elifbe úyretmek — a alfabetiza.
+úyretmen s. învățător; profesor. // ●darúlfúnun úyretmení — cadru didactic universitar. ●imtan úyretmení — examinator. ●o derslíkke úyretmenden soñ kíre — el intră în clasă după profesor. ●uşuş úyretmení — instructor de zbor. ●úyretmen bízge dogrî karay — profesorul priveşte spre noi. ●úyretmen hanîm — doamna învățătoare.
+úyretmenlík s. catedră; post.
+úyretşí adj. didactic.
+úyretúwğí s. instructor; educator.
+úy-sîğawulî s. (zool.) şobolan-de-casă (lat., Rattus rattus).
+úysúregen adj. nostalgic.
+úysúreme s. nostalgie; dor (de casă, de patrie).
+úysúremek v.i. a-i fi dor de casă; a avea nostalgia patriei.
+úy-şîbînî s. (ent.) muscă (lat., Musca domestica).
+úyşúk s. căsuță.
+úy-tawlayî s. (zool.) iepure-de-casă (lat., Lepus cuniculus; Oryctolagus cuniculus).
+úy-tawşanî s. (zool.) iepure-de-casă (lat., Lepus cuniculus; Oryctolagus cuniculus).
+úytí s. fier de călcat.
+úy-torgayî s. (orn.) vrabie de casă (lat., Passer domesticus; Fringilla domestica).
+úytóbesí s. acoperişul casei.
+úytúlemek v.t. (d. rufe) a călca; a netezi. // ●anterímní dolapka ğuwup, úytúlep saldîm — mi-am pus rochia în dulap după ce am spălat-o şi am călcat-o.
+úytúlengen adj. (d. rufe) călcat; netezit.
+úytúlenme s. (d. rufe) călcare; netezire.
+úytúlenmek v.i. (d. rufe) a fi călcat; a fi netezit.
+úytúlí adj. (d. rufe) călcat; netezit.
+úyúk s. nisipuri mişcătoare.
+úyúlgen adj. stivuit; făcut morman.
+úyútmek v.t. 1. a pisa; a zdrobi; a sfărâma; a măcina; a râşni. 2. a digera.
+úyútúlgen adj. 1. digerat. 2. pisat; zdrobit; sfărâmat; măcinat; râşnit.
+úyútúlmek v.i. 1. a fi pisat; a fi măcinat; a fi zdrobit; a fi sfărâmat; a fi râşnit. 2. a fi digerat.
+úyútúw s. 1. digerare. 2. pisare; zdrobire; sfărâmare; măcinare; râşnire.
+úyútúwğí adj. digestiv.
+úyútúwlí adj. 1. digerat. 2. pisat; zdrobit; sfărâmat; măcinat; râşnit.
+úyúw s. 1. grămadă; morman; troian. 2. stivuire; aşezare sub formă de morman.
+úy-úyden adv. din casă în casă. // ●úy-úyden ğúrgen — a umblat din casă în casă.
+úyzaptemesí s. gospodărie; menaj.
+úze s. 1. (pol.) membru. 2. (anat.) organ; membru; mădular.
+úzengí s. scară (la şa).
+úzere postp. 1. pentru; ca să; cu scopul de a; în vederea…; 2. cu condiția…; cu obligația de a…; 3. precum; după cum; aşa cum.
+úzgí s. jignire; ofensă.
+úzgúlí adj. jignitor; ofensator.
+úzgún adj. 1. necăjit; amărât; trist. 2. jignit; ofensat.
+úzmek v.t. 1. a rupe (o ață, un fir). 2. a jigni; a ofensa. 3. a necăji; a amărî; a întrista.
+úzúk I. adj. rupt; fragmentat. II. s. ruptură; fragment.
+úzúlgen adj. 1. (d. ață, fire) rupt. 2. necăjit; amărât; întristat. 3. jignit; ofensat.
+úzúlmek v.i. 1. (d. ață, fire) a se rupe. 2. a se necăji; a se amărî; a se întrista. 3. a fi jignit; a fi ofensat.
+úzúntí s. necaz; neplăcere; tristețe; amărăciune.
+úzúntúlí adj. necăjit; trist; amărât.
+úzúwğí adj. 1. trist; jalnic. 2. jignitor; ofensator.
+úzviy adj. organic. // ●úzviy kimiya — chimie organică.
+úzviyet s. 1. organism. 2. (gram.) articol. // ●belletmez úzviyet — (gram.) articol nehotărât.
+ufak-atkulak s. (bot.) măcriş-mărunt; măcrişul-iepurelui (lat., Rumex acetosella).
+ufak-fuliya s. (bot.) rățișoare (lat., Iris pumila).
+ufak-kîşîtkan s. (bot.) urzică-mică; urzică-iute; oieştea (lat., Urtica urens).
+ufak-kumtawuk s. (orn.) fugaci pitic (lat., Calidris minutilla).
+ufak-nawruz s. (bot.) rățișoare (lat., Iris pumila).
+ufak-súsen s. (bot.) rățișoare (lat., Iris pumila).
+ufak-tóşek s. (bot.) straşnic; acul-pământului (lat., Asplenium trichomanes).
+uğuzlaşuw s. ieftinire.
+ularî, Altay- s. (orn.) găinuşă de zăpadă altaică (lat., Tetraogallus altaicus).
+ularî, Kawkaz- s. (orn.) găinuşă de zăpadă caucaziană (lat., Tetraogallus caucasicus).
+ularî, Kazar- s. (orn.) găinuşă de zăpadă de Marea Caspică (lat., Tetraogallus caspius).
+ulas s. (bot.) carpen (lat., Carpinus betulus).
+ulas, alşak- s. (bot.) cărpiniță; sfineac (lat., Carpinus orientalis).
+ulaştîruw s. 1. transport; comunicație. 2. legătură; contact.
+uluslaştîruw s. naționalizare.
+uluwlaw s. slavă; slăvire; glorificare; preamărire.
+umutlanuw s. speranță; nădejde.
+umutsuzlaşuw s. descurajare; demoralizare; descumpănire; demobilizare; deznădăjde; desperare.
+unaşuw s. întâlnire; intersectare; convergență.
+unaw s. întâlnire; intersectare.
+unlaw s. înfăinare; presărare cu făină; tăvălire prin făină; pudrare.
+unutmamení s. (bot.) miozotis; nu-mă-uita; urechea-şoarecelui (lat., Myosotis silvatica).
+unutuw s. omisiune; uitare.
+Upcher'níñ-míñgírlegí s. (orn.) frunzăriță de munte (lat., Hippolais languida).
+uşatuw s. 1. asemănare; asemuire; comparare; raportare. 2. analogie; comparație.
+uşlaw s. ascuțire.
+uşurtuw s. 1. zmeu. 2. furt. 3. retezare; tăiere.
+uşuw s. zbor.
+usturagágáa s. (orn.) alcă nordică (lat., Alca torda).
+usturalî-alak s. (orn.) alcă nordică (lat., Alca torda).
+utandîruw s. deconcertare.
+utuluw s. înfrângere; sucombare.
+uwuw s. 1. frecare; fricționare; masare; palpare; pipăire. 2. ştergere; curățare. 3. frământare.
+uyandîruw s. 1. trezire; sculare; deşteptare. 2. înviere; reînviere; resuscitare; renaştere. 3. reamintire. 4. avertisment.
+uygarlaşuw s. civilizare.
+uygulanuw s. adoptare; aplicare.
+uygulaw s. aplicare; adoptare (a unei legi etc.).
+uygunlaşuw s. conformare.
+uyuşuw s. 1. înțelegere; acord. 2. potrivire; asemuire; armonizare.
+uyutuluw s. 1. amorțeală; înțepenire; anchiloză; moleşeală; apatie. 2. coagulare; închegare; prindere.
+uyuw s. 1. coincidență; conformare; potrivire. 2. coagulare; închegare; prindere. 3. calmare; potolire; sedare; anesteziere. 4. amorțire; înțepenire; anchilozare.
+uyuzotî s. (bot.) sipică; năsturaş-de-bube (lat., Scabiosa ochroleuca).
+uyuz-tegenegí s. (bot.) crăstăval; crăpuşnic (lat., Cirsium oleraceum).
+uzaklaştîruw s. 1. înlăturare; îndepărtare; eliminare. 2. concediere.
+uzaklaşuw s. îndepărtare; plecare; abatere; toleranță.
+uzaktagî adj. de departe; depărtat.
+uzaktagîsî s. cel de departe; cel depărtat.
+uzaktakîsî s. cel de departe; cel depărtat.
+uzanuw s. întindere; culcare.
+uzatuw s. prelungire.
+uzlaşuw s. 1. împăcare; conciliere. 2. convenție; acord; înțelegere.
+uzlukşî s. meşter; specialist; expert; maestru.
+uzmanlaşuw s. specializare.
+uzunbağak s. (orn.) piciorong (lat., Himantopus himantopus).
+uzun-bağaklî-kumtawuk s. (orn.) fugaci cu picioare lungi (lat., Calidris himantopus; Micropalama himantopus).
+uzun-bağaklî-sar s. (orn.) şorecar mare (lat., Buteo rufinus).
+uzun-bağaklî-toynak s. (orn.) şorecar mare (lat., Buteo rufinus).
+uzun-bağaklî-yeşíl-palşîkşî s. (orn.) fluierar de zăvoi (lat., Tringa ochropus).
+uzun-gágáalî-alak s. (orn.) alcă cu cioc lung (lat., Brachyramphus perdix).
+uzun-gágáalî-ğadîrak s. (orn.) fâsă cu cioc lung (lat., Anthus similis).
+uzun-kanatlî-kumtawuk s. (orn.) fugaci cu aripă lungă (lat., Calidris bairdii).
+uzun-kulaklî-baykuş s. (orn.) ciuf de pădure (lat., Asio otus).
+uzun-kuyruklî-boraganğî s. (orn.) rândunica furtunii lui Bulwer (lat., Bulweria bulweria).
+uzun-kuyruklî-boykuş s. (orn.) pițigoi cu coadă lungă (lat., Aegithalos caudatus).
+uzun-kuyruklî-itelge s. (orn.) sfrâncioc cu coadă lungă (lat., Lanius schach).
+uzun-kuyruklî-karabatak s. (orn.) cormoran cu coadă lungă (lat., Phalacrocorax africanus).
+uzun-kuyruklî-kuralay s. (orn.) mugurar cu coadă lungă (lat., Uragus sibiricus).
+uzun-kuyruklî-kurkur s. (orn.) porumbel de stâncă; porumbel îndoliat (lat., Zenaida macroura).
+uzun-kuyruklî-martî s. (orn.) lup de mare codat (lat., Stercorarius longicaudus).
+uzun-kuyruklî-palşîkşî s. (orn.) fluierar cu coadă lungă (lat., Bartramia longicauda).
+uzun-kuyruklî-şîmşîk s. (orn.) mandarin diamant cu coadă lungă (lat., Poephilia acuticauda).
+uzun-kuyruklî-taganak s. (orn.) sfrâncioc cu coadă lungă (lat., Lanius schach).
+uzun-kuyruklî-taw-yapalagî s. (orn.) huhurez mare (lat., Strix uralensis).
+uzun-kuyruklî-tultokîmağî s. (orn.) pasăre-episcop cu coadă lungă (lat., Euplectes progne).
+uzunómírlí-karînşatlagîotî s. (bot.) sincerică (lat., Scleranthus perennis).
+uzunómírlí-şím s. (bot.) zizanie; raigras-englezesc (lat., Lolium perenne).
+uzun-parmaklî-kógerşín s. (orn.) porumbel de Madeira (lat., Columba trocaz).
+uzun-parmaklî-kumtawuk s. (orn.) fugaci cu degete lungi (lat., Calidris subminuta).
+uzun-pîtrak s. (bot.) scaietele-popii (lat., Xanthium strumarium).
+uzun-tumşuklî-şulluk s. (orn.) sitar de nămol cu cioc lung (lat., Limnodromus scolopaceus).
 `;
