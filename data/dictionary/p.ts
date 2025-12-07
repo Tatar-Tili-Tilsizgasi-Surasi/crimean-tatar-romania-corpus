@@ -475,5 +475,256 @@ pazarlawğî s. negociator.
 pazarlîk s. 1. negociere; tocmeală; târguială. 2. cumpărături; târguieli. // ●pazarlîk etmek — a se tocmi; a se târgui. // ●ekí yaklî pazarlîklar — negocieri bilaterale.
 Pazarlîk s. (topon.) ("Târgul", "Târguiala") Târguşor (jud. Constanța).
 pazarótmek s. franzelă.
+Pazarşîk/Pazarğîk s. (topon.) Bazargic (Dobrich, Dobrogea de Sud-Cadrilater, Bulgaria).
+pazartesí s. (cron.) luni. // ●o bír gún pazartesí — poimâine e luni.
+pazartesígúní s. (cron.) luni.
+pazî s. (bot.) sfeclă (lat., Beta cicla). 2. (anat.) biceps.
+pazî, kara- s. (bot.) lobodă (lat., Atriplex hortensis; Atriplex nitens).
+pazî, kîrmîzî- s. (bot.) sfeclă-roşie (lat., Beta vulgaris conditiva).
+pazî, múslí- s. (bot.) tămâiță; smirnă-de-grădină (lat., Chenopodium botrys).
+pazîsî, şeker- s. (bot.) sfeclă-de-zahăr (lat., Beta vulgaris saccharifera).
+pazkîstîrîlgan adj. (tehn.) împănat.
+pazkîstîrma s. (tehn.) împănare.
+pazkîstîruw s. (tehn.) împănare.
+pazla I. adj. mult; mai mult; în plus; excedentar. II. adv. încă; mai; în plus. III. s. surplus; excedent; rest. // ●kîymetín pazla degerlendírmek — a supraestima. ●pazla ístemek — a suprasolicita; a supraestima. ●pazla kalabalîk bolmak — a se supraaglomera. ●pazla kelmek — a fi în plus. ●pazla kîymet píşmek — a supraestima. ●pazla peslemek — a supraalimenta. ●pazla şalîştîrmak — a suprasolicita. ●pazla totîrmak — a ticsi; a supraîncărca. // ●bek pazla — foarte mult. ●bír şiy pazla kelmez — nimic nu e prea mult. ●bo takîlî pazla — asta-i prea de tot. ●pazla bagaj — bagaj excedentar. ●pazla túrtew/tebúw — surescitare.
+pazlaaşagan adj. supraalimentat; ghiftuit; îmbuibat.
+pazlaaşatma s. supraalimentare; ghiftuire; îmbuibare.
+pazlaaşaw s. ghiftuire; îmbuibare.
+pazlaazart s. surescitare.
+pazlaazartlangan adj. surescitat.
+pazlağîlîngan adj. supraîncălzit.
+pazlağîlîtma s. supraîncălzire.
+pazlağúklengen adj. împovărat; îngreunat.
+pazlağúklenúw s. împovărare; îngreunare.
+pazlahewes s. surescitare.
+pazlaheweslengen adj. surescitat.
+pazlaimal s. supraproducție.
+pazlaístelgen adj. suprasolicitat.
+pazlaísteme s. suprasolicitare.
+pazlakalabalîk adj. supraaglomerat; suprapopulat.
+pazlakazanş s. supraprofit.
+pazlakáar s. supraprofit.
+pazlakîzîşkan adj. 1. supraîncălzit. 2. surescitat.
+pazlakîzîştîrma s. supraîncălzire.
+pazlakullanîlgan adj. folosit în exces; abuzat.
+pazlakúyğan s. surescitare.
+pazlakúyğanlangan adj. surescitat.
+pazlalîk s. exces; surplus; prisos; excedent; rest. // ●kîymet pazlalîgî — (econ., pol.) plusvaloare. ●yapîm pazlalîgî — (econ., pol.) plusprodus.
+pazlaórseñ s. surescitare.
+pazlaórseñlengen adj. surescitat.
+pazlapesleme s. supraalimentare.
+pazlapeslengen adj. supraalimentat.
+pazlapiyat s. suprapreț.
+pazlapíşken adj. răscopt.
+pazlaşalîşkan adj. suprasolicitat.
+pazlaşalîştîruw s. suprasolicitare.
+pazlatolgan adj. supraîncărcat; ticsit; arhiplin.
+pazlatotîruw s. supraîncărcare; ticsire.
+pazlaúretím s. supraproducție.
+pazlî adj. (tehn.) împănat.
+pánzdah num. (prsn.) cincisprezece.
+pápíş s. papuc. // ●ğollarda pápíş eskírtmek — a-şi rupe papucii drumuri; a hoinări; a vagabonda. ●pápíş kadar tíl şîgarmak — a scoate limba de un cot. ●pápíşín kaybetmek — a-şi pierde cumpătul; a-şi pierde sângele rece. ●pápíşín kaybetmemek — a-şi ține cumpătul; a-şi păstra sângele rece. ●pápíşín kolîna bermek — a da cuiva papucii; a-l alunga. ●pápíşín tawanga atmak — a face pe cineva de râsul lumii. ●pápíşsíz kaşîp ketmek — a o şterge la papuc.
+pápíşeskírtken s., adj. vântură-lume; hoinar; rătăcitor; vagabond.
+pápíşeskírtúw s. vânturare; hoinăreală; vagabondaj.
+pápíşlík s. marchiză; geamlâc; vestibul; antreu.
+peçe s. văl; voal; feregea.
+peçelí adj. cu văl; voalat; cu feregea.
+peçete s. şervețel de masă.
+pedagoğiya s. pedagogie.
+pedagoğiyağî s. educator; pedagog.
+pedagoğiyalîk adj. educativ; pedagogic.
+pedagok s. educator; pedagog.
+pedala s. pedală.
+pedikyúra s. pedichiură.
+pediyatrik adj. (med.) pediatric.
+pediyatriya s. pediatrie.
+pediyatriyağî s. (med.) pediatru.
+pedoloğik adj. pedologic.
+pedoloğiya s. pedologie.
+pedolok s. pedolog.
+pekin adj. sigur; cert.
+pekinlík s. siguranță; certitudine.
+pekiy adv. da; bine; bun.
+pekmez s. magiun; gem.
+pelenk s. (zool.) tigru (lat., Felis tigris).
+pelerina s. pelerină.
+pelesenk s. balsam.
+pelesenkleme s. îmbălsămare.
+pelesenklemek v.t. a îmbălsăma.
+pelesenklengen adj. îmbălsămat.
+pelesenklí adj. îmbălsămat.
+peleş adj. chel; pleşuv.
+peleşlík s. chelie; calviție.
+pelesenkteregí, ğañîdúniya- s. (bot.) copaier (lat., Copaifera officinalis).
+Peletlí s. (topon.) Săcele (jud. Constanța).
+pelte s. peltea; marmeladă.
+peltek s., adj. peltic; gângav; bâlbâit. // ●tílí peltek wurmak — a se bâlbâi; a gângăvi; a vorbi peltic.
+pelteklemek v.i. a vorbi peltic.
+pelteklengen s., adj. peltic; gângav; bâlbâit.
+pelwan s. (sport) luptător; atlet; voinic. // ●pelwnlarnîñ pelwanî — voinicul voinicilor.
+pelwanğa adv. voiniceşte.
+pelwanlîk s. spirit de luptă; spirit atletic; atletism. // ●pelwanlîk sanatlarî — (sport) arte marțiale.
+pembe adj. roz; trandafiriu. // ●pembe kórmek — a vedea totul în roz; a fi optimist.
+pembe-ayaklî-ğelkuwgan s. (orn.) ielcovan cu picior roz ; furtunar cu picioare roz; pasărea-furtunii cu picioare roz (lat., Puffinus carneipes).
+pembe-ayaklî-kaz s. (orn.) gâscă cu cioc scurt (lat., Anser brachyrhynchus).
+pembe-karînlî-ğeleşe s. (orn.) silvie caucaziană (lat., Sylvia mystacea).
+pembe-karînlî-kók-ker s. (orn.) dumbrăveancă albastră cu piept roz (lat., Coracias caudata).
+pembe-karînlî-kók-kuzgun s. (orn.) dumbrăveancă albastră cu piept roz (lat., Coracias caudata).
+pembe-karînlî-kók-zakşa s. (orn.) dumbrăveancă albastră cu piept roz (lat., Coracias caudata).
+pembe-karkîldak s. (orn.) chiră roz; pescăriță roz (lat., Sterna dougallii).
+pembe-kaşîkşî s. (orn.) lopătar roz (lat., Ajaja ajaja).
+pembe-kaya-korîgî s. (bot.) dragoste (lat., Sedum fabaria).
+pembe-mayotî s. (bot.) dragoste (lat., Sedum fabaria).
+pembe-şegertkíğí s. (orn.) lăcustar (lat., Sturnus roseus; Pastor roseus).
+pembe-sîrtlî-kortay s. (orn.) pelican cu spate roz (lat., Pelecanus rufescens).
+pembe-sîrtlî-kutan s. (orn.) pelican cu spate roz (lat., Pelecanus rufescens).
+pembe-sîyîrşîk s. (orn.) lăcustar (lat., Sturnus roseus; Pastor roseus).
+pembe-tumşuklî-şomar s. (orn.) rață cu cioc roz (lat., Netta peposaca).
+pembeturna, balaban- s. (orn.) flaming mare (lat., Phoenicopterus roseus).
+pembeturna, kíşkene- s. (orn.) flaming mic (lat., Phoeniconaias minor).
+pembeturnasî, Amerika-balaban- s. (orn.) flaming mare american (lat., Phoenicopterus ruber).
+penaltî s. (sport) penalti.
+penç num. (prsn.) cinci.
+pençşenbe s. (cron., prsn.) joi.
+pener s. (gastron.) brânză. // ●helwet penerí — şvaițer. ●koy penerí — brânză de oaie. ●teleme penerí — brânză telemea. ●tuwar/sîyîr penerí — brânză de vacă. ●zerdap penerí — urdă; caş proaspăt.
+penerdiy adj. brânzos.
+penerlí adj. cu brânză; brânzos. // ●penerlí bórek — plăcintă cu brânză. ●penerlí kómbe — papanaş. ●penerlí makoron — macaroane cu brânză.
+penerlík s. felinar. // ●masal penerlígí — lampion.
+penğah num. (prsn.) cincizeci.
+penğíre s. 1. fereastră. 2. uşiță de ghişeu. // ●penğíre katînda bír masa — o masă lângă fereastră. ●penğíre kózí — ochi de fereastră. ●penğíreler kafeslí — ferestrele au gratii. ●penğírení aşayîm mî? — să deschid fereastra?; ●penğírení ğap! — închide fereastra!; ●penğírení kapatayîk! — să închidem fereastra!; ●renklí ğamlî penğíre — vitraliu.
+penğíreastî s. pervaz.
+penğírebastîrmasî s. jaluzea; transperant.
+peniçilina s. (farm.) penicilină.
+penis s. (anat.) penis.
+penseta s. pensetă.
+pensiya s. pensie.
+pensiyağî s. pensionar.
+pensiyon s. 1. pension. 2. pensiune.
+penşe s. 1. labă; gheară; gheare. 2. (la încălțăminte) talpă; pingea. // ●penşe wurmak — a pingeli.
+penşelemek v.t. (d. păsări) a apuca cu ghearele; a prinde în gheare.
+penşeleşmek v.i. 1. a se bate cu ghearele. 2. (fig.) a se zbate.
+pentagon s. (geom.) pentagon.
+pentagonal adj. (geom.) pentagonal.
+pepit adj. cu picățele; pepit.
+pepiy s. (orn.) curcă; curcan (lat., Meleagris gallopavo). // ●dolma pepiy — curcan umplut. ●pepiy etí — carne de curcan.
+pepsina s. pepsină.
+perakende adj. împrăştiat; dispersat. // ●perakende satîş — vânzare cu amănuntul.
+perdah s. 1. lustruire; şlefuire. 2. luciu; strălucire.
+perdahlama s. lustruire; şlefuire.
+perdahlamak v.t. a lustrui; a şlefui.
+perdahlangan adj. lustruit; şlefuit.
+perdahlaw s. lustruire; şlefuire.
+perdahlez s. zori de zi; revărsatul zorilor; auroră; aureolă; halo. // ●perdahlez atmak — a se revărsa zorile.
+perdahlî adj. 1. lustruit; şlefuit. 2. lucitor; lucios; strălucitor.
+perdahşî s. lustruitor; şlefuitor.
+perde s. 1. perdea; paravan. 2. (în pictură) nuanță; tentă; tuşă; ton. 3. (anat.) membrană. 4. (muz.) ton; tonalitate; intonație. 5. (teatr.) act. 6. ecran; cortină. 7. (med.) cataractă. // ●kózíne perde asmak — a-i pune cuiva pânza pe ochi; a-l înşela. ●perde bastîrmak — a acoperi cu cortina; a muşamaliza. ●úst perdeden konîşmak — a vorbi cuiva pe un ton superior; a-i vorbi de sus. // ●bír perdeden ses — (muz.) unison. ●bírínğí perde — (la teatr.) actul întâi. ●ekínğí perde — (la teatr.) actul al doilea. ●kulak perdesí — (anat.) timpan. ●perde arkasînda — în culise; în secret; pe ascuns. ●renk perdesí — (în pictură) nuanță; tentă; tuşă; ton.
+perdeartî s. culise.
+perdebasîlgan adj. voalat; muşamalizat.
+perdebastîrmasî s. voalare; muşamalizare.
+perdelemek v.t. a trage cortina.
+perdelenmek v.i. a se trage cortina.
+perdelí adj. ecranat.
+perdelí-ğawunkuşî s. (orn.) prundăraş semipalmat (lat., Charadrius semipalmatus).
+perdelí-kumtawuk s. (orn.) fugaci semipalmat (lat., Calidris pusilla).
+perdelí-suwtorgay s. (orn.) prundăraş semipalmat (lat., Charadrius semipalmatus).
+perdesíz adj. fără perdea (şi fig.).
+perdesízlík s. neruşinare; grosolănie.
+pereğe s. feregea.
+perese s. 1. (constr.) fir de plumb; poloboc. 2. stare; situație. // ●peresege almak — a cumpăni.
+peresegealîngan adj. măsurat.
+peresegealuw s. măsurare.
+perestiş s. 1. cult; divinizare. 2. curte; curtare. // ●perestiş etmek — a face curte unei femei; a o curta.
+perestişçí s. crai; curtezan.
+perforasiya s. perforare.
+pergament s. pergament. // ●pergament káátí — hârtie pergament.
+pergel s. (mat.) compas. // ●pergel takîmî — (mat.) trusă de compas.
+pergelleme s. 1. măsurare cu compasul. 2. (fig.) plănuire; proiectare.
+pergellemek v.t. 1. a măsura cu compasul. 2. (fig.) a plănui; a proiecta.
+pergellengen adj. 1. măsurat cu compasul. 2. (fig.) plănuit; proiectat.
+perğímegí, suw- s. (bot.) linte-de-baltă; lintiță; mătasea-broaştei (lat., Lemna minor).
+perğímek s. (bot.) linte (lat., Lens esculenta). // ●perğímek şorbasî — supă de linte.
+Perhat/Ferhat s. (antrop. m., prsn.) nume legendar persan.
+perhiz s. regim alimentar; dietă.
+Peride/Feride s. (antrop. f., arab.) “Cea fără asemănare”.
+Peridun/Feridun s. (antrop. m., prsn.) “Cel puternic cât trei” (nume legendar persan).
+periferik adj. periferic.
+perikart s. (anat.) pericard.
+perinewum s. (anat.) perineu.
+periskop s. (nav.) periscop.
+Perit/Ferit s. (antrop. m., arab.) “Cel fără asemănare”.
+peritonewum s. (anat.) peritoneu; prapur.
+peritonita s. (med.) inflamarea peritoneului; peritonită.
+periy s. (mitol.) zână; zeiță; nimfă; muză. // ●mehaz periysí — muză.
+periy-dudukuşî s. (orn.) papagal-nimfă (lat., Nymphicus hollandicus).
+periyşte s. (relig.) înger; ființă de lumină.
+periyştem interj. îngerul meu!;
+Perkunde/Ferkunde s. (antrop. f., prsn.) “Cea voioasă”.
+permanent adj. permanent.
+permanganat s. (chim.) permanganat.
+peron s. peron. // ●peron kaysî yakta? — în ce parte este peronul?;
+perone s. (anat.) fibulă; peroneu.
+personaj s. personaj.
+personal s. personal; efectiv de persoane.
+perspektif s. perspectivă.
+perşan adj. 1. răvăşit; împrăştiat; în dezordine; dezordonat. 2. (fig.) ruinat; distrus. // ●perşan etmek — a răvăşi.
+perşanetken adj. derutant.
+perşanlaşkan adj. răvăşit.
+perşanlaşma s. răvăşeală.
+perşanlaşmak v.i. a se răvăşi.
+perşanlaşuw s. răvăşeală.
+perşanlîk s. răvăşeală; derută; dezordine; împrăştiere.
+perşem s. moț de păr; şuviță. // ●şáş perşemí — şuviță.
+perşembí s. (cron.) joi. // ●ewelsí gún perşembí edí — alaltăieri a fost joi.
+perşembígúní s. (cron.) joi.
+perşemlí adj. moțat; cu şuviță.
+perşín s. nit. // ●kómílgen perşín — (tehn.) nit cu cap înecat.
+perşínleme s. 1. nituire. 2. (fig.) întărire; consolidare.
+perşínlemek v.t. 1. a nitui. 2. (fig.) a întări; a consolida.
+perşínlengen adj. 1. nituit. 2. (fig.) întărit; consolidat.
+perşínlí adj. nituit.
+peruka s. perucă.
+perukağî s. peruchier.
+Peruw s. (topon.) Peru.
+Peruw-kerwankuşî s. (orn.) pasărea-ogorului peruviană (lat., Burhinus superciliaris).
+peruwlî s., adj. peruan; peruvian.
+peruw-şayî s. (bot.) mate (lat., Ilex paraguayensis).
+peruze s. turcoază; peruzea.
+Peruze/Feruze s. (antrop. f., prsn.) “Peruzea”.
+peruzerengí adj. turcoaz.
+Pervin s. (astr., antrop. m., f., prsn.) Pleiadele; Cloşca-cu-Pui.
+perwane s. 1. (ent.) molie (lat., Tinea). 2. (tehn.) elice. // ●tayyare perwanesí — elice de avion.
+perwanelí adj. (mat.) spiralat; elicoidal.
+perwaz s. pervaz.
+Perwel s. (topon.) Moşneni (jud. Constanța).
+pes I. adj. 1. (muz.) jos; grav; gros; adânc; profund. 2. jos; scund; scăzut. 3. (fig.) josnic; mârşav; infam; meschin. II. s. fes. // ●pes kórmek — a înjosi; a disprețui. // ●pes figellí — modest.
+pesbolgan adj. umilit.
+pesboy(lî) adj. scund; mărunt; mic de statură.
+pesçe adv. mişeleşte.
+pesiy s. aliment; hrană.
+pesiyórúw s. (biol.) albumen.
+pesiysuwî s. sevă.
+peskîzîl s., adj. (fiz.) infraroşu.
+peskórílgen adj. disprețuit; înjosit.
+peskórúw s. dispreț; înjosire.
+peskórúwğí adj. disprețuitor; înjositor.
+peslegen adj. nutritiv; hrănitor; substanțial.
+pesleme s. hrănire; alimentare; nutriție.
+peslemegen adj. nehrănitor.
+peslemek v.t. 1. a hrăni; a alimenta. 2. a îngriji; a întreține (şi fig.). 3. a creşte (păsări, animale). 4. (fig.) a nutri. // ●pazla peslemek — a supraalimenta. ●saygî peslemek — a nutri respect; a stima. ●úmút peslemek — a nutri speranța; a nădăjdui. ●yetersíz peslemek — a subalimenta.
+peslengen adj. hrănit; alimentat.
+peslenmek v.i. a se hrăni; a se alimenta.
+peslenmeme s. malnutriție.
+peslewğí adj. nutritiv; hrănitor; substanțial.
+peslí adj. bine hrănit; gras.
+peslík s. josnicie; mârşăvie; infamie; vulgaritate.
+pestek s. fistic (fruct).
+peş s. 1. urmă. 2. sobă; cuptor. // ●peşíne túşmek — a lua urma cuiva; a fi pe urmele cuiva; a-l urmări.
+peşek s. (iht.) nisipariță (lat., Cobitis caspia romanica).
+peşete s. şervețel.
+peşew s. urină.
+peşewtógúw s. urinare.
+peşin I. adj. peşin. II. adv. dinainte; în prealabil.
+peşínetúşúlgen adj. fugărit; urmărit.
+peşínetúşúw s. fugărire; urmărire.
 `;
 export default rawDictionaryText;
