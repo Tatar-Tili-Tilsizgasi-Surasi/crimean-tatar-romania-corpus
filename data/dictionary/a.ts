@@ -1592,4 +1592,3 @@ Alí-Bey-Kóy s. (topon., localitate desființată, lângă Căscioarele) Alibei
 Alí-Fakih/Alí-Bakî s. (topon.) ("Ali Evlaviosul") Alifaca (azi Războieni, prin unire cu satul Ciauşchioi) (jud. Tulcea).
 alím s., adj. învățat; savant; cărturar; erudit.
 `;
-export default rawDictionaryText;
