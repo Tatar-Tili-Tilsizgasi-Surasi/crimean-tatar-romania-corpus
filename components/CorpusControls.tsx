@@ -1,3 +1,4 @@
+
 import React, { useState, useRef, useEffect } from 'react';
 import Keyboard from './Keyboard';
 
@@ -25,6 +26,13 @@ const ChevronDownIcon: React.FC<{className?: string}> = ({className}) => (
     </svg>
 );
 
+const EyeIcon: React.FC<{className?: string}> = ({className}) => (
+    <svg xmlns="http://www.w3.org/2000/svg" className={className} fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
+        <path strokeLinecap="round" strokeLinejoin="round" d="M15 12a3 3 0 11-6 0 3 3 0 016 0z" />
+        <path strokeLinecap="round" strokeLinejoin="round" d="M2.458 12C3.732 7.943 7.523 5 12 5c4.478 0 8.268 2.943 9.542 7-1.274 4.057-5.064 7-9.542 7-4.477 0-8.268-2.943-9.542-7z" />
+    </svg>
+);
+
 interface CorpusControlsProps {
   entryCount: number;
   totalCount: number;
@@ -36,6 +44,10 @@ interface CorpusControlsProps {
   categories: string[];
   selectedCategory: string;
   onCategoryChange: (category: string) => void;
+  showTranslations: boolean;
+  onToggleTranslations: () => void;
+  showSources: boolean;
+  onToggleSources: () => void;
 }
 
 const CorpusControls: React.FC<CorpusControlsProps> = ({
@@ -48,11 +60,18 @@ const CorpusControls: React.FC<CorpusControlsProps> = ({
   onExportTxt,
   categories,
   selectedCategory,
-  onCategoryChange
+  onCategoryChange,
+  showTranslations,
+  onToggleTranslations,
+  showSources,
+  onToggleSources
 }) => {
   const [isKeyboardVisible, setIsKeyboardVisible] = useState(false);
   const [isExportMenuOpen, setIsExportMenuOpen] = useState(false);
+  const [isViewMenuOpen, setIsViewMenuOpen] = useState(false);
+  
   const exportMenuRef = useRef<HTMLDivElement>(null);
+  const viewMenuRef = useRef<HTMLDivElement>(null);
 
   const showFilteredCount = searchQuery || selectedCategory !== 'All' || entryCount !== totalCount;
 
@@ -69,12 +88,15 @@ const CorpusControls: React.FC<CorpusControlsProps> = ({
       if (exportMenuRef.current && !exportMenuRef.current.contains(event.target as Node)) {
         setIsExportMenuOpen(false);
       }
+      if (viewMenuRef.current && !viewMenuRef.current.contains(event.target as Node)) {
+        setIsViewMenuOpen(false);
+      }
     };
     document.addEventListener('mousedown', handleClickOutside);
     return () => {
       document.removeEventListener('mousedown', handleClickOutside);
     };
-  }, [exportMenuRef]);
+  }, [exportMenuRef, viewMenuRef]);
 
   const handleExportClick = (exportFunc: () => void) => {
     exportFunc();
@@ -143,44 +165,87 @@ const CorpusControls: React.FC<CorpusControlsProps> = ({
             </select>
           </div>
           
-          <div className="relative w-full md:w-auto" ref={exportMenuRef}>
-            <button
-              onClick={() => setIsExportMenuOpen(!isExportMenuOpen)}
-              className="flex items-center justify-center w-full gap-2 px-4 py-2 bg-slate-200 text-sm font-medium rounded-md hover:bg-slate-300 transition-colors"
-              aria-haspopup="true"
-              aria-expanded={isExportMenuOpen}
-              aria-label="Export options"
-            >
-              <DownloadIcon className="h-4 w-4" />
-              Export
-              <ChevronDownIcon className="h-4 w-4" />
-            </button>
-             {isExportMenuOpen && (
-                <div 
-                  className="absolute right-0 mt-2 w-40 bg-white rounded-lg shadow-xl border border-slate-200 py-1 z-10 animate-fade-in-fast"
-                  role="menu"
+          <div className="flex items-center gap-2 w-full md:w-auto">
+             {/* View Options Dropdown */}
+            <div className="relative w-full md:w-auto flex-1" ref={viewMenuRef}>
+                <button
+                onClick={() => setIsViewMenuOpen(!isViewMenuOpen)}
+                className="flex items-center justify-center w-full gap-2 px-3 py-2 bg-slate-200 text-sm font-medium rounded-md hover:bg-slate-300 transition-colors"
+                aria-haspopup="true"
+                aria-expanded={isViewMenuOpen}
+                aria-label="View options"
                 >
-                  <a
-                    href="#"
-                    onClick={(e) => { e.preventDefault(); handleExportClick(onExportJson); }}
-                    className="flex items-center gap-2 w-full text-left px-4 py-2 text-slate-700 hover:bg-slate-100"
-                    role="menuitem"
-                  >
-                    Export JSON
-                  </a>
-                  <a
-                    href="#"
-                    onClick={(e) => { e.preventDefault(); handleExportClick(onExportTxt); }}
-                    className="flex items-center gap-2 w-full text-left px-4 py-2 text-slate-700 hover:bg-slate-100"
-                    role="menuitem"
-                  >
-                    Export TXT
-                  </a>
-                  <p className="text-xs text-slate-500 px-4 pt-2 pb-1 border-t border-slate-100">
-                    Includes translations and sources.
-                  </p>
-                </div>
-              )}
+                <EyeIcon className="h-4 w-4" />
+                View
+                <ChevronDownIcon className="h-4 w-4" />
+                </button>
+                {isViewMenuOpen && (
+                    <div 
+                    className="absolute right-0 mt-2 w-48 bg-white rounded-lg shadow-xl border border-slate-200 py-1 z-10 animate-fade-in-fast"
+                    role="menu"
+                    >
+                        <label className="flex items-center gap-3 px-4 py-2 hover:bg-slate-100 cursor-pointer select-none">
+                            <input 
+                                type="checkbox" 
+                                checked={showTranslations} 
+                                onChange={onToggleTranslations}
+                                className="w-4 h-4 text-cyan-600 rounded focus:ring-cyan-500 border-slate-300"
+                            />
+                            <span className="text-sm text-slate-700">Translations</span>
+                        </label>
+                        <label className="flex items-center gap-3 px-4 py-2 hover:bg-slate-100 cursor-pointer select-none">
+                            <input 
+                                type="checkbox" 
+                                checked={showSources} 
+                                onChange={onToggleSources}
+                                className="w-4 h-4 text-cyan-600 rounded focus:ring-cyan-500 border-slate-300"
+                            />
+                            <span className="text-sm text-slate-700">Sources</span>
+                        </label>
+                    </div>
+                )}
+            </div>
+
+            {/* Export Dropdown */}
+            <div className="relative w-full md:w-auto flex-1" ref={exportMenuRef}>
+                <button
+                onClick={() => setIsExportMenuOpen(!isExportMenuOpen)}
+                className="flex items-center justify-center w-full gap-2 px-3 py-2 bg-slate-200 text-sm font-medium rounded-md hover:bg-slate-300 transition-colors"
+                aria-haspopup="true"
+                aria-expanded={isExportMenuOpen}
+                aria-label="Export options"
+                >
+                <DownloadIcon className="h-4 w-4" />
+                Export
+                <ChevronDownIcon className="h-4 w-4" />
+                </button>
+                {isExportMenuOpen && (
+                    <div 
+                    className="absolute right-0 mt-2 w-40 bg-white rounded-lg shadow-xl border border-slate-200 py-1 z-10 animate-fade-in-fast"
+                    role="menu"
+                    >
+                    <a
+                        href="#"
+                        onClick={(e) => { e.preventDefault(); handleExportClick(onExportJson); }}
+                        className="flex items-center gap-2 w-full text-left px-4 py-2 text-slate-700 hover:bg-slate-100"
+                        role="menuitem"
+                    >
+                        Export JSON
+                    </a>
+                    <a
+                        href="#"
+                        onClick={(e) => { e.preventDefault(); handleExportClick(onExportTxt); }}
+                        className="flex items-center gap-2 w-full text-left px-4 py-2 text-slate-700 hover:bg-slate-100"
+                        role="menuitem"
+                    >
+                        Export TXT
+                    </a>
+                    <p className="text-xs text-slate-500 px-4 pt-2 pb-1 border-t border-slate-100">
+                        Based on current view settings.
+                    </p>
+                    </div>
+                )}
+            </div>
           </div>
         </div>
       </div>
