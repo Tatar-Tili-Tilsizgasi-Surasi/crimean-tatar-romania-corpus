@@ -474,8 +474,8 @@ uzaktanemretúwğí s. telecomandă.
 uzaktanğón s. teleghidare.
 uzaktanğónberúw s. teleghidare.
 uzaktanğónlí adj. teleghidat.
-uzaktan idare s. teleghidare.
-uzaktan idarelí adj. teleghidat.
+uzaktanidare s. teleghidare.
+uzaktanidarelí adj. teleghidat.
 uzaktankórílgen adj. 1. previzibil. 2. prevăzut; întrevăzut.
 uzaktankórmegen adj. (med.) miop.
 uzaktankórmeme s. (med.) miopie.
