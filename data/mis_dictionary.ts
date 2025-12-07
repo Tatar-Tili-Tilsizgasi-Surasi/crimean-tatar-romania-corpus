@@ -4,6 +4,7 @@ Awustin s. (topon.) Austin.
 çm s. (abreviere pentru „çentimetre” = centimetru) cm
 Fukuşima s. (topon.) Fukushima, Japan.
 Ğadîlar Bayramî s. Halloween.
+Ğorğiye s. Georgia, USA.
 Kaliforniye s. (topon.) California.
 Korezmiy, El- s. (antrop. m., prsn.) nume legendar persan. // ● El-Korezmiy ifadesí — (fon.) predictibilitate (termen special folosit în fonetica limbii tătare).
 ok s. (abreviere pentru „okka” = kilogram) kg 
