@@ -1591,4 +1591,115 @@ alí adj. cel mai înalt; superior; suprem; sublim; elevat; ilustru.
 Alí-Bey-Kóy s. (topon., localitate desființată, lângă Căscioarele) Alibeichioi (jud. Constanța).
 Alí-Fakih/Alí-Bakî s. (topon.) ("Ali Evlaviosul") Alifaca (azi Războieni, prin unire cu satul Ciauşchioi) (jud. Tulcea).
 alím s., adj. învățat; savant; cărturar; erudit.
+alímlík s. 1. înțelepciune; cultură; erudiție. 2. (univ.) licență.
+alímlíklí adj. (univ.) licențiat; titrat.
+alîm s. 1. cumpărare. 2. farmec; atracție. 3. taxă; impozit; bir. 4. metodă; mijloc; procedeu. // ●alîm kabiliyetí — putere de cumpărare. ●alîm tabanî — bază de impozitare.
+alîmğî s. perceptor.
+alîmğîygan s. perceptor.
+alîmlama s. taxare; impozitare.
+alîmlamak v.t. a taxa; a impozita.
+alîmlangan adj. taxat; impozitat.
+alîmlanmak v.i. a se taxa; a se impozita.
+alîmlî adj. 1. fermecător; atrăgător. 2. metodic; cu metodă; ordonat.
+alîm-salîm s. zdreanță; treanță; cârpă.
+alîmsalînîr adj. (fin.) impozabil.
+alîn I. adj. frontal. II. s. 1. (anat.) frunte. 2. (arhit.) fronton.
+alîndî s. chitanță; recipisă.
+alîngan adj. luat; însuşit. // ●mayî alîngan sút — lapte degresat.
+alîngan-satîlgan adj. comercializat; vândut.
+alînğa adv. frontal.
+alînlîk I. adj. frontal. II. s. 1. diademă. 2. (arhit.) fronton.
+alînma s. (mil.) cădere.
+alînmak v.i. a fi luat; a fi însuşit. // ●ayak astîna almak — a călca în picioare; a încălca; a lua peste picior; a desconsidera. ●itibarga alînmak — a se respecta; a fi stimat; a fi omagiat. // ●dîkkatka alînağak — demn de luat în seamă. ●satîp alîngan asker — mercenar.
+alînmama s. invincibilitate; inaccesibilitate.
+alînmaykalgan adj. neinclus.
+alînmaykalîr adj. invincibil.
+alînmaykalma s. invincibilitate.
+alînmaz adj. invincibil; inaccesibil. // ●resím alînmaz — fotografiatul interzis.
+alînmazbalaka s. citadelă.
+alînmazkaka s. citadelă.
+alîp-baruw s. ducere; conducere.
+alîp-bereğek s. legătură; relație. // ●alîp-bereğegí bolmamak — a nu avea nimic de împărțit cu cineva; a nu avea nimic a face cu cineva; a nu avea nici în clin, nici în mânecă cu cineva. // ●mením oman heş bír alîp-bereğegím yok — nu am nicio relație cu el.
+alîp-kaşuw s. răpire; furt.
+alîp-satîlgan adj. revândut.
+alîrkan s. 1. merişor (fruct). 2. (bot.) merişor; smirdar (lat., Vaccinium vitis idaea).
+alîrşa s. 1. afină. 2. (bot.) afin (lat., Vaccinium myrtillus).
+alîrşalîk s. afiniş; afinet.
+alîş s. 1. păducea; gherghină. 2. (bot.) păducel; gherghin (lat., Crataegus monogyna).
+alîş, beşiynelí- s. (bot.) păducel; ramn (lat., Crataegus oxyacantha).
+alîşaalmaz adj. inadaptabil.
+alîş-beríş s. comerț; negoț; speculă.
+alîşîk adj. adaptat; obişnuit; acomodat; deprins.
+alîşkan adj. adaptat; obişnuit; acomodat; deprins.
+alîşkanlîk s. adaptare; obicei; obişnuință; acomodare; deprindere; sârguință.
+alîşkanlîktan adv. obişnuit; din obişnuință.
+alîşma s. 1. acomodare; obişnuință; obicei. 2. deprindere. // ●klimaga alîşma — aclimatizare.
+alîşmagan adj. nedeprins.
+alîşmak v.i. 1. a se acomoda; a se obişnui. 2. a se deprinde; a se învăța (cu ceva). // ●hawasîna alîşmak — a se aclimatiza. ●yaman alîşmak — a se învăța cu nărav. // ●heş bír túrlí alîşa almayman — nu pot să mă obişnuiesc deloc.
+alîşmaykalgan adj. inadaptabil; nedresat.
+alîştîrîlaalma s. adaptabilitate; versatilitate.
+alîştîrîlgan adj. dresat; instruit.
+alîştîrîlîr adj. adaptabil.
+alîştîrîlmagan adj. nedresat; neinstruit.
+alîştîrma s. exercițiu; exersare. // ●alîştîrma gemísí — (nav.) navă şcoală. ●beden alîştîrmasî — (sport) exercițiu fizic. ●ğismaniy alîştîrma — (sport) exercițiu fizic.
+alîştîrmak v.t. 1. a acomoda; a obişnui. 2. a deprinde; a instrui. 3. a potrivi. // ●kolga/kíşíge alîştîrmak — a îmblânzi; a domestici.
+alîştîruw s. exercițiu; exersare.
+alîşuw s. adaptare; obicei; obişnuință; acomodare; deprindere; sârguință.
+alkalin adj. (chim.) alcalin.
+al-kan adj. roşu sângeriu. // ●al-kanga boyamak — a bate până la sânge; a umple de sânge.
+al-kanatlî-karatawuk s. (orn.) mierlă cu aripi roşii (lat., Agelaius phoeniceus).
+al-kanday adj. roşu sângeriu.
+al-karînlî-balkuşî s. (orn.) pasăre-nectar cu piept roşu (lat., Nectarinia habessinica).
+al-karînlî-kalîntumşuk s. (orn.) botgros cu piept roşu (lat., Pheucticus ludovicianus).
+al-karînlî-şakrak s. (orn.) botgros cu piept roşu (lat., Pheucticus ludovicianus).
+alkimist s. alchimist.
+alkimiya s. alchimie.
+alkimiyağî s. alchimist.
+alkîm s. curcubeu.
+al-kîrmîzî adj. roşu aprins; stacojiu.
+alkîş s. aplauze; urale. // ●alkîşka tutmak — a aclama. // ●ğandan alkîş — ovație. ●kulak batîrgan alkîşlar — aplauze asurzitoare. ●súreklí alkîşlar — aplauze prelungite.
+alkîşkatutuw s. aclamație; ovație.
+alkîşlama s. ropot de aplauze.
+alkîşlamak v.i., v.t. a aplauda; a aclama.
+alkîşlanmak v.i. a fi aplaudat; a fi aclamat.
+alkîşlar s., pl. aplauze; urale.
+alkîşlaw s. aplauze; aclamație.
+alkol s. spirt; alcool. // ●metilik alkol — (chim.) alcool metilic.
+alkolgakarşî s., adj. antialcoolic.
+alkolğîlîk s. alcoolism.
+alkolik adj. spirtos; alcoolic.
+alkolism s. alcoolism.
+alkolkatîlgan adj. alcoolizat.
+alkolkatuw s. alcoolizare.
+alkollaşkan adj. alcoolizat.
+alkollaşmak v.i. a se alcooliza.
+alkollaştîrma s. alcoolizare.
+alkollaştîrmak v.t. a alcooliza.
+alkollaştîruw s. alcoolizare.
+alkollî adj. spirtos; alcoolic. // ●alkollî íşkí — băutură alcoolică.
+alkolsîz adj. nealcoolic.
+al-kumtawuk s. (orn.) notatiță cu cioc lat (lat., Phalaropus fulicarius).
+al-kuralay s. (orn.) mugurar roşu (lat., Carpodacus erythrinus).
+Alla(h) s. (relig., arab.) "Dumnezeu"; “Singurul Dumnezeu” (unul din cele 99 preafrumoase nume atribuite în Coran lui Dumnezeu/Allah). // ●Alla(h) bereket bersín! — grație lui Dumnezeu!; să vă dea Dumnezeu belşug!; ●Alla(h) bersín! — (relig.) să dea Dumnezeu!; ●Alla(h) korîsîn! — (relig.) doamne păzeşte!; ●Alla(h) korşalasîn beladan, kazadan! — (relig.) Domnul să ferească de nenorociri şi accidente!; ●Alla(h) korşalasîn! — (relig.) doamne păzeşte!; ●Alla(h) kóstermesín! — (relig.) doamne fereşte!; ●Alla(h) kutarsîn! — (relig.) doamne păzeşte!; ●Alla(h) nazardan saklasîn! — (în superstiții) să nu-i fie de deochi!; ●Alla(h) rahmetiylesín! — (relig.) Dumnezeu să-l ierte!; ●Alla(h) selamet bersín! — (relig.) să vă dea Dumnezeu sănătate!; ●Alla(h) uzun ómír bersín! — să vă dea Domnul viață îndelungată!; ●Allaga sîmarladîk! — la revedere!; ●Allaga şúkúr! — slavă Domnului!; prin harul lui Dumnezeu!; ●Allasíz bír şiy bolmaz — nimic nu este posibil fără Dumnezeu. ●ay, Alla(h)! — vai de mine!; vai, Doamne!; Dumnezeule!;
+allabergen s. har.
+allasîz I. adj. 1. necredincios. 2. neruşinat; necinstit. 3. fără Dumnezeu. II. s. ateu.
+allasîzlîk s. ateism.
+allaşkan adj. înroşit.
+allaşma s. înroşire.
+allaşmak v.i. a se înroşi.
+allaştîrmak v.t. a înroşi.
+allaşuw s. înroşire.
+Allámiy/Alláme s. (antrop. m., arab.) "Învățatul"; "Înțeleptul"; "Eruditul" (unul din cele 400 de nume atribuite în Coran Profetului Muhammed Aliyselam).
+allegím adj. vanitos; încrezut; îngâmfat; înfumurat; arogant.
+allegímlík s. vanitate; îngâmfare; înfumurare; aroganță.
+allene adv. urât; neplăcut.
+allenekíy adj. nearătos; urât; dezagreabil; neplăcut; peiorativ. // ●allenekíy kósterúwğí — peiorativ.
+allenekíylík adj. urâțenie.
+allîk s. 1. roşu; roşeață; culoarea roşie. 2. ruj de buze.
+alma s. măr (fruct). // ●kórewínden almak — a-l destitui. // ●almanîñ ózegí — miezul mărului.
+almadan adv. fără a lua.
+almağîk súyegí s. (anat.) pomete.
+almak A. v.i. a încăpea; a intra; a cuprinde. B. v.m. 1. (precedat de forma simplă a ger. redupl. în -y/-a/-e) a putea să…; a reuşi să…; a fi în stare să…; a avea voie să…; 2. (precedat de ger. univsl. în -îp/-íp/-up/-úp) a realiza rapid; a înfăptui într-un interval foarte scurt. C. v.t. 1. a lua; a apuca. 2. a primi; a obține. 3. a cumpăra. 4. a câştiga; a obține. 5. a cuceri; a ocupa. 6. a cuprinde; a învălui. 7. a extrage. // ●abdest almak — (relig., la musulmani) a face abluțiune. ●akîlî almamak — a nu-l duce mintea; a nu-l tăia capul; a nu pricepe. ●akîlîn almak — a-i lua mințile; a-l scoate din minți. ●akîlîn başîna almak — a-şi băga mințile în cap. ●aldîn almak — a prevedea; a preîntâmpina; a avansa; a i-o lua cuiva înainte. ●alîp barmak — a conduce; a duce. ●alîp satmak — a trafica; a comercializa; a face negoț. ●araga almak — a pune la mijloc; a învălui. ●arpaşîkka almak — a lua în cătare; a ochi. ●askerlíkke almak — a lua în armată; a recruta; a înrola. ●ateş almak — a se aprinde; a lua foc. ●awuruwun kolî man almak — a-i lua cuiva durerea cu mâna. ●awuzundan kawumun almak — a-i lua cuiva pâinea de la gură. ●awuzundan lafnîn almak — a lua cuiva vorba din gură; a spune tocmai ceea ce voia să zică alcineva. ●ayaklarîn deñkke almak — a merge în pas cu cineva; a ține pasul cu cineva; a se adapta împrejurărilor. ●başî almamak — a nu-l duce mintea; a nu-l tăia capul; a nu pricepe. ●başîn alîp ketmek — a-şi lua câmpii; a-şi lua lumea în cap. ●başîn aşaga almak — a pleca capul; a lăsa privirea în pământ; a-i cădea nasul. ●başîn koltîknîñ astîna almak — a-şi pune pielea în saramură. ●basîp almak — a ocupa; a invada; a cotropi. ●baştan hesapka almak — a preconiza. ●bílgí almak — a se informa. ●bírden tartîp almak — a smuci. ●borîşka almak — a lua cu împrumut; a împrumuta. ●buyuruk astî almak — a avea pe cineva sub mână; a-l supune; a-l subordona; a-l subjuga. ●dadîn almak — a da de gustul…; a începe să-i placă. ●deren bír nefes almak — a inspira adânc; a-şi trage sufletul; a răsufla uşurat. ●dîkkatka almak — a lua în considerare; a acorda atenție. ●dîkkatka almamak — a nu lua în seamă; a scăpa din vedere. ●esaret astîna almak — a înrobi; a subjuga. ●esín almak — a se inspira. ●etrafîn almak — a înconjura; a încercui. ●ewlatlîk almak — a lua de suflet. ●filmge almak — a filma. ●ğanîn almak — a lua viața cuiva; a-i curma zilele; a-l ucide. ●ğel almak — a-şi face vânt; a-şi lua avânt; a porni cu viteză. ●ğephe almak — a lua poziție; a lua atitudine. ●ğerín almak — a-i lua cuiva locul. ●ğesaret almak — a prinde inimă; a căpăta curaj. ●ğetekke almak — a remorca. ●ğewap almak — a primi răspuns. ●ğiddiyge almak — a lua în serios. ●ğol almak — a-şi căuta de drum; a-şi face drum; a avansa. ●góñílín almak — a-i face pe plac; a-l mulțumi; a-l satisface. ●gúnanî ústúne almak — a lua păcatele asupra sa; a pleda vinovat. ●gúnasîn almak — a-şi face păcate cu cineva; a vorbi cu păcat. ●hawa almak — a lua aer; a se aerisi. ●hesapka almak — a pune la socoteală; a ține seama de…; a lua în seamă; a bifa. ●himayesíne almak — a lua sub protecție. ●hîz almak — a-şi lua avânt; a lua viteză. ●iğar almak — a lua cu chirie; a lua în arendă. ●ilham almak — a se inspira. ●întîkam almak — a se răzbuna. ●itibarga almak — a respecta; a stima; a omagia. ●ízín almak — a lua permisiunea; a se învoi. ●kaber almak — a primi veste; a prinde de veste. ●kalemge almak — a aşterne ceva pe hârtie; a compune; a redacta. ●kan almak — (med.) a lua sânge. ●kanat astîna almak — a lua pe cineva sub aripa sa; a-l ocroti. ●karap almak — a fura cu ochiul. ●karar almak — a hotărî; a decide. ●karşîsîna almak — a-i sta cuiva împotrivă; a i se opune. ●kaş almak — a pensa sprâncenele. ●kastalîk almak — a contacta o boală. ●kayîtka almak — a înregistra; a înscrie; a nota; a consemna; a specifica. ●kayret almak — a fi încurajat. ●kaytarîp almak — a relua; a recupera; a recăpăta. ●kesenekke almak — a lua în arendă. ●kesíp almak — a reteza; a tranşa; a detaşa; a decupa; a amputa; a extirpa; a ciunti. ●kokîsîn almak — a-l adulmeca. ●kol almak — a săruta mâna. ●kolga almak — a pune mâna pe cineva; a-l prinde; a-l înhăța; a-l aresta. ●kolîn almak — a-şi lua mâinile de pe cineva. ●kolîna almak — a lua în mână; a primi în mână. ●kolîndan almak — a-i lua ceva din mână; a-l deposeda. ●koparîp almak — a rupe; a desprinde; a detaşa; a reteza. ●kóz astîna almak — a sta cu ochii pe cineva; a lua la ochi pe cineva; a-l pune sub observație. ●kózge almak — a avea în vedere ceva; a lua la ochi pe cineva. ●kózín almak — a-i lua cuiva ochii; a-l orbi. ●kózín almamak — a nu-şi lua ochii de la…; ●kózín aşaga almak — a coborî ochii; a lăsa privirea în pământ. ●kuşagîna almak — a lua pe cineva în brațe; a-l îmbrățişa; a-l proteja. ●kuşaklap almak — a se arunca de gâtul cuiva. ●kuwat almak — a prinde puteri; a se fortifica; a se întări. ●maskaraga almak — a lua în derâdere; a ironiza; a compromite; a discredita. ●mayîn almak — a-l degresa. ●mísápír almak — a accepta vizitatori. ●moyîndîrîk astîna almak — a pune piciorul pe grumazul cuiva; a-l subjuga. ●nabîzîn almak — a lua cuiva pulsul. ●nazarga almak — a avea în vedere; a lua în considerare; a ține seama de…; ●nefes almak — a inspira; a aspira. ●níşan almak — a ținti; a ochi. ●okka almak — a lua în greutate; a se îngrăşa. ●ólşesín almak — a-i lua măsura; a-l măsura. ●óşín almak — a-şi scoate un foc de la inimă; a se răzbuna. ●ótmegín almak — a-i lua pâinea de la gură. ●óz ğanîn almak — a-şi lua viața; a se sinucide. ●payîn almak — a-şi lua porția; a fi muştruluit. ●peresego almak — a cumpăni. ●rehin almak — a sechestra. ●resím almak — a fotografia. ●resím yapmak — a desena; a picta. ●şakaga almak — a lua în glumă. ●sawluk man kal almak — a-şi lua rămas bun; a-şi lua ziua bună. ●sîraga/sîra man almak — a lua pe cineva la rând. ●sîzgî/ğerge/pwan almak — a câştiga puncte (sport). ●solîk almak — a inspira; a respira. ●solîşîn íşerge almak — a-şi reține suflarea; a tăcea mâlc; a tăcea chitic. ●sóz almak — a lua cuvântul; a vorbi. ●suret almak — a face o copie. ●suw almak — a lua apă; a se îmbiba cu apă. ●suwuk almak — a-l lua frigul; a răci. ●suwutup almak — (gastron.) a frapa. ●taban almak — a-şi lua tălpăşița. ●taksit men almak — a cumpăra în rate. ●talimat almak — a primi instrucțiuni; a se instrui. ●tedbir almak — a lua măsuri. ●tedris almak — a învăța; a se instrui. ●teğerrút astîna almak — a institui o blocadă. ●tekelge almak — a monopoliza. ●temírbaşka almak — a inventaria. ●teslím almak — (com.) a recepționa; a prelua; a primi. ●tînîşîn almak — a-şi trage răsuflarea; a-şi trage sufletul; a se relaxa. ●tírek píşímí almak — a se încolona. ●tîştan satîp almak — a importa. ●toz almak — a şterge praful. ●ústúne almak — a lua asupra sa; a-şi însuşi; a-şi asuma. ●úyrenek almak — a lua exemplu. ●uzaktan almak — a lua pe cineva pe departe. ●viraj almak — a vira. ●wazifesínden almak — a destitui pe cineva. ●yardîm almak — a primi ajutor. ●yawaştan almak — a lua pe cineva cu încetişorul. ●yazîp almak — a transpune în scris; a lua notițe. ●yer almak — a lua loc; a se aşeza. ●zewuk almak — a-i face plăcere; a se desfăta; a se delecta; a savura. ●zewzek/sawut/yarak/silak astîna almak — a lua sub arme; a înrola. ●zor man almak — a lua cu zorul; a constrânge; a forța; a uzurpa. // ●akîl almagan — aberant. ●algan saytîn — pe măsură ce se ia. ●almasî kerek — trebuie să ia. ●añlayman amma konîşa almayman — înțeleg dar nu pot vorbi. ●arkadaşîmnî kóre almadîm — nu l-am putut vedea pe prietenul meu. ●arzîlarîñîznî nazarga alağakman — voi avea în vedere dorințele dumneavoastră. ●at arabasî kíre almaz — accesul interzis vehiculelor cu tracțiune animală. ●atîñîznî al-almadîm — nu v-am reținut numele. ●bír şiy yapa almagan — neputincios. ●bo dergílerní de alîñîz! — luați şi revistele acestea!; ●farlar kózímní aldî — farurile m-au orbit. ●ğatkan yerínden tur-almay — nu se poate ridica din pat. ●ğayaw kír-almaz — accesul interzis pietonilor. ●geşen sene bírínğílíkní aldî — anul trecut a luat premiul întâi. ●heş bír túrlí alîşa almayman — nu pot să mă obişnuiesc deloc. ●kablet-almayman — nu pot să accept. ●kóre alîrman mî? — pot să văd?; ●motorlî telege kíre almaz — accesul interzis tuturor autovehiculelor. ●sáátím aldîn ala — ceasul meu merge înainte. ●sáde bo takîl kóre aldîm — numai atât am putut să văd. ●sízge bír şiy vaat et-almam — nu vă pot promite nimic. ●sízge sóz bere almam — nu vă pot promite. ●sízní takip et-almayman — nu pot să vă urmăresc. ●suw alîp septím — am luat apă şi am stropit. ●taşît kíre-almaz — intrarea vehiculelor interzisă. ●topnî kaytar-almadî — n-a reuşit să returneze mingea. ●yok, bonî yapa almam — nu, nu pot să fac asta.
+al-makaw-dudukuşî s. (orn.) papagal ara macao (lat., Ara macao).
 `;
+export default rawDictionaryText;
