@@ -265,5 +265,215 @@ parlanuw s. 1. spargere; despicare. 2. (fig.) stricare; defectare.
 parlatmak v.t. a determina să spargă; a determina să despice. 
 parlaw s. 1. spargere; despicare. 2. (fig.) stricare; defectare. 
 parlawlî adj. spart; despicat. //●parlawlî agaş — lemne sparte.
+parmak s. 1. (anat.) deget. 2. (tehn.) spiță; stâlp. 3. parmac; par; stâlp. // ●parmagîn tîkmak — a-şi băga nasul; a interveni. ●parmagînda oynatmak — a juca pe cineva pe degete. ●parmak basmak — a pune degetul; a preciza; a specifica; a evidenția; a sublinia; a accentua. ●parmaklarîn ğalamak — a-şi linge degetele. ●parmaklarîn tíşlemek — a-şi muşca degetele; a-şi frânge degetele; a fi deznădăjduit. ●parmaklarnîñ arasîndan kaşîrmak — a-l scăpa printre degete. // ●işaret/şahadet parmagî — degetul arătător. ●kósterúwğí parmak — degetul arătător. ●orta parmak — degetul mijlociu. ●parmak basmaga yer yok — nu e loc nici cât să pui un deget. ●parmak tamgasî/ízí — amprentă digitală. ●parmak tuyuwî — simțul tactil. ●parmaklarnîñ uşî — vârful degetelor. ●şínatiy/şonatay parmak — degetul mic. ●yúzúk parmagî — degetul inelar.
+parmakbasîlgan adj. evidențiat; accentuat; reliefat; pronunțat; subliniat.
+parmakbasuw s. evidențiere; accentuare; reliefare; pronunțare; subliniere.
+parmaklamak v.t. a împăra.
+parmaklangan adj. împărat.
+parmaklî adj. digital.
+parmaklîk s. 1. gratii; grilă; grilaj; zăbrele. 2. parmalâc; gard; balustradă; parapet. // ●geşme parmaklîgî — barieră. ●parmaklîk kîzartmasî — friptură la grătar.
+parmaklîklî adj. cu gratii; cu grilă; cu grilaj; zăbrelit.
+parmaksúyegí s. (anat.) falangă.
+parmaktíşlew s. căință; regret.
+parmaktîguw s. intervenție; amestec.
+parmaktîkkan s., adj. intervenționist.
+parola s. parolă.
+parşa s. 1. bucată; fragment. 2. parte; componentă; piesă. 3. (muz.) bucată. 4. (mat.) segment. // ●parşalarîn sókmek — a-l desface în bucăți; a-l dezmembra. // ●ay parşasî — frumoasă ca ruptă din lună. ●aylandîrma/kaytarma parşasî — (tehn.) organ. ●bír parşa — un pic; o bucată; puțin. ●buz parşasî — sloi. ●ğam parşasî — ciob de sticlă. ●ğetek parşa — (tehn.) piesă de schimb. ●ğíp parşasî — scamă. ●kíşkene parşa — particulă. ●kurşun parşasî — schijă. ●metin parşasî — fragment de text. ●ókşe parşasî — flec. ●sîzîk parşasî — (mat.) segment.
+parşakay s. bucățică; fărâmă. // ●bír parşakay — un pic; o bucățică. ●bír parşakay ótmek — o bucățică de pâine.
+parşalama s. îmbucătățire; fragmentare; sfâşiere; descompunere; secesiune.
+parşalamak v.t. a îmbucătăți; a fragmenta; a sfâşia; a face ferfeniță; a descompune. // ●tíşlep parşalamak — a sfâşia cu dinții.
+parşalangan adj. îmbucătățit; fragmentat; sfâşiat; descompus. // ●kolay parşalangan — şubred.
+parşalanma s. îmbucătățire; fragmentare; sfâşiere; descompunere; secesiune.
+parşalanmak v.i. a se îmbucătăți; a se fragmenta; a se sfâşia; a se face ferfeniță; a se descompune. // ●ğúregí parşalanmak — a i se frânge inima.
+parşalanuw s. îmbucătățire; fragmentare; sfâşiere; descompunere; secesiune.
+parşalarîsógílgen adj. descompus; dezagregat; dezintegrat; dezmembrat.
+parşalatkan adj. sfâşietor.
+parşalatmak v.t. a face să îmbucătățească; a determina să fragmenteze; a determina să sfâşie; a determina să facă ferfeniță; a face să descompună.
+parşalaw s. îmbucătățire; fragmentare; sfâşiere; descompunere; secesiune.
+parşalî adj. rupt în bucăți; îmbucătățit; fragmentat.
+parşa-parşa adj. în bucăți; bucată cu bucată; piesă cu piesă. // ●parşa-parşa etmek — a face bucăți; a face țăndări; a ciopârți. ●parşa-parşa satmak — a vinde cu bucata.
+parşîldama s. plescăit de buze.
+parşîldamak v.i. (d. buze) a plescăi.
+parşîldatmak v.t. a plescăi buzele.
+parşîldaw s. plescăit de buze.
+parşîltî s. plescăit de buze.
+part interj. poc!; pac!; bang!;
+parter s. parter (la clădiri).
+partida s. 1. (com.) partidă. 2. (sport) joc; partidă. 3. (fig.) chilipir.
+partit s. (pol.) partid. // ●demokrat partití — partidul democrat. ●mugay/muhalefet partití — (pol.) partid de opoziție. ●partit úyesí — (pol.) membru de partid. ●partitníñ faaliyetí — (pol.) activitatea partidului. ●siyasiy partit — (pol.) partid politic.
+partitlí s. membru al unui partid.
+partitlík adj. partinic.
+partitlíkkekarşî adj. antipartinic.
+partitura s. (muz.) partitură.
+partizan s. (pol.) partizan; simpatizant.
+pas s. rugină; cocleală.
+pasa s. (sport) pasă.
+pasaj s. pasaj.
+pasif adj. pasiv (şi com.).
+pasiflík s. pasivitate.
+pasiyet s. respect; considerație; stimă; mândrie; onoare; demnitate; onestitate.
+pasiyetíkírlengen adj. dezonorat; necinstit; batjocorit; violat; stigmatizat.
+pasiyetkírletken adj. dezonorant; batjocoritor.
+pasiyetkírletmesí s. dezonorare; necinstire; batjocorire; violare; stigmatizare.
+pasiyetlí adj. respectat; respectabil; stimat; onorat; demn; onest.
+pasiyetsíz adj. fără respect; fără stimă; fără mândrie; fără onoare; nedemn; fără onestitate.
+pasiyetsízlík s. lipsă de respect; lipsă de stimă; lipsă de mândrie; dezonoare; necinste; lipsă de onestitate.
+Paska s. (în relig. creştină) Paşti.
+paslama s. oxidare.
+paslamak v.t. a oxida.
+paslangan adj. ruginit; oxidat.
+paslanîr adj. oxidabil.
+paslanma s. 1. ruginire; oxidare. 2. (fig.) uzare; tocire.
+paslanmagan adj. inoxidabil.
+paslanmak v.i. 1. a rugini; a se oxida. 2. (fig.) a se uza; a se toci.
+paslanmaykalîr adj. inoxidabil.
+paslanmaz adj. inoxidabil.
+paslî adj. ruginit; oxidat; coclit.
+pasma s. stambă.
+pastel s. pastel.
+pastellí adj. pastel; pastelat.
+pastila s. (farm.) pastilă.
+pastîrma s. (gastron.) pastramă.
+pastor s. (relig.) pastor.
+paşa s. (bot.) broscariță; notătoare; limba-apei (lat., Potamogeton natans). 1. (ist.) paşă.
+paşalîk s. (ist.) paşalâc.
+paşaport s. paşaport. // ●paşaportîn kolîna bermek — a da cuiva paşaportul; a-l expedia. // ●hususiy paşaport — paşaport special. ●kîdîruwğuluk paşaportî — paşaport turistic. ●kîzmet paşaportî — paşaport de serviciu. ●mína mením paşaportîm — iată paşaportul meu. ●múşterek paşaport — paşaport colectiv. ●paşaport defterkanasî — biroul de paşapoarte. ●siyasiy paşaport — paşaport diplomatic.
+paşawra s. cârpă; treanță; zdreanță.
+pasbaş-şomar s. (orn.) rață roşie (lat., Aythya nyroca).
+pas-ğayalî-mumgágáa s. (orn.) estrilda ruginie (lat., Estrilda rhodopyga).
+pas-karînlî-balkuşî s. (orn.) pasăre-nectar cu piept stacojiu (lat., Chalcomitra senegalensis).
+paskuyruk s. (orn.) pietrar cu coadă ruginie (lat., Cercomela familiaris).
+pas-kuyruklî-sar s. (orn.) şorecar pântecos (lat., Buteo ventralis).
+pas-kuyruklî-toynak s. (orn.) şorecar pântecos (lat., Buteo ventralis).
+paslanuw s. 1. ruginire; oxidare. 2. (fig.) uzare; tocire.
+paslaw s. oxidare.
+paslî-karatawuk s. (orn.) mierlă ruginie (lat., Euphagus carolinus).
+pas-moyînlî-kumtawuk s. (orn.) fugaci cu gât roşu (lat., Calidris ruficollis).
+pasrengí-şomar s. (orn.) rață cu ciuf (lat., Netta rufina).
+pasrenklí-añkut s. (orn.) călifar ruginiu (lat., Tadorna ferruginea; Casarca ferruginea; Anas casarca).
+pasrenklí-bataklîkkarlîgaşî s. (orn.) ciovlică ruginie; ciovlică roşie (lat., Glareola pratincola).
+pasrenklí-kirazkuşî s. (orn.) presură ruginie (lat., Emberiza caesia).
+pasrenklí-kumtawuk s. (orn.) fugaci roşcat (lat., Calidris ferruginea).
+pasrenklí-şalî-boztorgayî s. (orn.) ciocârlie ruginie de tufiş (lat., Mirafa cordofanica).
+pasrenklí-şatalkuyruk s. (orn.) ciovlică ruginie; ciovlică roşie (lat., Glareola pratincola).
+pasrenklí-súlekeş s. (orn.) presură ruginie (lat., Emberiza caesia).
+pasrenklí-tenek s. (orn.) presură ruginie (lat., Emberiza caesia).
+pat I. interj. poc!; pac!; trosc!; II. s. (bot.) margaretă; mărgărită; ochiul-boului (lat., Chrysanthemum leucanthemum; Tanacetum leucanthemum). 2. (la şah) pat.
+patefon s. patefon.
+patent s. (econ.) patent; brevet.
+patentlí adj. patentat; brevetat. // ●patentlí derman — medicament brevetat.
+patentsíz adj. nepatentat; nebrevetat.
+patina s. (sport, tehn.) patină.
+patinağî s. (sport) patinator.
+patinaj s. 1. (sport) patinaj. 2. patinare; alunecare; patinaj.
+patinataygan s. (sport) patinator.
+patî, Kîtay- s. (bot.) ochiul-boului; rotil (lat., Callistephus chinensis).
+patî, saray- s. (bot.) săpunele; dumitraş; pocrovă (lat., Aster laexigatus).
+patlagan adj. 1. plesnit; explodat. 2. exploziv; explozibil. // ●patlagan madde — material explozibil.
+patlak adj. spart; crăpat.
+patlakkóz adj. 1. cu ochii bulbucați. 2. rău de mama focului; omul dracului; afurisit.
+patlama s. explozie; pocnet. // ●ateşlí patlama — bombă incendiară. ●patlama dalgasî — suflul exploziei. ●súygí patlamasî — izbucnire de dragoste.
+patlamak v.i. 1. a se crăpa; a plesni; a trosni; a se sparge; a se fisura. 2. a exploda. 3. (d. fenomene ale naturii) a se dezlănțui; a se porni. 4. a izbucni; a-şi pierde răbdarea; a da strechea în…; // ●başîna patlamak — a se sparge în capul cuiva. ●kamîşî patlamak — (med.) a avea erecție. ●ótín patlamak — a-i crăpa fierea; a se speria.
+patlatma s. bombă. // ●hidroğenlí patlatma — (mil.) bombă cu hidrogen. ●ózeklí/şegírdeklí patlatma — (mil.) bombă nucleară. ●sîğakózeklí/sîğakşegírdeklí patlatma — (mil.) bombă termonucleară. ●tanelí patlatma — (mil.) bombă atomică.
+patlatmaatkan s. (mil.) bombardier.
+patlatmağawdîrgan s. (mil.) bombardier.
+patlatmak v.t. a sparge; a fisura; a dezlănțui. // ●kamîş patlatmak — a pocni din bici.
+patlatmataşîgan s. (mil.) bombardier.
+patlatmatókken s. (mil.) bombardier.
+patlatuw s. bombă.
+patlaw s. explozie; pocnet.
+patlawğî adj. exploziv; explozibil.
+patlîğan s. (bot.) vânătă; pătlăgea-vânătă (lat., Solanum melongea). // ●patlîğan salatasî — salată de vinete.
+patoloğik adj. (med.) patologic.
+patoloğiya I. adj. (med.) patologic. II. s. (med.) patologie.
+patoloğiyalî adj. (med.) patologic.
+patriarkal adj. (relig.) patriarhal.
+patrik s. (relig.) patriarh.
+patriklík I. adj. (relig.) patriarhal. II. s. (relig.) patriarhie; patriarhat.
+patron s. (electr., econ.) patron.
+patronlar s., pl. (econ.) patronat.
+patronlîk s. (econ.) patronat.
+patşa s. padişah; sultan.
+paviliyon s. (constr.) pavilion.
+pay s. 1. parte; contribuție; cotă. 2. porțiune; porție; parte. 3. (mat.) numărător. // ●baştan pay ayîrmak — a predestina. ●hisse/pay saklamak — a-i păstra cuiva parte din…; a-i aloca. ●ózíne pay şîgartmak — a-şi lua un os de ros; a trage spuza pe turta sa; a-şi crea avantaj. ●pay ayîrmak/etmek — a-i face cuiva parte din…; a-i aloca. ●pay ístemek — a-şi cere partea. ●pay kapmak — a-şi face parte din…; a-şi însuşi ceva. ●pay píşmek — a face planuri; a plănui; a norma. ●payîn almak — a-şi lua porția; a fi muştruluit. ●payîn bermek — a-i da porția; a-l muştrului. ●payîn ketírmek — a lua parte la…; a-şi da obolul; a-şi aduce contribuția. // ●arslan payî — partea leului. ●ekí pay salata — două porții de salată.
+paya s. jalon. // ●paya otîrtmak — a jalona.
+payağî s. marcator; marcher.
+payalama s. jalonare.
+payalamak v.t. a jalona.
+payalangan adj. jalonat.
+payalanmak v.i. a se jalona.
+payalaw s. jalonare.
+payalgan adj. căpătuit; procopsit; cointeresat.
+payalî adj. jalonat.
+payanta s. paiantă.
+payaotîrtîlgan adj. jalonat.
+payaotîrtuw s. jalonare.
+paybergen adj. mustrător; dojenitor.
+payberúw s. 1. dojană; muştruluială; burduşeală; ciomăgeală; mustrare; chelfăneală. 2. cointeresare.
+payda I. adj. utilitar. II. s. folos; avantaj; profit. // ●bír payda kórmemek — a nu avea niciun folos. ●payda etmek — a fi de folos; a avantaja; a părtini. ●payda kórmek — a trage foloase. // ●gezmekte payda yok — plimbatul n-are folos. ●kullanîm paydasî — (jur.) uzufruct. ●paydasîn kím kóre? — cui îi foloseşte?; ●sízge ne paydam tiyer? — cu ce vă pot fi de folos?;
+payda s. (mat.) numitor. // ●paydalarnî eşítlemek — (mat.) a aduce la acelaşi numitor.
+paydaetken adj. părtinitor.
+paydaetúw s. părtinire.
+paydağî s., adj. utilitarist.
+paydağílîk s. utilitarism.
+paydakórúw s. folosință; folosire; fructificare.
+paydalangan adj. beneficiar; câştigător; utilizator.
+paydalanmak v.i. a se folosi de; a profita. // ●kím paydalana? — cui îi foloseşte?;
+paydalî adj. folositor; avantajos.
+paydalîk adj. utilitar. // ●paydalîk maşinasî — (transp.) autoutilitară.
+paydalîşîkkan adj. rentabilizat.
+paydasîkórílgen adj. fructificat.
+paydasîz adj. nefolositor; inutil; neconvenabil; neprielnic.
+paydasîzlîk s. inutilitate.
+paydaş s. participant.
+paydaşlîk s. contribuție; participație.
+paydatartúw s. fructificare.
+paydos I. interj. pauză!; II. s. pauză; repaus. // ●úyle paydosî — pauza de prânz.
+payğî s. (fin.) acționar; asociat.
+payînalgan adj. dojenit; muştruluit; burduşit; ciomăgit; mustrat.
+paylama s. distribuire; repartizare; livrare.
+paylamak v.t. a distribui; a repartiza; a livra.
+paylangan adj. distribuit; repartizat; livrat.
+paylanmak v.i. a fi distribuit; a fi repartizat; a fi livrat.
+paylaşîlgan adj. împărțit; partajat.
+paylaşîmiyelík s. coproprietate.
+paylaşîmiyesí s., adj. coproprietar.
+paylaşma s. împărțire; partajare; coabitare.
+paylaşmak v.i. a împărți; a partaja; a coabita. // ●dertín paylaşmak — a împărtăşi durerea cuiva. ●kozînî paylaşmak — a-şi împărți foloasele.
+paylaşmalîiye s., adj. coproprietar.
+paylaşmalîiyelík s. coproprietate.
+paylaştîrmak v.t. a determina să împartă; a face să partajeze; a determina să coabiteze.
+paylaşuw s. împărțire; partajare; coabitare.
+paylawğî I. adj. distributiv. II. s. distribuitor.
+pay-pay adj. porționat. // ●pay-pay etmek — a porționa.
+paypíşílgen adj. plănuit.
+paypíşúw s. normare; plănuire.
+paysaklamasî s. alocare; afectare.
+paytak I. adj. crăcănat. II. s. (la şah) pion.
+paytakît s. capitală; metropolă. // ●paytakît başpapazî — mitropolit.
+payton s. faeton; landou; caleaşcă; trăsură; birjă. // ●ğenaze paytonî — dric. ●motoçikleta paytonî — ataş. ●motorlî payton — autocar.
+paytonğî s. birjar; vizitiu. // ●paytonğî yerí — capră de trăsură.
+paytonğî, ak-kuyruklî- s. (orn.) faeton cu cioc alb (lat., Phaethon lepturus).
+paytonğî, kîzîl-tumşuklî- s. (orn.) faeton cu cioc roşu (lat., Phaethon aethereus).
+paytonğîday adv. birjăreşte.
+paytonğîlîk s. birjărie.
+paz s. (tehn.) pană; ic. // ●paz kîstîrmak — (tehn.) a împăna.
+pazar s. 1. piață; bazar; târg. 2. comerț; negoț; vânzare; târguieli. 3. (cron.) duminică. // ●pazarga şîgarmak — a scoate la vânzare. // ●antikağîlar pazarî — târgul anticarilor. ●atşîklar pazarî — bâlci. ●bo pazarga ğolşîman — pentru duminica aceasta sunt drumeț. ●ğenábílerí geşen pazar keldíler — dumnealor au venit duminica trecută. ●haywan pazarî — obor. ●yarîn pazar — mâine e duminică.
+pazargúní s. (cron.) duminică.
+pazarlama s. negociere; tocmeală; târguială; cumpărături.
+pazarlamak v.t. (com.) a tocmi; a târgui; a precupeți.
+pazarlanmagan adj. neprecupețit.
+pazarlanmak v.t. (com.) a fi tocmit; a fi târguit; a fi precupețit.
+pazarlanmaz adj. neprecupețit.
+pazarlaşkan s. negociator.
+pazarlaşma s. (com.) tocmeală; târguială; negociere.
+pazarlaşmak v.i. (com.) a se tocmi; a se târgui; a negocia.
+pazarlaşmalar s., pl. tratative.
+pazarlaşuw s. (com.) tocmeală; târguială; negociere.
+pazarlaw s. negociere; tocmeală; târguială; cumpărături.
+pazarlawğî s. negociator.
+pazarlîk s. 1. negociere; tocmeală; târguială. 2. cumpărături; târguieli. // ●pazarlîk etmek — a se tocmi; a se târgui. // ●ekí yaklî pazarlîklar — negocieri bilaterale.
+Pazarlîk s. (topon.) ("Târgul", "Târguiala") Târguşor (jud. Constanța).
+pazarótmek s. franzelă.
 `;
 export default rawDictionaryText;
