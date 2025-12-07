@@ -331,4 +331,211 @@ utkulî adj. victorios; biruitor; triumfător.
 utmak v.t. a învinge; a înfrânge; a câştiga.
 utopik adj. utopic.
 utopiya s. utopie.
+utopiyağî s. utopist.
+utulgan adj. învins; înfrânt.
+utulma s. înfrângere; sucombare.
+utulmak v.i. a fi învins; a fi înfrânt; a sucomba.
+utur s. (zool.) vidră; lutră (lat., Lutra lutra). // ●utur terísí — lutru.
+uvertura s. (muz.) uvertură.
+uwma s. 1. frecare; fricționare; masare; palpare; pipăire. 2. ştergere; curățare. 3. frământare.
+uwmak v.t. 1. a fricționa; a masa; a palpa; a pipăi. 2. a freca; a şterge; a curăța. 3. a frământa.
+uwuldamak v.i. 1. a vui; a bubui. 2. (d. foc) a dudui. 3. (d. urechi) a vâjâi; a țiui. // ●kulaklarîm uwulday — îmi vâjâie urechile.
+uwuldaw s. 1. vâjâit; țiuit (în urechi). 2. duduit (al focului). 3. vuiet; bubuit; tumult.
+uwulduruk s. (iht.) icre. // ●kara uwulduruk — negre.
+uwulgan adj. 1. frecat; fricționat; masat; palpat; pipăit. 2. şters; curățat. 3. frământat.
+uwulmak v.i. 1. a fi fricționat; a fi masat; a fi palpat; a fi pipăit. 2. a fi frecat; a fi şters; a fi curățat. 3. a fi frământat.
+uwultî s. 1. vuiet; bubuit; tumult. 2. duduit (al focului). 3. vâjâit; țiuit (în urechi).
+uwultulî adj. tumultuos.
+uwurka s. prăjină cu laț pentru prins animale.
+uwurt s. (anat.) vestibul bucal.
+uwuwğî s. 1. masor. 2. malaxor.
+uwuz s. (fiziol.) colostru.
+uyak s. (lit.) rimă.
+uyaklamak v.i. (lit.) a rima.
+uyaklî adj. (lit.) rimat.
+uyandîrgan I. adj. 1. stimulant; excitant. 2. deşteptător; înviorător. II. s. stimulent.
+uyandîrîlmak v.i. 1. a fi trezit; a fi sculat din somn; a fi deşteptat. 2. (d. amintiri, sentimente) a fi reamintit. 3. a fi înviat; a fi reînviat; a fi resuscitat; a fi renăscut. 4. a fi avertizat.
+uyandîrma s. 1. trezire; sculare; deşteptare. 2. înviere; reînviere; resuscitare; renaştere. 3. reamintire. 4. avertisment.
+uyandîrmak v.t. 1. a trezi; a scula din somn; a deştepta. 2. a învia; a reînvia; a resuscita; a renaşte. 3. (d. amintiri, sentimente) a reaminti. 4. a avertiza.
+uyandîruwğî I. adj. 1. stimulant; excitant. 2. deşteptător; înviorător. II. s. stimulent.
+uyangan adj. 1. înviat; reînviat; resuscitat; renăscut. 2. trezit; deşteptat.
+uyanîş s. 1. deşteptare; trezire. 2. înviere; reînviere; resuscitare; renaştere.
+uyanmak v.i. 1. a învia; a reînvia; a renaşte; a reveni la viață. 2. a se trezi; a se dumiri; a-şi da seama; a deveni conştient. 3. a se trezi; a se scula din somn; a se deştepta. 4. (d. amintiri, sentimente) a reveni.
+uyanuw s. 1. trezire; deşteptare. 2. înviere; reînviere; resuscitare; renaştere.
+uydurma s. 1. adaptare; potrivire; ajustare. 2. minciună; născocire; plăsmuire; scornire. 3. (lit.) poveste; fabulă. 4. fals.
+uydurmak v.t. 1. a potrivi; a adapta; a ajusta. 2. a născoci; a plăsmui; a scorni. 3. a ticlui; a potrivi. 4. a falsifica; a măslui. // ●akîl uydurmak — a se pune la mintea cuiva. ●ayak uydurmak — a merge în pas cu cineva; a ține pasul cu cineva; a se adapta împrejurărilor. ●koşîk uydurmak — a versifica. ●zamanga ayak uydurmak — a ține pas cu vremea.
+uydurulaalma s. adaptabilitate; versatilitate.
+uydurulgan adj. falsificat; fals.
+uydurulur adj. adaptabil.
+uyduruw s. 1. adaptare; potrivire; ajustare. 2. minciună; născocire; plăsmuire; scornire.
+uyduruwğî s. 1. (muz.) aranjor. 2. adaptator.
+uyduw s. (astr.) satelit. // ●kayriy tabiy uyduw — satelit artificial.
+uygan adj. adaptat; compatibil; potrivit; convenabil; concordant.
+uygar adj. civilizat.
+uygarlaşkan adj. civilizat.
+uygarlaşma s. civilizare.
+uygarlaşmak v.i. a se civiliza.
+uygarlaştîrmak v.t. a civiliza.
+uygarlîk s. civilizație.
+uygî s. (fil.) corespondență; concordanță.
+uygulama s. aplicare; adoptare (a unei legi etc.).
+uygulamak v.t. a aplica; a adopta (o lege etc.).
+uygulangan adj. adoptat; aplicat. // ●uygulangan riyaziyet — (mat.) matematică aplicată.
+uygulanma s. adoptare; aplicare. // ●kanunnuñ uygulanmasî — (jur.) aplicarea legii.
+uygulanmak v.i. (d. o lege etc.) a fi aplicat; a fi adoptat.
+uygulanmaz adj. inutilizabil; inaplicabil.
+uygun adj. 1. conform; potrivit. 2. convenabil; favorabil. // ●uygun bír zaman kollamak — a pândi momentul potrivit. ●uygun bolmak/túşmek — a fi corespunzător; a se potrivi. ●uygun tapmak — a găsi de cuviință; a crede că e potrivit; a îngădui; a recomanda. // ●eñ uygun — optim; ideal. ●uygun bolîp — în conformitate cu…; ●uygun wakîtta/zamanda — la momentul oportun.
+uygunlaşma s. conformare.
+uygunlaşmak v.i. a se conforma.
+uygunlaştîrîlmagan adj. inadaptabil.
+uygunluk s. potrivire; corespondență.
+uyguntúşme s. concordanță; corespondență.
+uygur s., adj. uygur.
+uygurğa/uygurşa I. adv. în limba uygură. II. s. (limba) uygură.
+Uygurustan s. (topon.) Uyguristan.
+uygurustanlî s., adj. uygur.
+uylaşîm s. convenție; înțelegere.
+uyluk s. (anat.) coapsă.
+uyluk súyegí s. (anat.) femur.
+uyma s. coincidență; conformare; potrivire.
+uymagan adj. incompatibil; nepotrivit; contradictoriu; neconcordant; discrepant; discordant.
+uymak v.i. 1. a se potrivi; a corespunde; a se armoniza. 2. (d. articole de îmbrăcăminte) a fi pe măsură; a se potrivi; a cădea bine. 3. a se conforma. // ●talimatka uymak — a se conforma.
+uymama s. nepotrivire; contradicție; neconcordanță; discrepanță; discordanță; incompatibilitate.
+uymamak v.i. a nu se potrivi; a se contrazice. // ●ekí sózí uymamak — a nu avea două vorbe la un loc; a umbla cu minciuna; a se contrazice.
+uymaykalgan adj. incompatibil; nepotrivit; contradictoriu; neconcordant; discrepant; discordant; inadaptabil; inadecvat.
+uymaykalma s. incompatibilitate; nepotrivire; contradicție; contrazicere; neconcordanță; discrepanță; discordanță.
+uymaz adj. incompatibil; nepotrivit; contradictoriu; neconcordant; discrepant; discordant.
+uymazlîk s. nepotrivire; contradicție; neconcordanță; discrepanță; discordanță.
+uyruk s. cetățean; supus. // ●kazak uyrukluman — sunt cetățean român. ●ne uyruklusuñuz? — care este cetățenia dumneavoastră?;
+uyrukluk s. cetățenie. // ●kazak uyruklugî — cetățenie română.
+uyugan adj. 1. coagulat; închegat; prins. 2. calmat; potolit; sedat; anesteziat (d. o durere). 3. amorțit; înțepenit; anchilozat. // ●uyugan kan — cheag de sânge.
+uyuk s. târlic; cipic.
+uyum s. armonie; acord; concordanță. // ●ses uyumî — (lingv.) armonie sonoră. ●sozîk awaz/seslí/únlí uyumî — (lingv.) armonie vocalică. ●tartîk awaz/sessíz/únsúz uyumî — (lingv.) armonie consonantică.
+uyuma s. 1. coagulare; închegare; prindere. 2. calmare; potolire; sedare; anesteziere. 3. amorțire; înțepenire; anchilozare. // ●kan uyumasî — (med.) coagulare.
+uyumak v.i. 1. a amorți; a înțepeni; a anchiloza. 2. a se calma; a se potoli; a fi sedat; a fi anesteziat. 3. a se coagula; a se închega; a se prinde.
+uyumlî adj. armonios.
+uyumsuz adj. discordant; distonant.
+uyumsuzluk s. discordanță; dezacord; distonanță.
+uyuşkan adj. împăcat; conciliat; pus de acord.
+uyuşma s. 1. înțelegere; acord. 2. potrivire; asemuire; armonizare.
+uyuşmagan adj. nepotrivit; contrastant; divergent.
+uyuşmak v.i. 1. a se înțelege; a cădea de acord. 2. a se potrivi; a se asemui; a se armoniza; a se îngemăna.
+uyuşmalî adv. în conformitate cu…;
+uyuşmama s. nepotrivire; contrast; divergență; dezacord; diferend; litigiu; neînțelegere.
+uyuşmamak v.i. a nu se potrivi; a contrasta; a fi în dezacord.
+uyuşmaykalgan adj. nepotrivit; contrastant; divergent.
+uyuşmaykalma s. nepotrivire; contrast; divergență; dezacord; diferend; litigiu; neînțelegere.
+uyuşmaz adj. nepotrivit; contrastant; divergent.
+uyuşmazlîk s. nepotrivire; contrast; divergență; dezacord; diferend; litigiu; neînțelegere.
+uyuşturmak v.t. a împăca; a concilia; a pune de acord; a armoniza; a îngemăna.
+uyuşturuw s. împăcare; conciliere; punere de acord; îngemănare.
+uyutmak v.t. 1. a amorți; a înțepeni; a anchiloza. 2. a calma; a potoli; a seda; a anestezia. 3. a coagula; a închega; a prinde.
+uyutulgan adj. 1. apatic; moleşit; vlăguit. 2. amorțit; înțepenit; anchilozat. 3. coagulat; închegat; prins.
+uyutulma s. 1. amorțeală; înțepenire; anchiloză; moleşeală; apatie. 2. coagulare; închegare; prindere.
+uyutuw s. 1. amorțire; înțepenire; anchilozare. 2. calmare; potolire; sedare; anesteziere. 3. coagulare; închegare; prindere.
+uyutuwğî I. adj. amorțitor. II. s. anestezist. III. s., adj. 1. narcotic; drog. 2. sedativ; anestezic. // ●uyutuwğî madde — stupefiant.
+uyutuwğîkarşî adj. antidrog.
+uyuz s. (med.) râie; scabie.
+uyuzlî adj. (med.) râios; scabios.
+uz adj. 1. bun; folositor; convenabil. 2. (d. vorbire) clar; desluşit; limpede. // ●uz otîrmak — a şedea liniştit; a sta cuminte. // ●az bolsîn, uz bolsîn — puține, dar bune. ●uz otîr! — stai cuminte!;
+uza s. 1. (pol.) membru. 2. (anat.) organ; membru; mădular. // ●akademiya uzasî — membru al academiei. ●kurultay uzasî — parlamentar. ●sindikat uzasî — sindicalist. ●tuyuw uzalarî — organele simțului.
+uzabílímí s. anatomie.
+uzak I. adj. 1. depărtat; îndepărtat. 2. (fig.) puțin probabil; nesigur. II. adv. departe. III. s. depărtare. // ●uzak kórmek — a vedea departe; a prevedea. // ●barağak yerímíz uzak mî, taa? — mai avem mult până la destinație?; ●míndan uzak mî? — e departe de aici?; ●uzak tuwgan — rudă îndepărtată. ●uzak tuwul — nu e departe.
+uzakka adv. spre depărtări.
+uzakkaberleşme s. telecomunicație.
+uzakkórgen adj. 1. preştiutor; perspicace; sagace. 2. precaut; prevăzător.
+uzakkórúw s. 1. previziune; perspicacitate; sagacitate. 2. precauție; prevedere.
+Uzak-Kúntuwar s. (topon.) Orientul Îndepărtat.
+uzaklar s., pl. zare; orizont; depărtări. // ●bek uzaklarga ketmek — a merge prea departe; a se îndepărta.
+uzaklarda adv. în depărtări. // ●tap uzaklarda kóríne — se vede hăt departe.
+uzaklaşkan adj. depărtat; îndepărtat; distras.
+uzaklaşma s. îndepărtare; plecare; abatere; toleranță. // ●túz ğoldan uzaklaşma — aberație.
+uzaklaşmak v.i. 1. a se îndepărta; a pleca (mai departe). 2. a se îndepărta; a se abate. // ●meseleden/konîdan uzaklaşmak — a se abate de la subiect. // ●túz ğoldan uzaklaşkan — aberant.
+uzaklaşmaykalgan adj. neînlăturat.
+uzaklaştîrîlgan adj. îndepărtat; înlăturat; eliminat.
+uzaklaştîrîlmagan adj. neînlăturat.
+uzaklaştîrîlmaz adj. de neînlăturat.
+uzaklaştîrma s. 1. înlăturare; îndepărtare; eliminare. 2. concediere.
+uzaklaştîrmak v.t. 1. a depărta; a înlătura; a elimina. 2. a concedia.
+uzaklîk s. 1. depărtare; distanță mare. 2. distanță; interval.
+uzaklîkólşegen s. telemetru.
+uzakses s. telefon. // ●uzakses etmek — a telefona. // ●alo, kím bar uzakseste? — alo, cine e la telefon?; ●keşe ortasînda uzakses şaldî — la miezul nopții a sunat telefonul. ●şeherlerarasî uzakses konîşmasî — convorbire telefonică interurbană. ●umumiy uzakses — telefon public. ●uzakses hatî — linie telefonică. ●uzakses íşletmesí — centrală telefonică. ●uzakses kartî — cartelă telefonică. ●uzakses kîlawuzî/rehberí — carte de telefon. ●uzakses numarasî — număr de telefon. ●uzakses odasî — cabină telefonică. ●uzakses şebekesí/awî — rețea telefonică.
+uzakseslí s. telefonic.
+uzaksesşí s. telefonist.
+uzaksesşílík s. telefonie.
+uzaksîzga s. telegramă. // ●ğîltîrîm uzaksîzga — telegramă fulger. ●uzaksîzganîñ metiní — textul telegramei. ●uzaksîzganîñ sózí kaş? — cât costă cuvântul telegramei?;
+Uzak-Şark s. (topon.) Orientul Îndepărtat.
+uzakta adv. departe.
+uzaktakî adj. de departe; depărtat.
+uzaktan adv. de departe; din depărtări. // ●uzaktan almak — a lua pe cineva pe departe. ●uzaktan ğón bermek — a teleghida. ●uzaktan karamak — a privi de departe; a nu interveni. // ●lámbanîñ ğarîğî uzaktan yeşíl bolîp kóríne — din depărtare lumina lămpii se vede verde.
+uzaktanbellí adj. previzibil.
+uzaktanbuyurukşî s. telecomandă.
+uzaktanemretúwğí s. telecomandă.
+uzaktanğón s. teleghidare.
+uzaktanğónberúw s. teleghidare.
+uzaktanğónlí adj. teleghidat.
+uzaktan idare s. teleghidare.
+uzaktan idarelí adj. teleghidat.
+uzaktankórílgen adj. 1. previzibil. 2. prevăzut; întrevăzut.
+uzaktankórmegen adj. (med.) miop.
+uzaktankórmeme s. (med.) miopie.
+uzaktanresím s. telefotografie.
+uzaktan-uzak adv. de departe. // ●uzaktan-uzak selam ğíbere — transmite salutări din depărtări.
+uzaktan-uzakka adv. pe ocolite.
+uzaktuyum s. telepatie.
+uzak-uzak adv. foarte departe.
+uzakwurgan adj. (mil.) cu rază mare de acțiune.
+uzalarayîrmasî s. dezmembrare.
+uzalarîayîrîlgan adj. dezmembrat.
+uzam s. întindere; spațiu.
+uzamak v.i. 1. a se întinde; a se lungi; a se prelungi. 2. a ține; a dura; a dăinui. // ●traşî uzamak — a-i crește barba.
+uzanma s. întindere; culcare.
+uzanmak v.i. 1. (d. ființe) a se întinde. 2. a se lungi; a se culca. 3. a se întinde; a întinde mâna (pt. a ajunge la…).
+uzantî s. alungire; prelungire.
+uzatîlgan adj. lungit; prelungit.
+uzatîlmak v.i. a se întinde; a se lungi; a se prelungi.
+uzatma s. prelungire.
+uzatmak v.t. 1. a lungi; a prelungi. 2. a prelungi; a determina să dureze mai mult. 3. a întinde. // ●bír kol uzatmak — a întinde o mână de ajutor. ●mîyîk uzatmak — a-şi lăsa mustață. ●sakal uzatmak — a-şi lăsa barbă. ●tíl kaytarmak — a răspunde împotrivă; a contrazice. ●tíl uzatmak — a prinde la limbă; a se obrăznici. ●vadesín uzatmak — a-i prelungi termenul.
+uzatuwlî adj. lungit; prelungit.
+uzay I. adj. spațial. II. s. (astr., mat.) spațiu. // ●uzay gemísí — navă cosmică. ●uzay hendesesí — (mat.) geometrie în spațiu. ●uzay kíşísí — cosmonaut.
+uzayğî I. adj. spațial. II. s. astronaut; cosmonaut.
+uzaylî adj. spațial.
+uzina s. uzină.
+uzkórgen adj. perspicace; pătrunder.
+uzkórme s. perspicacitate.
+uzlaşkan adj. împăcat; pacificat.
+uzlaşma s. 1. împăcare; conciliere. 2. convenție; acord; înțelegere. // ●uzlaşma yapmak — a încheia un acord.
+uzlaşmagan adj. antagonic; discordant; discrepant; ireconciliabil; neîmpăcat.
+uzlaşmak v.i. 1. a se împăca; a se reconcilia. 2. a se învoi; a cădea de acord. 3. a se înțelege; a trăi în înțelegere; a se împăca bine; a face casă bună.
+uzlaşmama s. antagonism; litigiu; neînțelegere.
+uzlaşmaykalgan adj. antagonic; discordant; discrepant; ireconciliabil; neîmpăcat.
+uzlaşmaykalma s. antagonism; dezacord; discordanță; discordie; discrepanță; neînțelegere.
+uzlaşmaz adj. antagonic; ireconciliabil; de neîmpăcat.
+uzlaşmazlîk s. neînțelegere; discordie; dezacord.
+uzlaştîrgan s. împăciuitorist; mediator; intermediar; negociator; conciliator.
+uzlaştîrmak v.t. a împăca; a reconcilia.
+uzlaştîruw s. negociere; împăciuire; pacificare.
+uzlaştîruwğî s. împăciuitorist; mediator; intermediar; negociator; conciliator.
+uzlaştîruwğuluk s. împăciuitorism; mediere; intermediere; negociere; conciliere.
+uzluk s. pricepere; iscusință; măiestrie.
+uzman s. specialist; expert. // ●íş kastalîklarî uzmanî — (med.) specialist de boli interne. ●kîskaayaklî kastalîklarî uzmanî — (med.) ginecolog. ●kîymet uzmanî — expert evaluator.
+uzmanlaşkan s., adj. specializat.
+uzmanlaşma s. specializare.
+uzmanlaşmak v.i. a se specializa.
+uzmanlaştîrmak v.t. a specializa.
+uzmanlîk s. specializare; specialitate.
+uzotîrgan adj. cuminte; cumințit; docil; obedient; smerit; astâmpărat; ascultător.
+uzotîruw s. cumințenie; cumințire; docilitate; obediență; smerenie; astâmpărare.
+uzun adj. 1. lung. 2. înalt. 3. îndelungat; de durată. 4. diluat. // ●kolî uzun bolmak — a avea mână lungă; a fi hoț; a fi pungaş; a fi influent. ●uzun ğol tepmek — a bate mult drum. ●uzun súrmek — a dura mult. // ●Alla(h) uzun ómír bersín! — să vă dea Domnul viață îndelungată!; ●bek uzun — foarte lung. ●ne uzun, ne kîska — nici lung, nici scurt. ●pantolan bek uzun — pantalonii sunt prea lungi. ●Tuna Edíl kadar uzun tuwul — Dunărea nu este lungă cât Volga. ●uzun dalga/dulkun — unde lungi. ●uzun ğeñlí — cu mânecă lungă. ●uzun ğol — drum lung. ●uzun koltîk — şezlong. ●uzun ómír yaşama — longevitate. ●uzun ómírler! — viață îndelungată!; la mulți ani!; ●uzun ómírler! — la mulți ani!; viață îndelungată!; ●uzun şáş — păr lung. ●uzun şáşlî — pletos. ●uzun siyahatlar — călătorii lungi. ●uzun súrege borîş — împrumut pe termen lung. ●uzun súrelí — îndelungat. ●uzun vadelí ikraz — credit pe termen lung. ●uzunlay atlaw — (sport) săritura în lungime.
+uzunboylî I. adj. de statură înaltă. II. s. lungan; vlăjgan.
+uzunğa adj. oblong; lunguieț; alungit.
+uzun-kîska adj. scurt sau lung; şi scurt şi lung.
+uzunkollîk s. 1. hoție; pungăşie. 2. influență.
+uzunkollîlar s., pl. bandă de hoți; hoțime.
+Uzunlar s. (topon.) Lungeni; Mereni (jud. Constanța).
+uzunlay adv. în lungime; pe lungime.
+uzunluk s. lungime. // ●dalga/dulkun uzunluğî — lungime de undă. ●ómír uzunluğî — longevitate. ●uzunluğuna kesme — (mat.) secțiune longitudinală. ●uzunluk bírímí — unitate de măsură pentru lungimi. ●uzunluk dayiresí — longitudine. ●uzunluk ólşesí — măsură de lungime.
+uzunómírlí adj. peren.
+uzun-uzun adj. foarte lung; foarte înalt.
+uzuw s. (anat.) organ; membru; mădular.
 `;
