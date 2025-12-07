@@ -251,4 +251,84 @@ uşak s. avion. // ●tayyare men siyahat etmek — a călători cu avionul. // 
 uşak s. slugă; lacheu. 
 uşakalanî s. aeroport. 
 uşakşî s. aviator; pilot.
+uşakşîlîk s. (av.) navigaŃie; pilotaj.
+uşakşîlîkkayaragan adj. (av.) navigabil.
+uşama s. analogie; asemănare; similitudine.
+uşamak v.i. a se asemăna; a semăna cu…; a semăna a…; // ●uşap ketmek — a semăna vag cu…; a aduce vag cu…; // ●hawa bîzağakka uşay — se pare că timpul se va strica. ●okîyğak balaga uşamay — nu seamănă cu un copil care va învăŃa. ●şoga uşap — asemănător; asemenea; analog.
+uşar adj. 1. zburător. 2. (chim.) volatil. 3. asemănător; comparabil; similar.
+uşariy adj. uşuratic; frivol.
+uşariylík s. purtare uşuratică; frivolitate.
+uşatîlgan adj. asemănat; asemuit; comparat; raportat; analog.
+uşatîlîp adv. analogic; comparativ.
+uşatîlmak v.i. a se asemăna; a se asemui; a se compara; a se raporta.
+uşatîp adv. analogic.
+uşatma s. 1. asemănare; asemuire; comparare; raportare. 2. analogie; comparaŃie.
+uşatmak v.t. a asemăna; a asemui; a compara; a raporta.
+uşa-uşa adv. în zbor; zburând.
+uşaw s. asemănare; similitudine; analogie.
+uşdonlîk s. cadou; dar; bacşiş.
+uşkan adj. zburător; aeropurtat. // ●uşkan kuşka borîşî bolmak — a fi dator vândut. ●uşkan kuştan yardîm karamak — a ajunge la desperare.
+uşkankuş s. zburătoare.
+uşlagan adj. care ascute.
+uşlama s. ascuŃire.
+uşlamak v.t. a ascuŃi. // ●uşun uşlamak — a-i ascuŃi vârful.
+uşlangan adj. ascuŃit; dat la tocilă.
+uşlanmak v.i. a se ascuŃi.
+uşlawğî s. tocilar; persoană care ascute la tocilă.
+uşlî adj. Ńuguiat; ascuŃit; cu vârf. // ●ótken uşlî — ascuŃit; tăios.
+uşluluk s. ascuŃime.
+uşma s. zbor.
+uşmabílímí s. aeronautică.
+uşmak v.i. 1. a zbura; a se porni în zbor; a-şi lua zborul; a se ridica în aer; a decola. 2. (chim.) a se evapora; a se volatiliza. // ●uşup geşmek — a trece în zbor. ●uşup ketmek — a-şi lua zborul. ●uşup tura kelmek — a sări ars în picioare. // ●bílmem, síptí uşkanîm — nu ştiu, zbor pentru prima dată. ●kuşlar uşar — păsările zboară. ●şúndí ne yúkseklíkte uşamîz? — la ce înălŃime zburăm acum?; ●tayyare uşup kettí — avionul a decolat. ●uşağakta sigara íşílmez — la decolare nu se fumează.
+uşmak s. rai; paradis.
+uşsuz adj. 1. fără capăt; fără extremitate; fără sfârşit; fără vârf. 2. bont. // ●uşsuz ğol — drum fără sfârşit.
+uşuk s. (med.) herpes; spuzeală.
+uşuklangan adj. cu herpes; spuzit.
+uşuklanmak v.i. a se spuzi.
+uşuklî adj. cu herpes; spuzit.
+uşun I. adj. adevărat; veridic; real. II. s. adevăr; veridicitate; realitate. // ●uşun rengín bellí etmek — a-şi da arama pe faŃă; a se da pe faŃă. ●uşun şîkmak — a se adeveri. ●uşun yúzún kóstermek — a-şi arăta adevărata faŃă. // ●bo uşun tuwul, şaşma — asta nu e adevărat, e absurd. ●uşun bola almaz — neverosimil. ●uşunnuñ ózí — adevărul gol.
+uşundan adv. cu adevărat; aievea.
+uşunşîkkan adj. adeverit.
+uşunşîkma s. adeverire.
+uşurmak v.t. 1. (fig.) a fura. 2. (fig.) a reteza; a tăia. 3. a da drumul să zboare; a slobozi. 4. a face să zboare; a ridica în aer; a face să decoleze.
+uşurtma s. 1. zmeu. 2. furt. 3. retezare; tăiere.
+uşurtmak v.t. 1. a da drumul să zboare; a slobozi. 2. a face să zboare; a ridica în aer; a face să decoleze. 3. (fig.) a reteza; a tăia. 4. (fig.) a fura. // ●başîn uşurtmak — a zbura cuiva capul; a-i reteza capul; a-l decapita. ●kuş uşurtmamak — a fi vigilent. ●para uşurtmak — a delapida.
+uşurum s. prăpastie; abis; genune; râpă; hău.
+uşurumlî adj. prăpăstios; abrupt.
+uşuş s. zbor. // ●hawa uşuş úşún músayit tuwul — timpul nu e favorabil pentru zbor. ●uşuş kaş sáát tuta? — câte ore durează zborul?; ●uşuş neşín iptal etíldí? — din ce cauză a fost anulat zborul?; ●uşuş numarasî bilette yazuwlî mî? — e scris pe bilet numărul zborului?; ●uşuş şartlarî — condiŃii de zbor. ●uşuş úyretmení — instructor de zbor.
+uşuşbílímí s. aeronautică.
+uş-uşka s. capăt la capăt.
+uşuşmak v.i. a zbura laolaltă; a decola laolaltă.
+uşuwğî adj. zburător; volatil (chim.).
+uşuwmak s. săgeată.
+uşuwmaklama s. săgetare.
+uşuwmaklamak v.t. a săgeta.
+uşuwmaklangan adj. săgetat.
+uşúp-geşme s. zbor.
+uşúp-ketme s. zbor.
+ut s. (muz.) lăută.
+utana-utana adv. timid; retras.
+utandîrma s. deconcertare.
+utandîrmak v.t. a face de ruşine; a face de râs.
+utandîruwğî adj. ruşinos; reprobabil; jenant.
+utangan adj. pudic; jenat; ruşinat.
+utangaş adj. ruşinos; sfios; timid.
+utangaşlîk s. ruşine; sfială; timiditate.
+utanma s. ruşine; pudoare.
+utanmadan adv. fără scrupule; cu neruşinare.
+utanmagan adj. neruşinat.
+utanmak v.i. 1. a se ruşina; a-i fi ruşine. 2. a se jena; a se sfii.
+utanmama s. neruşinare; obrăznicie; impertinenŃă; cinism.
+utanmaz adj. neruşinat; obraznic; impertinent; cinic.
+utanmazlîk s. neruşinare; obrăznicie; impertinenŃă; cinism.
+utanş s. ruşine; dezonoare.
+utanşak adj. ruşinos; sfios; timid.
+utanşaketúw s. intimidare; timorare.
+utanşlîk s. ruşine; sfială.
+utanuw s. jenă.
+utkî s. victorie; biruinŃă; triumf.
+utkulî adj. victorios; biruitor; triumfător.
+utmak v.t. a învinge; a înfrânge; a câştiga.
+utopik adj. utopic.
+utopiya s. utopie.
 `;
