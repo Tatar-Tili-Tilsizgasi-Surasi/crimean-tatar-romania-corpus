@@ -1070,5 +1070,369 @@ pîşkîlanmak v.i. a se tăia cu ferăstrăul.
 pîşkîlatmak v.t. a determina să taie cu ferăstrăul.
 pîşkîlaw s. tăiere cu ferăstrăul.
 pîşkî-órdek s. (orn.) ferestraş mare; bodârlău cu ferăstrău (lat., Mergus merganser).
+pîşkîrgan adj. 1. care țâşneşte; care împroaşcă. 2. germinat.
+pîşkîrma s. 1. germinare. 2. țâşnire; împroşcare.
+pîşkîrmak v.i. 1. a țâşni; a împroşca. 2. a germina.
+pîşkîrtmak v.t. 1. a determina să germineze. 2. a determina să țâşnească; a determina să împroaşte.
+pîşkîrtuwğî s. pulverizator; atomizor; spray.
+pîşkîruw s. 1. germinare. 2. țâşnire; împroşcare.
+pîşma s. castrare; jugănire; sterilizare.
+pîşmak v.t. a castra; a jugăni; a steriliza.
+pîştîrîlgan adj. 1. castrat; jugănit. 2. (ist.) eunuc.
+pîştîrîlmak v.i. a se castra; a se jugăni.
+pîştîrmak v.t. a determina să castreze; a determina să jugănească.
+pîştîruw s. castrare; jugănire.
+pîşuw s. castrare; jugănire; sterilizare.
+pîsîldaw s. fâsâit.
+pîsuw s. ascundere; pitire; pândă; spionare.
+pît s. (anat.) perineu.
+pîtak s. 1. butaş; butuc de viță de vie. 2. creangă; cracă; ramură.
+pîtaklamak v.t. a ramifica.
+pîtaklangan adj. ramificat.
+pîtaklanma s. ramificare; ramificație.
+pîtaklanmak v.i. a se ramifica.
+pîtaklanuw s. ramificare; ramificație.
+pîtalgan v.t. (d. pomi, d. vița-de-vie) plivit; tuns; curățat.
+pîtama s. (d. pomi, d. vița-de-vie) plivire; tundere; curățare.
+pîtamak v.t. (d. pomi, d. vița-de-vie) a plivi; a tunde; a curăța de crengi.
+pîtaw s. (d. pomi, d. vița-de-vie) plivire; tundere; curățare.
+pîtîrdama s. pârâit.
+pîtîrdamak v.i. a pârâi.
+pîtîrdaw s. pârâit.
+pîtîr-pîtîr interj. pâr!;
+pîtîrtî s. pârâit.
+pîtrak s. (bot.) scaietele-popii; holeră (lat., Xanthium spinosum).
+pîtrak, uzun- s. (bot.) scaietele-popii (lat., Xanthium strumarium).
+plaçenta s. (biol.) placentă.
+plafon s. plafon.
+plağiyat s. plagiat; plagiere.
+plağiyatşî s. plagiator.
+plağiyatşîlîk s. plagiat; plagiere.
+plaja s. plajă. // ●kumluklarnîñ geñíşlígí — lățimea plajelor.
+plaka s. 1. (muz.) placă; disc. 2. (la autovehicule) număr de înmatriculare; număr.
+plakaj s. placaj.
+plan s. plan; proiect. // ●plan kurmak — a face planuri.
+planeta s. (astr.) planetă.
+planetalararasî adj. interplanetar.
+planetariyum s. planetariu.
+planğî s. planificator; proiectant.
+plankton s. plancton.
+planlama s. planificare.
+planlamak v.t. a planifica.
+planlangan adj. planificat.
+planlanmagan adj. neplanificat; neproiectat.
+planlanmaykalgan adj. neplanificat; neproiectat.
+planlî adj. planificat.
+planor s. planor.
+planorğî s. planorist.
+planorğîlîk s. planorism.
+plansîz adj. neplanificat; neproiectat.
+plantasiya s. plantație.
+plasma s. (biol.) plasmă.
+plasmalî adj. plasmatic.
+plasmatik adj. plasmatic.
+plastik I. adj. plastic; maleabil; ductil. II. s. material plastic. // ●plastik sanatlar — arte plastice.
+plastikleşken adj. plastifiat.
+plastikleşmek v.i. a se plastifia.
+plastikleştírme s. plastifiere.
+plastikleştírmek v.t. a plastifia.
+plastiklík s. plasticitate.
+plastilina s. plastilină.
+platforma s. platformă (şi fig.).
+platina s. platină.
+platonik adj. platonic.
+plákiya s. (gastron.) plachie. // ●balîk plákiyasî — (gastron.) plachie de peşte.
+plebisçit s. plebiscit.
+Pleske'níñ-soygasî s. (orn.) cioara lui Pleske (lat., Podoces pleski).
+plewura s. (anat.) pleură.
+plewureziya s. (med.) pleurită; pleurezie.
+plewurita s. (med.) pleurită; pleurezie.
+plisew s. pliu; pliseu.
+plisewlí adj. plisat.
+pliy s. pliu.
+plomba s. (med.) plombă.
+plombalama s. (med.) plombare.
+plombalamak v.t. (med.) a plomba.
+plombalangan adj. (med.) plombat.
+plombalanmak v.i. (med.) a se plomba.
+plombalaw s. (med.) plombare.
+plombalî adj. (med.) plombat.
+pluş s. pluş.
+pluşlî adj. pluşat.
+plutokrasiya s. plutocrație.
+Pluton s. (astr.) Pluton.
+plutoniyum s. (chim.) plutoniu.
+pnewumatik adj. pneumatic.
+pogaşa s. (gastron.) pateu.
+pogaşağî s. patiser.
+pogaşağîlîk s. patiserie.
+polak I. adj. polon. II. s., adj. polonez.
+Polagîstan/Poloniye s. (topon.) Polonia.
+polakşa I. adv. în limba poloneză. II. s. (limba) poloneză.
+polat s. oțel. // ●polat fabrikasî — oțelărie.
+polatírítken s. (tehn.) turnător; topitor; oțelar.
+polatírítme s. (tehn.) turnătorie; topitorie; oțelărie.
+polatkana s. oțelărie.
+polatlaşkan adj. oțelit; călit.
+polatlaşma s. oțelire; călire.
+polatlaşmak v.i. a se oțeli; a se căli.
+polatlaştîrmak v.t. a oțeli; a căli.
+polatlaşuw s. oțelire; călire.
+polatlî adj. 1. (constr.) armat. 2. cu oțel; oțelit.
+polatşî s. oțelar.
+polattay adj. tare ca oțelul.
+polattókken s. (tehn.) turnător; topitor; oțelar.
+polattókme s. (tehn.) turnătorie; topitorie; oțelărie.
+polemika s. polemică.
+polemikalî adj. controversat; disputat; polemic.
+polifonik adj. polifonic.
+polifoniya s. polifonie.
+polifoniyalî adj. polifonic.
+poligam s. poligam.
+poligamiya s. poligamie.
+poligamiyağî s. poligam.
+poliglot s., adj. poliglot. // ●poliglot sózlígí — dicționar poliglot.
+poligon s. (mil.) poligon. // ●níşanğîlîk poligonî — poligon de tir.
+poligrafik adj. poligrafic.
+poligrafiya I. adj. poligrafic. II. s. poligrafie.
+poligrafiyalî adj. poligrafic.
+poliklinika s. (med.) policlinică.
+polimer s. polimer.
+polip s. (med.) polip.
+polisa s. (fin.) poliță de asigurare.
+polisist s. polițist.
+polisiya s. poliție. // ●polisiya hafiyesi — detectiv. ●polisiya komisarî — comisar de poliție. ●polisiya memurî — polițist. ●polisiya romanî — roman polițist.
+politeknik adj. politehnic.
+politeknika I. adj. politehnic. II. s. politehnică. // ●politeknika mektebí — politehnică.
+politeknikalî adj. politehnic.
+politeyism s. (fil.) politeism.
+politeyist s. (fil.) politeist.
+politeyistlík s. (fil.) politeism.
+politik adj. politic.
+politika s. politică (şi fig.).
+politikağî s. politician (şi fig.).
+poliyester s. poliester.
+poliyomiyelita s. (med.) poliomielită.
+polo s. (sport) polo.
+polon I. adj. polon. II. s., adj. polonez.
+polonğa I. adv. în limba poloneză. II. s. (limba) poloneză.
+Poloniye/Polagîstan s. (topon.) Polonia.
+poloniyelí I. adj. polon. II. s., adj. polonez.
+pomada s. pomadă; alifie.
+pomata s. unsoare.
+pompa s. (tehn.) pompă.
+pompalama s. pompare.
+pompalamak v.t. a pompa.
+pompalangan adj. pompat.
+pompalaw s. pompare.
+poniy s. (zool.) ponei (lat., Equus caballus).
+ponografik adj. pornografic.
+ponton s. ponton.
+popaz s. 1. (la creştini) preot; popă. 2. rigă; popă (carte de joc).
+popazgaitiraf s. (relig., la creştini) spovedanie.
+popazgaitiraflî adj. (relig., la creştini) spovedit.
+popazkalpagî s. (bot.) salbă-moale; vonicer (lat., Evonymus europaea).
+popazlar s., pl. (la creştini) cler; preoțime.
+popazlîk s. (la creştini) preoție.
+popazotî s. (bot.) popaz (lat., Sabadilla officinalis).
+poplin s. (text.) poplin. // ●poplin íşkólmek — cămaşă de poplin.
+pornografik adj. pornografic.
+pornografiya s. pornografie.
+pornografiyagakarşî adj. antiporno.
+pornografiyalî adj. pornografic.
+porselan s. porțelan. // ●porselan pílğanî — ceaşcă de porțelan. ●porselan takîmî — serviciu de porțelan. ●tíş porselan kaplamasî — îmbrăcăminte de porțelan pentru dinți.
+porsiya s. porție.
+porsî adj. duhoare; putoare.
+porsîk s. (zool.) viezure; bursuc (lat., Meles meles).
+porsîkteregí s. (bot.) tisă (lat., Taxus baccata).
+portakal s. 1. portocală. 2. (bot.) portocal (lat., Citrus aurantium dulcis). // ●portakal suwî — oranjadă. ●portakalnî dórt şeríkke bóldím — am împărțit portocala în patru sferturi.
+portakallîk s. livadă de portocali.
+portakalrengí adj. oranj; portocaliu.
+portatif s. portativ.
+portbagaj s. portbagaj.
+portekíz s., adj. portughez.
+Portekíz s. (topon.) Portugalia.
+portekízğe I. adv. în limba portugheză. II. s. (limba) portugheză.
+portekízlí s., adj. portughez.
+portopel s. portofel.
+Portorika s. (topon.) Puerto Rico.
+portorikalî s., adj. portorican.
+portorikan s., adj. portorican.
+portret s. portret.
+post s. 1. piele de animal; blană. 2. post; funcție. 3. autoritate; instituție; organ.
+postulat s. postulat.
+poşmak s. 1. colț; unghi. 2. intersecție de drumuri. // ●geñíş poşmak — (mat.) unghi obtuz. ●ğóndeş poşmaklar — (mat.) unghiuri corespondente. ●karşî poşmaklar — (mat.) unghiuri opuse. ●koñşî poşmak — (mat.) unghi adiacent. ●kóríş poşmagî — punct de vedere. ●odanîñ poşmagî — colțul camerei. ●poşmak wuruşî — (sport) lovitură de colț. ●tík poşmak — (mat.) unghi drept. ●topnî ters poşmakka attî — a trimis mingea în colțul opus.
+poşmakkeñ s. (mat.) diagonală.
+poşmaklî adj. cu colțuri; colțuros; cu unghiuri.
+poşmaklîk adj. unghiular.
+poşta s. 1. poştă. 2. navetă; poştă. // ●poşta hawalesí — mandat poştal. ●poşta kartî — carte poştală. ●poşta kutugî — căsuță poştală; cutie poştală. ●poşta pulî — timbru poştal. ●poşta trení — (transp.) tren poştal.
+poştağî s. poştaş; factor poştal.
+poştakana s. poştă; oficiu poştal. // ●poştakana kayda? — unde este poşta?;
+poştalamak v.t. a expedia prin poştă; a trimite prin poştă; a depune la poştă.
+potasiyum s. (chim.) potasiu.
+potensiyal s. potențial.
+poza s. poză; atitudine.
+pozitif adj. pozitiv (şi foto.).
+pozitivism s. (fil.) pozitivism.
+pókter s. troian; nămete.
+pókterlemek v.t. a troieni; a nămeți.
+pókterlengen adj. înzăpezit; troienit; nămețit.
+pókterlenme s. înzăpezire; troienire; nămețire.
+pókterlenmek v.i. a se înzăpezi; a se troieni; a se nămeți.
+pókterlí adj. înzăpezit; troienit; nămețit.
+póstekiy s. blană (de oaie, de capră).
+pragmağî s., adj. pragmatist.
+pragmağîlîk s. pragmatism.
+praktik adj. practic.
+praktika s. practică.
+praktikağî s. practician.
+praktikayapkan s. practicant.
+prank s. (unitate monetară) leu; franc. // ●kaş prank ete? — cât costă?;
+predikat s. (gram.) predicat.
+predikatif adj. (gram.) predicativ.
+presa s. (tehn.) presă.
+prezbit s. (med.) prezbit.
+prezbitism s. (med.) prezbitism.
+prezbitlík s. (med.) prezbitism.
+prima s. (fin.) primă.
+primatlar s., pl. primate.
+prins s. prinț.
+prinsesa s. prințesă.
+priza s. (electr.) priză.
+proba s. 1. probă; experimentare. 2. repetiție. // ●probasîn yapmak — a proba.
+problema s. problemă (şi fig.).
+proçes s. proces.
+prodekan s. (univ.) prodecan.
+produktor s. producător.
+profesiyonal adj. profesional.
+profesor s. profesor.
+profesorlîk s. profesorat; profesorime.
+profil s. profil (şi mat.).
+profilaksiya s. profilaxie.
+program s. program. // ●deweranlarnîñ programî — programul cinematografelor. ●programnîñ ara yerínde — în pauza programului. ●tren programî — mersul trenurilor.
+programğî s. programator.
+programlagan s. programator.
+programlama s. programare.
+programlamak v.t. a programa.
+programlangan adj. programat.
+programlanmak v.i. a se programa.
+programlaw s. programare.
+programlî adj. programat.
+prokuror s. procuror.
+prokurorlîk s. (jur.) procuratură; parchet.
+proletar s. proletar.
+proletariyat s. proletariat.
+prolok s. prolog.
+propaganda s. propagandă.
+propagandağî s. propagandist.
+prorektor s. (univ.) prorector.
+prospekt s. prospect.
+prostata s. (anat.) prostată.
+protest s. protest.
+protestant s. (relig.) protestant.
+protestantism s. (relig.) protestantism.
+protestantlîk s. (relig.) protestantism.
+protestetken adj. protestatar.
+protestşí adj. protestatar.
+proteyina s. proteină.
+proteza s. (med.) proteză.
+protokol s. protocol.
+protokollî adj. protocolar.
+proton s. (fiz.) proton.
+protoplasma s. (biol.) protoplasmă.
+protozorlar s., pl. (biol.) protozoare.
+prova s. (nav.) proră.
+proyeksiya s. (fiz.) proiecție.
+proyekt s. proiect.
+proyektor s. proiector.
+prozodiya s. (lit.) prozodie.
+psihanaliza s. psihanaliză.
+psihiyatriya s. (med.) psihiatrie.
+psihiyatriyağî s. (med.) psihiatru.
+psiholoğik adj. (med.) psihologic.
+psiholoğiya I. adj. (med.) psihologic. II. s. (med.) psihologie.
+psiholoğiyağî s. (med.) psiholog.
+psiholoğiyalî adj. (med.) psihologic.
+psiholok s. (med.) psiholog.
+psihopedagoğiya s. psihopedagogie.
+psihopedagoğiyağî s. psihopedagog.
+psihopedagok s. psihopedagog.
+psihoza s. psihoză.
+pudra s. pudră cosmetică. // ●talk pudrasî — pudră de talc.
+pudralama s. pudrare.
+pudralamak v.t. a pudra.
+pudralangan adj. pudrat.
+pudralanmak v.i. a se pudra.
+pudralaw s. pudrare.
+pudralî adj. pudrat.
+pudralîk s. pudrieră.
+pufuldagan s. pufăitor.
+pufuldama s. pufăit.
+pufuldamak v.i. a pufăi.
+pufuldaw s. pufăit.
+pufultî s. pufăit.
+pul I. adj. (fin.) monetar. II. s. 1. paietă. 2. solz (de peşte). 3. timbru (poştal, fiscal). 4. (la jocul de table) pul. 5. (fin.) monedă. 6. (tehn.) şaibă. 7. (muz.) taler; talger; cinel; cimbal. // ●pul ğabîştîrmak — a timbra. // ●balîk pulî — solz de peşte. ●poşta pulî — timbru poştal. ●tamga pulî — timbru.
+pulbasîlgan adj. francat; timbrat.
+pulbasuw s. francare; timbrare.
+pulğî s. filatelist.
+pulğîygan s. filatelist.
+pulğîyuw s. filatelie.
+pulğuluk s. filatelie.
+pulkana s. monetărie.
+pulkesken adj. monetar.
+pulkesme s. fabricare de monede.
+pullamak v.t. a timbra; a pune timbru.
+pullanmagan adj. netimbrat.
+pullî adj. 1. timbrat. 2. cu solzi.
+pullî-karînlî-gúmúşgágáa s. (orn.) pescăruş cu cioc argintiu solzos (lat., Lonchura punctulata).
+pullî-kúrte s. (orn.) ghionoaie cu pântece solzos (lat., Picus squamatus).
+pullî-terekkakkan s. (orn.) ghionoaie cu pântece solzos (lat., Picus squamatus).
+pullî-tokîldak s. (orn.) ghionoaie cu pântece solzos (lat., Picus squamatus).
+pulsuz adj. netimbrat.
+pulşeşegí s. (bot.) bănică; spinuță (lat., Phyteuma orbiculare).
+puluş adj. impotent.
+puluşluk s. (med.) impotență.
+puna-Amazon-órdegí s. (orn.) rață puna sud-americană ( lat., Anas puna).
+puna-aynagî s. (orn.) țigănuş puna; sitar negru puna (lat., Plegadis ridgwayi).
+puna-şullugî s. (orn.) țigănuş puna; sitar negru puna (lat., Plegadis ridgwayi).
+punksiya s. (med.) puncție.
+punt s. livră; funt; pfund (=453,6 gr).
+pupa s. (nav.) pupă.
+puritan s., adj. (relig.) puritan.
+puritanism s. (relig.) puritanism.
+puritanlîk s. (relig.) puritanism.
+purşî s. perie. // ●kíşkene purşî — periuță. ●kondîra purşusî — perie de ghete. ●şáş purşusî — perie de păr. ●tîrnak purşusî — periuță de unghii. ●tíş purşusî — periuță de dinți. ●urba purşusî — perie de haine.
+purşulama s. periere.
+purşulamak v.t. a peria.
+purşulangan adj. periat.
+purşulanmak v.i. a se peria.
+purşulaw s. periere.
+puskî s. (mil.) ambuscadă.
+pusula s. 1. bilețel; scrisorică. 2. (fin.) factură.
+put s. idol; divinitate.
+puta s. creuzet.
+putlaşkan adj. idolatrizat; divinizat.
+putlaştîrma s. idolatrizare; divinizare.
+putlaştîrmak v.t. a idolatriza; a diviniza.
+putlaştîruw s. idolatrizare; divinizare.
+putperest adj. idolatru.
+putperestlík s. idolatrie; divinizare.
+putşuluk s. fetişism.
+púrşek s. cârlionț; buclă; moț.
+púrşeklí adj. cârlionțat; buclat; moțat.
+púrşúk s. cârlionț; buclă; moț.
+púrşúklí adj. cârlionțat; buclat; moțat.
+púrúz s. defect; cusur; neajuns.
+púrúzlí adj. defectuos; cu defect.
+púrúzsúz adj. fără cusur; fără defecte; ireproşabil.
+púskúl s. ciucure; pompon; franj. // ●músúr púskúlí — smoc la ştiuletele de porumb; mătase.
+púskúllí adj. cu ciucuri; cu franjuri.
+púskúrgen adj. 1. pulverizat. 2. (d. vulcani) eruptiv.
+púskúrgeş s. pulverizator; atomizor; spray.
+púskúrme s. 1. (d. lichide) evacuare; golire. 2. (d. vulcani) erupție.
+púskúrmek v.i. 1. (d. lichide) a se goli; a se evacua. 2. (d. vulcani) a erupe.
+púskúrtmek v.t. 1. (d. vulcani) a determina să erupă. 2. (d. lichide) a determina să se golească; a determina să evacueze.
+pwan s. (sport) punct. // ●pwan almak — a câştiga puncte (sport). ●pwan hesabî man ğeñmek — a câştiga la puncte (sport). // ●pwan ğetvelí — punctaj.
+pyúre s. (gastron.) piure.
 `;
 export default rawDictionaryText;
