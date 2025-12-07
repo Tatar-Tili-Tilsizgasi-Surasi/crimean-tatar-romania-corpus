@@ -726,5 +726,349 @@ peşewtógúw s. urinare.
 peşin I. adj. peşin. II. adv. dinainte; în prealabil.
 peşínetúşúlgen adj. fugărit; urmărit.
 peşínetúşúw s. fugărire; urmărire.
+peşka s. sobă; cuptor; cămin. // ●aşkana peşkasî — plită. ●peşkaga tiymeñíz! — nu vă atingeți de sobă!;
+peşkağî s. sobar.
+peşkeş s. dar; plocon; peşcheş.
+peşkir s. şervet; ştergar.
+peşman adj. 1. (d. oameni) care regretă; care se căieşte. 2. regret; remuşcare; căință; părere de rău. // ●aytkanîna peşman bolmak — a-şi muşca limba; a regreta cele spuse. ●biñ peşman bolmak — a regreta amarnic. ●peşman bolmak/etmek — a se căi; a avea remuşcări; a-i părea rău; a regreta. // ●peşman man — regret.
+peşmanbolgan adj. pocăit.
+peşmanetúwğí adj. regretabil.
+peşmanlîk s. regret; remuşcare; căință; părere de rău.
+peşmegí, eşkí- s. (bot.) creasta-cocoşului (lat., Clavaria flava).
+peşmegí, gúlpembe-taw- s. (bot.) ciupercă-de-pădure (lat., Agaricus silvaticus Schaeff).
+peşmegí, kalaw- s. (bot.) ciupercă-de-pivniță; burete-de-casă (lat., Merulius lacrymans).
+peşmegí, katîr- s. (bot.) ciupercă-de-câmp (lat., Agaricus arvensis).
+peşmegí, kîr- s. (bot.) ciupercă-de-gunoi (lat., Agaricus campestris).
+peşmegí, şîbîn- s. (bot.) pălăria-şarpelui; muscariță; buretele-muştelor (lat., Amanita muscaria).
+peşmegí, tana- s. (bot.) pita-vacii (lat., Boletus bovinus).
+peşmek s. ciupercă; fungi; burete.
+peşmek, aşşî- s. (bot.) iuțari (lat., Lactarius piperatus).
+peşmek, biyaz-şapkelí- s. (bot.) ciupercă Champignon (lat., Agaricus bisporus).
+peşmek, ekşí- s. (bot.) hrib-amărui (lat., Boletus aereus).
+peşmek, kara- s. (bot.) burete-negru (lat., Pleurotus ostreatus).
+peşmek, şawdar- s. (bot.) ciupercă albă (lat., Agaricus xanthodermus).
+peşmek, sarî- s. (bot.) burete-galben (lat., Cantharellus cibarius).
+peşmek, sútlí- s. (bot.) vinețică-cu-lapte; râşcov (lat., Lactarius volemus; Lactarius deliciosus).
+peşref/peşrew s. 1. (muz.) preludiu (în muzica orientală). 2. înainte-mergător; antecesor; precursor; predecesor.
+peştímal s. şorț.
+pestek-şamî s. (bot.) coconar; pin (lat., Pinus pinea).
+pestekteregí s. (bot.) fistic (arbore) (lat., Pistacia vera).
+petarda s. petardă.
+petek I. adj. (lingv.) alveolar. II. s. 1. fagure de miere. 2. (anat.) alveolă. 3. (anat.) partea interioară a tălpii; scobitura tălpii. 4. alveolă; scobitură; cavitate. // ●akğíger petegí — (anat.) alveolă pulmonară.
+peteklí adj. (lingv.) alveolar.
+petenek s. pipotă.
+petrol s. petrol. // ●petrol papîrî — (d. nave) petrolier. ●petrol tasfiye kanasî — rafinărie de petrol.
+petrollî adj. petrolifer.
+petuniya s. (bot.) petunie; leicuță; tolceruț (lat., Petunia hybrida).
+Pewaz/Fewaz s. (antrop. m., arab.) “Cel capabil”.
+Pewziy/Fewziy s. (antrop. m., arab.) “Cel capabil”.
+Pewziye/Fewziye s. (antrop. f., arab.) “Cea capabilă”.
+peygamber s. profet; proroc; vestitor; prevestitor.
+peygamberlík s. profeție; prorocire; vestire; prevestire.
+peygamberşeşegí s. (bot.) albăstrea; vinețea; floarea-grâului (lat., Centaurea cyanus).
+peygamberteregí s. (bot.) guaiac (lat., Guaiacum officinalis; Guaiacum sanctum).
+peyk s. (astr.) satelit. // ●suniy peyk — satelit artificial.
+pezemenk I. adj. josnic; mârşav; perfid; pezevenchi. II. s. proxenet; codoş.
+pezemenklík s. 1. proxenetism; codoşie. 2. josnicie; mârşăvie; perfidie; pezevenclâc.
+pide s. lipie.
+pigment s. pigment.
+pigmentlí adj. pigmentat.
+pigmentlík s. pigmentație.
+pigmentsíz adj. depigmentat.
+pigmentsízlík s. depigmentare.
+pijama s. pijama. // ●erkek pijamasî — pijama bărbătească.
+pika s. (la cărți de joc) pică.
+pikaj s. (av.) picaj.
+pikap s. 1. (muz.) picup. 2. camionetă.
+piket s. pichet.
+piknik s. picnic.
+pikrik adj. (chim.) picric. // ●pikrik kamîz — (chim.) acid picric.
+pil s. 1. (zool.) elefant (lat., Elephas maximus; Loxodonta africana). 2. (la şah) nebun.
+pila s. (electr.) pilă; baterie.
+pile s. 1. (text.) borangic; mătase brută. 2. (text.) cocon; gogoaşă de mătase.
+pileğí s. sericicultor.
+pileğílík s. sericicultură.
+pilot s. pilot; aviator.
+pilotaj s. pilotaj.
+pilotlîk s. pilotaj.
+piltíşí s. fildeş.
+pingúyin s. (orn.) pinguin (lat., Spheniscidae sp.).
+pink-ponk s. ping-pong; tenis de masă.
+pipa s. pipă; lulea.
+pipeta s. pipetă.
+piramida s. piramidă.
+piramidal adj. piramidal.
+pirat s. pirat.
+piratlîk s. piraterie.
+pirita s. pirită.
+piroga s. (nav.) pirogă.
+piruweta s. piruetă.
+pis adj. 1. murdar; jegos; slinos. 2. scârbos; grețos; respingător. 3. infectat; spurcat. 4. (fig.) josnic; murdar; mârşav.
+pisbogaz adj. gurmand; mâncăcios.
+pisiy s. (iht.) calcan-mic (lat., Rhombus laevis).
+pisiy-pisiy interj. pis-pis!;
+pislík s. 1. murdărie; jeg. 2. (fiziol.) fecale; excremente. 3. (fig.) josnicie; murdărie; mârşăvie.
+pista s. pistă (şi av.).
+pistol s. pistol.
+piston s. 1. (tehn.) piston. 2. (fig.) protecție. // ●piston halkasî — (tehn.) segment.
+piş I. adj. depravat; uşuratic; frivol; curvar. II. s. 1. copil nelegitim; bastard. 2. lăstar.
+pişdar s. 1. (mil.) cercetaş. 2. (mil.) avangardă.
+pişkot s. (gastron.) pişcot; biscuit; fursec. // ●bír okka pişkot — un kilogram de biscuiți. ●kremalî pişkot — fursecuri cu cremă. ●súslí pişkot — fursec. ●tuzlî pişkot — saleu.
+pişlík s. depravare.
+piş-táwúkel adj. nerod depravat; curvă proastă.
+piton-ğîlanî s. (zool.) piton (lat., Python).
+pitoresk adj. pitoresc.
+piyade I. adj. pe jos; pedestru. II. s. 1. (mil.) infanterie. 2. infanterist. 3. (la şah) pion. // ●piyade miñgáanî — (mil.) regiment de infanterie. ●piyade ordîsî — (mil.) infanterie.
+piyala s. oglindă.
+piyan s. (muz.) pian. // ●piyan şalmak — a cânta la pian. // ●piyan konçertí — concert pentru pian.
+piyanğí s. pianist.
+piyanina s. (muz.) pianină.
+piyanist s. (muz.) pianist.
+piyano adj. piano.
+piyanşalgan s. (muz.) pianist.
+piyasa s. piață. // ●piyasa piyatî — preț de piață; preț curent.
+piyat s. preț; valoare; cost; tarif. // ●piyat arttîrmak — a majora prețul; a scumpi. ●piyat túşúrmek — a reduce prețul; a ieftini. ●piyatî tutmak — a valora. // ●ğariy piyat — preț curent. ●hesaplî/adil piyat — preț convenabil. ●nakliye piyatî — tarif de transport. ●ortalama piyat — preț mediu. ●piyasa piyatî — preț de piață; preț curent. ●piyat kóstergesí — lista de prețuri. ●piyatî kaş? — ce preț are?; ●piyatî ne bolsa bolsîn — cu orice preț. ●piyatnîñ íşíne alîngan — inclus în preț. ●sabit/maktuw piyat — preț fix. ●tuz piyatî — prețul sării.
+piyatartmasî s. scumpire.
+piyatîartkan adj. scumpit.
+piyatîkabargan adj. scumpit.
+piyatîósken adj. scumpit.
+piyatîtúşken adj. ieftinit.
+piyatkabarmasî s. scumpire.
+piyatósmesí s. scumpire.
+piyattúşmesí s. ieftinire.
+piyda s. apariție; ivire; înfiripare; încolțire; manifestare. // ●piyda bolmak — a ieşi la iveală; a apărea; a se manifesta; a se produce. ●piyda etmek — a scoate la iveală; a da naştere la; a produce.
+piydabolgan adj. apărut; ivit; înfiripat; încolțit; care s-a manifestat.
+piydalî adj. apărut; ivit; înfiripat; încolțit; care s-a manifestat.
+piyesa s. piesă de teatru.
+piyke s. canapea; bancă.
+piyon s. pion.
+piyoner s. pionier.
+piyoneza s. pioneză.
+piyoratif adj. peiorativ.
+píkír s. 1. idee; gând. 2. opinie; părere. 3. minte; judecată; rațiune. 4. memorie. // ●píkír bermek/kóstermek — a-i da cuiva o idee; a-i sugera. ●píkír etmek — a reflecta; a chibzui; a medita. ●píkír ğúrsetmek — a gândi; a cugeta; a susține; a opina pentru. ●píkír yorîltmak — a-şi frământa mintea. ●píkírde tutmak — a ține minte. ●píkírín bîzmak — a-l converti. ●píkírínden geşmek — a-i trece prin minte. // ●aldîn píkírler — idei înaintate. ●óz píkíríñíz — părerea dumneavoastră proprie. ●píkír ayîrîlîgî — divergență. ●píkíríme kóre — în opinia mea. ●píkírímní deñíştírdím — mi-am schimbat opinia. ●píkírníñ ústúnde turmagan — inconsecvent. ●şaşma píkír — idee absurdă. ●síz men bír píkírdemen — sunt de aceeaşi părere cu dumneavoastră.
+píkírañlatmasî s. exprimarea opiniei; pronunțare.
+píkírbîzuw s. (relig.) convertire.
+píkírdetutulgan adj. memorat.
+píkírdetutuw s. memorare.
+píkírğúrsetken s. cugetător; gânditor.
+píkírğúrsetmesí s. cugetare; gândire; meditație; reflecție.
+Píkíriye/Fíkíriye s. (antrop. f., arab.) “Cea chibzuită”.
+píkíríbîzîlgan adj. (relig.) convertit.
+píkírkóstermesí s. sugestie.
+píkírsíz adj. stupid; fără sens.
+píkírsízlík s. stupiditate.
+pílaw s. (gastron.) pilaf. // ●etlí pílaw — pilaf cu carne.
+pílğan s. ceaşcă. // ●kawe pílğanî — ceaşcă de cafea. ●porselan pílğanî — ceaşcă de porțelan.
+pílík s. fitil; muc.
+pílşe súyegí s. (anat.) omoplat; scapulă.
+píntí adj. zgârcit; avar; zgârie-brânză.
+píntílík s. zgârcenie; avariție.
+pípík s. creastă; moț (la păsări).
+pípíklí adj. (d. păsări) moțat.
+píríj s. (bot.) orez (lat., Oryza sativa). // ●bír şerík okka píríj — un sfert de kilogram de orez.
+pís-pítín adv. în întregime; cu totul; integral; peste tot.
+pístan s. fustă; rochie.
+píşen s. iarbă; fân.
+píşenlík s. fâneață; păşune; izlaz; pajişte.
+píşerbaylar s. (agr.) secerătoare; legătoare.
+píşertóger s. (agr.) combină.
+píşeyazgan adj. pârguit.
+píşeyazma s. pârguire.
+píşeyazmak v.i. a se pârgui.
+píşeyazuw s. pârguire.
+píşík adj. 1. copt; prăjit; fript. 2. (fig.) experimentat; cu experiență; deprins.
+píşílgen adj. croit.
+píşílmek v.i. a fi croit; a se croi.
+píşím s. 1. seceriş. 2. formă; aspect; croială. // ●píşím bermek — a da formă. ●píşím bîzmak — a deforma. ●píşímíne ketírmek — a găsi forma potrivită. ●tírek píşímí almak — a se încolona. // ●başka píşím — variantă. ●ela píşím — stil clasic. ●figel píşímí — (gram.) modalitate verbală. ●gotik píşím — stil gotic. ●kîyafetníñ píşímí — croiala costumului. ●píşím úşún — de formă; pro forma. ●toprak píşímlerí — formele de relief. ●yúzúk píşímínde — inelar.
+píşímalgan adj. conturat; înfiripat; întruchipat; proiectat.
+píşímaluw s. conturare; înfiripare; întruchipare; proiectare.
+píşímañlatmasî s. semnalmente.
+píşímbergen s. modelator.
+píşímberílgen adj. conturat; fasonat; modelat.
+píşímberúw s. conturare; fasonare; modelare.
+píşímbílímí I. adj. (gram., biol.) morfologic. II. s. (gram., biol.) morfologie.
+píşímbílímlí adj. (gram., biol.) morfologic.
+píşímbîzuw s. deformare; distorsionare; strâmbare.
+píşímdeñíşímğí s., adj. (fil., biol.) transformist; evoluționist.
+píşímdeñíşímğílík s. (fil., biol.) transformism; evoluționism.
+píşímdeñíşímí s. transformare; metamorfozare.
+píşímğí s., adj. formalist.
+píşímğílík s. formalism.
+píşímíbîzîlgan adj. deformat; distorsionat; strâmbat.
+píşímídeñíşken adj. transformat; metamorfozat.
+píşímkoşîlî s. formalitate; condiție de formă; cerință de formă.
+píşímleşken adj. fasonat; modelat; conturat.
+píşímleşmek v.i. a se contura; a căpăta formă; a lua forma…;
+píşímleştírme I. adj. aparent; formal. II. s. fasonare; modelare; conturare; formalizare.
+píşímleştírmek v.t. a modela; a fasona; a contura; a formaliza; a da formă.
+píşímlí adj. (d. persoane) elegant; frumos.
+píşímsíz adj. 1. amorf; fără formă. 2. diform.
+píşímsízleşken adj. deformat.
+píşímsízleşmek v.i. a se deforma.
+píşímsízleştírmek v.t. a deforma.
+píşímsízleşúw s. deformare.
+píşímsízlík s. urâțenie; deformare.
+píşíp-kesílgen adj. răscroit.
+píşíp-kesúw s. răscroială.
+píşíp-túşken adj. (d. mâncare) preparat; gătit.
+píşírğí s. bucătar.
+píşírğíbaşî s. bucătar-şef.
+píşírğílík s. (gastron.) artă culinară; gastronomie; bucătărie; gătit.
+píşírme s. frigere; coacere.
+píşírmek v.t. (gastron.) a coace; a prăji. // ●píşíríp túşúrmek — a găti mâncare. ●yemek píşírmek — a găti mâncare. // ●aş píşírúw bólmesí — bucătărie.
+píşírme-túşúrme s. (gastron.) artă culinară; bucătărie; gătit.
+píşírtmek v.t. (gastron.) a determina să coacă; a determina să prăjească.
+píşkek s. zer.
+píşken adj. 1. (med.) inflamat. 2. fript; copt. // ●suwda píşken ğîmîrta — ou fiert.
+píşkenterí s. (med.) areolă.
+píşkín adj. 1. copt; prăjit; fript. 2. (fig.) experimentat; cu experiență; deprins.
+píşkínlík s. experiență; deprindere.
+píşme s. 1. (med.) inflamație. 2. tăiere; croire. 3. coacere; prăjire; frigere. 4. secerare. 5. croire. 6. evaluare. // ●bademşík píşmesí — (med.) inflamarea amigdalelor; amigdalită. ●barsak píşmesí/iltihabî — (med.) inflamarea intestinului subțire; enterită. ●bogîrdak píşmesí — (med.) inflamarea faringelui; faringită. ●buwum píşmesí/iltihabî — (med.) inflamarea ganglionilor limfatici; adenită. ●búyrek píşmesí — (med.) inflamarea rinichilor; nefrită. ●kandîr píşmesí/iltihab — (med.) inflamarea peritoneului; peritonită. ●karağíger píşmesí/iltihabî — (med.) hepatită; icter; gălbinare. ●kulak píşmesí — (med.) inflamarea urechii; otită. ●kyor-barsak píşmesí — (med.) inflamarea apendicelui; apendicită. ●tíş etí píşmesí/iltihabî — (med.) inflamarea gingiilor; gingivită.
+píşmegen adj. (d. mâncare, fructe etc.) necopt; nefiert.
+píşmek A. v.i. 1. (d. mâncare) a fierbe; a se coace; a se frige. 2. (med.) a se inflama. 3. (d. fructe, legume) a se coace. 4. (fig.) a se experimenta; a căpăta experiență; a se deprinde. B. v.t. 1. a croi. 2. a secera. 3. a evalua. // ●başî píşmek — a i se încinge capul; a face insolație. ●betí píşmek — a-i crăpa obrazul de ruşine; a se ruşina. ●kîymet píşmek — a evalua; a estima. ●ólşep píşmek — a măsura înainte de a croi; a măsura şi a croi; a cumpăni. ●pay píşmek — a face planuri; a plănui; a norma. ●pazla kîymet píşmek — a supraestima. // ●elmam píşken — mărul meu e copt. ●et árúw píşmegen — carnea nu e bine friptă. ●ólşep píşmegen — nesăbuit.
+píşt interj. (către pisică) zât!;
+píş-túş s. (gastron.) artă culinară; bucătărie; gătit.
+píteşík adj. vecin; alăturat; adiacent.
+píteşíklík s. vecinătate; adiacență.
+píteşímlí adj. 1. (lingv.) aglutinant. 2. învecinat; alăturat; adiacent; juxtapus; mărginit. // ●píteşímlí tíller — (lingv.) limbi aglutinante.
+píteşken adj. 1. (lingv.) aglutinant. 2. învecinat; alăturat; adiacent; juxtapus; mărginit. // ●píteşken tíller — (lingv.) limbi aglutinante.
+píteşme s. 1. învecinare; alăturare; adiacență; juxtapunere; mărginire. 2. (lingv.) aglutinare.
+píteşmek v.i. 1. a se învecina; a fi alăturat; a fi adiacent; a se juxtapune; a se mărgini. 2. (lingv.) a se aglutina.
+píteştírmek v.t. 1. (lingv.) a aglutina. 2. a învecina; a alătura; a ataşa; a juxtapune; a mărgini.
+pítiyatîrganda adv. aproape de final; în ultimele momente; in extremis.
+pítín adj. întreg; tot; integral. // ●pítín kalk — toată lumea.
+pítíngún adv. toată ziua.
+pítínğí adj. totalitar.
+pítínğílík s. totalitarism.
+pítínleme s. completare; întregire.
+pítínlemek v.t. a completa; a întregi.
+pítínlenmek v.i. a se completa; a se întregi.
+pítínleşmek v.i. a se completa; a se întregi.
+pítínliy adv. în întregime; în totalitate; complet; integral.
+pítínlígítabîlgan adj. (mat.) integrat.
+pítínlík s. 1. integritate. 2. (mat.) integrală.
+pítínlíktapmasî s. (mat.) integrare.
+pítínlíkte adv. în întregime; în totalitate; complet; integral.
+pítíp-túkengen adj. consumat; epuizat; terminat.
+pítíre-almamak v.t. a nu putea termina. // ●aytîp pítíre-almamak — a o ține una cu laudele; a elogia.
+pítírewuygan adj. expeditiv.
+pítírgenler s., pl. promoție; absolvenți.
+pítíríp-túketúw s. consumare; epuizare; terminare.
+pítírme s. lichidare; terminare.
+pítírmek A. v.m. (precedat de ger. univsl. în -îp/-íp/-up/-úp) a reuşi să termine; a reuşi să sfârşească; a reuşi să finalizeze; a reuşi să pună capăt. B. v.t. a termina; a sfârşi; a finaliza; a pune capăt. // ●íş pítírmek — a realiza; a concretiza. ●íşín pítírmek — a da gata pe cineva; a-l ucide; a-l nimici. // ●okîp pítírdí — a terminat de citit.
+pítken adj. 1. sfârşit; epuizat. 2. lichidat; terminat; împlinit.
+pítkenşík adv. până la sfârşit; până la epuizare.
+pítme s. 1. sfârşit; încheiere; terminare. 2. limită.
+pítmegen adj. infinit; incomplet. // ●pítmegen íş — restanță.
+pítmegen-túkenmegen adj. neconsumat; nesecat.
+pítmek v.i. 1. a se sfârşi; a se termina; a se finaliza. 2. (d. plante) a creşte. 3. a se epuiza; a se istovi; a se extenua. // ●bolîp pítmek — a se întâmpla; a avea loc. ●dertí pítmemek — a nu mai scăpa de necazuri. ●kuwatî pítmek — a i se sfârşi puterile; a se istovi. ●man/men íşí pítmek — a sfârşi cu cineva. ●osal pítmek — a se termina prost. ●pítíp túkenmek — a se consuma; a se termina. ●sóníp pítmek — a se stinge definitiv. // ●benzinam píttí — mi s-a terminat benzina. ●bolîp píttí — s-a sfârşit. ●íş pítkenşík — până la terminarea lucrului. ●kókírekte balasî man, ótíp pítiyatîrganî man — de la cel cu țâța-n gură pân' la cel cu barba sură. ●oyîn barabarlîk man píttí — meciul s-a terminat la egalitate. ●oyîn píttí — piesa a fost jucată.
+pítmelí adj. limitat; finit.
+pítmeme s. infinit; nesfârşire.
+pítmeme-túkenmeme s. infinit; nesfârşire.
+pítmesíz adj. infinit.
+pítmez adj. inepuizabil; infinit; nesfârşit.
+pítmez-túkenmez adj. inepuizabil; infinit; nesfârşit. // ●pítmez-túkenmez mollîk — belşug nesfârşit.
+pítmiykalgan adj. neterminat; neîmplinit; neisprăvit; incomplet; parțial.
+pítmiykalîr adj. inepuizabil; infinit; nesfârşit.
+pítre s. caritate; pomană; milostenie. // ●pítre kurumî — organizație de caritate.
+pîkare adj. sărac; pauper; biet; sărman.
+pîkare-asmasî s. (bot.) luminoasă (lat., Clematis recta).
+pîkarekalgan adj. pauper; sărăcit.
+pîkarekalma s. pauperizare; sărăcire.
+pîkarekaluw s. pauperizare; sărăcire.
+pîkareleşmek v.i. a sărăci.
+pîkareleştírmek v.t. a pauperiza.
+pîkarelík s. sărăcie; lipsuri; privațiune.
+pîkîrdama s. 1. clocot. 2. chicot.
+pîkîrdamak v.i. 1. a clocoti; a fierbe în clocote. 2. a chicoti.
+pîkîrdaw s. 1. clocot. 2. chicot.
+pîkîrtî s. 1. clocot. 2. chicot.
+pînar s. fântână; izvor.
+Pînar, Baş- s. 1. (topon.) ("Fântâna Dintâi") Fântâna Mare (jud. Constanța). 2. (topon.) ("Fântâna Dintâi") Fântâna Mare (jud. Tulcea).
+Pînar, Kertík/Kertelí- s. (topon.) ("Fântâna Incrustată") Curcani (jud. Constanța).
+Pînar, Koyî- s. (topon.) ("Fântâna Vâscoasă") Fântâna Oilor (jud. Tulcea).
+Pînar, Kól- s. (topon.) ("Fântâna Lac") Şipotele (jud. Constanța).
+Pînar, Kurt- s. (topon.) Tervel (Dobrich, Bulgaria).
+Pînar, Manğa- s. (topon.) ("Fântâna cu Cumpănă") Schitu; Mangea Punar (jud. Constanța).
+Pînar, Taş- s. (topon.) ("Fântâna de Piatră") Siliştea (jud. Constanța).
+pîranga s. lanțuri; cătuşă (pt. picioare). // ●pîranga gawurmak — a încătuşa; a înlănțui; a pune în lanțuri. ●pîrangasîn atmak — a se descătuşa; a se dezrobi.
+pîrangagawuruw s. încătuşare; înlănțuire.
+pîrangalamak v.t. a înlănțui; a încătuşa; a fereca.
+pîrangalangan adj. înlănțuit; încătuşat; ferecat.
+pîrangalanmak v.i. a fi pus în lanțuri; a fi pus în cătuşe; a fi ferecat.
+pîrangasînatkan adj. descătuşat; dezrobit.
+pîrasa s. (bot.) praz (lat., Allium porrum ampeloprasum).
+pîrîldagan adj. 1. lucitor; sclipitor; strălucitor; pâlpâitor. 2. răpăitor; țăcănitor; păcănitor.
+pîrîldak s. 1. morişcă de vânt. 2. (la sobe) aerisire; ventilație; tirant. 3. heliograf; aparat pentru transmiterea semnalelor luminoase. 4. (tehn.) ventilator; suflantă. // ●pîrîldak kaytarmak — a trage sforile. // ●may kuwatî pîrîldak — (tehn.) ventilator hidraulic.
+pîrîldakburumğa s. (tehn.) turbosuflantă.
+pîrîldama s. 1. lucire; sclipire; strălucire; pâlpâit. 2. răpăit; țăcănit; păcănit.
+pîrîldamak v.i. 1. a luci; a străluci; a sclipi; a pâlpâi. 2. a răpăi; a țăcăni; a păcăni.
+pîrîldaw s. 1. lucire; sclipire; strălucire; pâlpâit. 2. răpăit; țăcănit; păcănit.
+pîrîltî s. 1. lucire; sclipire; strălucire; pâlpâit. 2. răpăit; țăcănit; păcănit.
+pîrîltîlî adj. 1. lucitor; sclipitor; strălucitor; pâlpâitor. 2. răpăitor; țăcănitor; păcănitor.
+pîrîn s. 1. cuptor. 2. brutărie. // ●yúksek pîrîn — furnal.
+pîrînğî s. brutar.
+pîrînğîlîk s. brutărie; panificație.
+pîrînşagîlganî I. adj. termoelectric. II. s. termoelectricitate. // ●pîrînşagîlganî íşletmesí — termocentrală; centrală termoelectrică.
+pîrpîz adj. zbârlit; înfoiat.
+pîrpîzlaşkan adj. zbârlit; înfoiat.
+pîrpîzlaşma s. zbârlire; înfoiere.
+pîrpîzlaşmak v.i. a se zbârli; a se înfoia.
+pîrpîzlaşuw s. zbârlire; înfoiere.
+pîrs interj. fâs!;
+pîrsat s. 1. ocazie; prilej; posibilitate. 2. oportunitate; moment prielnic.
+pîrsatşî s. oportunist.
+pîrsatşîlîk s. oportunism.
+pîrsîldama s. fâsâit.
+pîrsîldamak v.i. a fâsâi.
+pîrsîldatmak v.t. a determina să fâsâie.
+pîrsîltî s. fâsâit.
+pîrsîldaw s. fâsâit.
+pîrt I. interj. pâr!; pârț!; II. s. pârț. // ●pîrtatmak — a pârțâi.
+pîrtatkan I. adj. pârțâit. II. s. (bot.) plesnitoare; pocnitoare; castravete-sălbatic (lat., Ecballium elaterium).
+pîrtatuw s. pârț.
+pîrtîk adj. (d. țesături) rupt; sfâşiat.
+pîrtîna s. furtună.
+pîsîldama s. fâsâit.
+pîsîldamak v.i. a fâsâi.
+pîsîldatmak v.t. a determina să fâsâie.
+pîsîltî s. fâsâit.
+pîsîp-karaw s. pândă.
+pîsîp-turgan adj. ascuns; iscoditor; pitit; pitulat.
+pîsîp-turuw s. iscodire; pândă; pitire; pitulare.
+pîskan adj. ascuns; pitit; pitulat.
+pîsma s. ascundere; pitire; pândă; spionare.
+pîsmak v.i. a se ascunde; a se piti; a pândi; a spiona. // ●pîsîp turmak ; pîsîp karamak — a pândi; a spiona.
+pîstîrmak v.t. a ascunde; a piti.
+pîşak s. cuțit. // ●awuzun pîşak aşmamak — a tăcea chitic; a tăcea mâlc. ●pîşak súyekke tayanmak — a-i ajunge cuțitul la os; a nu mai suporta. ●pîşakka kelmek — a ajunge la cuțite; a se încăiera. // ●aşîlgan pîşak — briceag. ●aşkana pîşagî — cuțit de bucătărie. ●keskín/kayratîlgan pîşak — cuțit ascuțit. ●pîşak sabî — mânerul cuțitului. ●pîşaknîñ sîrtî — muchia cuțitului. ●pîşaknîñ uşî — vârful cuțitului. ●traş pîşagî — brici.
+pîşakkakelúw s. încăierare.
+pîşakkayragan s. tocilar; persoană care ascute la tocilă.
+pîşaklama s. înjunghiere.
+pîşaklamak v.t. a răni cu cuțitul; a înjunghia.
+pîşaklangan adj. înjunghiat.
+pîşaklanmak v.i. a fi înjunghiat.
+pîşaklaşmak v.i. (recipr.) a se înjunghia.
+pîşaklaw s. înjunghiere.
+pîş-baka s. (zool.) broască-țestoasă (lat., Testudo sp.; Chelonia sp.).
+pîşîk adj. castrat; jugănit.
+pîşîldama s. şoaptă.
+pîşîldamak v.i. a şopti.
+pîşîldaşma s. şuşoteală.
+pîşîldaşmak v.i. a discuta în şoaptă; a şuşoti.
+pîşîldaşuw s. şuşoteală.
+pîşîldaw s. şoaptă.
+pîşîldawlî adj. şoptit.
+pîşîlgan adj. castrat; jugănit; sterilizat.
+pîşîlmagan adj. necastrat; nejugănit; nesterilizat.
+pîşîlmagan-domîz s. vier.
+pîşîlmak v.i. a fi castrat; a fi jugănit; a fi sterilizat.
+pîşkî s. ferăstrău.
+pîşkîlama s. tăiere cu ferăstrăul.
+pîşkîlamak v.t. a tăia cu ferăstrăul.
+pîşkîlangan adj. tăiat cu ferăstrăul.
+pîşkîlanmak v.i. a se tăia cu ferăstrăul.
+pîşkîlatmak v.t. a determina să taie cu ferăstrăul.
+pîşkîlaw s. tăiere cu ferăstrăul.
+pîşkî-órdek s. (orn.) ferestraş mare; bodârlău cu ferăstrău (lat., Mergus merganser).
 `;
 export default rawDictionaryText;
