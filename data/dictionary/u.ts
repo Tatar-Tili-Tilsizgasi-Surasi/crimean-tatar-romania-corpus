@@ -137,4 +137,87 @@ umutbaylaw s. încredere; dependenŃă.
 umutbergen adj. încurajator; îmbucurător; promiŃător. 
 umutberílgen adj. încurajat. 
 umutberúw s. încurajare.
+umutberúwğí adj. încurajator; îmbucurător; promiŃător. 
+umutîkesílgen adj. descurajat; demoralizat; descumpănit; demobilizat; deznădăjduit; desperat. 
+umutkesílmesí s. descurajare; demoralizare; descumpănire; demobilizare; deznădăjde; desperare. 
+umutkesken adj. descurajant; descumpănitor; demobilizator; dezolant. 
+umutlandîrmak v.t. a da speranŃe; a determina să spere. 
+umutlanma s. speranŃă; nădejde. 
+umutlanmak v.i. a spera; a nădăjdui; a-şi face speranŃe. 
+umutlî adj. care speră; care are speranŃă; optimist. // ●umutlî bolmak — a avea speranŃă; a fi optimist. 
+umutsuz adj. descurajat; demoralizat; descumpănit; demobilizat; deznădăjduit; desperat. 
+umutsuzlaşkan adj. descurajat; demoralizat; descumpănit; demobilizat; deznădăjduit; desperat. 
+umutsuzlaşma s. descurajare; demoralizare; descumpănire; demobilizare; deznădăjde; desperare. 
+umutsuzlaşmak v.i. a se descuraja; a se demoraliza; a fi descumpănit; a se demobiliza; a fi deznădăjduit; a despera. 
+umutsuzluk s. descurajare; demoralizare; descumpănire; demobilizare; deznădăjde; desperare. 
+umutsuztlukbergen adj. descurajant; descumpănitor; demobilizator; dezolant. 
+un s. făină. // ●ğípke un ğakmak — a se scuza în fel şi chip; a motiva în fel şi chip. ●unun eleklemek, elegín ílmek — a-şi trăi traiul şi a-şi mânca mălaiul. // ●biyday unî — făină de grâu. ●kepekten sora un — a ga după tărâŃă curge făină. ●may kerekte un ketíresíñ — când trebuie ulei aduci făină. 
+unalgan adj. întâlnit; intersectat. 
+unalmak v.i. a fi întâlnit; a fi intersectat. 
+unama s. întâlnire; intersectare. 
+unamak v.t. a întâlni; a se intersecta. 
+unaşkan adj. care se întâlneşte; care se intersectează; convergent. 
+unaşma s. întâlnire; intersectare; convergenŃă. 
+unaşmak v.i. a se întâlni; a se intersecta; a converge. 
+unday adj. făinos; farin. 
+unğî s. făinar; fabricant sau vânzător de făină. 
+unğuluk s. făinărie; magazin de făină. 
+uniforma s. uniformă. 
+universitate s. universitate. 
+universitatelí s. student. 
+unlama s. înfăinare; presărare cu făină; tăvălire prin făină; pudrare. 
+unlamak v.t. a înfăina; a presăra cu făină; a tăvăli prin făină; a pudra. 
+unlangan adj. înfăinat; plin de făină; pudrat. 
+unlanmak v.i. a se înfăina; a se umple de făină; a se pudra. 
+unlî adj. făinos; înfăinat. 
+unsur s. element. 
+unutkan adj. uituc; distrat. 
+unutma s. omisiune; uitare. 
+unutmak v.t. 1. a uita; a nu Ńine minte. 2. a omite; a neglija; a uita. 3. a nu lua cu sine; a uita. 
+unutşak adj. uituc; distrat.
+unutşakkart adj. senil. 
+unutulgan adj. omis; uitat; neglijat. 
+unutulmak v.i. a se uita. 
+unutulmaykalîr adj. neuitat; nepieritor. 
+unutulmaz adj. neuitat; de neuitat; nepieritor. 
+up-uzun adj. foarte lung; foarte înalt; superlong. 
+ur s. (med.) tumoare. 
+uragan s. uragan. 
+urangutan s. (zool.) urangutan (lat., Simia satyrus). 
+uraniyum s. (chim.) uraniu. 
+Uranus s. (astr.) Uranus. 
+urba s. 1. îmbrăcăminte; veşmânt; haină. 2. haine. // ●urbasîn deñíştíríp ğaşînmak — a se travesti. // ●ázír urba — haine de gata; confecŃii. ●ekí kat urba — două rânduri de haine. ●erkek ázír urba bólmesí — raionul de confecŃii pentru bărbaŃi. ●eskí urba — haine vechi; Ńoală. ●íş urbasî — salopetă; halat. ●kîşlîk urba — haine de iarnă. ●sport urbasî — (sport) trening. ●urba purşusî — perie de haine. 
+urba-donatma s. (teatr.) recuzită. 
+urbağuwgan s. maşină de spălat rufe. 
+urbalar s., pl. hainele; îmbrăcăminte; garderobă. 
+urbasîndeñíştírgen adj. cu hainele schimbate; primenit; deghizat. 
+urbasîntaşlagan adj. despuiat; dezbrăcat. 
+uremiya s. (med.) uremie. 
+urkan s. ordine; rânduială; organizare; organizaŃie; disciplină; regularizare. //●urkanga şakîrmak — a chema la ordine; a organiza. ●urkanîn bîzmak — a-l dezorganiza. // ●asap urkanî — (anat.) sistem nervos. ●íşíñde bír urkanîñ yok — eşti dezordonat. 
+urkangasalîngan adj. aranjat; regularizat. 
+urkangasaluw s. aranjament; regularizare. 
+urkanğî s. organizator. 
+urkanlî adj. ordonat; rânduit; organizat; disciplinat; regularizat. 
+urkansîz adj. dezordonat; dezorganizat; indisciplinat. 
+urkansîzlîk s. dezordine; dezorganizare; indisciplină. 
+urluk s. sămânŃă; sâmbure. 
+uroloğik adj. (med.) urologic. 
+uroloğiya I. adj. (med.) urologic. II. s. (med.) urologie. 
+uroloğiyağî s. (med.) urolog. 
+uroloğiyalî adj. (med.) urologic. 
+urolok s. (med.) urolog. 
+urugway s., adj. uruguayan. 
+Urugway s. (topon.) Uruguay. 
+urugwaylî s., adj. uruguayan. 
+uruk s. 1. gintă; trib; clan. 2. gen; specie; rasă. 
+urukluk adj. gentilic; tribal. 
+urum s., adj. (ist.) bizantin; grec; grecesc. 
+urumğa I. adv. greceşte; în limba greacă. II. s. (limba) greacă. 
+urumlî s., adj. bizantin; grec; grecesc. 
+urus I. adj. rusesc. II. s., adj. rus. 
+Urusiye/Rusiye s. (topon.) Rusia. 
+urusiyelí I. adj. rusesc. II. s., adj. rus. 
+urusşa I. adv. în limba rusă; ruseşte. II. s. (limba) rusă. 
+us s. minte; raŃiune; judecată. 
+usandîruwğî adj. plictisitor; agasant; enervant.
 `;
