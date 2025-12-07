@@ -340,4 +340,211 @@ Mamut/Mahmut-Kuyusî s. (topon.) ("Fântâna lui Mahmut") Izvoru Mare (jud. Cons
 mamúl s. produs; fabricat. // ●kazak mamúllerí — produse româneşti.
 mamúlát s. produse; fabricate.
 man/men I. conj. şi. II. postp. cu; împreună cu. // ●alağak niyetí men — cu intenția de a lua. ●aláka man — cu interes. ●arkasî/yardîmî man — cu ajutorul; sub auspiciile. ●arzî man talep — cerere şi ofertă. ●ayîrîlîk man — în special. ●bar kuwatî man — din răsputeri. ●barîş ğolî man — pe cale paşnică. ●basîn ğolî man — prin presă. ●bayram dolayîsî man — cu ocazia sărbătorii. ●biñler men — cu miile. ●bíz men — cu noi. ●bo man barabar — totodată. ●boş kol man — cu mâna goală. ●burşak man ğawun ğawa — plouă cu grindină. ●eñge men bereket — pace şi prosperitate. ●erten men — de dimineață. ●esef men — cu regret. ●ğan man, baş man — cu trup şi suflet. ●genellík men — în general; în linii mari; grosso modo. ●ğolî/vasîtasî man — prin intermediul…; ●gúzellík men — cu frumosul. ●hakkem kararî man ğeñdí — a învins prin decizia arbitrului. ●hál men şartlar — circumstanță. ●her şiyí men — cu tot ce are. ●íşí-bawurî man — din adâncul sufletului; din toată inima. ●it men mîşîk — câinele şi pisica. ●kanun ğolî man — pe cale legală. ●kaş man kóz arasînda — într-o clipă. ●kayîrlîsî man bardîk — am ajuns cu bine. ●kol man tutulur — palpabil. ●kolaylîk man — cu uşurință; fără dificultate. ●koraz man túlkí — cocoşul şi vulpea. ●kórgením men añladîm — cum am văzut am şi înțeles. ●korkak adîmlar man — cu paşi temători. ●kúldúrúw tuyuwî man — cu simțul umorului. ●kúndelík men — cu ziua. ●lájler yazî man beríle — medicamentele se dau pe bază de rețetă. ●mañlay terí men — cu sudoarea frunții. ●maşina man — cu maşina. ●memnunlîk man — cu plăcere. ●men men dans etersíñ mí? — vrei să dansezi cu mine?; ●men men gezmege şîgarsîñ mî? — vrei să ieşi la plimbare cu mine?; ●men men úylenírsíñ mí? — vrei să te căsătoreşti cu mine?; ●mîşîk man it arasînda dostlîk yok — între pisică şi câine nu e prietenie. ●múnasebetí men — cu prilejul…; cu ocazia…; ●músaadeñíz men — cu permisiunea dumneavoastră. ●ne men başlay? — cu ce începe?; ●ne sebep men? — din ce cauză?; ●o kalem men yaza — el scrie cu creionul. ●o man arañîz kayday? — ce relație aveți cu el?; ●olar man — cu ei; cu ele. ●onlar man — cu zecile. ●osalniyet men kullanma — (jur.) abuz. ●óz kolî man — cu propria mână. ●papîr man gezgím kele — aş vrea să face o croazieră. ●papîr man keteğek — va pleca cu vaporul. ●papîr man kîdîruw — croazieră cu vaporul. ●para/nakît man — pe bani. ●şaltlîk man — la repezeală. ●şartî man — cu condiția de a… ; cu obligația de a…; ●sebebí men — din cauza. ●selamet men barîñîz! — mergeți sănătoşi!; drum bun!; ●sen men bolağak bolaman — vreau să fiu cu tine. ●sen men kalağak bolaman — vreau să rămân cu tine. ●şîpalak kóz men — cu ochiul liber. ●sîra man — pe rând. ●síz men bír píkírdemen — sunt de aceeaşi părere cu dumneavoastră. ●sízní kúnler men bekledík — v-am aşteptat zile de-a rândul. ●sorawğî kózler men — cu ochi întrebători. ●sunuw man ístew — cerere şi ofertă. ●suwuk suw man ğuwula — se spală cu apă rece. ●taksiy men barîñîz! — să mergeți cu un taxi!; ●tayyare men ketkím kele — aş pleca cu avionul. ●tren men — cu trenul. ●tuwum yerí men tewúkesí — locul şi data naşterii. ●ustalîk man — cu măiestrie; cu iscusință. ●yarî góñíl men — vrând-nevrând; nolens-volens; cu forța; forțat; obligat. ●yúksek ses men — cu voce tare. ●yúzler men — cu sutele. ●zaman man — cu timpul. ●zor man — vrând-nevrând; nolens-volens; cu forța; forțat; obligat.
+mana s. 1. înțeles; semnificație; sens. 2. tâlc; poantă. // ●manasîn aşmak — a-i dezvălui sensul. ●manasîn deñíştírmek — a-i schimba sensul; a-l răstălmăci; a-l denatura. ●manasîn kîskartmak — a-l defini. ●manasîn şîgarmak — a-i pătrunde tâlcul; a-i înțelege sensul; a-l descifra. ●manasîna kelmek — a însemna; a semnifica. // ●ğúmleníñ ifade etken manasî — sensul exprimat de propoziție. ●kelimeníñ bútún manasî man — în adevăratul sens al cuvântului.
+manadeñíştírmesí s. răstălmăcire; denaturare.
+manaf/manaw s. zarzavagiu.
+manağa adj. (lingv.) semantic.
+manağer s. (sport) manager.
+manakîskartmasî s. definire.
+manalî adj. 1. cu sens de …; 2. semnificativ. 3. (fig.) cu tâlc. 4. (lingv.) semantic. // ●ekí manalî — echivoc.
+manalîk adj. (lingv.) semantică.
+manasîdeñíşken adj. răstălmăcit; denaturat.
+manasîkîskartîlgan adj. concis; definit.
+manasînakelgen adj. exprimat; redat.
+manasînakelúw s. exprimare; redare.
+manasîşîkkan adj. descifrat.
+manasîşîkmaz adj. neînțeles.
+manasîz adj. 1. fără sens. 2. nesemnificativ. 3. (fig.) absurd.
+manasîzlîk s. absurditate.
+manastîr s. (relig.) mănăstire.
+manastîrbaşî s. (relig.) stareț.
+manaşîgarmasî s. înțelegerea sensului; descifrare.
+manauzatmasî s. pleonasm.
+manayiy adj. 1. cu sens de …; 2. semnificativ. 3. (fig.) cu tâlc. // ●manayiy meğaz — sens figurat.
+manda s. (zool.) bivol (lat., Bos bubalus).
+manda-fîndîgî s. (bot.) alunele; mândălac (lat., Carum bulbocastanum).
+mandal s. 1. mâner; clanță. 2. cârlig de rufe; clamă.
+mandalagî, kírpí- s. (bot.) tătarnică (lat., Echinops commutatus).
+mandalak s. (bot.) scai; ciulin; ghimpe; scaiete (lat., Onopordon acanthium).
+mandalak, şagîr- s. (bot.) scai-albastru; scai-vânăt (lat., Eryngium planum).
+mandalîk s. (bot.) alunele; mândălac (lat., Carum bulbocastanum).
+mandarina s. 1. mandarină. 2. (bot.) mandarin (lat., Citrus nobilis).
+mandat s. mandat; procură.
+mandatar s. (pol.) mandatar.
+mandîra s. stână; târlă.
+mandolina s. mandolină.
+manej s. manej.
+manekin s. manechin.
+manen adv. sufleteşte.
+maneviy adj. 1. moral; cinstit. 2. spiritual.
+maneviyat s. moral; stare morală; moravuri.
+maneviyatbîzîlmasî s. demoralizare; deprimare.
+maneviyatîbîzîlgan adj. demoralizat; deprimat.
+maneviyatsíz adj. demoralizat; imoral.
+maneviyatsízlík s. demoralizare; imoralitate.
+maneviyatşî s., adj. moralist; moralizator.
+manevra s. manevră (şi fig.).
+manga s. (mil.) grupă.
+mangal s. mangal.
+mangan s. mangan.
+mango s. 1. mango. 2. (bot.) mangotier (lat., Mangifera indica).
+manğa s. (tehn.) pârghie, cumpănă.
+manğalîk s. 1. (tehn.) dispozitiv cu pârghie, instalație cu cumpănă. 2. (mil., ist.) catapultă.
+manğalîkatîlgan adj. catapultat.
+Manğa-Pînar s. (topon.) ("Fântâna cu Cumpănă") Schitu; Mangea Punar (jud. Constanța).
+Manğa-Pînar-Murun s. (topon.) ("Capul Fântâna cu Cumpănă") Capul Schitu; Capul Mangea Punar (jud. Constanța).
+manifest s. manifest.
+manikyúra s. manichiură. // ●kol tîrnaklarî şantasî — trusă de manichiură.
+manikyúrağî s. manichiurist.
+manivela s. 1. manivelă. 2. (mec.) levier.
+maniy s. 1. piedică; obstacol; stavilă; stăvilar. 2. (în lit. turcă) mani; catren popular. // ●bayram maniyí — colind. ●maniy ateşí — (mil.) foc de baraj.
+Maniy, El- s. (relig., arab.) "Cel ce preîntâmpină”; “Cel ce pune stavilă săvârşirii unor fapte” (unul din cele 99 preafrumoase nume atribuite în Coran lui Dumnezeu/Allah).
+maniya s. manie; obsesie; capriciu.
+maniyak s., adj. maniac.
+maniye s. piedică; obstacol; stavilă; stăvilar.
+Maniye s. (antrop. f., arab.) "Cea care stă stavilă".
+manometre s. (tehn.) manometru.
+mansup adj. 1. numit; pus; plasat. 2. aşezat; plasat.
+mansupluk s. 1. aşezare; plasare. 2. numire; punere; plasare.
+manşeta s. manşetă.
+manşetalî adj. cu manşetă.
+manşon s. manşon.
+mantar s. 1. ciupercă; fungi; burete. 2. material pentru dopuri; plută. 3. (fig.) născocire; minciună.
+mantar, sarî- s. (bot.) turta-vacii (lat., Boletus luteus).
+mantar, taş- s. (bot.) mânătarcă; hrib (lat., Boletus edulis).
+mantarğî s. (fig.) escroc.
+mantarğîlîk s. 1. crescătorie de ciuperci. 2. (fig.) escrocherie.
+mantarî, kaw- s. (bot.) băbiță (lat., Polyporus officinalis).
+mantarî, şam- s. (bot.) băbiță (lat., Polyporus officinalis).
+mantîk s. logică.
+mantîkiy adj. logic.
+mantîklî adj. logic.
+mantîklîk s. raționalism.
+mantîksíz adj. ilogic; irațional.
+mantîksízlík s. iraționalism.
+mantow s. mantou.
+manufaktura s. manufactură; țesături.
+manzara s. peisaj; privelişte; perspectivă.
+manzum adj. în versuri; versificat; poetic. // ●manzum şîgarmak — a versifica. // ●manzum ilham — delir poetic.
+manzume s. poezie; poem. // ●manzume sanatî — arta poeziei. ●manzume sîrasî — (lit.) vers; stih. ●tatar manzumesí — poezie tătărească.
+manzumeğí s. poet; versificator. // ●manzumeğíníñ kelíştírmesí — licență poetică.
+manzumeğílík s. prozodie.
+mañ s. trap.
+mañgîs s. (zool.) mangustă (lat., Herpestinae).
+mañka s., adj. 1. cârn; crestat. 2. (fig.) mongol.
+Mañkaliye s. (topon.) Mangalia (jud. Constanța).
+mañkalî s., adj. 1. (fig.) mongol. 2. cârn; crestat.
+mañkalîk s. crestătură.
+mañka-salata s. (bot.) crestățea; tâlhărea (lat., Lactuca sagittata).
+mañkaygan adj. crestat.
+mañkayma s. crestătură.
+mañkaymak v.i. a se cresta.
+mañkaytma s. crestare.
+mañkaytmak v.t. a cresta.
+mañkaytuw s. crestare.
+mañkayuw s. crestătură.
+mañlama s. alergare la trap.
+mañlamak v.i. 1. a alerga la trap. 2. a merge la trap.
+mañlaw s. alergare la trap.
+mañlay I. adj. frontal. II. s. 1. (anat.) frunte. 2. (arhit.) fronton; frontispiciu. // ●mañlay terí men kazanmak — a câştiga cu sudoarea frunții; a câştiga prin trudă. ●mañlayînda yazîlmak — a-i fi scris cuiva în frunte. // ●geñíş mañlay — frunte lată. ●mañlay terí men — cu sudoarea frunții.
+mañlay súyegí s. (anat.) os frontal.
+mañlayda adv. în frunte. // ●mañlayda bolmak — a fi în frunte.
+mañlaydagî adj. fruntaş.
+mañlaydakî adj. fruntaş.
+mañlayğa adv. frontal.
+mañlayîaşîk adj. cinstit; onest.
+mañlaykoltîgî s. (teatr.) stal unu; fotoliu de orchestră.
+mañlaykóz s. (mitol.) ciclop.
+mañlaylî adj. cu fruntea mare; fruntos.
+mañlaylîk I. adj. frontal. II. s. 1. diademă. 2. (arhit.) fronton; frontispiciu.
+mañlayterísí s. scalp. // ●mañlayterísín sîdîrmak — a-l scalpa.
+mañlayyazîsî s. ce ți-e scris în frunte; destin; soartă; menire; fatalitate. // ●mañlayyazîsîn okîmak — a citi ce ți-e scris în frunte; a ursi; a prezice.
+mañrama s. muget (de cămilă).
+mañramak v.i. (d. cămile) a mugi.
+mañraşmak v.i. (d. cămile) a mugi (laolaltă).
+mañraw s. muget (de cămilă).
+mapa s. mapă.
+maraba interj. noroc!; salut!; bonjur!;
+marabalaşmak v.i. a se saluta; a-şi da bună ziua.
+marabuw s. (orn.) marabu (lat., Leptoptilus crumeniferus).
+Marakeş s. (topon.) Maroc.
+marakeşlí s., adj. marocan.
+maral s. (zool.) căprioară; cerboaică; ciută (lat., Capreolus capreolus).
+maralî, ğehet- s. (zool.) ren (lat., Rangifer tarandus).
+maralî, şimal- s. (zool.) ren (lat., Rangifer tarandus).
+maralmúyúzí s. (bot.) ghizdei (lat., Lotus corniculatus).
+maralotî s. (bot.) frăsinel (lat., Dictamnus albus; Dictamnus fraxinella).
+marangoz s. tâmplar; dulgher.
+marangozlîk s. tâmplărie; dulgherie.
+maraton s. (sport) maraton. // ●maraton ğuwurmasî — cursa de maraton.
+maraz I. adj. 1. (d. oameni) rău; răutăcios; periculos. 2. bolnav; suferind. II. s. 1. boală; maladie; epidemie; molimă; patologie. 2. (fig.) pacoste; belea; necaz. // ●abay maraz — mama e bolnavă.
+maraza s. discordie; neînțelegere; dispută. // ●maraza bolmak — a se disputa. ●maraza etmek — a disputa.
+marazalî adj. conflictual; disputabil; disputat.
+maraziy adj. de boală; patologic.
+marazlî adj. bolnav; suferind.
+marda s. rebut.
+marebe s. luptă; bătălie; război. // ●marebe aşmak — a declara război. // ●bírínğí dúniya marebesí — primul război mondial. ●dúniya marebesí — (pol.) război mondial. ●kutulma marebesí — (pol.) război de eliberare. ●marebe bolsa aşlîk bolîr — în timp de război este criză. ●marebe deñíz kuwatlarî — (mil.) flotă militară. ●marebe ilanî — (pol.) declarație de război. ●marebe kurultayî — (mil.) consiliu de război. ●marebe miydanî — (mil.) câmp de luptă. ●marebe sakatî — (mil.) invalid de război. ●marebe sebepşísí — caz de război; casus belli. ●marebe tutugî — (mil.) prizonier de război. ●marebe yapkanlar — (mil.) părți beligerante. ●ózbaşlîk marebesí — (pol.) război de independență.
+marebedenewel adj. antebelic.
+marebedensoñ adj. postbelic.
+marebegekarşî adj. antirăzboinic.
+marebeğí s. războinic.
+marebelerarasî adj. interbelic.
+marebelí adj. belicos.
+Marem/Muharrem s. (antrop. m., arab.) "Cel născut în luna Muharrem".
+mareşal s. mareşal.
+margarina s. margarină.
+marifet s. pricepere; dibăcie; abilitate.
+marifetlí adj. priceput; dibaci; abil.
+marîk s. (mil.) ambuscadă.
+marîl s. 1. coacăză-de-munte; pomuşoară. 2. (bot.) coacăz-de-munte; păltior; pomuşoară (lat., Ribes petraeum).
+mark s. (unitate monetară) marcă.
+marka s. marcă; inscripție.
+markalî adj. marcat.
+markiz s. marchiz.
+marksism s. marxism.
+marksism-leninism s. marxism-leninism.
+marksşî s., adj. marxist.
+marksşî-leninğí s., adj. marxist-leninist.
+marksşîlîk s. marxism.
+marksşîlîk-leninğílík s. marxism-leninism.
+marmelada s. marmeladă.
+mars s. (la jocul de table) marț.
+marş I. interj. (mil.) marş!; II. s. (muz.) marş. // ●milliy marş — imn național.
+Marşal-Adalarî s. (topon.) Insulele Marshall.
+mart s. (cron.) martie. // ●mart ayînda — în luna martie.
+martaval s. minciună; scorneală.
+martavalğî s., adj. mincinos.
+martavallî adj. scornit.
+martî, balaban- s. (orn.) lup de mare uriaş (lat., Stercorarius skua; Catharacta skua).
+martî, gezúwğí- s. (orn.) lup de mare (lat., Stercorarius pomarinus).
+martî, uzun-kuyruklî- s. (orn.) lup de mare codat (lat., Stercorarius longicaudus).
+martîsî, ğenup-kutubî- s. (orn.) lup de mare de Polul Sud (lat., Stercorarius maccormickii).
+martîsî, kutup- s. (orn.) lup de mare pitic (lat., Stercorarius parasiticus).
+maruf adj. cunoscut; ştiut.
+marufat s. cunoştințe; date.
+marufatlî adj. cunoscător; ştiutor.
+maruz adj. 1. expus; etalat; descoperit. 2. riscant; primejdios; periculos. // ●kazaga maruz kalmak — a se expune accidentării. ●maruz kalmak — a rămâne descoperit; a se expune.
+maruze s. 1. lectură; citire. 2. adresă. 3. raport; notă; comunicare; memoriu. // ●maruze etmek — a comunica; a se adresa. // ●basînga maruze — comunicat către presă. ●kurultayga maruze — raport către congres. ●mektúp maruzesí — adresa scrisorii. ●sózlí maruze — notă verbală.
+maruzeğí s. 1. lector. 2. vorbitor; cititor.
+maruzelí adj. 1. raportat; notat; comunicat; transmis. 2. lecturat; citit. 3. adresat.
+maruzluk s. 1. expunere; etalare; descoperire. 2. risc; primejdie; pericol. // ●heş bír maruzluk yok — nu e niciun pericol.
+masa s. masă. // ●her şiyní masaga ğaymak — a da toate cărțile pe față. // ●biliyart masasî — masă de biliard. ●bír ayaklî masa — masă cu un picior. ●masa astînda mîşîk bar — sub masă este pisica. ●masa órtísí — față de masă. ●masa tenisí — (sport) tenis de masă. ●masanîñ astînda — sub masă. ●masanîñ ayagî — piciorul mesei. ●masanîñ ústún súrt! — şterge masa!; ●masanîñ ústúnde — pe masă. ●penğíre katînda bír masa — o masă lângă fereastră. ●yazî masasî — masă de scris. ●yemek masasî — masă de bucătărie.
+masaj s. masaj. // ●masaj yapmak — a masa; a face masaj.
+masal s. basm; poveste (şi fig.). // ●kurt masalî okîmak — a spune poveşti; a povesti basmul cu cocoşul roşu. ●masal añlatmak — a spune poveşti; a îndruga poveşti; a minți. // ●masal penerlígí — lampion. ●resímlí masal kitabî — carte de poveşti ilustrată.
+masalday adj. fabulos.
+masalğî s. povestitor.
+masalolayî s. (lit.) subiect; intrigă; acțiune.
+Masar s. (cron.) primul trimestru al anului conform calendarului musulman.
+masaústí s. (inform.) desktop.
+masîrap s. cheltuială. // ●masîrap bolmak — a se cheltui; a costa. ●masîrap etmek — a cheltui. ●masîraplarnî kîsmak — a reduce cheltuielile. // ●dawa/yargîlama masîraplarî — cheltuieli de judecată. ●imalat masîrabî — cheltuieli de producție. ●liman masîraplarî — (nav.) speze portuare. ●tedarik masîraplarî — cheltuieli de aprovizionare.
+masîraplî adj. costisitor; scump.
+masîraplîk s. diurnă. // ●kúndelík masîraplîk — diurnă.
+maska s. mască. // ●maskasîn atmak — a-şi lepăda masca. // ●gaz maskasî — mască de gaze. ●mukavva maskasî — mască de carnaval.
+maskaatmasî s. deconspirare; demascare.
+maskalamak v.t. a masca.
+maskalangan adj. mascat.
+maskalanma s. mascare.
+maskalanmak v.i. a se masca.
+maskalî adj. mascat. // ●maskalî bal — bal mascat.
+maskara s. 1. bufon; măscărici. 2. mască de carnaval. 3. ruşine; batjocură. // ●maskara bolmak — a fi batjocorit; a se face de râs; a se compromite; a fi discreditat. ●maskara etmek — a batjocori; a face de râs; a compromite; a discredita. ●maskaraga almak — a lua în derâdere; a ironiza; a compromite; a discredita.
 `;
