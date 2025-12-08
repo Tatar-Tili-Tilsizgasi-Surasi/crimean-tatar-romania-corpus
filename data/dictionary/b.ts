@@ -358,4 +358,116 @@ balğîlîk s. albinărie; stupărie; stupină; prisacă; apicultură.
 balistik adj. balistic.
 balistika s. balistică.
 balit s. balit.
+balîk s. 1. peşte. 2. (astr.) zodia peştelui. // ●balîk tutmak — a prinde peşte; a pescui. // ●balîk mayî — untură de peşte. ●balîk plákiyasî — plachie de peşte. ●balîk pulî — solz de peşte. ●balîk salatasî — salată de peşte. ●balîk şorbasî — ciorbă de peşte. ●balîk súrúwí — banc de peşte. ●balîk tenekesí — conservă de peşte. ●balîk torî — năvod. ●balîk túkáanî — pescărie. ●balîk tutmasî — pescuit. ●íslí balîk — peşte afumat. ●kîzartuwlî balîk — peşte prăjit. ●kurutulgan balîk — peşte uscat. ●limonlî sazan balîgî — doresc crap cu lămâie. ●mayonezalî balîk — peşte cu maioneză. ●taze balîk — peşte proaspăt. ●tuzlî balîk — peşte sărat.
+balîkbílímğísí s. ihtiolog.
+balîkbílímí I. adj. ihtiologic. II. s. ihtiologie.
+balîkbílímlí adj. ihtiologic.
+balîkğetíştírgen s. piscicultor.
+balîkğetíştírme s. piscicultură.
+balîkkana s. pescărie.
+balîkşî s. (orn.) cormoran mare; corb de mare (lat., Phalacrocorax carbo). 1. pescar; piscicultor.
+balîkşî, ak-moyînlî- s. (orn.) pescăruş cu gât alb (lat., Halcyon smyrnensis).
+balîkşî, ak-yakalî- s. (orn.) pescăruş cu guler alb (lat., Halcyon chloris).
+balîkşî, alaşa- s. (orn.) pescăruş multicolor (lat., Ceryle rudis).
+balîkşî, boz-başlî- s. (orn.) pescăruş cu cap cenuşiu (lat., Halcyon leucocephala).
+balîkşî, kekeşlí- s. (orn.) pecăruş malahit (lat., Alcedo cristata).
+balîkşî, kók- s. (orn.) pescărel albastru (lat., Alcedo atthis).
+balîkşî, kuşaklî- s. (orn.) pescăruş cu cingătoare (lat., Megaceryle alcyon; Ceryle alcyon).
+balîkşî-búrkút s. (orn.) uligan pescar; vultur pescar (lat., Pandion haliaetus).
+balîkşîlîk I. adj. pescăresc. II. s. pescuit; piscicultură.
+balîktaragî s. (zool.) scoică; moluscă.
+balîktutkan s. pescar.
+balîktutuw s. pescuit.
+balîm interj. mierea mea!;
+bal-kabagî s. (bot.) dovleac; bostan (lat., Cucurbita pepo maxima).
+balkan s. 1. regiune muntoasă împădurită. 2. codru. 3. (topon.) Balcani.
+balkanlî adj. balcanic.
+balk-balk adj. lucitor; strălucitor; sclipitor.
+balkî s. 1. dudă; agudă. 2. (bot.) dud; agud (lat., Morus).
+balkîgan adj. lucitor; strălucitor; sclipitor.
+balkîldagan adj. 1. lucitor; strălucitor; sclipitor. 2. strălucit; eminent.
+balkîldama s. lucire; strălucire; sclipire.
+balkîldamak v.i. 1. a luci; a străluci. 2. (d. răni) a zvâcni.
+balkîldaw s. lucire; strălucire; sclipire.
+balkîltî s. pâlpâit.
+balkîma s. lucire; sclipire; strălucire.
+balkîramak v.i. (d. răni) a zvâcni.
+balkon s. balcon.
+balkonlî adj. cu balcon.
+balkonsîz adj. fără balcon.
+balkurt s. (ent.) albină (lat., Apis mellifica). // ●balkurt súrúwí — roi de albine.
+balkurt-anasî s. (ent., la albine) matcă; regină (lat., Apis mellifica).
+balkurt-atasî s. (ent., la albine) trântor (lat., Apis mellifica).
+balkurtşî s. 1. apicultor. 2. albinar; stupar; prisăcar; apicultor.
+balkurtşuluk s. 1. apicultură. 2. albinărie; stupărie; stupină; prisacă; apicultură.
+balkuşî, al-karînlî- s. (orn.) pasăre-nectar cu piept roşu (lat., Nectarinia habessinica).
+balkuşî, Filistin- s. (orn.) pasăre-nectar de Palestina (lat., Nectarinia osea).
+balkuşî, kíşkene- s. (orn.) pasăre-nectar mică (lat., Anthreptes platurus).
+balkuşî, Mîsîr- s. (orn.) pasăre-nectar de Nil (lat., Anthreptes metalicus).
+balkuşî, mor- s. (orn.) pasăre-nectar violet (lat., Nectarinia asiatica).
+balkuşî, pas-karînlî- s. (orn.) pasăre-nectar cu piept stacojiu (lat., Chalcomitra senegalensis).
+balkuşî, sarî-karînlî- s. (orn.) pasăre-nectar cu piept galben (lat., Cinnyris venustus).
+ballamak v.t. a unge cu miere. // ●maylap ballamak — a le înflori; a exagera.
+ballî adj. cu miere; mieros. // ●ballî bombon — bomboane cu miere.
+ballîbaba s. (bot.) sugel-alb; urzică-moartă; urzică-albă (lat., Lamium album).
+ballîbaba, kîrmîzî- s. (bot.) sugel; urzică-moartă (lat., Lamium purpureum).
+ballîbaba, sarî- s. (bot.) sugel-galben; gălbiniță (lat., Lamium galeobdolon; Galeobdolon luteum).
+ballîtarî s. (bot.) sicomor (lat., Ficus sycomorus).
+balon s. balon. // ●balon sepetí — nacelă. ●gúdúmlí balon — dirijabil; aerostat; balon.
+balot s. balot.
+balotaj s. balotaj.
+balotî s. (bot.) roiniță; melisă; busuiocul-stupului (lat., Melissa offincinalis).
+balózí s. nectar.
+balrengí adj. de culoarea mierii; mieriu.
+balşak s. 1. (la pumnal) mâner; plăsele. 2. (la sabie) gardă.
+balşîbîn s. (ent.) albină (lat., Apis mellifica). // ●balşîbîn anasî — matcă.
+balşîbîn-anasî s. (ent., la albine) matcă; regină (lat., Apis mellifica).
+balşîbîn-atasî s. (ent., la albine) trântor (lat., Apis mellifica).
+balşîbînğî s. 1. albinar; stupar; prisăcar; apicultor. 2. (orn.) prigorie; albinărel; furnicar (lat., Merops apiaster).
+balşîbînğî, ak-mañlaylî- s. (orn.) prigorie cu frunte albă (lat., Merops bullockoides).
+balşîbînğî, alaşa- s. (orn.) prigorie cu gât alb (lat., Merops albicollis).
+balşîbînğî, ateş- s. (orn.) prigorie roşie nordică (lat., Merops nubicus).
+balşîbînğî, kíşkene-yeşíl- s. (orn.) prigorie mică verde (lat., Merops orientalis).
+balşîbînğî, mawî-yúzlí- s. (orn.) prigorie cu obraz albastru (lat., Merops superciliosus; Merops persicus).
+balşîbînğîlîk s. albinărie; stupărie; stupină; prisacă; apicultură.
+balşîbîn-sarî s. (orn.) viespar (lat., Pernis apivorus).
+balşîbîn-toynagî s. (orn.) viespar (lat., Pernis apivorus).
+Balşîk s. (topon.) Balçik (Dobrich, Bulgaria).
+balşmîr s. (orn.) ciocârlie de câmp (lat., Alauda arvensis).
+balta s. topor; baltag; satâr. // ●baltanî taşka wurmak — a nimeri cu oiştea în gard. ●mîyîgîn balta kesmemek — a nu-i ajunge cuiva cu prăjina la nas. // ●balta tiymegen taw — pădure virgină. ●balta ustasî — tâmplar. ●baltanîñ sabî — coada toporului. ●kol baltasî — toporişcă; secure.
+baltağî s. tăietor de lemne.
+baltalamak v.t. 1. a tăia cu toporul. 2. (fig.) a submina.
+baltalangan adj. 1. (fig.) subminat. 2. tăiat cu toporul.
+baltalanmak v.i. 1. (fig.) a se submina. 2. a se tăia cu toporul.
+baltalaw s. sabotaj.
+baltatíş adj. cu dinții mari; dințos.
+Baltika-Deñízí s. (hidron.) Marea Baltică.
+baltikalî adj. baltic.
+baltíl adj. mieros; linguşitor; flatant; măgulitor.
+baltîr s. începutul primăverii; sezonul mieilor.
+baluba s., adj. baluba.
+bam-başka adv. cu totul altfel; cu totul deosebit. // ●arkadaşîm bam-başka oyda — prietenul meu este cu totul de altă părere.
+bambus s. (bot.) bambus (lat., Bambusa sp.).
+bamiye s. (bot.) bamă (lat., Hibiscus esculentus; Abelmoschus esculentus).
+banaa adv. adineauri; cu puțin înainte; de curând; abia. // ●banaa keldím — abia am venit. ●banaa sízní karadîlar — v-au căutat adineauri.
+banda s. panglică; fundă; bandă.
+bandaj s. bandaj.
+banderola s. banderolă.
+bandîra s. drapel; pavilion.
+bandîrma s. (gastron.) sugiuc; cârnat; mezel; salam.
+Bangladeş s. (topon.) Bangladesh.
+banjow s. banjou.
+banka s. bancă. // ●banka hesabî — (fin.) cont bancar. ●banka íşlerí — operațiuni bancare. ●banka sistemí — sistem bancar. ●banka şubesí — filială de bancă. ●ğatîrîm bankasî — bancă de investiții. ●istiyare bankasî — bancă de credit. ●milliy banka — banca națională. ●ziraat bankasî — banca agricolă.
+bankağî s. bancher.
+banker s. bancher.
+banket s. banchet.
+banketa s. (constr.) banchetă.
+bankiza s. banchiză.
+banknota s. bacnotă.
+banotî s. (bot.) măselariță; nebunariță; sunătoare (lat., Hyoscyamus niger).
+bantî s., adj. bantu.
+Banuw s. (antrop. f., prsn.) “Prințesa”.
+banyo s. 1. cameră de baie. 2. baie; scăldat. // ●banyo yapmak — a face baie.
+banyolî adj. cu baie.
+bar adj. existent; prezent. // ●bar bolmak — (precedat de iz. I) a avea. ●bar bolmak — a exista; a fi; a viețui; a trăi; a fi prezent; a se alătura; a contribui. ●bar etmek — a crea; a face; a determina să existe. // ●akîlîñ bar bolsa — dacă ai minte. ●akşamga ne trenler bar? — ce trenuri sunt diseară?; ●alo, kím bar telefonda? — alo, cine e la telefon?; ●ateşím bar — am temperatură. ●atîma mektúp bar mî? — am scrisori?; ●aytağagîm bar — am ceva de spus. ●ballarîñîz bar mî? — aveți copii?; ●bar bolsa — dacă este; dacă are. ●bar kuwatî man — din răsputeri. ●bar mî sende o ğúrek? — ai curajul acesta?; ●bar tuwul bolsa — dacă nu este. ●bír bar eken, bír yok eken — a fost odată ca niciodată. ●bír ğolî bar amma tar — există o soluție dar cu şanse mici. ●bír riğam bar — am o rugăminte. ●bír şiy bar — este ceva; s-a întâmplat ceva. ●bo gemíde kaş kayîk bar? — câte bărci sunt pe acest vas?; ●boş odañîz bar mî? — aveți camere libere?; ●boş yer bar mî? — sunt locuri libere?; ●dak kadar ópkem bar — am o supărare cât un munte. ●garagaşîk ne mesafe bar? — ce distanță este până la gară?; ●hakkîñîz bar — aveți dreptate. ●hazîmsîzlîgîm bar — am indigestie. ●herkezníñ íşínde arslan ğatagî bar — în fiecare există un culcuş de leu. ●íşí bar — are de lucru. ●íşínde kitap bar — conține cărți. ●íşínde ne bar? — ce conține?; ●isiyanîm bar — protestez. ●îştañîz bar mî? — aveți poftă de mâncare?; ●itirafîm bar — am o mărturisire. ●itirazîm bar — obiectez; am o obiecție. ●kayergeşík awtoğol bar? — până unde e autostradă?; ●kóp aylanîş bar mî? — sunt multe curbe?; ●maga kóre hakkîñîz bar — după părerea mea aveți dreptate. ●masa astînda mîşîk bar — sub masă este pisica. ●mazeretím bar — am scuze. ●mením íşímde ot bar — arde sufletul în mine. ●mením ne íşím bar? — ce treabă am eu?; ●merkezgeşík taa bar mî? — mai e mult până în centru?; ●músaade bar mî? — permiteți?; e voie?; ●ne ağeleñíz bar? — de ce vă grăbiți?; ●ne bar, ne yok? — ce mai e nou?; ce mai faci?; ●neñ bar? — ce ai?; ●okîganîm bar — am citit. ●ózínde bar — prin natura sa. ●sáde bír torînîm bar — am un singur nepot. ●sak bolîñîz, yaman it bar! — atenție, câine rău!; ●seníñ hakkînda sáde árúw sózler bar — în privința ta sunt numai cuvinte bune. ●seníñ íşíñde ne bar? — ce ascunzi în tine?; ●şokadar ağelesí bar mî? — este chiar atât de urgent?; ●tensiyonîm bar — am tensiune. ●Timur man Amet arasînda dúşmanlîk bar — între Timur şi Amet e duşmănie. ●tora sefer ğumartesí bar — există cursă directă sâmbătă. ●tuman bar — e ceață. ●úynúñ katînda terek bar — lângă casă sunt pomi. ●úynúñ ústúnde mîşîk bar — pe casă este pisica. ●yetíşken ballarîm bar — am copii mari.
 `;
