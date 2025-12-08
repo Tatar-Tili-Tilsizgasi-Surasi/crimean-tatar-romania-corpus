@@ -7,6 +7,9 @@ Fukuşima s. (topon.) Fukushima, Japan.
 Ğorğiye s. Georgia, USA.
 Kaliforniye s. (topon.) California.
 Korezmiy, El- s. (antrop. m., prsn.) nume legendar persan. // ● El-Korezmiy ifadesí — (fon.) predictibilitate (termen special folosit în fonetica limbii tătare).
+malayiz s., adj. malaez.
+Malayiziye s. (topon.) Malaezia.
+malayiziyelí s., adj. malaez.
 ok s. (abreviere pentru „okka” = kilogram) kg 
 Şînğa s. (topon.) Xinjiang, China.
 Teksas s. (topon.) Texas.
