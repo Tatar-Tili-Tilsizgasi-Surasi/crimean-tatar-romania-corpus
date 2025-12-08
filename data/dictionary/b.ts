@@ -470,4 +470,207 @@ Banuw s. (antrop. f., prsn.) “Prințesa”.
 banyo s. 1. cameră de baie. 2. baie; scăldat. // ●banyo yapmak — a face baie.
 banyolî adj. cu baie.
 bar adj. existent; prezent. // ●bar bolmak — (precedat de iz. I) a avea. ●bar bolmak — a exista; a fi; a viețui; a trăi; a fi prezent; a se alătura; a contribui. ●bar etmek — a crea; a face; a determina să existe. // ●akîlîñ bar bolsa — dacă ai minte. ●akşamga ne trenler bar? — ce trenuri sunt diseară?; ●alo, kím bar telefonda? — alo, cine e la telefon?; ●ateşím bar — am temperatură. ●atîma mektúp bar mî? — am scrisori?; ●aytağagîm bar — am ceva de spus. ●ballarîñîz bar mî? — aveți copii?; ●bar bolsa — dacă este; dacă are. ●bar kuwatî man — din răsputeri. ●bar mî sende o ğúrek? — ai curajul acesta?; ●bar tuwul bolsa — dacă nu este. ●bír bar eken, bír yok eken — a fost odată ca niciodată. ●bír ğolî bar amma tar — există o soluție dar cu şanse mici. ●bír riğam bar — am o rugăminte. ●bír şiy bar — este ceva; s-a întâmplat ceva. ●bo gemíde kaş kayîk bar? — câte bărci sunt pe acest vas?; ●boş odañîz bar mî? — aveți camere libere?; ●boş yer bar mî? — sunt locuri libere?; ●dak kadar ópkem bar — am o supărare cât un munte. ●garagaşîk ne mesafe bar? — ce distanță este până la gară?; ●hakkîñîz bar — aveți dreptate. ●hazîmsîzlîgîm bar — am indigestie. ●herkezníñ íşínde arslan ğatagî bar — în fiecare există un culcuş de leu. ●íşí bar — are de lucru. ●íşínde kitap bar — conține cărți. ●íşínde ne bar? — ce conține?; ●isiyanîm bar — protestez. ●îştañîz bar mî? — aveți poftă de mâncare?; ●itirafîm bar — am o mărturisire. ●itirazîm bar — obiectez; am o obiecție. ●kayergeşík awtoğol bar? — până unde e autostradă?; ●kóp aylanîş bar mî? — sunt multe curbe?; ●maga kóre hakkîñîz bar — după părerea mea aveți dreptate. ●masa astînda mîşîk bar — sub masă este pisica. ●mazeretím bar — am scuze. ●mením íşímde ot bar — arde sufletul în mine. ●mením ne íşím bar? — ce treabă am eu?; ●merkezgeşík taa bar mî? — mai e mult până în centru?; ●músaade bar mî? — permiteți?; e voie?; ●ne ağeleñíz bar? — de ce vă grăbiți?; ●ne bar, ne yok? — ce mai e nou?; ce mai faci?; ●neñ bar? — ce ai?; ●okîganîm bar — am citit. ●ózínde bar — prin natura sa. ●sáde bír torînîm bar — am un singur nepot. ●sak bolîñîz, yaman it bar! — atenție, câine rău!; ●seníñ hakkînda sáde árúw sózler bar — în privința ta sunt numai cuvinte bune. ●seníñ íşíñde ne bar? — ce ascunzi în tine?; ●şokadar ağelesí bar mî? — este chiar atât de urgent?; ●tensiyonîm bar — am tensiune. ●Timur man Amet arasînda dúşmanlîk bar — între Timur şi Amet e duşmănie. ●tora sefer ğumartesí bar — există cursă directă sâmbătă. ●tuman bar — e ceață. ●úynúñ katînda terek bar — lângă casă sunt pomi. ●úynúñ ústúnde mîşîk bar — pe casă este pisica. ●yetíşken ballarîm bar — am copii mari.
+bar s. (unitate de măsură) bar.
+bara-almamak v.i. a nu se putea duce; a nu putea ajunge. // ●kararga bara-almamak — a sta la îndoială; a sta pe gânduri; a şovăi; a oscila.
+baraban s. (muz.) tobă.
+barabanğî s. toboşar.
+barabar I. adj. sincronic; simultan; concomitent. II. adv. împreună; laolaltă; în comun; în alianță. // ●bala babasî man barabar kettí — copilul a plecat împreună cu tatăl său. ●barabar otîramîz — locuim împreună. ●bír we barabar bolîp — în strânsă unitate. ●bo man barabar — totodată.
+barabarbargan adj. însoțit; condus; petrecut.
+barabarbaruw s. însoțire; conducere; petrecere.
+barabarkenarlí adj. (mat.) isoscel.
+barabarkóşelí adj. (mat.) echiunghiular.
+barabarlîk s. 1. unitate; unire; solidaritate; alianță. 2. acord; înțelegere. 3. egalitate; chit. 4. (sport) remiză; egalitate. 5. sincronism; simultaneitate; concomitență. // ●barabarlîk antlaşmasî — (pol.) tratat de alianță. ●barabarlîk oyîn hesabî — (sport) scor egal. ●oyîn barabarlîk man píttí — meciul s-a terminat la egalitate.
+barabarlîksawlama s. egalare.
+barabarlîksawlangan adj. egalat.
+barabarólşew s. izometrie.
+barabarólşewlí adj. izometric.
+barabarsîz adj. inegal.
+barabarsîzlîk s. inegalitate.
+barabaryaşaw s. coabitare; conviețuire.
+baraj s. baraj; dig.
+baraka s. baracă; hangar.
+barama s. (text.) cocon; gogoaşă de mătase.
+baramağî s. sericicultor.
+baramağîlîk s. sericicultură.
+barama-kurtî s. (ent.) vierme-de-mătase.
+Barbados s. (topon.) Barbados.
+barbar s. barbar.
+barbarlîk s. barbarie.
+barbolgan adj. 1. existent; real; prezent. 2. creat; plăsmuit.
+barbolmagan adj. inexistent; ireal; absent; nul.
+barda s. toporişcă; bardă.
+bardak s. 1. pahar. 2. cană; bărdacă. // ●bardaknîñ kulbî — toarta cănii. ●suw bardagî — pahar de apă.
+bardaşîk s. (bot.) ficus (lat., Ficus elastica).
+barem s. (tehn.) barem.
+baretúw s. creare; creație; plăsmuire.
+bargan adj. care merge; care ajunge.
+bargî s. (fil., mat.) concluzie.
+barğa I. adj. existent. II. s. existență.
+barğabílímí s. (fil.) ontologie.
+barğabílímlí adj. (fil.) ontologic.
+barğağî s. (fil.) existențialist.
+barğağîlîk s. (fil.) existențialism.
+barğalî adj. existent.
+barikada s. baricadă.
+baril s. (unitate de măsură) baril.
+bariton s. bariton.
+bariy adv. cel puțin; barem; măcar.
+Bariy, El- s. (relig., arab.) "Făuritorul"; “Cel ce a înfăptuit întregul din părți şi a întemeiat proporțiile” (unul din cele 99 preafrumoase nume atribuite în Coran lui Dumnezeu/Allah).
+bariyum s. (chim.) bariu.
+bariz adj. 1. evident; clar; vădit. 2. remarcabil.
+barîlaalgan adj. accesibil.
+barîla-bergen adj. frecventat.
+barîlmagan adj. unde nu s-a mers; unde nu s-a ajuns.
+barîlmak v.i. a se duce. // ●kaysî awtobuz man barîla? — cu ce autobuz se ajunge?; ●míndan ka-típ barîlîr? — cum se merge de aici?;
+barîlmama s. inaccesibilitate.
+barîlmaz adj. inaccesibil.
+barîp-kelme I. adj. dus-întors. II. s. drum parcurs cu regularitate; navetă. // ●ekí barîp-kelme bilet — două bilete dus-întors.
+barîp-kelmek v.i. a face naveta.
+barîp-kelúw s. circulație.
+barîp-taldalangan s. pripăşit.
+barîp-taldalanuw s. pripăşire.
+barîp-toktama s. nimerire; atingere; găsire.
+barîs s. 1. (zool.) panteră; leopard (lat., Panthera pardus; Felis pardus). 2. (zool.) puma; cuguar (lat., Panthera concolor). 3. (zool.) jaguar (lat., Panthera onca).
+barîş s. pace; înțelegere. // ●barîş antlaşmasî — (pol.) tratat de pace. ●barîş ğolî man — pe cale paşnică.
+barîş s. 1. venire; sosire. 2. (fig.) pricepere; perspicacitate; spirit de pătrundere.
+barîşçî adj. iubitor de pace; paşnic; pacifist.
+barîşçîlîk s. pacifism.
+barîşîk adj. împăcat; conciliant.
+barîşkan adj. conciliant.
+barîşlî adj. priceput; perspicace.
+barîşma s. împăcare; reconciliere.
+barîşmagan adj. neîmpăcat.
+barîşmak v.i. a se împăca; a se înțelege.
+barîşmaz adj. ireconciliabil; de neîmpăcat.
+barîşsúygen adj. iubitor de pace; paşnic; pacifist.
+barîşsúyúw s. pacifism.
+barîşşúnas adj. iubitor de pace; paşnic; pacifist.
+barîşşúnaslîk s. împăciuire; pacifism; conciliere.
+barîştîrmak v.t. a împăca; a pacifica; a reconcilia.
+barîştîruw s. împăciuire; pacifism; conciliere.
+barîştîruwğî s. împăciuitorist; pacifist; conciliator.
+barîştîruwğuluk s. împăciuitorism; pacifism; conciliere.
+barîşuw s. împăcare; reconciliere.
+barlî adj. înstărit; bogat.
+barlî-hállí adj. înstărit; bogat.
+barlîk s. 1. trai. 2. bun; avere; avuție. 3. existență; prezență. 4. ființă; vietate; viețuitoare; creatură; făptură.
+barlî-káarlî adj. înstărit; bogat.
+barlîkbílímí s. (fil.) ontologie.
+barlîkbílímlí adj. (fil.) ontologic.
+barlîkşî s. (fil.) existențialist.
+barlîkşîlîk s. (fil.) existențialism.
+barma s. sosire.
+barmak A. v.i. 1. a sosi; a veni. 2. a se duce. 3. a atinge; a ajunge; a apuca (o anumită vârstă). 4. (d. fete) a se mărita; a se căsători. B. v.m. (precedat de forma simplă a ger. redupl. în -y/-a/-e) a se produce în mod treptat; a se realiza în mod treptat; a se înfăptui în mod gradat; a avea loc în mod gradat. // ●abaylanmadan barmak — a se furişa; a se strecura; a se fofila. ●aldga barmak — a avansa; a se dezvolta. ●alîp barmak — a conduce; a duce. ●dadîna barmak — a da de gustul…; a începe să-i placă. ●eşíte barmak — a desluşi un sunet. ●farkîna barmak — a-şi da seama; a se sesiza. ●kayîrlîsî man soñîna barmak — a duce la bun sfârşit. ●koğaga barmak — a se mărita. ●kolî barmamak — a nu putea da în cineva; a-l cruța. ●konaklîkka barmak — a merge în vizită. ●kóre barmak — a desluşi o imagine. ●maksatîna/dawasîna/gayesíne barmak — a-şi atinge scopul. ●muratîna barmak — a-şi vedea visul cu ochii; a i se îndeplini dorința. ●sápírlíkke barmak — a merge în vizită. ●soñîna barmak — a lua sfârşit; a se termina; a se isprăvi. ●tílí barmamak — a nu se încumeta să spună ceva; a i se lua limba. ●tóbesí kókke barmak — a fi în al nouălea cer de fericire; a radia de fericire. ●yakîn barmak — a se apropia de…; // ●barağak yerímíz uzak mî, taa? — mai avem mult până la destinație?; ●bazda-bír olarga bara edím — câteodată mergeam la ei. ●bír taa barayîk — să mai mergem o dată. ●bíz barganşîk sáát sekízní taptîk — până s-ă ajungem noi s-a făcut ora opt. ●bízím de barmamîz kerek — trebuie să mergem şi noi. ●elkerez, síz oga barmalîsîñîz! — pe scurt, dumneavoastră trebuie să mergeți la el!; ●esen barîñîz! — mergeți sănătoşi!; ●ğenábíñíz kaysî netiğelerge bardîñîz? — dumneavoastră ce rezultate ați obținut?; ●kayakka barayatîrsîñ? — unde mergi?; ●kayîrlîsî man bardîk — am ajuns cu bine. ●ondan soñ barma! — nu te duce după el!; ●sawluk man barîñîz! — mergeți sănătoşi!; drum bun!; la revedere!; ●saw-selametlí barîñîz! — mergeți sănătoşi!; drum bun!; ●selamet men barîñîz! — mergeți sănătoşi!; drum bun!; ●stadiyonga baramîz — mergem la stadion. ●taksiy men barîñîz! — să mergeți cu un taxi!; ●wakîtînda barağakmîz — vom ajunge la timp.
+barman I. interj. consimt!; II. s. barman.
+barok adj. baroc.
+barometre s. (fiz.) barometru.
+baron s. baron.
+baronet s. baronet.
+baros s. baros.
+baroskop s. baroscop.
+barow s. barou; colegiul avocaților.
+barsak s. intestin; maț. // ●barsak píşmesí/iltihabî — (med.) inflamarea intestinului subțire; enterită.
+barsak, kyor- s. (anat.) apendice.
+barsak-kurtî s. (ent., med.) vierme-intestinal; oxiur.
+barsaklar s., pl. măruntaie.
+barsak-şerítí s. (ent., med.) tenie; panglică (lat., Taenia solium).
+barsak-şîlawşanî s. (ent.) ascarid; limbric (lat., Ascaris lumbricoides).
+barsayîlgan adj. ipotetic; presupus; admis.
+barsayîlmak v.i. a se presupune.
+barsayîm s. supoziție; ipoteză.
+barsayîmlî adj. ipotetic; presupus; admis.
+barsaymak v.t. a presupune; a socoti; a admite.
+barsayuw s. ipoteză; presupunere.
+bartutmak v.t. a presupune.
+bartutulgan adj. ipotetic; presupus; admis.
+bartutulmak v.i. a se presupune.
+bartutuw s. ipoteză; presupunere; supoziție.
+barudiy adj. plumburiu.
+baruk adj. scund şi îndesat; bondoc.
+barut s. pulbere; praf de puşcă. // ●barut man oynamak — a se juca cu focul.
+barutkana s. pulberărie.
+barutteregí s. (bot.) cruşân; pațachină (lat., Rhamnus frangula).
+baruw s. sosire.
+bar-yok adv. 1. din puținul existent. 2. numai; doar.
+bas s. (muz.) bas.
+basabas s. (tehn.) presă; teasc.
+basa-basa adv. 1. strâns. 2. accentuat; insistent; răspicat.
+basamak s. 1. treaptă. 2. (mat.) ordin. 3. (fig.) grad; scară; nivel; cotă. // ●ana basamak — scară principală. ●búklengen basamak — scară pliantă. ●ğetek basamak — scară de serviciu. ●kaytar basamak — scară rulantă.
+basamaklî adj. treptat.
+basarîk s. pedală.
+Basir, El- s. (relig., arab.) "Atotvăzătorul" (unul din cele 99 preafrumoase nume atribuite în Coran lui Dumnezeu/Allah).
+basiret s. prevedere; precauție; prudență.
+basiretlí adj. prevăzător; precaut; prudent.
+basiretsíz adj. neprevăzător; imprudent.
+basiretsízlík s. lipsă de prevedere; lipsă de precauție; imprudență.
+basit adj. simplu.
+Basit, El- s. (relig., arab.) "Cel munific"; “Cel ce răsplăteşte rugile simple ale supuşilor Săi prin generozitate; spor şi abundență” (unul din cele 99 preafrumoase nume atribuite în Coran lui Dumnezeu/Allah).
+basî s. ediție.
+basîk adj. 1. turtit; teşit. 2. jos; lăsat în jos.
+basîlgan adj. 1. (tipogr.) publicat; tipărit. 2. turtit; oprimat; strivit; zdrobit; călcat. 3. accentuat; subliniat. 4. furat. 5. percheziționat. // ●ólímden soñra basîlgan — postum.
+basîlganhawalî adj. pneumatic.
+basîlma s. tipărire.
+basîlmagan adj. 1. nepublicat; netipărit. 2. afânat.
+basîlmak v.i. 1. a se presa; a se apăsa; a se zdrobi; a se călca. 2. a se descinde; a se fura; a se percheziționa. 3. a se astupa; a se inunda. 4. a se tipări; a se imprima. 5. a se accentua; a se sublinia.
+basîlmaykalgan adj. 1. afânat. 2. nepublicat; netipărit.
+basîluw s. tipărire.
+basîm s. 1. tipografie; artă tipografică. 2. presare; apăsare; zdrobire; călcare. 3. descindere; furt; percheziție. 4. astupare; inundare. 5. tipărire; imprimare. 6. accentuare; subliniere. // ●tam basîm — ediție completă. ●túrlí sîzga/basîm sanatî — artă tipografică.
+basîmğî s. tipograf.
+basîmkana s. tipografie; imprimerie.
+basîmşak adj. docil; supus; ascultător.
+basîmşaklaşkan adj. docil; supus; ascultător; smerit.
+basîmşaklaşmak v.i. a deveni docil; a deveni supus; a asculta; a se smeri.
+basîmşaklaştîrmak v.t. a determina să fie docil; a supune; a face să asculte; a determina să fie smerit.
+basîmşaklîk s. docilitate; smerenie.
+basîmúyí s. editură.
+basîn s. presă; publicații. // ●basîn ğolî man — prin presă. ●basîn maşinasî — (tipogr.) presă. ●basîn sefirí — ataşat de presă. ●basîn toplantîsî — conferință de presă. ●basînga maruze — comunicat către presă.
+basînş s. presiune. // ●basînşî şîkmak — (med.) a i se ridica tensiunea. // ●basînş tulumbasî — (tehn.) pompă de presiune. ●hawa basînşî — presiune atmosferică.
+basînşólşer s. (tehn.) manometru.
+basîp-algan adj. ocupant; invadator; cotropitor; năvălitor.
+basîp-alîngan adj. ocupat; invadat; cotropit.
+basîp-aluw s. ocupare; invadare; cotropire; năvală.
+basîp-ğaylandîrma s. (tehn.) flambare.
+basîp-ğaylangan adj. (tehn.) flambat.
+basîp-kírgen s. ocupant; invadator; cotropitor; năvălitor.
+basîp-kírílgen adj. ocupat; invadat; cotropit.
+basîp-kírúw s. ocupare; invadare; cotropire; năvălire.
+baska s. basc.
+basket s. (sport) baschet. // ●basket meçí — meci de baschet.
+baskî s. 1. presiune; presare. 2. tipărire; presare. 3. (tipogr.) tiraj. 4. (tehn.) presă. 5. (fig.) oprimare; asuprire. 6. descindere; furt; percheziție. // ●baskî astînda tutmak — a asupri; a oprima. // ●baskî yañgîşî — greşeală de tipar. ●bo soñ baskî mî? — aceasta e ultima ediție?; ●túşúk kan baskîsî — (med.) hipotensiune. ●yúksek kan baskîsî — (med.) hipertensiune.
+baskîğî s. 1. tipograf. 2. tiran; despot.
+baskîn I. adj. puternic; tare; robust. II. s. atac prin surprindere; incursiune.
+baskîş s. nivel; grad; treaptă; scară.
+baskîşlî adj. treptat.
+baskula s. basculă.
+basma s. 1. presare. 2. tipărire; imprimare. 3. basma; batic; năframă. // ●yúpeklí basma — mătase imprimată.
+basmak v.t. 1. a presa; a apăsa; a zdrobi; a călca. 2. a tipări; a imprima. 3. a astupa; a inunda. 4. a descinde; a percheziționa. 5. a accentua; a sublinia. 6. a cuprinde; a copleşi; a covârşi. 7. a sparge; a jefui; a prăda. // ●aldayak basmak — a pune piciorul undeva; a pătrunde; a iniția. ●ayak basmak — a călca; a pune piciorul undeva; a păşi; a vizita. ●ayaklarîn ğerge basmak — a fi cu picioarele pe pământ. ●başî basmak — a-i umbla mintea; a-l duce capul; a-l tăia capul. ●basîp almak/kírmek — a ocupa; a invada; a cotropi. ●bawuruna/koyînîna basmak — a strânge pe cineva la piept; a-l îmbrățişa. ●dalîna basmak — a călca pe cineva pe bătătură. ●feriyat basmak — a striga în gura mare. ●harman basmak — a treiera. ●hawa basmak — a comprima aer; a pompa aer. ●imza basmak — a-şi pune semnătura; a semna. ●kar basmak — a troieni; a nămeți. ●karañgî basmak — a se întuneca; a se însera. ●kitapka kol basmak — a jura. ●kuyruguna basmak — a călca pe cineva pe coadă; a-l jigni. ●múhúr basmak — a sigila. ●ot basmak — a-l năpădi buruienile. ●pamîk basmak — a vătui; a matlasa. ●para basmak — a bate monedă; a tăia bani; a fi doldora de bani. ●parmak basmak — a pune degetul; a preciza; a specifica; a evidenția; a sublinia; a accentua. ●suwuk basmak — a se lăsa frig. ●tamîrîna basmak — a călca pe cineva pe nervi. ●tot basmak — a rugini. ●ústún basmak — a-l turti; a-l acoperi; a-l camufla; a-l muşamaliza. ●úyún basmak — a călca casa cuiva. ●yañgîş/kîyîş basmak — a călca strâmb. ●zílge basmak — a suna la sonerie; a apăsa pe sonerie. // ●parmak basmaga yer yok — nu e loc nici cât să pui un deget. ●yeşíllíkke basmañîz! — nu călcați pe iarbă!;
+basmakalîp s. şablon.
+bastîrîlaalgan adj. digerabil.
+bastîrîlgan adj. 1. apăsat; îndesat; înghesuit; presat; reprimat. 2. (fiziol.) digerat; mistuit; asimilat.
+bastîrîlmagan adj. nedigerabil.
+bastîrîlmak v.i. 1. a fi îndesat; a fi înghesuit. 2. a fi reprimat. 3. a fi apăsat; a fi presat. 4. (fiziol.) a se digera; a se mistui; a se asimilat.
+bastîrîlmaykalîr adj. nedigerabil.
+bastîrîlmaz adj. nedigerabil.
+bastîrîp-ezílgen adj. silit; supus; reprimat; înăbuşit.
+bastîrîp-ezúw s. silire; supunere; reprimare; înăbuşire.
+bastîrîp-tolgan adj. îndesat.
+bastîrîp-totîrma s. îndesare.
+bastîrma s. 1. apăsare; îndesare; înghesuire; presare; comprimare; reprimare. 2. digerare; mistuire; asimilare. 3. jaluzea; transperant; oblon; chepeng; stor. 4. podea; parchet; duşumea. 5. cabană. 6. platformă; planşeu. 7. (tehn.) platou. 8. (farm.) pastilă; pilulă; tabletă; comprimat. 9. (sport) înaintare; atac.
+bastîrmağî s. (sport) înaintaş; atacant.
+bastîrmak v.t. 1. a apăsa; a presa. 2. a reprima; a înăbuşi. 3. a îndesa; a înghesui. 4. a ataca; a atenta; a riposta. 5. a întrece; a depăşi. 6. (fiziol.) a digera; a mistui; a asimila. // ●bastîrîp ezmek — a înăbuşi; a reprima. ●órtí bastîrmak — a înveli cu pânză; a muşamaliza. ●perde bastîrmak — a acoperi cu cortina; a muşamaliza. ●şañîna ot bastîrmak — a astupa gura cuiva; a-i pune capac la gură. ●ústún bastîrmak — a-l turti; a-l acoperi; a-l camufla; a-l muşamaliza.
+bastîrmalî adj. îngrămădit.
+bastîruw s. 1. apăsare; îndesare; înghesuire; presare; comprimare; reprimare. 2. digerare; mistuire; asimilare.
+bastîruwğî adj. 1. digestiv. 2. (mil.) desant.
+baston s. baston.
+basuw s. 1. imprimare; tipărire. 2. presare; apăsare; zdrobire; călcare. 3. descindere. 4. astupare; inundare. 5. accentuare; subliniere.
+basuwğî s. editor.
+basuwkîşkîrmasî s. exclamare; exclamație.
+basuwlî adj. 1. imprimat; tipărit. 2. turtit; strivit; zdrobit; călcat.
+baş I. adj. principal; de bază. II. s. 1. (anat.) cap; craniu. 2. vârf; extremitate; cap. 3. şef; conducător. 4. început; bază; temelie. 5. individ; locuitor. 6. căpățână; țeastă; scăfârlie; tigvă. 7. (bot., anat.) bulb. III. s., adj. (gram.) nominativ; absolut. // ●akîlî başîna kelmek — a-i veni mintea la cap; a-şi aduna mințile; a se da pe brazdă; a se dezmetici. ●akîlî başîndan ketmek — a-şi pierde mințile/capul; a-şi ieşi din minți; a se zăpăci; a izbucni. ●akîlîn başîna almak — a-şi băga mințile în cap. ●akîlîn başîna toplamak — a-i veni mintea la cap; a-şi veni în cunoştință; a-şi aduna mințile; a se dezmetici; a se reculege. ●baş awurtmak — a-şi bate capul; a-şi frământa mințile. ●baş kîrkmak — a tunde. ●baş koşmak — a-şi băga boii în jug cu cineva; a se întovărăşi; a se înhăita. ●baş tutmak — a face față; a rezista. ●baş wurmak — a recuge la…; a apela la…; ●başî almamak — a nu-l duce mintea; a nu-l tăia capul; a nu pricepe. ●başî aylanmak — a avea amețeli. ●başî basmak — a-i umbla mintea; a-l duce capul; a-l tăia capul. ●başî beladan kutulmamak — a nu mai scăpa de necazuri. ●başî dertke kírmek — a da de bucluc; a da de necaz. ●başî dertte bolmak — a fi în bucluc; a fi necăjit. ●başî píşmek — a i se încinge capul; a face insolație. ●başî sîgîşmak — a fi la strâmtoare; a fi în impas. ●başî tarda kalmak — a fi la strâmtoare; a fi în impas. ●başîn alîp ketmek — a-şi lua câmpii; a-şi lua lumea în cap. ●başîn aşaga almak — a pleca capul; a lăsa privirea în pământ; a-i cădea nasul. ●başîn aşamak — a-i mânca cuiva capul; a-l distruge; a-l nimici. ●başîn awurtmak — a-şi bate capul; a-şi frământa mintea; a-i face cuiva capul calendar; a-l bate la cap. ●başîn baylamak — a se ataşa de cineva. ●başîn burup almak — a-i suci capul cuiva; a-i rupe gâtul. ●başîn ğellemek/sallamak — a clătina din cap; a da din cap. ●başîn kaytarmak — a întoarce capul. ●başîn koltîknîñ astîna almak — a-şi pune pielea în saramură. ●başîn kóstermek — a-şi scoate nasul la iveală; a apărea; a se ivi. ●başîn kótermek — a-şi ridica capul; a se răzvrăti; a se răscula. ●başîn kutarmak — a-şi salva pielea. ●başîn órtmek — a se îmbrobodi. ●başîn taştan-taşka wurmak — a se da cu capul de toți pereții. ●başîn uşurtmak — a zbura cuiva capul; a-i reteza capul; a-l decapita. ●başîna íş şîgarmak — a da cuiva de furcă; a-i da de lucru; a-i crea neplăceri. ●başîna kelmek/túşmek — a cădea pe capul cuiva; a i se întâmpla; a păți. ●başîna mínmek — a i se sui cuiva în cap. ●başîna patlamak — a se sparge în capul cuiva. ●başîna şîkmak — a o scoate la capăt; a-i da de cap. ●başîna şorap órmek — a-i coace cuiva turta; a i-o coace. ●başînda akîlî kalmamak — a-şi pierde capul; a-şi pierde mințile; a se zăpăci; a se ramoli. ●başînda kózí oynamak — a-i juca cuiva ochii în cap. ●başînda turmak — a sta pe capul cuiva; a se ține de capul cuiva; a sta la căpătâiul cuiva. ●başîndan atmak — a-şi lua o grijă de pe cap; a se elibera; a se descotorosi. ●başîndan ayagînaşîk karamak — a-l măsura din cap până-n picioare. ●başîndan geşmek — a cădea pe capul cuiva; a i se întâmpla; a păți. ●başîndan kesmek — a-l curma din rădăcini; a-l extirpa. ●başîndan şîgarmak — a-i suci cuiva mințile; a-l ispiti; a-l corupe. ●başîndan suwuk suw tógílmek — a-l trece toate sudorile. ●başnîñ etín aşamak — a-i mânca creierii cuiva; a-l bate la cap; a-i face cuiva capul calendar. // ●akîlî başîndan şîkkan — inconştient. ●baş awrîwî — (med.) durere de cap; migrenă. ●baş gázáta — ziar important. ●baş hárf — inițială. ●baş íşí — înainte de orice. ●baş kapî — (arhit.) portal. ●baş kelíş — (gram.) cazul nominativ; cazul absolut. ●baş makale — (lit.) articol de fond; editorial. ●baş meragîm — principala mea pasiune. ●baş merdúwen — scară principală. ●baş muharrir — redactor şef. ●baş rolî — rolul principal. ●baş úşlúk — (muz.) terță mare. ●başîm awrîy — mă doare capul. ●başîna kóp kelgen — pățit; experimentat. ●başîñîz saw bolsîn! — condoleanțe!; ●bellí başlî — notabilitate; fruntaş. ●bo kaberní eşítken soñ, başîn aşaga alîp ğúre başladî — după ce a auzit vestea aceasta, a început să umble cu capul plecat. ●dayire başî — şef de birou. ●esen bolîñîz, darîsî başîñîzga! — vă mulțumesc, asemenea!; ●ğan man, baş man — cu trup şi suflet. ●ğîmşak başlî — blând. ●ğol başî — (transp.) terminal; terminus; cap de linie. ●haptanîñ başî — începutul săptămânii. ●hatnîñ başî — capătul liniei. ●kayerde aş o yerde baş — omniprezent. ●kîş-yaz başîm awura — iarna-vara mă doare capul. ●kópír başî — (mil.) cap de pod. ●koranta başî — cap de familie. ●meme başî — (anat.) mamelon. ●meseleníñ başîna şîgayîk! — să rezolvăm această chestiune!; ●núfus başîna — pe cap de om; per capita. ●sigara başî — muc de țigară. ●sokaknîñ obír başînda — în celălalt capăt al străzii. ●takîm başî — şef de echipă. ●way başîma! — vai de capul meu!; ●wazife başînda — în exercițiul funcțiunii. ●yaznîñ başî — începutul verii.
+başaraalmagan adj. care nu reuşeşte; neizbutit.
+başaraalmama s. nereuşită; eşuare; eşec.
+başara-almamak v.i. a eşua; a nu reuşi.
+başarîlgan adj. izbutit; reuşit.
+başarîlmagan adj. nereuşit; eşuat.
+başarîlmaykalgan adj. nereuşit; eşuat.
 `;
