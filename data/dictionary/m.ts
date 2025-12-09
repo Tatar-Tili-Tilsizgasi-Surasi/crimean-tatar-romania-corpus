@@ -97,7 +97,7 @@ mağîrlangan adj. țesălat.
 mağîrlanmak v.i. a se țesăla.
 mağîrlaw s. țesălare.
 mağîrlî adj. țesălat.
-mağun s. pastă (şi culin.). // ●ğamğî magunî — chit. ●kayise magunî — gem de caise. ●tíş magunî — pastă de dinți. ●tíş magunî tulumî — tub de pastă de dinți.
+mağun s. pastă (şi culin.). // ●ğamğî mağunî — chit. ●kayise mağunî — gem de caise. ●tíş mağunî — pastă de dinți. ●tíş mağunî tulumî — tub de pastă de dinți.
 mağunlama s. chituire.
 mağunlamak v.t. a chitui.
 mağunlangan adj. chituit.
