@@ -385,7 +385,7 @@ Filipin-órdegí s. (orn.) rață filipineză (lat., Anas luzonica).
 filiskin s. (bot.) voieştniță (lat., Mentha silvestris).
 Filistin-balkuşî s. (orn.) pasăre-nectar de Palestina (lat., Nectarinia osea).
 filiyala s. sucursală.
-filiz s. 1. vlăstar; mlădiță. 2. (geol.) filon; vână. // ●filiz diye gílmek — a se mlădia. // ●temír filizí — filon de fier.
+filiz s. 1. vlăstar; mlădiță. 2. (geol.) filon; vână. // ●filizdiy egílmek — a se mlădia. // ●temír filizí — filon de fier.
 filizdiyiyílgen adj. mlădios.
 filizlenmek v.i. 1. a înmuguri. 2. (fig.) a apărea; a se naşte.
 filizşîgargan s. miner.
