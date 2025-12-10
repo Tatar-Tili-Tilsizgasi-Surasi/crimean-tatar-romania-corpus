@@ -15,16 +15,16 @@ pîkareleşken eskí soylî bír korantanîñ balasî Adem Miskiyebiç. Tuwumîn
 ağele Úyken Katerina’nîñ tuwum kúnín taa muzaffer etmege Petersburk'ka 
 yollangan edí.
 Bondan sade bírkaş sene ewel (1792’de), kîrk beş biñ Polak ğígítníñ aldîna 
-şîgîp ezúwğî sayîda Kazak man Urus ordîsîn karşîlap Kosciusko batîrğa 
+şîgîp ezúwğî sayîda Kazak man Urus ordîsîn karşîlap Kosiyusko batîrğa 
 sawungan edí. Túrúk kanlî marebelerí, Pugaçev isiyanî, Zaporoj Kazaklarnîñ 
 ayaklanmasî, Polak konfederasiyalarî tewúkede yazîlîp kalgandîr. Hem 
 ondokîzînğî yúzyîlî man Napoliyon marebelerí de keldí, hem onîñ Urusiye’ge 
 feğiy kíríşí men barabar, hem Awrupa’da bír uyanuw man barabar, ğañî bír 
 fikir hayatîñ başlamasî man barabar. 
-Miskiebiç Lituwaniye’níñ Nawurdek kasabasînda tuwgan. Bo kasaba "Pan 
+Miskiyebiç Lituwaniye’níñ Nawurdek kasabasînda tuwgan. Bo kasaba "Pan 
 Severin Soplisanîñ katírlerí" başlîgînda Polak onsekízínğí yúzyîlnîñ kiyíplí 
 añîlarîn yazîp, hem óz Lituwan “şîlasik” (bay) korantasî man, hem tuwgan 
-kasabasî man maktanîp kopaygan Kont Henriy Rizewuski’níñ tuwum yerídír. 
+kasabasî man maktanîp kopaygan Kont Henriy Rizewuskiy’níñ tuwum yerídír. 
 O Minísk'te bír dewlet mektebínde okîp soñra şo kúnlerníñ ğezwit inanşî, 
 kaswetlí manastîr man şîñlagan şan kasabasî Vilne’ge barîp Darúlfúnunga 
 koşîldî. Îslaf topraklarî úşún ğañî şaklar aşkan olaylarîñ zamanlarî edí. Onîn 
@@ -35,7 +35,7 @@ diplomatlarîñ tabîşîp kúreşken yerí de edí. Dewlet kíşílerí şîgan
 kazangan yerí edí. Petersburk’ka ya Warşaw’ga yollanîp başaruwlî şîksa, her 
 ağele íşke ázír sayîlîr edíler. Onîñ balalîgîn belagat, ilham man ğurtsúyúw 
 terbetken bolsa kerek.
-Miskiebiç’níñ tuwum zamanînda Urusiye yakînğa bútún insan faaliyetlerínde 
+Miskiyebiç’níñ tuwum zamanînda Urusiye yakînğa bútún insan faaliyetlerínde 
 sîradantîşî yúkselíşíñ ald bír kaytîmîna kírgen edí. Hakîykattan keleğekte 
 kuwetlí hareket etíp ğañî şaknîñ bír kîsîmîn húkúm eteğek bír ulusîñ tuwum beşígí edí. Hem Úyken Katerina’nîñ dúniya hakimiyetí wahşiy hayallarî man 
 ela, heşbírwakît tekrarlanmayğak maskara hayatî zamanî, hem sade 
@@ -48,7 +48,7 @@ ençiklopedistlerníñ, eñ saltanatlî we pîrîltîlî kîralnîñ Fírengíst
 wakîtlarda Ingílístan eñ balaban nutukşîlarîn, başbakanlarîn tanîgan. Úyken 
 Fírederik’níñ Purusiye’sí zamanlarî edí; Ekínğí Yosup’nîñ Awustriye’sí 
 zamanlarî.
-Bíraz soñra, Miskiyebiç’níñ ğaşlîgînda - Goethe kúş yúkseklígíne ğetíp 
+Bíraz soñra, Miskiyebiç’níñ ğaşlîgînda - Góte kúş yúkseklígíne ğetíp 
 Awrupa’nîñ múnevver diktatorî yetíşken edí. Onîn húkúmínde we ondan 
 ğesaret alîp Şark edebiyatîñ hazinelerí terğúme etílíp Garp’ka tanîtîla edí. Bo 
 sade eñ şanlî Polak şayirleríñ hayatîndan ewel saknaga ağeleden atîlgan bír 
@@ -70,7 +70,7 @@ hoğalarî başkanî boldî. Kovno'da Polakşa man Látinğe derslerí berdí. P
 inkilabî faydasîna Italiye’ge barîp kele berdí. Hem kópkenarlî bír akîlî bar 
 edí, hem túrlí faaliyette ğeteneklí edí. Yúksek riyaziyet, felsefe aktarmasîna 
 kóp zaman ayîrgandîr. Lalewel’níñ ğónetímínde Vilne’de bílím aktarmalarî 
-yaptî. Awrupa’nîñ túrlí kalasînda yaşadî. Almaniye'de Goethe men tanîşîp 
+yaptî. Awrupa’nîñ túrlí kalasînda yaşadî. Almaniye'de Góte men tanîşîp 
 dost boldîlar. Helwetiye’de Kîrasinskiy men bír araga keldí. 1833 yîlînda 
 Çelina Şimanowska man úylendí, ğaşlîgînda Goethe’níñ kayet súygen Îslaf 
 gúzelí we namlî muzika sanatşîsîñ kîzî.
@@ -78,7 +78,7 @@ Hayatî Miskiyebiç men zamandaş, Polagîstan man Urusiye yazuwğîlarnîñ
 arasînda şonlar bardîr: 1797 tuwumlî romanğî Kórzenowskiy (Çarkof’ta Adem Miskiyebiç’níñ bír kardaşî Kórzenawskiy men úyretmenlík yaptîlar) ; 1829 
 tuwumlî romanğî Danilewskiy, o “El-Kîrîm sónetlerín” Urusşaga terğúme 
 etken; Kimin Malzweskiy, Polak ğurtsúyerí we şayirí, “El-Kîrîm sónetlerí” men 
-yakîn wakîtta ortaga şîkkan, belkí de kalkîñ eñ kóp súygen “Maria” tízmelí 
+yakîn wakîtta ortaga şîkkan, belkí de kalkîñ eñ kóp súygen “Mariya” tízmelí 
 hikáyesíñ yazuwğîsî; soñra 1802’de tuwgan Zaleskiy, 1809’nîñ balasî 
 Sîlowaskiy, 1812 tuwumlî Kîrasinskiy bar, Miskiyebiç’níñ tîşînda eñ aytuwlî 
 úş Polak şayirlerí; Polak tenkîyîtşî Bîrodzinskiy de bar. 
@@ -94,12 +94,12 @@ anasî" dep aytîlgan edí. Onda súrgúnde Heine de bar edí, Bórne de. Bo kal
 Ferdinant la Sal’nîñ şahsiy ğazibesín, şikáyetşí yazuwlarîn tanîr edí. Yúğe 
 ísímleríñ kúnlerí edí, rast kele bírkaş tanesín saysak aralarînda Ewjen Súy, 
 Berliyoz, Ğorj Sant, de Músset, Dúmas, Gotiye, Gonkurt kardaşlarî, 
-Gavarniy, Sent Bóv, List, Feliks Mendelssohn, Ary Şeffer, Delakruwa, Horas 
+Gavarniy, Sent Bóv, List, Feliks Mendelsson, Ariy Şeffer, Delakruwa, Horas 
 Vernet bar edí. Juliyus Sîlowaskiy, Kont Kîrasinskiy men Adem Miskiyebiç, 
 hepísí mínda ilham berúwğí Sen ğîlganîñ kalasînda tabîlîp ğîltîrawğî hayatîñ 
 ortasînda şiirlerín túzetíp tertípliy edíler. Paris'tekí bo kaytîm belkí 
 Miskiyebiç’níñ eseríñ eñ inğe íş işaretídír. Zaten Balatlar man Romanslar’nî, 
-Ğiady’nîñ úşúnğí bólímín, Pan Tadewuz’nî yazgan edí. 
+Ğiyadiy’nîñ úşúnğí bólímín, Pan Tadewuz’nî yazgan edí. 
 “El-Kîrîm” sîralamasî Miskiyebiç’nîñ ğaşlîgîdan, Vilne kaytîmîndandîr. Şo 
 arada húkúmet hoş kórmegen bír ğemiyetke koşîlîp ğúre edí. Soñînda, şo 
 ğemiyetten heş ayîrîlmaganî úşún, Urusiye’níñ kúneş betíne súrgún etíldí. 
@@ -110,7 +110,7 @@ bír píşímde kullanîlîr, sade ruh man zihin tuygîlarîn kóstermek maksat�
 tuwul, bo olaylî seferníñ sîrasînda kórgenlerín de ifade etmege bír alat gibí 
 kullanîlîr. Sónetní Fílenderístannî kóstermege “Fílamantlar" şiirínde 
 Verhaeren gibí kullangandîr, Versailles bakşalarîn resímín boyalamaga "Altîn 
-araba" şiirinde Albert Samain gibí kullangandîr. Bonîñ dîkkatka alînmasî 
+araba" şiirinde Albert Samayin gibí kullangandîr. Bonîñ dîkkatka alînmasî 
 keregír. Hem şonî da unutmamak kerek ke senesí 1826’dan ewel edí. 
 Miskiyebiç’níñ tízme şalîşmalarînda her wakît hem ğañî, hem denelmegen 
 imkáanlar karap ádetlerden bazgeşmek kiyífíñ ízlerí tabîlmaktadîr.
