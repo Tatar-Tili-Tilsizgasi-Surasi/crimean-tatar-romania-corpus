@@ -17,7 +17,7 @@ geşíríp inğeliy edíler.
 - Ístepan Osmanop! 
 Babamnî faraziy atî man uzun boylî SS bír asker 
 doktor şakîrdî. 
--Jawohl mein Herr!
+-Ebet, efendím!
 1
  dep kurnazğa ğewap berdí o, 
 şîr-şîpalak hálínde tebeşír men sîzîlgan dayireníñ 
@@ -70,11 +70,11 @@ sáde Naziy Almaniyede kader yazîsîna sebep bola
 edí, şonday bír kírtleşme başka bír yerde taba-
 almaz edíñ. 
 “Solga aylan!” dep ayttî SS-şí aktaruwğî kózí men. 
--Jawoh! dep bírtaa ayttî babam da, nezaketlí 
+-Elbette! dep bírtaa ayttî babam da, nezaketlí 
 ğewabî man raátsízlígín kóstermemege ogîraşîp. 
 Şúndí de korkînîñ taa zewuklî yúzí tabiyat kayidesí
 edí. 
-Şúndí bírden akîlînda uyumsuz sünnetíñ kayîrî 
+Şúndí bírden akîlînda uyumsuz súnnetíñ kayîrî 
 şîñlap başladî: “Ay, sen añlayîşlî, soñsîz sabîrlî,
 súygílí Allaga şúkúr et. Bo balaşîk saw bolsîn, ósíp 
 balaban bolsîn. Allanîñ karşîsînda o kalay başîn 
@@ -102,9 +102,9 @@ herbír hareketí suwburumîñ ortasîna tarttî, onîñ
 her adîmî ya Waffen SS-ke koşîlmasîna, ya 
 şúphesíz ólímge taa yakîn akele edí. 
 Waffen SS-şíler tabiy ke yúz sene ewel, 1834 
-yîlînda, Heinrich Heine taş atîp suratlagan 
+yîlînda, Hayînrih Hayîne taş atîp suratlagan 
 kîyamette sogîşağak şo “gîladiyatorlar” edí. 
-Madam de Stael’níñ Alman romantiklígíñ bolîmlî 
+Madam de Sítal’níñ Alman romantiklígíñ bolîmlî 
 resímíne tepkí etíp yazgan “Almaniyeníñ diní men 
 felsefesí torasînda” eserínde nefes kesken keleğek 
 kóríşí men Heine şolarnî ilan ettí: “Alman kók 
