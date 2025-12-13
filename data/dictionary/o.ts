@@ -356,7 +356,7 @@ onday I. adv. astfel; aşa. II. pron. 1. ca el; ca ea. 2. ca acela; ca aceea. //
 ondokîz num. nouăsprezece.
 ondokîzar num. câte nouăsprezece.
 ondokîzar-ondokîzar num. nouăsprezece câte nouăsprezece.
-ondokîzînğí num. al nouăsprezecelea.
+ondokîzînğî num. al nouăsprezecelea.
 ondokîzlap adv. reciclând de nouăsprezece ori.
 ondokîzlîk s. nouăsprezecime.
 ondórt num. paisprezece.
