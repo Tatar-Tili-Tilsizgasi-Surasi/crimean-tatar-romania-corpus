@@ -248,4 +248,143 @@ olarda pron. 1. la ei; la ele. 2. la aceia; la acelea.
 olardan pron. 1. de la/dinspre ei; de la/dinspre ele. 2. de la/dinspre aceia; de la/dinspre acelea.
 olarday pron. 1. ca ei; ca ele. 2. ca aceia; ca acelea.
 olarga pron. 1. spre ei; spre ele; lor. 2. spre aceia; spre acelea; lor. // ●bazda-bír olarga bara edím — câteodată mergeam la ei.
+olarnî pron. 1. pe ei; pe ele. 2. pe aceia; pe acelea.
+olarnîñ adj. 1. lor. 2. acelora.
+olarnîñkî pron. 1. al lor; a lor. 2. al acelora; a acelora.
+olarnîñkîlar pron. 1. ai lor; ale lor. 2. ai acelora; ale acelora.
+olarnîñkîsî pron. 1. al lor; a lor. 2. al acelora; a acelora.
+olay I. adv. astfel; aşa; ca urmare; în acest fel. II. s. 1. eveniment; întâmplare; fapt. 2. fenomen. // ●fewkaláde bír olay — e un eveniment extraordinar. ●olaylarnîñ tewúkenamesí — istoricul evenimentelor. ●soñragî olaylar — evenimente ulterioare. ●tewúkiy olaylar — evenimente istorice.
+olay-típ adv. astfel; aşa; ca urmare; în acest fel.
+olğa s. pradă; captură; trofeu de război.
+oligarşiy s. oligarhie.
+olimpik adj. olimpic.
+olimpiya(t) s. olimpiadă. // ●olimpiya ozîşlarî — olimpiadă.
+olimpiyağî adj. olimpic.
+olimpiyağîlîk s. olimpiadă.
+olimpiyalî adj. olimpic.
+olîk s. 1. jgheab; uluc; canelură. 2. şanț; crestătură; scobitură; adâncitură; canelură.
+olîkkazuw s. crestare; incizare.
+olîklî adj. 1. cu jgheab; cu uluc; canelat. 2. crestat; scobit; adâncit.
+olta s. undiță.
+olteniyelí I. adj. oltenesc. II. s., adj. oltean.
+omarta s. stup; ştiubei.
+omartağî s. albinar; stupar; prisăcar; apicultor.
+omartağîlîk s. albinărie; stupărie; stupină; prisacă; apicultură.
+omaş s. 1. ciorbă; supă. 2. polonic; cancioc; cupă; căuş.
+omaşa s. 1. rădăcină de copac; buturugă; butuc; buştean; ciot. 2. (anat.) cap femural.
+omaşalî adj. butucănos; cioturos.
+omáálde adv. atunci.
+omba s. (anat.) coapsă.
+omba súyegí s. (anat.) femur.
+omîr I. adj. (anat.) vertebral. II. s. (anat.) vertebră.
+omîraw súyegí s. (anat.) claviculă.
+omîrga I. adj. (anat.) vertebral. II. s. 1. (anat.) coloană vertebrală; şira spinării. 2. (la corăbii) talpă.
+omîrgalî adj. vertebrat.
+omîrgalîlar s., pl. vertebrate.
+omîrgasíz adj. nevertebrat.
+omîrgasízlar s., pl. nevertebrate.
+Omîr-Kóy s. (topon.) Lozenets (Dobrich, Bulgaria).
+omîrlîk s. (anat.) măduva spinării.
+Omîrşa s. (topon.) Valea Seacă (jud. Constanța).
+omîz s. (anat.) umăr. // ●omîz bermek — a pune umărul; a ajuta. ●omîz kótermek/sílkmek — a ridica din umeri; a strânge din umeri. ●omîzînda taşîmak — a-l purta pe umeri; a-l respecta. // ●geñíş omîzlî — spătos.
+omîzbergen adj. protector; ajutor; sprijinitor; cooperant.
+omîzberúw s. protecție; ajutorare; sprijin; cooperare.
+omîzdataşîlgan adj. omagiat; stimat; respectat; apreciat; prețuit.
+omîzdataşîw s. omagiu; stimă; respect; apreciere; prețuire.
+omîzlîk s. 1. (mil.) epolet. 2. umeraş.
+omîz-omîzga adv. umăr la umăr.
+omîzsílkken adj. dezinteresat.
+omîzsílkme s. dezinteres.
+omleta s. (gastron.) omletă; scrob.
+omnibuz s. omnibuz.
+omoğen adj. omogen.
+omoğenlík s. omogenitate.
+omolok adj. omolog.
+omonim s., adj. (lingv.) omonim.
+omşa s. butaş; butuc de viță.
+on num. zece. // ●onlar man — cu zecile. ●sáát onga dogrî — către ora zece.
+onagar-eşegí s. (zool.) măgar-sălbatic (lat., Equus hemionus onager).
+onaltî num. şaisprezece.
+onaltîlap adv. reciclând de şaisprezece ori.
+onaltîlîk s. şaisprezecime.
+onaltînğî num. al şaisprezecelea.
+onaltîşar num. câte şaisprezece.
+onaltîşar-onaltîşar num. şaisprezece câte şaisprezece.
+onar num. câte zece.
+onarîlgan adj. reparat; remediat; depanat.
+onarîlîr adj. reparabil; remediabil; care poate fi depanat.
+onarîlmak v.i. a se repara; a se remedia; a se depana.
+onarîlmaz adj. iremediabil; ireparabil; care nu poate fi depanat.
+onarîm s. reparație; remediere; depanare. // ●eskí şekílínde onarîm — restaurare.
+onarma s. reparație; remediere; depanare.
+onarmak v.t. a repara; a remedia; a depana.
+onar-onar num. zece câte zece.
+onaruw s. reparație; remediere; depanare.
+onaruwğî s. reparator; care remediază; depanator.
+onaw num. grup de zece.
+onawî pron. toți zece.
+onaw-onaw num. grupuri de câte zece.
+onay adj. conform cu…; potrivit…;
+onayaklîlar s., pl. decapode.
+onaylagan adj. aprobator; ratificator; omologator; validator.
+onaylamak v.t. a aproba; a ratifica; a omologa; a valida.
+onaylangan adj. aprobat; ratificat; omologat; validat.
+onaylanmak v.i. a se aproba; a se ratifica; a se omologa; a se valida.
+onaylaw s. 1. aprobare; ratificare; omologare; validare. 2. (jur.) validitate.
+onaylawğî adj. aprobator; ratificator; omologator; validator.
+onaylî adj. aprobat; ratificat; omologat; validat.
+onaylîk s. validitate; valabilitate.
+onbaşî s. (mil.) caporal.
+onbeş num. cincisprezece. // ●onbeş dakka ewel kettí — a plecat acum cincisprezece minute. ●onbeş kúnlúk — bilunar. ●onbeş kúnlúk dergí — revistă bilunară.
+onbeşer num. câte cincisprezece.
+onbeşer-onbeşer num. cincisprezece câte cincisprezece.
+onbeşínğí num. al cincisprezecelea.
+onbeşlep adv. reciclând de cincisprezece ori.
+onbeşlík s. cincisprezecime.
+onbír num. unsprezece. // ●onbírní şerík geşe — unsprezece şi un sfert.
+onbírer num. câte unsprezece.
+onbírer-onbírer num. unsprezece câte unsprezece.
+onbírínğí num. al unsprezecelea.
+onbírlep adv. reciclând de unsprezece ori.
+onbírlík s. unsprezecime.
+onbuğak s. (geom.) decagon.
+onbuğaklî adj. (geom.) decagonal.
+onda I. adv. 1. acolo. 2. la zece; din zece. II. pron. 1. la el; la ea. 2. la acela; la aceea. III. s. zecime.
+onda-bír num. o zecime.
+ondan I. adv. 1. de acolo; de aceea. 2. de la zece; din zece. II. pron. 1. de la/dinspre el; de la/dinspre ea. 2. de la/dinspre acela; de la/dinspre aceea. // ●ondan ses-seda yok — nu există nicio veste de la el. ●ondan soñ barma! — nu te duce după el!; ●ondan soñra — după aceea.
+onday I. adv. astfel; aşa. II. pron. 1. ca el; ca ea. 2. ca acela; ca aceea. // ●árúw, onday kalsîn — bine, să rămână aşa. ●onday bolsa — atunci; în cazul acesta; în această situație. ●onday tuwul — nu este aşa. ●şakasîz, onday boldî mî? — serios, aşa s-a întâmplat?; ●ya, onday — da aşa este.
+ondokîz num. nouăsprezece.
+ondokîzar num. câte nouăsprezece.
+ondokîzar-ondokîzar num. nouăsprezece câte nouăsprezece.
+ondokîzînğí num. al nouăsprezecelea.
+ondokîzlap adv. reciclând de nouăsprezece ori.
+ondokîzlîk s. nouăsprezecime.
+ondórt num. paisprezece.
+ondórter num. câte paisprezece.
+ondórter-ondórter num. paisprezece câte paisprezece.
+ondórtínğí num. al paisprezecelea.
+ondórtlep adv. reciclând de paisprezece ori.
+ondórtlík s. paisprezecime.
+oneğíklí adj. decasilabic.
+onekí num. doisprezece.
+onekíbuğak s. (geom.) dodecagon.
+onekíbuğaklî adj. (geom.) dodecagonal.
+onekíkeñ s. (geom.) dodecagon.
+onekíkeñlí adj. (geom.) dodecagonal.
+onekílep adv. reciclând de doisprezece ori.
+onekílík s. duzină; doisprezecime.
+onekínğí num. al doisprezecelea.
+onekíparmak s. (anat.) duoden.
+onekíşer num. câte doisprezece.
+onekíşer-onekíşer num. doisprezece câte doisprezece.
+ongîn I. adj. bogat; abundent. II. s. emblemă; stemă; blazon.
+ongînbílímğí adj. eraldic.
+ongînbílímí s. eraldică.
+ongînlî adj. 1. bogat; abundent. 2. emblematic.
+ongînlîk s. bogăție; belşug; abundență.
+ongún s. (cron.) decadă.
+onheğelí adj. decasilabic.
+onidman s. (sport) decatlon.
+onidmanğî s. (sport) decatlonist.
+onî pron. 1. pe el; pe ea. 2. pe acela; pe aceea. // ●ğenábíñíz onî tanîysîñîz mî? — dumneavoastră îl cunoaşteți?; ●onî bekledím fakat kelmedí — l-am aşteptat dar nu a venit. ●onî insan sanettím — l-am crezut om. ●toplantîga onî da şakîrmak kerek — trebuie chemat şi el la adunare.
 `;
