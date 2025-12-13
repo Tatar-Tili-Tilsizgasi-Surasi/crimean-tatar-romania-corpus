@@ -538,4 +538,122 @@ oralga s. bobină; mosor. // ●oralga oramak — a bobina.
 oralgan adj. înfăşat; înfăşurat; bandajat.
 oralgan-kuşangan adj. înfofolit; încotoşmănat; cocoloşit.
 oralmak v.i. a se face sul; a se răsuci; a se înfăşura. // ●oralîp kuşanmak — a se înfofoli; a se încotoşmăna; a se cocoloşi.
+oralma-kuşanma s. înfofolire; încotoşmănare; cocoloşire.
+oraluw-kuşanuw s. înfofolire; încotoşmănare; cocoloşire.
+orama s. 1. înfăşare; înfăşurare. 2. bobină; bobinare; bobinaj. 3. sul; rulou.
+oramak v.t. a face sul; a împacheta; a înfăşura; a bobina. // ●oralga oramak — a bobina.
+oran s. 1. raport; proporție. 2. simetrie; echilibru. 3. (mat.) raport.
+oranj adj. oranj; portocaliu.
+oranlamak v.t. 1. a calcula; a socoti. 2. a presupune; a crede. 3. a compara; a asemui.
+oranlangan adj. 1. calculat; socotit. 2. presupus; crezut. 3. comparat; asemuit.
+oranlanmak v.i. 1. a se calcula; a se socoti. 2. a se presupune; a se crede. 3. a se compara; a se asemui.
+oranlaw s. 1. calculare; socotire. 2. presupunere; credință. 3. comparare; asemuire.
+oranlî adj. 1. bine proporționat; simetric. 2. echilibrat; moderat; proporțional.
+oransîz adj. disproporționat; asimetric; dezechilibrat.
+oransîzlîk s. disproporție; asimetrie; dezechilibru.
+orantî s. proporție (şi mat.). // ●ters orantîlî — (mat.) invers proporțional.
+orantîlî adj. proporțional; proporționat.
+orantîsîz adj. disproporționat.
+orantîsîzlîk s. disproporție.
+oraspî s., adj. curvă; curviştină; prostituată.
+oraspîday adv. curveşte; ca prostituatele.
+oraspîğa adv. curveşte; ca prostituatele.
+oraspîlîk s. curvăsărie; curvie; prostituție.
+oratmak v.t. a determina să facă sul; a determina să răsucească; a determina să înfăşoare.
+oraw s. înfăşare; înfăşurare; sul.
+orawlî adj. înfăşurat.
+orawluk s. pansament.
+oraza s. (relig., la musulmani) post. // ●oraza tutmak — (relig., la musulmani) a ține post; a posti.
+ordin s. ordin; dispoziție.
+ordî s. armată; oaste; oştire; forțe militare. // ●ğúrúş/piyade ordîsî — (mil.) infanterie. ●muntazam ordî — (mil.) armată regulată. ●ordî emírí — (mil.) ordin de zi. ●ordî úyí — casa armatei.
+ordîbaşî s. (mil.) comandant; conducător de oaste.
+ordîbîzgan I. s. (med.) varice. II. s., adj. 1. corupător; seducător. 2. intrigant; instigator; incitator; provocator; ațâțător.
+orga s. (muz.) orgă.
+orgağî s. (muz.) organist.
+organ s. 1. (anat.) organ. 2. şnur; şiret; firet.
+organik adj. organic.
+organism s. organism.
+orgaşalgan s. (muz.) organist.
+Orhan s. (antrop. m.) "Hanul pag".
+oriğinal adj. original; autentic.
+oriğinallîk s. originalitate; autenticitate.
+Orinoko-kazî s. (orn.) gâscă de Orinoco (lat., Neochen jubata).
+orîk adj. (d. cai) alb cu spate negru.
+orîlgan adj. secerat.
+orîlmak v.i. a se secera.
+orîm s. sul; rulou.
+orîn s. 1. loc rezervat. 2. post; funcție.
+orkestra s. orchestră. // ●filarmonika orkestrasî — orchestră filarmonică. ●orkestranî kím ğónete? — cine dirijează orchestra?;
+orkestragakelíştírúw s. (muz.) orchestrație; orchestrare.
+orkestralaştîrma s. orchestrare.
+orkestralaştîrmak v.t. a orchestra.
+orkestralaştîruw s. orchestrare.
+ormak v.t. a secera.
+orman s. pădure. // ●delí orman — pădure virgină; codru des; desiş; hățiş. ●o ekí orman arasînda bír ğol bar — între cele două păduri e un drum. ●orman ayawğusî — pădurar. ●orman kenarî — lizieră.
+Orman, Ahmet- s. (topon., pădure lângă Isaccea) ("Pădurea lui Ahmet") Ahmedorman (jud. Tulcea).
+Orman, Kara- s. (topon.) ("Pădurea Neagră") Caraorman (jud. Tulcea).
+Orman, Tele- s. (topon.) ("Pădurea Sciților") Teleorman.
+orman-añgîrî s. (orn.) rață mandarin americană (lat., Aix sponsa).
+orman-ğelbegesí s. (orn.) pitulice sfârâitoare (lat., Phylloscopus sibilatrix).
+ormanğî s. 1. pădurar. 2. silvicultor.
+ormanğîlîk s. silvicultură.
+ormanlaşkan adj. împădurit.
+ormanlaşmak v.i. a se împăduri.
+ormanlaştîrma s. împădurire.
+ormanlaştîrmak v.t. a împăduri.
+ormanlaştîruw s. împădurire.
+ormanlî adj. păduros; împădurit.
+ormanlîk adj. forestier.
+ormansîz adj. (d. munți) pleşuv.
+ormansîzlîk s. (d. munți) pleşuvie.
+orman-şîrîldagî s. (orn.) greluşel de pădure (lat., Locustella fasciolata).
+orman-sarîkaşî s. (orn.) pitulice sfârâitoare (lat., Phylloscopus sibilatrix).
+orman-sodîrgayî s. (orn.) brumăriță de pădure (lat., Prunella modularis).
+ornitoloğik adj. ornitologic.
+ornitoloğiya I. adj. ornitologic. II. s. ornitologie.
+ornitoloğiyağî s. ornitolog.
+ornitoloğiyalî adj. ornitologic.
+ornitolok s. ornitolog.
+orsa s. (nav.) babord.
+orta I. adj. mediu; mijlociu. II. s. 1. jumătate. 2. centru; mijloc. // ●orta ğol tutmak — a ține calea de mijloc; a fi moderat. // ●baárníñ ortasî — mijlocul primăverii. ●ğolnîñ ortasî — jumătatea drumului. ●meğburiy orta úyretím — învățământ secundar obligatoriu. ●orta dalga/dulkun — unde medii. ●orta ğol — via media; cale de mijloc. ●orta ğol altîndîr — aurită este calea de mijloc. ●orta mektep/okîl — şcoală medie. ●orta parmak — degetul mijlociu. ●orta şak tewúkesí — istoria evului mediu. ●orta sîklet — (sport) categoria mijlocie. ●ortaga salîngan para — miză.
+Orta-Afrika s. (topon.) Republica Central-Africană.
+orta-afrikalî s., adj. centrafrican.
+Orta-Amerika s. (topon.) America Centrală.
+orta-amerikalî s., adj. centramerican.
+ortaboy(lî) adj. de statură mijlocie.
+ortada adv. la mijloc; în centru. // ●ortada kaldîrmak — a face ceva pe jumătate.
+ortadakalgan adj. rămas la mijloc; neterminat; întrerupt.
+ortadan adv. dinspre mijloc; dinspre centru.
+ortaga adv. spre mijloc; spre centru. // ●ortaga atmak — a arunca la mijloc; a centra; a pune pe tapet; a da pe față; a da în vileag; a divulga. ●ortaga salmak — a pune la mijloc; a centra; a pune pe tapet; a da pe față; a da în vileag; a divulga. ●ortaga şîkmak — a ieşi în mijloc; a ieşi la iveală; a se da pe față.
+ortagaatîlgan adj. (sport) centrat.
+ortagaatuw s. (sport) centrare.
+ortagağîyîlgan adj. centralizat.
+ortagağîyuw s. centralizare.
+ortagakondîrma s. (sport) centrare.
+ortagakongan adj. (sport) centrat.
+ortagakondîruw s. (sport) centrare.
+ortagaotîrgan adj. centrat.
+ortagaotîrtuw s. centrare.
+ortagasalîngan adj. divulgat; dezvăluit.
+ortagasaluw s. divulgare; dezvăluire.
+ortagaşîguw s. apariție.
+ortagaşîkkan adj. apărut.
+ortagatógílgen adj. 1. deconspirat; divulgat. 2. mărturisit; destăinuit; recunoscut. 3. dezvăluit; divulgat; trădat.
+ortagatógúw s. 1. confesiune; deconspirare; divulgare. 2. dezvăluire; divulgare; trădare. 3. mărturisire; destăinuire; recunoaştere.
+ortahál s. mediocritate.
+ortahállí adj. mediocru.
+ortak I. adj. comun; colectiv. II. s. 1. (econ.) asociat. 2. (jur.) complice. // ●dert ortagî — tovarăş de suferință. ●íş ortagî — partener. ●kabaát ortagî — (jur.) complice. ●ortak fark — (mat.) progresie aritmetică. ●ortak tam bólgen — (mat.) divizor comun.
+ortaketúw s. cointeresare.
+ortaklaşîp adv. în asociație cu…; în tovărăşie; în comun.
+ortaklaşîp-şalîşma s. colaborare.
+ortaklaşîp-şalîşuw s. colaborare.
+ortaklaşmak v.i. a se asocia; a se uni; a se întovărăşi. // ●ortaklaşîp şalîşma — colaborare.
+ortaklîk s. 1. asociație; întovărăşire. 2. (econ.) societate; companie. // ●kabaát ortaklîgî — complicitate. ●ortaklîk ğónelíşí — (gram.) diateza de reciprocitate.
+ortakólşelgen adj. (mat.) comensurabil. // ●ortakólşelgen sayîlar — (mat.) numere comensurabile.
+ortakólşelmez adj. (mat.) incomensurabil. // ●ortakólşelmez sayîlar — (mat.) numere incomensurabile.
+ortakşî s. dijmaş.
+ortakşîlîk s. întovărăşire; asociere.
+Orta-Kúntuwar s. (topon.) Orientul Mijlociu.
+ortakyaşaw s. simbioză.
+ortalama I. adj. mediu. II. adv. în medie. III. s. 1. centrare; axare. 2. (mat.) stabilire mediei; rotunjire. // ●ortalama piyat — preț mediu.
 `;
