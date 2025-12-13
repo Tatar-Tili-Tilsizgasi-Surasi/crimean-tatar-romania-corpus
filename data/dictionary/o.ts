@@ -137,4 +137,115 @@ okalaw s. frecare; masare.
 okatkan s. arcaş.
 okçipital s., adj. (anat.) occipital.
 okçipital súyegí s. (anat.) os occipital.
+okçiput s. (anat.) occiput. 
+okin s. fată.
+okîgan I. adj. învățat; studios; instruit; cultivat; erudit. II. s. cititor. // ●kóp okîgan — învățat; cult. ●okîganlarîmîzga saygî — învățaților noştri respect.
+okîl s. şcoală. // ●elk okîl — şcoală primară. ●ğataklî okîl — şcoală cu internat. ●ğataksíz okîl — şcoală fără internat. ●kazak resím okîlî — şcoala de pictură românească. ●malle okîlî — şcoală de cartier. ●okîl hakkînda bír makale — un articol despre şcoală. ●okîl kitaplarî — manuale şcolare. ●okîl múdúrí — director de şcoală. ●orta okîl — şcoală medie. ●sanat okîlî — şcoală de arte. ●subay okîlî — (mil.) şcoală de ofițeri. ●teknik okîl — şcoală tehnică. ●tiğaret okîlî — şcoală comercială. ●úyrenğíler okîldan şîktî mî? — elevii au ieşit de la şcoală?; ●yúksek okîl — şcoală superioară. ●zanaat okîlî — şcoală profesională.
+okîlaalmaz adj. ilizibil.
+okîlabergen s. recitit.
+okîlaturgan s. recitit.
+okîldankenar adj. extraşcolar.
+okîldaş s. coleg de şcoală.
+okîlgakadar s., adj. preşcolar.
+okîlgan adj. 1. cântat; interpretat. 2. a fi descântat. 3. a fi predicat. 4. citit; studiat; învățat; descifrat. 5. numit; denumit; chemat.
+okîlgaşîk s., adj. preşcolar.
+okîlîr adj. citeț; lizibil; descifrabil.
+okîlma s. nume de familie.
+okîlmagan adj. nestudiat.
+okîlmak v.i. 1. a se citi; a fi studiat; a fi învățat; a fi descifrat. 2. a se numi; a se chema; a purta numele de…; 3. a fi cântat; a fi interpretat. 4. a fi descântat. 5. a fi predicat. // ●eş okîlgan sóz — (gram.) omonim.
+okîlmaykalgan adj. nestudiat.
+okîlmaykalîr adj. ilizibil; neciteț; indescifrabil.
+okîlmaz adj. ilizibil; neciteț; indescifrabil.
+okîltîşî adj. extraşcolar.
+okîluw s. nume de familie.
+okîma s. 1. descântec. 2. lectură; citire; citit. 3. studiu; studiere. 4. apel; strigare; nominalizare. 5. cântec; cântare; interpretare. 6. predicare; predică. // ●okîma kitabî — carte de citire. ●okîma salonî — sală de lectură.
+okîmagan adj. neinstruit; incult; ignorant; analfabet.
+okîmagan-yazmagan s., adj. neinstruit; incult; ignorant; analfabet.
+okîmak A. v.i. a predica. B. v.t. 1. a descânta. 2. a citi; a studia; a învăța; a descifra. 3. a cânta; a interpreta. // ●atîn okîmak — a nominaliza; a face apelul; a striga pe nume. ●bílgenín okîmak — a face cum îl taie capul; a face precum ştie. ●ezber okîmak — a recita. ●íşín okîmak — a citi gândurile cuiva. ●kurt masalî okîmak — a spune poveşti; a povesti basmul cu cocoşul roşu. ●mañlay yazîsîn okîmak — a citi ce ți-e scris în frunte; a ursi; a prezice. ●miydan okîmak — a provoca la luptă; a chema la întrecere. ●okîp úfúrmek — a descânta. ●rahmet okîmak — (relig.) a cere iertare; a avea milă; a se îndura. ●tíl astî/erín astî okîmak — a murmura; a fredona. // ●íşíñ okîmaktîr — treaba ta este să înveți. ●kaşandan berítlí okîysîñîz? — de cât timp învățați?; ●o kitap hakkînda kóp tenkîytlar okîdîm — am citit multe critici cu privire la cartea aceea. ●o okîy — ea citeşte. ●okîganîm bar — am citit. ●okîganîm yok — n-am citit. ●okîmak ístegí men keldím — am venit cu intenția de a învăța. ●okîp pítírdí — a terminat de citit. ●okîyğak balaga uşamay — nu seamănă cu un copil care va învăța.
+okîmak-yazmak s. scris şi citit; cunoaştere de carte.
+okîmama s. incultură; ignoranță; analfabetism.
+okîmama-yazmama s. incultură; ignoranță; analfabetism.
+okîma-yazma s. scris şi citit; cunoaştere de carte.
+okîmaz-yazmaz s., adj. analfabet.
+okîp-úpúrgen s. descântător.
+okîp-úpúrúlgen adj. descântat.
+okîp-úpúrúw s. descântec.
+okîr-yazar s., adj. ştiutor de carte.
+okîtkan s. meditator; lector.
+okîtma s. învățământ; educație; instrucție. // ●teknik okîtma — învățământ tehnic.
+okîtmak v.t. 1. a determina să citească; a face să studieze; a medita; a învăța; a face să descifreze. 2. a face să cânte; a face să interpreteze. 3. a face să descânte. 4. a face să predice. // ●elifbe okîtmak — a alfabetiza.
+okîtman s. meditator.
+okîttîrma s. educare; instruire.
+okîttîrmak v.t. a determina să citească; a medita; a învăța.
+okîttîruw s. educare; instruire.
+okîtuw s. învățământ; educație; instrucție.
+okîtuwğî s. învățător; profesor.
+okîtuwğuluk s. profesorat; profesorime.
+okîw s. 1. citire; citit; lectură. 2. apel; strigare; nominalizare. 3. cântec; cântare. 4. învățare; învățătură; studiu; studiere. 5. descântec. 6. predicare; predică.
+okîwğî s. 1. cititor; elev; student. 2. cântăreț; interpret; artist. 3. predicator.
+okîwğuluk I. adj. studențesc; şcolar. II. s. studenție.
+okîwsuz adj. fără studiu; fără lectură.
+okîw-yazuw s. scris şi citit; cunoaştere de carte.
+okîybermek v.t. a reciti; a toci.
+okîyberúw s. recitire; toceală.
+okîyturma s. recitire; toceală.
+okîyturmak v.t. a reciti; a toci.
+okka s. 1. kilogram. 2. oca (unitate de măsură a masei şi capacității). // ●okka almak — a lua în greutate; a se îngrăşa. ●okka bermek — a da din greutate; a slăbi. ●okka tartmak — a avea greutate; a cântări. // ●bír buşuk okka — un kilogram şi jumătate. ●bír okka pişkot — un kilogram de biscuiți. ●bír şerík okka píríj — un sfert de kilogram de orez. ●kaş okka bagaj akete alîrman? — câte kilograme de bagaj am dreptul?; ●okkasî kaş? — cât costă kilogramul?; ●yarîm okka — jumătate de kilogram.
+okkaalgan adj. îngrăşat.
+okkaaluw s. îngrăşare.
+okkabî s. tolbă cu săgeți.
+oklama s. săgetare.
+oklamak A. v.i. a țâşni ca o săgeată. B. v.t. a săgeta; a arunca cu săgeți; a trage cu arcul.
+oklangan adj. săgetat.
+oklaw s. 1. făcăleț. 2. (tehn.) bolț.
+oklî adj. țepos; cu țepi; ghimpat.
+oklîk s. tolbă cu săgeți.
+oklî-kírpí s. (zool.) porc-spinos (lat., Hystricidae sp.).
+okmen s. walkman.
+okra s. (med.) zona Zoster.
+oksiğen s. (chim.) oxigen.
+oksiğenleme s. oxigenare.
+oksiğenlemek v.t. a oxigena.
+oksiğenlengen adj. oxigenat.
+oksiğenlenme s. oxigenare.
+oksiğenlenmek v.i. a se oxigena.
+oksiğenlí adj. cu oxigen; oxigenat. // ●oksiğenlí suw — apă oxigenată.
+oksit s. (chim.) oxid.
+oksitlemek v.t. a oxida.
+oksitlengen adj. oxidat.
+oksitlenír adj. oxidabil.
+oksitlenme s. oxidare.
+oksitlenmek v.i. a se oxida.
+okşalama s. 1. mângâiere; dezmierdare. 2. pipăire; palpare.
+okşalamak v.t. 1. a pipăi; a palpa. 2. a mângâia; a dezmierda. // ●góñílín okşalamak — a-i ține cuiva inima; a-l consola.
+okşalangan adj. 1. mângâiat; dezmierdat. 2. pipăit; palpat.
+okşalanmak v.i. 1. a se pipăi; a se palpa. 2. a se mângâia; a se dezmierda. // ●duwarga okşalanma! — nu te freca de perete!;
+okşalaşma s. mângâiere reciprocă; dezmierdare reciprocă; giugiuleală.
+okşalaşmak v.i. (recipr.) a se mângâia; a se dezmierda; a se giugiuli.
+okşalaşuw s. mângâiere reciprocă; dezmierdare reciprocă; giugiuleală.
+okşalaw s. 1. mângâiere; dezmierdare. 2. pipăire; palpare.
+okşalawğî adj. mângâietor; dezmierdător.
+okşalgan adj. 1. pipăit; palpat. 2. mângâiat; dezmierdat.
+okşalmak v.i. 1. a se pipăi; a se palpa. 2. a se mângâia; a se dezmierda.
+okşamak v.t. 1. a mângâia; a dezmierda. 2. a pipăi; a palpa.
+okşaw s. 1. pipăire; palpare. 2. mângâiere; dezmierdare.
+okşî s. arcaş.
+oktaf s. (muz.) octavă.
+oktan s. (chim.) octan.
+oktay adv. ca o săgeată.
+oktet s. (muz.) octet.
+oktogon s. (geom.) octogon.
+oktogonal adj. (geom.) octogonal.
+okular s. (fiz.) ocular.
+okzerí s. curara.
+olak s., adj. (ist.) valah; vlah.
+olanak s. posibilitate; putință.
+olanaklî adj. posibil; realizabil.
+olanaksîz adj. imposibil; irealizabil.
+olanaksîzlîk s. imposibilitate.
+olar pron. 1. ei; ele. 2. aceia; acelea.
+olarda pron. 1. la ei; la ele. 2. la aceia; la acelea.
+olardan pron. 1. de la/dinspre ei; de la/dinspre ele. 2. de la/dinspre aceia; de la/dinspre acelea.
+olarday pron. 1. ca ei; ca ele. 2. ca aceia; ca acelea.
+olarga pron. 1. spre ei; spre ele; lor. 2. spre aceia; spre acelea; lor. // ●bazda-bír olarga bara edím — câteodată mergeam la ei.
 `;
