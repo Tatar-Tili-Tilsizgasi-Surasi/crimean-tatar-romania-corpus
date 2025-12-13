@@ -387,4 +387,155 @@ onheğelí adj. decasilabic.
 onidman s. (sport) decatlon.
 onidmanğî s. (sport) decatlonist.
 onî pron. 1. pe el; pe ea. 2. pe acela; pe aceea. // ●ğenábíñíz onî tanîysîñîz mî? — dumneavoastră îl cunoaşteți?; ●onî bekledím fakat kelmedí — l-am aşteptat dar nu a venit. ●onî insan sanettím — l-am crezut om. ●toplantîga onî da şakîrmak kerek — trebuie chemat şi el la adunare.
+onînğî num. al zecelea; a zecea.
+onîñ adj. 1. său; sa; săi; sale; lui; ei. 2. aceluia; aceleia. // ●onîñ kelmegení úşún — pentru că el nu a venit. ●onîñ úşún — pentru el.
+onîñkî pron. 1. al său; a sa; al lui; a ei. 2. al aceluia; al aceleia.
+onîñkîlar pron. 1. ai săi; ale sale; ai lui; ale ei. 2. ai aceluia; ai aceleia.
+onîñkîsî pron. 1. al său; a sa; al lui; a ei. 2. al aceluia; al aceleia.
+onîr s. 1. amor propriu; mândrie. 2. onoare; cinste; demnitate.
+onîrlamak v.t. a onora; a cinsti.
+onîrlandîrma s. onorare; cinstire.
+onîrlandîrmak v.t. a onora; a cinsti.
+onîrlandîruw s. onorare; cinstire.
+onîrlangan adj. onorat; cinstit.
+onîrlî adj. cu onoare; onorat; cinstit; mândru; ambițios; cu demnitate.
+onîrsîz adj. fără onoare; necinstit; lipsit de mândrie; fără demnitate.
+onîştan adv. de aceea; din această cauză; datorită acestui lucru; prin urmare. // ●mína onîştan — de aceea.
+onkat adj. înzecit.
+onkatartkan adj. înzecit.
+onkatartma s. înzecire.
+onkatlî adj. înzecit.
+onkeñ s. (geom.) decagon.
+onkeñlí adj. (geom.) decagonal.
+onkoloğik adj. (med.) oncologic.
+onkoloğiya I. adj. (med.) oncologic. II. s. (med.) oncologie.
+onkoloğiyağî s. (med.) oncolog.
+onkoloğiyalî adj. (med.) oncologic.
+onkolok s. (med.) oncolog.
+onlama s. înzecire.
+onlamak v.t. a înzeci.
+onlangan adj. înzecit.
+onlanmak v.i. a se înzeci.
+onlap adv. înzecit; reciclând de zece ori.
+onlar pron. 1. ei; ele. 2. aceia; acelea. // ●olar man — cu ei; cu ele.
+onlarda I. num. aproximativ zece. II. pron. 1. la ei; la ele. 2. la aceia; la acelea.
+onlardan pron. 1. de la/dinspre ei; de la/dinspre ele. 2. de la/dinspre aceia; de la/dinspre acelea.
+onlarday pron. 1. ca ei; ca ele. 2. ca aceia; ca acelea.
+onlarga pron. 1. spre ei; spre ele; lor. 2. spre aceia; spre acelea; lor.
+onlarğa num. cu zecile; zeci de.
+onlarnî pron. 1. pe ei; pe ele. 2. pe aceia; pe acelea.
+onlarnîñ adj. 1. lor. 2. acelora. // ●onlarnîñ arasînda — între ei. ●onlarnîñ hepísí keldí — ei au venit toți.
+onlarnîñkî pron. 1. al lor; a lor. 2. al acelora; a acelora.
+onlarnîñkîlar pron. 1. ai lor; ale lor. 2. ai acelora; ale acelora.
+onlarnîñkîsî pron. 1. al lor; a lor. 2. al acelora; a acelora.
+onlaw s. înzecire.
+onlîk I. adj. zecimal. II. s. 1. zecime; zecimală. 2. bancnotă de zece unități monetare. // ●onlîk bólík/kesír — (mat.) fracție zecimală; zecimală. ●onlîk sayî — (mat.) număr zecimal.
+onomatope s. onomatopee.
+onomatopelí adj. onomatopeic.
+onsekíz num. optsprezece.
+onsekízer num. câte optsprezece.
+onsekízer-onsekízer num. optsprezece câte optsprezece.
+onsekízínğí num. al optsprezecelea.
+onsekízlep adv. reciclând de optsprezece ori.
+onsekízlík s. optsprezecime.
+onsestílímlí adj. decasilabic.
+ontoloğik adj. (fil.) ontologic.
+ontoloğiya I. adj. (fil.) ontologic. II. s. (fil.) ontologie.
+ontoloğiyalî adj. (fil.) ontologic.
+onúş num. treisprezece.
+onúşer num. câte treisprezece.
+onúşer-onúşer num. treisprezece câte treisprezece.
+onúşlep adv. reciclând de treisprezece ori.
+onúşlúk s. treisprezecime.
+onúşúnğí num. al treisprezecelea.
+onyedí num. şaptesprezece.
+onyedílep adv. reciclând de şaptesprezece ori.
+onyedílík s. şaptesprezecime.
+onyedínğí num. al şaptesprezecelea.
+onyedíşer num. câte şaptesprezece.
+onyedíşer-onyedíşer num. şaptesprezece câte şaptesprezece.
+on-yígírím num. aproximativ zece-douăzeci.
+oñ I. adj. 1. drept; din partea dreaptă. 2. avantajos; favorabil; norocos. II. s. 1. partea dreaptă; dreapta. 2. drapel; steag. 3. (geogr.) vest; apus; occident. // ●oñ kol — mâna dreaptă. ●papîrnîñ oñ yagî — tribord.
+oñakay adj. dreptaci.
+oñay adj. uşor; facil.
+Oñay s. (astr.) Jupiter.
+oñaylaşkan adj. uşurat; facilitat.
+oñaylaşma s. uşurare; facilitare.
+oñaylaşmak v.i. a se uşura; a deveni mai uşor (şi fig.).
+oñaylaştîrmak v.t. a uşura; a facilita.
+oñaylaşuw s. uşurare; facilitare.
+oñaylî adj. favorabil; propice; prielnic.
+oñaylîk s. uşurință; facilitate.
+oñda adv. în dreapta.
+oñdagî adj. de dreapta.
+oñdakî adj. de dreapta.
+oñdan adv. 1. din dreapta. 2. vestic; din vest.
+oñga adv. spre dreapta. // ●oñga aylanîñîz! — virați la dreapta!; ●oñga aylanîrsîñîz mî? — vreți să întoarceți la dreapta?; ●oñga aylanîş — curbă la dreapta. ●oñga aylanmak yasak — interzis a vira la dreapta. ●oñga kara! — priveşte în dreapta!; ●oñga zikzak — curbă dublă, prima la dreapta.
+oñgan adj. realizat; îmbogățit; priceput.
+oñgarîlgan adj. reuşit; izbutit.
+oñgarîlmagan adj. nereuşit; neizbutit.
+oñgarîlmama s. nereuşită.
+oñgarmak v.t. 1. a reuşi; a izbuti; a avea succes. 2. (fig.) a da cu oiştea în gard; a o face de oaie; a o pune de mămăligă; a greşi; a rata. // ●tatarğanî oñgarîp konîşasîñîz — vorbiți bine tătăreşte.
+oñgarmama s. contraperformanță.
+oñğî s. politician de dreapta.
+oñkî pron. 1. al său; a sa; al lui; a ei. 2. al aceluia; al aceleia.
+oñkîlar pron. 1. ai săi; ale sale; ai lui; ale ei. 2. ai aceluia; ai aceleia.
+oñkîsî pron. 1. al său; a sa; al lui; a ei. 2. al aceluia; al aceleia.
+oñlî adj. vestic; apusean; occidental.
+oñmagan adj. sărac; neprosper; pauper; biet; sărman; calic.
+oñmak v.i. a se îmbogăți; a se înavuți; a se propăşi; a se realiza.
+oñmama s. sărăcie; pauperizare; privațiune; calicie.
+oñmayğak adj. sărac; pauper; biet; sărman.
+oñmaykalgan adj. biet; oropsit; pauper; prăpădit; ratat; sărac; sărman.
+oñmaykalma s. pauperizare; privațiune; sărăcie.
+oñmaykaluw s. pauperizare; privațiune; sărăcie.
+oñmaz adj. 1. sărac; neprosper; pauper; biet; sărman; calic. 2. care nu se va realiza; care nu se va îmbogăți; nepriceput.
+oñmazlîk s. sărăcie; pauperizare; privațiune. // ●oñmazlîkka ogîramak — a se pauperiza.
+oñmazlîkkaogîragan adj. pauperizat.
+oñmazlîkkaogîrama s. pauperizare.
+oñmazlîkkaogîraw s. pauperizare.
+oñ-sol s. dreapta şi stânga.
+oñşîk s. steguleț.
+oñtaşîgan s. stegar.
+oňdîrgan adj. îmbogățitor; propăşitor.
+opa s. 1. (chim.) ceruză; alb de plumb. 2. pudră. // ●opa şeker — zahăr pudră.
+opağagîlgan adj. pudrat.
+opağaguw s. pudrare.
+opal s. opal.
+opalama s. pudrare.
+opalamak v.t. a pudra.
+opalangan adj. pudrat.
+opalanmak v.i. a se pudra.
+opalaw s. pudrare.
+opalî adj. pudrat.
+opalîk s. pudrieră.
+opera s. (muz.) operă. // ●opera muzikasî — muzică de operă.
+operasiya s. (med.) operație; intervenție chirurgicală.
+operasiyadansoñ adj. (med.) post-operatoriu.
+operatif adj. operativ.
+operatiflík s. operativitate.
+operator s. (tehn.) operator.
+opereta s. operetă.
+opkîn s. prăpastie; abis; genune; râpă; hău.
+opkînlî adj. prăpăstios; abrupt.
+opma s. supt; sorbire; absorbire; aspirare.
+opmak v.t. a suge; a sorbi; a absorbi; a aspira.
+optik adj. (fiz.) optic.
+optika s. (fiz.) optică.
+optimist adj. optimist.
+opus s. (muz.) opus.
+or s., adj. (d. cai) roşcat cu pete albe; pag.
+orak s. 1. seceră. 2. seceriş. // ●orak máálí — vremea secerişului. ●orak maşinasî — (agr.) secerătoare.
+orak-bóğegí s. (ent.) cosaş; lăcustă-verde (lat., Locusta viridissima).
+oraklamak v.t. a secera.
+oraklangan adj. secerat.
+oraklanmak v.i. a se secera.
+oraklatmak v.t. a determina să secere.
+oraklaw s. secerare.
+oraklî-órdek s. (orn.) rață mică siberiană (lat., Anas falcata).
+orakşî s. secerător.
+oralga s. bobină; mosor. // ●oralga oramak — a bobina.
+oralgan adj. înfăşat; înfăşurat; bandajat.
+oralgan-kuşangan adj. înfofolit; încotoşmănat; cocoloşit.
+oralmak v.i. a se face sul; a se răsuci; a se înfăşura. // ●oralîp kuşanmak — a se înfofoli; a se încotoşmăna; a se cocoloşi.
 `;
