@@ -656,4 +656,103 @@ ortakşîlîk s. întovărăşire; asociere.
 Orta-Kúntuwar s. (topon.) Orientul Mijlociu.
 ortakyaşaw s. simbioză.
 ortalama I. adj. mediu. II. adv. în medie. III. s. 1. centrare; axare. 2. (mat.) stabilire mediei; rotunjire. // ●ortalama piyat — preț mediu.
+ortalamak v.t. 1. (mat.) a face media; a stabili media; a rotunji. 2. a centra; a axa.
+ortalangan adj. centrat; axat.
+ortalanmak v.i. a se centra; a se axa.
+ortalaw s. 1. centrare; axare. 2. (mat.) stabilire mediei; rotunjire.
+ortalî adj. cu centru; cu mijloc; central; centrat.
+ortalîk s. împrejurime; preajmă; vecinătate; mijloc; circuit. // ●ortalîk aşîlmak — a se lumina de ziuă. ●ortalîk kararmak — a se întuneca; a se însera. ●ortalîknî aşmak — a degaja zona; a descongestiona zona. ●ortalîknî ast-úst etmek — a răsturna totul cu susul în jos. ●ortalîknî karîştîrmak — a strica ambianța; a băga zâzanie. ●ortalîknî kollamak — a scruta împrejurimile. // ●ortalîk agargan hálínde — cu toate că se luminase. ●ortalîk sîğaklîgî — temperatură ambiantă.
+ortalîkka adv. spre împrejurimi; spre vecinătate; spre mijloc. // ●ortalîkka atmak — a arunca la mijloc; a centra; a pune pe tapet; a da pe față; a da în vileag; a divulga. ●ortalîkka salmak — a pune la mijloc; a centra; a pune pe tapet; a da pe față; a da în vileag; a divulga. ●ortalîkka şîkmak — a ieşi în mijloc; a ieşi la iveală; a se da pe față.
+ortalîkkararmasî s. căderea nopții; întunecare; înserare; înnoptare.
+ortalîkta adv. în preajmă; împrejur; în vecinătate; la mijloc; în circuit.
+ortalîktan adv. din preajmă; dimprejur; din împrejurimi; din vecinătate; din mijloc; din circuit. // ●ortalîktan şîgarmak — a scoate din circuit; a elimina; a desființa. ●ortalîktan şîkmak — a ieşi din circuit; a dispărea. ●ortalîktan tartîlmak — a se retrage din circuit; a dispărea.
+ortalîktanşîgaruw s. 1. desființare; lichidare; distrugere. 2. abrogare; eliminare; anulare; revocare; suprimare.
+ortalîktanşîkkan adj. 1. abrogat; eliminat; anulat; revocat; suprimat. 2. desființat; lichidat; distrus.
+ortam s. mediu; situație; context; conjunctură. // ●kîyîn ortam — situație critică. ●şáresíz ortam — situație imposibilă.
+ortanğa s. (bot.) hortensie (lat., Hydrangea opuloides).
+ortanğa-alaşa-kúrte s. (orn.) ciocănitoare de stejar (lat., Dendrocopos medius).
+ortanğa-alaşa-terekkakkan s. (orn.) ciocănitoare de stejar (lat., Dendrocopos medius).
+ortanğa-alaşa-tokîldak s. (orn.) ciocănitoare de stejar (lat., Dendrocopos medius).
+ortanğî adj. mijlociu.
+ortasî s. centru; mijloc. // ●teprem ortasî — epicentrul cutremurului.
+ortasînda postp. în mijlocul; în miezul; între; printre.
+ortasîndan postp. dintre; prin; via.
+ortaş s. (gram.) participiu.
+ortaşak s. evul mediu.
+ortaşaklî adj. medieval.
+Orta-Şark s. (topon.) Orientul Mijlociu.
+ortodoks s., adj. ortodox.
+ortodokslîk s. ortodoxism.
+ortografiya s. ortografie.
+ortografiyalî adj. ortografiat; ortografic.
+ortopedik adj. (med.) ortopedic.
+ortopediya s. (med.) ortopedie.
+ortopediyalî adj. (med.) ortopedic.
+oruw s. secerare; seceriş.
+osal adj. 1. rău; răutăcios. 2. neplăcut; urât. 3. nefast. 4. (d. persoane) răutăcios; lipsit de caracter. // ●osal pítmek — a se termina prost. // ●hawa osal — vremea e proastă. ●osal dawranîş — comportare urâtă. ●osal elamet — semn rău. ●osal hawa — vreme rea. ●osal íş — treabă defectuoasă. ●osal kokî — putoare.
+osalkokîgan adj. urât mirositor; puturos.
+osallamak v.t. a ponegri; a defăima; a bârfi (pe cineva).
+osallaşkan adj. 1. înrăutățit; agravat. 2. înrăit.
+osallaşma s. 1. înrăutățire; agravare. 2. înrăire.
+osallaşmak v.i. 1. a se înrăi. 2. a se înrăutăți; a se agrava.
+osallaştîrgan adj. agravant.
+osallaştîrmak v.t. a înrăutăți; a agrava.
+osallaştîruwğî adj. agravant.
+osallaşuw s. 1. înrăutățire; agravare. 2. înrăire.
+osallîk s. rău; răutate.
+osallîkşî s., adj. răutăcios; răuvoitor; cu rea-voință.
+osalniyet s. rea-credință; rea-voință. // ●osal niyet men kullanma — (jur.) abuz.
+osalniyet(lí) adj. de rea-credință; cu rea-voință; răuvoitor.
+osalsîragan adj. pesimist.
+osalsîrama s. pesimism.
+osalsîramak v.t. a vedea totul în negru; a fi pesimist.
+osalsîraw s. pesimism.
+osalsîrawğî s., adj. pesimist.
+osalsîrawğuluk s. pesimism.
+osîrak s. pârț.
+osîrgan adj. pârțâit.
+osîrma s. pârț.
+osîrmak v.i. a pârțâi.
+osîruw s. pârț.
+osman s. şarpe; dragon.
+Osman s. (antrop. m., arab.) "Şarpele”; “Dragonul”.
+Osman-Fakih/Osman-Bakî s. (topon.) ("Osman Evlaviosul") Bărăganul (jud. Constanța).
+osmanlî s., adj. otoman.
+Osmanşî s. (topon.) Osmancea (jud. Constanța).
+osteoporoza s. osteoporoză.
+oşak s. 1. vatră; cuptor; cămin; focar; furnal. 2. mină. 3. (la grădini de zarzavaturi) strat; rând; parcelă; pepinieră. 4. (fig.) familie; casă; cămin. 5. (cron.) ianuarie. 6. pirostrie; crăcană; trepied. // ●oşagî sónmek — a i se stinge neamul; a i se stinge dinastia. ●oşagîna túşmek — a bate la uşa cuiva; a-i cere ajutorula. // ●kómír oşagî — mină de cărbuni. ●oşak ayînda — în luna ianuarie. ●tuz oşagî — ocnă.
+oşaklama s. parcelare.
+oşaklamak v.t. a parcela.
+oşaklangan adj. parcelat.
+oşaklanmak v.i. a se parcela.
+oşaklaw s. parcelare.
+oşaklî adj. parcelat.
+oşakşî s. 1. fochist. 2. coşar; hornar.
+ot s. foc; înflăcărare; entuziasm; febră. // ●otnî ğellemek — a ațâța focul. // ●mením íşímde ot bar — arde sufletul în mine. ●ot palîsî — scump foc; prohibitiv. ●otnîñ tutaştîrmasî — aprinderea focului. ●sónmez ot — foc nestins.
+ot s. 1. iarbă; buruiană; bălărie; fân. 2. otravă; venin; toxină. 3. leac; remediu. // ●ot basmak — a-l năpădi buruienile. ●ot şapalamak/kesmek — a prăşi; a curăța de buruieni. ●şañîna ot bastîrmak — a astupa gura cuiva; a-i pune capac la gură. // ●bír kuşak ot — un braț de fân. ●kurî ot — fân. ●semíz ot — iarbă grasă. ●yeşíl ot — nutreț verde.
+otak s. (fiz.) focar.
+otakîl I. adj. atât; atâta; atâți; atâtea. II. adv. atât; atât de…; // ●otakîl kóp tuwul — nu atât de mult.
+otakîlşîk adj., adv. atâtica.
+ot-alew s. foc şi flacără.
+otalgan adj. ars; aprins; mistuit.
+otalmaz adj. ignifug.
+otar s. păşune; pajişte; izlaz; imaş.
+otaşagan adj. erbivor; rumegător.
+otaşaganlar s., pl. erbivore; rumegătoare.
+otaw s. 1. cameră; încăpere; odaie. 2. iurtă; cort.
+otbergen adj. incendiator.
+otberúw s. aprindere; incendiere.
+otberúwğí adj. incendiar.
+otgîn s. 1. odgon; funie; frânghie. 2. (text.) bătătură; băteală. 3. (text.) fir; tort; torsătură. 4. (nav.) odgon; parâmă; pălămar.
+otita s. (med.) inflamarea urechii; otită.
+otíşínde adj. 1. năbădăios; agitat. 2. grăbit; zorit.
+otîkesílgen adj. prăşit.
+otîr s. virgulă.
+otîrak s. 1. bază; partea de şezut. 2. bancă; banchetă; canapea. 3. oală de noapte. 4. şezut; dos; fund. // ●katlangan otîrak — (teatr.) strapontină.
+otîraklî adj. 1. drept; fix; nemişcat; imobil; stabilit; instalat; sedentar. 2. (d. oameni) de cuvânt; parolist; serios; grav.
+otîraw s. 1. (geogr.) oază; insulă; ostrov; limbă de pământ. 2. arbuşti; tufăriş; boscheți. // ●otîraw teregí — arbust.
+otîrawlî adj. insular.
+otîrîşmak v.i. a sta; a se aşeza; a lua loc (laolaltă).
+otîrma s. şedință; consfătuire. // ●otîrma yerí — rezidență.
+otîrmak v.i. 1. a se aşeza; a lua loc. 2. a sta; a locui. 3. a sta degeaba; a nu face nimic. // ●aşap-íşíp otîrmak — a lenevi. ●ayîrî-ayîrî otîrmak — a se aşeza separat. ●boş otîrmak — a tăia frunză la câini; a trândăvi; a sta degeaba. ●ğayîlîp otîrmak — a se lăfăi. ●haleketsíz otîrmak — a lâncezi. ●karaga/kumga otîrmak — (nav.) a eşua; a naufragia. ●midege otîrmak — a cădea greu la stomac; a produce indigestie. ●rakamînda otîrmak — a se cifra la…; ●sîpîraga otîrmak — a sta la masă. ●tegenek ústúnde otîrmak — a sta ca pe ghimpi. ●túpke otîrmak — a se depune; a se lăsa pe fundul vasului. ●ústúnde árúw kelmek — a-i sta bine; a-l prinde bine (d. îmbrăcăminte). ●ústúne otîrmak — a se aşeza pe…; a-şi însuşi; a uzurpa. ●uz otîrmak — a şedea liniştit; a sta cuminte. // ●arkañîzda otîramîz — stăm în spatele vostru. ●barabar otîramîz — locuim împreună. ●bízge yakîn otîra — locuieşte aproape de noi. ●dawuşsuz-sessíz otîrîñîz — stați în linişte deplină. ●ğerge otîrayîk! — să stăm jos!; ●íş wakîtînda otîrmak yok — în timpul lucrului nu se stă. ●kayda otîrasîñîz? — unde locuiți?; ●kóz-kózge otîrdîlar — au stat ochi în ochi. ●taştan úyde Altanlar otîralar — în casa de piatră locuiesc alde Altan. ●úynúñ yarîsînda kím otîra? — cine locuieşte în jumătate de casă?; ●uz otîr! — stai cuminte!;
 `;
