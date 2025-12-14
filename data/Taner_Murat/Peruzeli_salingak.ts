@@ -199,4 +199,108 @@ Barîşîk şeherí
 Mína agaş! Ána şîrpî! Mína kopka! Ána ğam! Kum ústúnde dostlarîm man Dúlber şeher kurağakman. Bo şeherníñ sokaklarîn Yaraştîrîp al gúller, Ğarîk, geñíş úylerínde Yaşar Zera, Adiller. Atîn da bo şeherníñ Koyarmîz Barîşîk dep, Ğer yúzúnde ğenk bolmasîn, Kúneş şaşsîn îşîk dep. Dawet etemen dostlarîmnî Bízím ğañî şeherge, Ğenk oyînnî oynaganlar Kerek tuwul bízlerge! — Leagănul cu peruzea Oraşul Păcii
 
 Oraşul Păcii Uite scânduri, iată şipci! Iată găleŃi şi făraş! Cu prietenii mei pe nisip Vom construi un oraş. Vom decora străzile lui Cu trandafiri, cu stil, În casele senine, largi Vor locui Zera, Adil. Vom denumi acest oraş “Oraşul Păcii” apoi, Să-l lumineze soarele, Să nu mai fie război. Vă chem, prieteni, în oraş Să ne jucăm în voie, De cei ce vor pistoale, puşti, Noi nu avem nevoie.
+# Perúzelí salînğak Hayal - Ómír
+
+Hayal - Ómír
+
+Abdulla Látifzade (1890-1938)
+
+Men ómrímíñ eñ ateşlí kúnlerín yaşaganda, Adiy ómír we kaygîdan yúkseklerde uşar edím. Tuygularîm, hayalîm man kóklerní de aşkanda, Yaşamanîñ kaygîsîndan kíyík kibí kaşar edím. Bútún ómírge pembe we al bír kózlík men karar da, Emellerím, tíleklerím şeşekler men íşler edím. Hep yúkselmek arzîsî man ğaş ğúregí ğagar da, Adiy kórer ğer yúzún... kókke uşmak tíler edím. Lâkin bír kol yakaladî kolîmnî, Kestí kókke dogrî ketken ğolîmnî. Bo şelík kol - ómír edí, şektí mení ózíne, Zayîf edím, sendelendím, bír túştúm, dogrî baktîm kózíne, Kene túştúm, kene turdum, dogrî baktîm yúzúne, Nazarlarîm korkînş edí. Tíríldedím we yorîldîm. Soñra bíraz kúlúmsedí, kulagîma sólendí: "Kók - boş hawa. Hayat - mením. Mende díken, mende gúl. Neslíñ mende ğefa kórdí, mende sefa iyledí, Mende tuwduñ. Mende yaşa! Mende ograş! Mende ól!" 1910 s. — Leagănul cu peruzea Iluzia şi ViaŃa
+
+Iluzia şi ViaŃa Pe când trăiam cu-înflăcărare trecându-mi zilele lejer TristeŃea, viaŃa nu-mi păsau de sus, din înălŃimi, din zbor. Când pasiunile şi visul se ridicau până la cer De grijile acestei vieŃi fugeam ca cerbul temător. Iar viaŃa o vedeam în roşu, în roz, prin ochelari privind Împodobeam cu flori frumoase dorinŃa, idealul meu. Doar năzuinŃa înălŃării în suflet tânăr mistuind Consideram pământul simplu… doream să zbor la cer mereu. Însă o mână s-a întins, m-a prins de piept, S-a pus în calea ce mergea spre cer direct. Era chiar viaŃa - braŃ de fier, m-a tras puternic către ea, Eu eram slab şi am căzut privindu-i ochii neclintit. I-ar am căzut, iar m-am săltat şi am văzut ce chip avea. Privirea mea se îngrozise. Am tremurat şi-am ostenit. Apoi s-a-nseninat uşor şi în ureche mi-a şoptit: "Ceru-i văzduh. ViaŃa sunt eu. În mine-s spini, în mine-s flori. SămânŃa ta s-a rupt din mine, în mine s-a înveselit, În mine te-ai născut, trăieşti! În mine-i chin! În mine mori! 1910
+# Perúzelí salînğak
+
+Mehmet Niyaziy (1878-1931)
+
+Tomrîğa'dan sízge selam ketírdím
+
+Tomrîğa'dan sízge selam ketírdím Bízge Kîrîm bír şakrîm bolsa da, Kóp wakîtlar bír kaber al-almadîk... Hasretlíkten kózlerge yaş tolsa da, Yeşíl Ğurtka togrî ğol tab-almadîk. Soñra tuyduk... karanlîklar aşîlgan, Gúzel Kîrîm yeşíllengen şeñlene. Şatîrtawdan kúneş nurî şaşîlgan, Millet ğurtta bayram yasap eglene. Mínda tuwgan kartlarîmîz ğanlandî! "Barlîk” tuyup súyúngenden ğîlaştî. Ğurt kaygîsî şekken ğaşlar atlandî, Ğaş ğígítler, ğetken kîzlar oynaştî. Yúzellí yîl tutsak kalgan Tatarlîk Sarîp ğîygan “kók” bayraknî góñíllerde Sallandîrgan... Oh, ne árúw şo bayrak, Artsîn şanî deñízlerde, her yerde.. — Leagănul cu peruzea Salutări din Dobrogea
+
+Salutări din Dobrogea Şi dacă e Crimeea la trei verste, Şi dacă ochii veşnic lăcrimară, De prea mult timp n-am mai primit vreo veste Şi n-am putut porni spre Verdea łară. Şi-apoi aflarăm… bezna se destramă Şi a-nverzit Crimeea cea Frumoasă, Din vârf de munte soarele recheamă, Neamul petrece-n patrie, acasă. Bătrânii noştri parcă-ntineriră Şi fericiŃi au plâns pe îndelete. De dor, voinicii caii-împodobiră, Iar au pornit la joc feciori şi fete. Tătarii au păstrat steaguri celeste În inimi de un veac şi jumătate. Flutură steagul… Oh, frumos mai este! Să-i crească fala-n zări îndepărtate!
+# Perúzelí salînğak Tomrîğa'dan sízge selam ketírdím
+
+Bíz de Kîrîm ballarî, kalkîmîz... Bek az ewel ayrîlganmîz Kîrîmdan, Tóz-almaymîz, kaytağakmîz artîk… Síz Kurtarîñîz! Añlaşîlsîn bír watan! Kardaşlar bolganîmîz kerşekten, Bírleşmemíz, bíz ólsek te, ólmesín! "Tatar namî” eşítílsín yúksekten! Endíden soñ dúşman bízní bólmesín! Tatarlîknî yaşatağak ğaşlarga... Tomrîğa'dan biñ ihtiram ketírdím. Ğurt kaygîsîn şekken kîzlardan-ğaşlardan, Ah, yúrekten taşkan selam ketírdím. — Leagănul cu peruzea Salutări din Dobrogea
+
+Şi noi suntem Crimeea, naŃiunea, Nu e mult timp de când ne-au dat afară. Ne macină pe toŃi frustraŃiunea, Vrem să venim acasă! Pace-n Ńară! FrăŃia noastră e adevărată, De-om pieri noi, să dăinuie unirea! Niciun duşman să nu ne mai despartă, De faima noastră afle omenirea! Voinici ce faceŃi neamul să renască, Din Dobrogea v-aduc mii de respecte! Ah, salutări din inimi se revarsă, Cuprinşi de dor, de la flăcăi şi fete!
+# Perúzelí salînğak Úzúlgen şeşek
+
+Úzúlgen şeşek Ayt, şeşegím! Ayt sîrîñnî neden kaldîñ bo hálga? Ogîraştîñ mî sen de yoksa, sewda degen hayalga?
+
+Mehmet Núzet
+
+Kayda tuwduñ, kayda óldíñ, kaydalarda búyúdúñ? Aşîlîp kuwanmaz burun neşín şay-típ kúyúdúñ? Tuwgan yeríñ tawlîk-taşlîk, kayalîk ya ğar m-edí? Ósken yerleríñde insan ya ğanawar bar m-edí? Yoksa akkan suw yanînda óz kiyfíñe óstíñ mí? Kokîganda şeşeklerníñ hepsín ğolîn kestíñ mí? Aylî, nurlî keşelerde oynaşkanda yîldîzlar, Suw boyînda koltîklaşîp dolaşkanda ğaş kîzlar, Kóre kalîp ğettíler mí, ey, zawallî başîña? Olar seníñ dúşmanîñdîr, bakmazlar kózyaşîña. Tabiyattîr! Herşiy dúlberlík men dúşman kazanîr, Yalñîz, suwuk, şírkín bolgan, óz-ózíne bazanîr. Madem ke sen yaraşîksîñ hem de yakşî kokîñ bar, Men de dermen: Ey, karípşík! Úzúlmege hakkîñ bar! — Leagănul cu peruzea Necăjită floare
+
+Necăjită floare Hai, floare dragă, spune-mi drept ce taină-ascunde starea ta? Şi tu te zbuciumi pentru ea, himera-aceea, dragostea? Unde-ai dat colŃ, unde-ai murit, unde-ai crescut, în ce zăvoi? De ce te-ai ofilit aşa, fără s-apuci să te desfoi? Pe ce tărâmuri te-ai iscat? În codru, stâncării, în hău? Pe plaiul unde ai pruncit ai dat de om, ai dat de zmeu? Sau ai crescut fără de griji în nebunii lângă izvor? Ai aŃinut acele flori când răzleŃesc aroma lor? Când stelele se hârjonesc în nopŃi cu lună şi lucire, Plimbări la braŃ pe Ńărm de lac ca tinerele cu boire, Sărmano, ai trăit şi tu? Ai petrecut aşa ceva? Să ştii că ele-Ńi poartă pizmă şi nu deplâng lacrima ta. Iar asta-i foarte natural! Tot ce-i frumos are duşman. În schimb, cine-i urât şi rece, pe firea lui e suveran. Devreme ce frumoasă eşti şi-nmiresmări porŃi în obraz, Declar şi eu: Hei, sărăcuŃo, meriŃi să tragi acest necaz!
+# Perúzelí salînğak Saba namazî
+
+Saba namazî
+
+Adnan Adam Onart
+
+Istanbul'nuñ bír pîkare maállesínde, úyúmúznúñ zemin katînda, kart-anayîmîñ anayî maga añlata: “Namaz kîlmak zamanî. Eger namaz kîlsañ,” dep ayta o, “baladay pak bo odanîñ kóşesínden, bír melek kórínír kózíñe.” Beş yaşînda bír balaman, kózlerímní kapayman. “Allahú Ekber. Essellamú alleykúm ve rahmetullah.” Kózlerímní aşsam ellí yaşîndaman. Massachusetts, Boston'da, heş pîkare sayîlmaz bír maállede úyúmúznúñ soñ katînda saba namazîmnî kîlaman. Odanîñ şo kóşesínden kartanayîmîñ anayî kózíme kóríne. — Leagănul cu peruzea Rugăciunea de dimineaŃă
+
+Rugăciunea de dimineaŃă Într-un cartier sărac din Istanbul la parterul casei noastre străbunica mea îmi spune: “Este timpul pentru rugăciunea de dimineaŃă. Dacă te rogi,” spune ea, “din acest colŃ al camerei Ńi se va arăta un înger pur ca un copil.” Sunt un copil de cinci ani, închid ochii şi mă rog. “Allahu Ekber. Essellamú alleykúm ve rahmetullah.” Când deschid ochii am cincizeci de ani. Sunt în Boston, Massachusetts, într-un cartier cochet, la ultimul etaj al casei noastre şi îmi fac rugăciunea de dimineaŃă. Din acel colŃ al camerei mi se arată străbunica mea.
+# Perúzelí salînğak
+
+Abdullah Veliy Şahip (1913-1991)
+
+Şehit Neğip úşún
+
+Şehit Neğip úşún Ey, milletíñ namlî-şanlî gaziysí we şehití Ómríñ boyî kalkîn úşún keşe-kúndúz şalîştîñ Milletím dep millet úşún sawlîgîñnî sawurduñ Taa soñînda gaziylerge, şehitlerge kawuştuñ. Búgún sení añmak úşún toplandîk bíz bo yerge Ğatkan yeríñ ğennet bolsîn, hakkîñ helal kîl bízge Hakk ğolînda, kalk ğolînda, keşe-kúndúz demeden Şalîşîp feda boldîñ, tarihlerge karîştîñ. Biñ dokîz yúz kîrk sekízde bútún kalknî ğîlattîñ Kahramanğa şehit bolîp, hepímízní daglattîn. Kalkîmîzga nurlar şaşîp, kurban boldîñ milletke Unutulmaz yararlîklar kósterdíñ sen bízlerge. Ey, milletíñ kahramanî, asîl temíz Neğib'í Helal et hakkîñ bízge, sen edín kalk şerifí. Bílgíñ ile namusuñ man Túrk-Tatar'nîñ başî edíñ Az ómrínde kóp şalîşîp, hepímízge ders berdíñ. — Leagănul cu peruzea Eroului Neğip
+
+Eroului Neğip Oh, tu, vestit şi renumit erou naŃional tătar Ce zi şi noapte-ai ostenit de-a lungul vieŃii plin de har, Cu nepăsare existenŃa Ńi-ai spulberat-o pentru noi Şi în final ne-ai părăsit luându-Ńi locu-ntre eroi! Iată, acum ne-am adunat pentru comemorarea ta, Să-Ńi fie somnul odihnit, greşelile ne vei ierta. Tu ai făcut din noapte zi pentru dreptate şi popor, Muncind din greu te-ai dăruit, azi eşti trecut nemuritor. În nouă sute patru-ş-opt au lăcrimat femei, bărbaŃi, Când te-ai jertfit în mod măreŃ lăsându-ne îndureraŃi. Ai dat lumină naŃiunii şi te-ai sacrificat apoi După atâtea binefaceri pentru tătarii în nevoi. Oh, tu, eroul naŃiunii, Negip cel pur şi cel corect, Tu, cinstea seminŃiei noastre, tu să ne ierŃi orice defect! Doar prin ştiinŃă şi onoare ai fost tătarilor model, În scurta viaŃă-ai fost povaŃă, doar muncii i-ai rămas fidel.
+# Perúzelí salînğak Şehit Neğip úşún
+
+Mezarîñda taş we toprak dertímízge dermandîr Kalk ğolînda gayretlerín ruhumuzga şifadîr. Tatar we Túrk dúniyasîñ hakkî úşún bakîrdîñ Ólgenşík tek milletím dep millet úşún ğîladîñ. Sení añmak hepímízge tarihiy bír borîjdîr Mezarîñda taş we toprak muğizelí fenerdír. Ebediyen sení añmak millet úşún yaraşîr Ğenab-î Hakk'îñ rahmetí men bútún duwa ulaşîr. Ey, milletíñ namlî, şanlî gaziysí we şehití Mezarîñdan hálímízní bílmek isteseñ şayet Yersíz, bayraksîz bír milletmíz, karíp hálde yaşaymîz El-eğnebiy koltîgînda kóz yaşî man ğîlaymîz. Búgún bízge bír tarihtír, artsîn bonday adîmlar Saw bolîñîz, bar bolîñîz, bo duwanî yapkanlar! — Leagănul cu peruzea Eroului Neğip
+
+Mormântul tău ne e acum leac pentru chinurile mari, Iar truda ta pentru popor, chip pentru gândul nesupus. Te-ai ridicat cerând dreptate pentru turcime şi tătari, Ai plâns sărmana naŃiune până în clipa când te-ai dus. Să îŃi cinstească existenŃa întregul neam e-îndatorat La monumentul funerar limpede far îndrumător. Tu să fii veşnic pomenit, pentru eroi aşa-i lăsat, Iar ruga noastră să ajungă la Dumnezeul Iertător. Oh, tu, vestit şi renumit erou naŃional tătar, Dacă te-ntrebi cum ne e soarta, cum o mai ducem pe pământ, Să ştii că suntem oropsiŃi, că n-avem piatră de hotar, Suntem străini în Ńara noastră, nu flutură drapele-n vânt. Dar astăzi suntem la răscruce, ne ridicăm să nu fim slugi, Să ne trăiască toŃi cei care se-alătură acestei rugi!
+# Perúzelí salînğak
+
+Numan Şelebíğihan (Çelebiyğihan) (1885-1918)
+
+Sawlîk man kal, Tatarlîk
+
+Sawlîk man kal, Tatarlîk Sawlîk man kal Tatarlîk, men ketemen ğenkke, Atîmîñ başî aylandî akret betke. Seníñ úşún yaşadîm, sensíz ólsem Bílmem nasîl kírermen boş ğennetke. Awdarîlgan altawlar, tamuwlar taşîgan, Bo íşlerge bíz tuwul, melekler şaşkan. Hîrpalangan menlíkler, korlangan kîzlar, Balasîn taşlap anaylar şóllerge kaşkan. Artîma baksam ak ómír, aldîmda ólím, Kóp uzamaz belliymen karañgî ğolîm. Karsambadan havetmiy, kólgeden úrkmiy, Son nefeste “ Tatar “ dep uzanîr kolîm. Ak-Mesğit, 1914/1915 — Leagănul cu peruzea RămâneŃi cu bine, tătari!
+
+RămâneŃi cu bine, tătari! RămâneŃi cu bine, tătari, eu am plecat la război, Calul meu a-întors capul de-acum spre lumea de-apoi. Eu pentru tătari am trăit şi nu ştiu cum aş putea Să intru în raiul pustiu murind departe de voi. E zarul în aer de-acum, stropii-n torent revărsaŃi, De starea de fapt nu doar noi şi îngerii sunt consternaŃi. Silit este dreptul uman, căznite fecioare plângând, Sunt mame buimace pe câmp, copiii în casă uitaŃi. O viaŃă frumoasă-înapoi, în faŃă doar moartea ca dar, Nu cred să dureze prea mult drumul acesta amar. În ceasul final liniştit, nepăsător la năluci, Cu suflul şi braŃul căzând voi spune un simplu: “Tătar!” Simferopol, 1914/1915
+# Perúzelí salînğak Ant etkenmen
+
+Ant etkenmen Ant etkenmen Tatarlarnîñ ğaralarîn sarmaga Ka-típ bolsîn bo zawallî kardaşlarîm şúrúsún? Onlar úşún ókínmesem, kaygîrmasam, yaşasam, Ğúregímde kara kanlar kaynamasîn, kurusun! Ant etkenmen şo karangî ğurtka şawle sepmege, Ka-típ bolsîn ekí kardaş bírí-bírsísn kórmesín? Bonî kóríp buwsanmasam mugaymasam, ğanmasam Kózlerímden akkan yaşlar derya-deñíz kan bolsîn! Ant etkenmen, sóz bergenmen millet úşún ólmege Bílíp, kóríp, milletímníñ kóz yaşlarîn sílmege. Bílmiy-kórmiy biñ yaşasam, kurultaylî kaan bolsam, Kene bírgún mezarğîlar kelír mení kómmege. — Leagănul cu peruzea Am jurat
+
+Am jurat Rănile tătarilor să le vindec am jurat, Cum să las să putrezească fraŃii mei persecutaŃi? De-oi trăi fără să-mi pese, de nu strig, de nu mă zbat, Sângele să mi se-nchege, inimă, să nu-mi mai baŃi! Să flutur torŃe în bezna Ńării mele m-am legat, Cum să las să-şi ducă dorul fraŃi de mamă răzleŃiŃi? De-oi dormi fără ripostă, de nu lupt, de nu mă bat, Lăcrimând ocean de sânge, ochilor, să îmi orbiŃi! Am jurat cu hotărâre pentru naŃie să mor, Să veghez, să-i aflu păsul, lacrimile să îi zvânt, Căci şi de-aş trăi o mie suveran, nepăsător, Într-o zi tot m-or petrece groparii către mormânt.
+# Perúzelí salînğak
+
+Bekir Şobanzade (Çobanzade) (1893-1937)
+
+Bír esírníñ baş taşîna
+
+Bír esírníñ baş taşîna Ğukla, dostîm, kattî demiy, ğat toprakta, Óz ğurtuñ ğok, bolsa da şay, bek uzakta... Ğukla, ğatnîñ toy sesíne baş kaldîrmay, Baáríne-búlbúlúne heş aldîrmay... Bír kún kelíp bo dumanlar kóterílse... Yuğelerden barîmîzga ses berílse... Sen de uyan “Allah! Allah!...” şîñlaganda, Feríşteler yakînlardan tîñnaganda... Síl kózíñní, ğígítlerdiy atlan-kuşan! Ğîldîzlardan añna endí: bek yakîn tañ... Tuwuşnî tut, soñ, ğurtuña yúz şewúrúp, Kîl namazîñ topragîna betíñ súrúp... Nafilení bek uzatmay, ğolîña túş, Ğurtta búyúk ibadetíñ iğra tiyúş... — Leagănul cu peruzea Epitaf pe mormântul unui prizonier
+
+Epitaf pe mormântul unui prizonier Dormi, camarade, şi dacă e Ńărâna rea, Patrie n-ai şi e departe, chiar de-ai avea. Dormi, nu sălta capul la zvon, nu e decât joc de străin, Nu te-amăgi, îi aparŃin luna de mai şi filomelele-n suspin. Doar dacă pâcla s-ar ridica-ntr-o bună zi… Din înălŃimi apel obştesc de va vui… De-o răsuna doar “Doamne! Doamne!” să te trezeşti şi tu, De-ascultă îngerii din preajmă. Altfel, nu! Usucă-Ńi lacrima atunci, eşti brav, saltă, te-ncinge! Lucirea stelelor pe cer curând s-o stinge… Găseşte răsăritul să poŃi privi spre Ńară Cu fruntea pe pământ fă-Ńi rugăciunea iară. Dar mult nu zăbovi în rugăciune-acum, În patrie te vei ruga destul. La drum!
+# Perúzelí salînğak Bír esírníñ baş taşîna
+
+Viran kóyler, basîk úyler temelínden Şifa alîp “ólmez úmút” saw elíñden, Bízler endí ğurt sewdasî başîmîzda, Şewre kardaş, alşak dúşman karşîmîzda... Baht yañlîşîn túzeltmege turganmîzdîr. Şúrúk ğerge “Hakk!” dep ayak wurganmîzdîr. O wakît ta mezarîñnî begenmeseñ, "Degenímdiy ól-almadîm, yazîk” deseñ, Ğúr sogîşlar miydanîna ğayaw-atlî, Bír ólím say, ól bírtaa, tatlî-tatlî... 1917, 24 kanun-iy evvel, Budapeşt — Leagănul cu peruzea Epitaf pe mormântul unui prizonier
+
+Sate pustii, case-n ruini din temelii Sub mâna ta găsi-vor leac, “speranŃe vii", Va fierbe patria în noi, va clocoti vulcanul, ÎnconjuraŃi de prieteni vom înfrunta duşmanul. Ne-om ridica să îndreptăm eroarea fercirii Strigând “Dreptate!” şi curmând putreziciunea firii. De nici atunci nu-Ńi va plăcea locul de veci "Păcat de aşa moarte” oftând când te petreci, Atunci pofteşte în arenă călare sau pe jos, Alege-Ńi tu ce moarte vrei şi mori frumos… 1917, 24 decembrie, Budapesta
+# Perúzelí salînğak Ana tílím
+
+Lóman Súleyman
+
+Ana tílím Ana tílí beşígímníñ ğîrî boldî, O man bírge geştí zewuklî balalîgîm, O kaálbímde kúneş bolîp múddem kaldî, O man bírge geştí mením ğaşlîgîm. Elífbení óz tílímle eğeledím, O kúş berdí maga dayim uzak ğolda, Şîrak boldî maga zindan keşelerde, Ğîrlamaz edím ğîrîmnî o bolmaganda, Sanke dersíñ onsîz insan óksíz óse, O erkeliy, başîñ sîypay ana gibí, Onsîz dersín baár beñziy nursuz kúzge, O kúşlúdúr, o kawuydîr, kaya gibí. Ana Ana Ana Ana
+
+tílím tílím tílím tílím
+
+-
+
+bo muhabbetlík, súygí sîrî, bo toy, ğîyîn, dostlîk, igílík. ğîrşîlarnîñ ólmez ğîrî, bo kalkîm úşún ebediylík. — Leagănul cu peruzea Limba maternă
+
+Limba maternă Limba maternă mi-a fost cântec de leagăn, Prietenă de joc şi de zburdălnicie, Lumină şi căldură pentru suflet, În anii tinereŃii plăcută companie…
+
+Cu ea am prins silaba, am deprins citirea Găsind putere să străbat cărări pustii, În temniŃele nopŃii mi-a aprins făclia, De n-ar fi ea, nici cântul meu n-ar fi. De n-ar fi ea, orfelinatele s-ar umple, Mămoasă, te păzeşte şi te alintă încă, De n-ar fi ea, ar fi doar toamnă-întunecată, ÎŃi dă putere, e solidă ca o stâncă. Limba Limba Limba Limba
+
+maternă maternă maternă maternă
+
+– – – –
+
+secretul dragostei, iubirii, sărbătoare şi prietenie, nemurirea poeziei, naŃiei mele veşnicie. 
 `;
