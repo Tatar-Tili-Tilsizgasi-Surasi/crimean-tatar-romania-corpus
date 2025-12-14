@@ -3,10 +3,12 @@ Awustin s. (topon.) Austin.
 Çikago s. Chicago.
 çm s. (abreviere pentru „çentimetre” = centimetru) cm
 Fukuşima s. (topon.) Fukushima, Japan.
+gayîn s. numele literei «غ» din scrierea arabă.
 Ğadîlar Bayramî s. Halloween.
 Ğañî Sene s. Anul Nou. // ● Ğañî Sene keşesí — Revelion.
 Ğorğiye s. Georgia, USA.
 Kaliforniye s. (topon.) California.
+kaf s. numele literei «ق» din scrierea arabă.
 Kîş-Babay s. 1. „Tatăl Iernii” (un bărbat care aduce cadouri în ajunul Anului Nou). 2. Moș Crăciun.
 koktayil s. cocktail.
 Korezmiy, El- s. (antrop. m., prsn.) nume legendar persan. // ● El-Korezmiy ifadesí — (fon.) predictibilitate (termen special folosit în fonetica limbii tătare).
@@ -17,6 +19,7 @@ ok s. (abreviere pentru „okka” = kilogram) kg
 pisiy s. pisică.
 partiy s. petrecere; party.
 Şînğa s. (topon.) Xinjiang, China.
+şîşkan s. şoarece.
 Teksas s. (topon.) Texas.
 Virjiniye s. (topon.) Virginia.
 zombiy s. zombi.
