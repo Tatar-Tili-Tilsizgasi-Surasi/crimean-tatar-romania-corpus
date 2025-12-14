@@ -303,4 +303,29 @@ maternă maternă maternă maternă
 – – – –
 
 secretul dragostei, iubirii, sărbătoare şi prietenie, nemurirea poeziei, naŃiei mele veşnicie. 
+# Perúzelí salînğak
+
+Yunus Temírkaya (1915-2004)
+
+Góñíller men gúller úşún
+
+Góñíller men gúller úşún Hikáyesí kóp bo álemníñ, Kinayesí az. Arzuwlarîmnî sen, kalemím, Kîska etíp yaz! Yaz sen ómírníñ al gúl bolîp Aşîlganîn! Yaz her kemlíkniñ bír kúl bolîp Şaşîlganîn! Şiirlerím, síz ğîluw beríñíz Góníller úşún! Ya da buz-salkîn bír suw beríñíz, Al gúller úşún! Ğîluwuñuzdan gîda alsîn Túm góñíller! Saf suwîñîznî íşíp kansîn Şeşekler, gúller! — Leagănul cu peruzea Pentru inimi şi roze
+
+Pentru inimi şi roze Lumea e plină de poveşti, cât despre tâlc, nu vei găsi prea mult. Creionule, descrie-mi dorinŃa cât mai scurt! Scrie că viaŃa e o roză stacojie şi înfloreşte! Scrie că orice răutate se preface-n scrum, se risipeşte! Poeme dragi, daŃi-mi căldura voastră pentru inimi zglobii! Sau daŃi-mi apă rece ca gheaŃa pentru roze stacojii! Din căldura voastră să se hrănească toate inimile! Cu apa voastră limpede să-şi potolească setea florile, rozele!
+# Perúzelí salînğak Ilk baár kúnlerídír
+
+Ilk baár kúnlerídír
+
+Aşîk Úmer (1621-1707)
+
+Kîş geşíp yaz kelmekte, bo ilk baár kúnlerídír, Lále, súmbúl, gúl aşîlgan, temaşa kúnlerídír. Aşap-íşíp, úriyler men oynaşîp ğúrmek úşún, Suw kenarî bakşalarda zewuk-sefa kúnlerídír, Ğúregíñ aşk man tolîp kaynap ğoşsa kerek Tamşîlar deryaga íríşír, tolîp taşsa kerek Aşîk-sewda bolganlar el daklarga túşse kerek Dúnyalîk úşún kîzganlarga káar-fayda kúnlerídír. Herkez algan súygenín, yalîñîz kaldîm gene, Itibar bolmaz kaárípke, şúndí ragbet zengínge. Bo aşkîñ gemísín şímdí saldîm derya-deñízge, Ğaldadî şîktî bír kenarga-ruzgár kúnlerídír. Íster iseñ, dertí men meftún Úmer sóylesín, Gene şo mením divane góñlím turmay íñlesín. Bo aşîklîgîñ soñî yoktîr bo dertten bazgeşsín Dúlberlík tuwul, altînga meftúnlík kúnlerídír. — Leagănul cu peruzea Sunt zile de primăvară
+
+Sunt zile de primăvară S-a împrimăvarat de-acum, s-au dus zilele geroase, Tot ce e floare s-a deschis, privelişti spectaculoase. E vremea să te-nveseleşti în farmec, deliciu, savoare, Să te desfeŃi în grădini pe Ńărmuri încântătoare, Când inima ar fierbe de-amor îndeplinindu-i chemarea, Când picăturile s-ar strânge stârnind potopuri cât marea, Când fericită-ar rătăci în munŃi iubirea pe-o culme, Sunt vremuri când îşi trag profit susŃinătorii de lume. Cu dragele toŃi au plecat, iar am rămas într-o rână, Iubirea nu-i pentru sărmani, la preŃ e darea de mână. Corabia-acestei iubiri acum am pus-o pe mare, Pluti şi ajunse pe-un Ńărm, sunt zilele vântului tare. De vrei să ştii în adevăr cât de nebună-i iubirea, Îndrăgostitul bard Omer îŃi cântă şi dorul, şi firea. Dragostea azi este-n zadar, descurajant e amorul, Azi n-au valoare gingăşii, se duce banului dorul.
+# Perúzelí salînğak Kîrîm
+
+Abláziz Veliy (Veliyev) (1939)
+
+Kîrîm Kîrîm, Kîrîm - mením ğîrîm, Takdirímsíñ hem de sîrîm, Sen bír tane, men de bírmen, Mením ómrím sensíñ, Kîrîm. Ístegenler taşlap keter, Soñ bolîrlar bíñ bír beter, Watannî terk etmek gúna, Ketmek yeter, ketmek yeter. Gúl bolsak ta, kúl bolsak ta, Bíz kalîrmîz “Vatan” dep. Ğannî feda eteğekmíz Bo ğurt úşún ebediyen. Kîrîm, Kîrîm - mením ğîrîm, Takdirímsíñ hem de sîrîm, Sen bír tane, men de bírmen, Mením ómrím sensíñ, Kîrîm. 04.05.1998 s. — Leagănul cu peruzea Crimeea
+
+Crimeea Crimeea, Crimeea - solemn cânt, Misterul, destinul, esenŃa. Eşti unică tu, unic sunt, Crimeea, însemni existenŃa! Acei ce plecară dintre noi Pierdură tăria, potenŃa. Să nu îŃi laşi Ńara la nevoi, Destulă-i absenŃa, absenŃa. De-ar fi să ajungem flori sau scrum Tot “Patria!” cerem statornic. Cu viaŃa gajând justul drum Şi dreptul la Ńară acronic. Crimeea, Crimeea - solemn cânt, Misterul, destinul, esenŃa. Eşti unică tu, unic sunt, Crimeea, însemni existenŃa! 04.05.1998
 `;
