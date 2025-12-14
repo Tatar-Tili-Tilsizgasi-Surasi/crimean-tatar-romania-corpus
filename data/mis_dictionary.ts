@@ -4,7 +4,7 @@ Awustin s. (topon.) Austin.
 çm s. (abreviere pentru „çentimetre” = centimetru) cm
 Fukuşima s. (topon.) Fukushima, Japan.
 Ğadîlar Bayramî s. Halloween.
-Ğañî Sene s. Anul Nou. // ● Ğañî Sene keşesí — revelion.
+Ğañî Sene s. Anul Nou. // ● Ğañî Sene keşesí — Revelion.
 Ğorğiye s. Georgia, USA.
 Kaliforniye s. (topon.) California.
 koktayil s. cocktail.
