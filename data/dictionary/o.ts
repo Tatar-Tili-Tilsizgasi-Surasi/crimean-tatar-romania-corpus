@@ -755,4 +755,207 @@ otîrawlî adj. insular.
 otîrîşmak v.i. a sta; a se aşeza; a lua loc (laolaltă).
 otîrma s. şedință; consfătuire. // ●otîrma yerí — rezidență.
 otîrmak v.i. 1. a se aşeza; a lua loc. 2. a sta; a locui. 3. a sta degeaba; a nu face nimic. // ●aşap-íşíp otîrmak — a lenevi. ●ayîrî-ayîrî otîrmak — a se aşeza separat. ●boş otîrmak — a tăia frunză la câini; a trândăvi; a sta degeaba. ●ğayîlîp otîrmak — a se lăfăi. ●haleketsíz otîrmak — a lâncezi. ●karaga/kumga otîrmak — (nav.) a eşua; a naufragia. ●midege otîrmak — a cădea greu la stomac; a produce indigestie. ●rakamînda otîrmak — a se cifra la…; ●sîpîraga otîrmak — a sta la masă. ●tegenek ústúnde otîrmak — a sta ca pe ghimpi. ●túpke otîrmak — a se depune; a se lăsa pe fundul vasului. ●ústúnde árúw kelmek — a-i sta bine; a-l prinde bine (d. îmbrăcăminte). ●ústúne otîrmak — a se aşeza pe…; a-şi însuşi; a uzurpa. ●uz otîrmak — a şedea liniştit; a sta cuminte. // ●arkañîzda otîramîz — stăm în spatele vostru. ●barabar otîramîz — locuim împreună. ●bízge yakîn otîra — locuieşte aproape de noi. ●dawuşsuz-sessíz otîrîñîz — stați în linişte deplină. ●ğerge otîrayîk! — să stăm jos!; ●íş wakîtînda otîrmak yok — în timpul lucrului nu se stă. ●kayda otîrasîñîz? — unde locuiți?; ●kóz-kózge otîrdîlar — au stat ochi în ochi. ●taştan úyde Altanlar otîralar — în casa de piatră locuiesc alde Altan. ●úynúñ yarîsînda kím otîra? — cine locuieşte în jumătate de casă?; ●uz otîr! — stai cuminte!;
+otîrtîlgan adj. 1. plantat; sădit. 2. pus; aşezat. 3. instalat; plasat.
+otîrtîlgantaş s. obelisc.
+otîrtîlmak v.i. 1. a fi sădit; a fi plantat (răsaduri, pomi). 2. a fi instalat; a fi plasat. 3. a fi pus; a fi aşezat. 4. a fi construit.
+otîrtkan s. 1. plantator. 2. constructor.
+otîrtma s. 1. plantare; sădire. 2. puiet (de arbori). 3. (mat.) verticală. 4. punere; aşezare. 5. instalare; plasare. 6. construire; construcție.
+otîrtmak v.t. 1. a determina să stea; a aşeza. 2. a instala; a plasa. 3. a planta; a sădi. 4. a construi. // ●hewkel otîrtmak — a ridica cuiva o statuie. ●kazîkka otîrtmak — a trage în țeapă; a țepui. ●taşlarîn otîrtmak — a-i pune temelia; a-i pune bazele. ●terek otîrtmak — a sădi pomi; a împăduri. ●tírek otîrtmak — a jalona. ●úy otîrtmak — a construi o casă.
+otîrtuw s. 1. plantare; sădire. 2. punere; aşezare. 3. instalare; plasare. 4. construire; construcție.
+otîrtuwğî s. 1. instalator; plasator; amplasator. 2. plantator. 3. constructor.
+otîrtuwlî adj. 1. plantat; sădit. 2. pus; aşezat. 3. instalat; plasat. 4. construit.
+otîruw s. şedință; consfătuire.
+otîşapalangan adj. prăşit.
+otîz num. treizeci.
+otîzar num. câte treizeci.
+otîzar-otîzar num. treizeci câte treizeci.
+otîzînğî num. al treizecilea; a treizecea.
+otîz-kîrk num. aproximativ treizeci-patruzeci. // ●otîz-kîrk yaşînda erkek — bărbat în vârstă de vreo treizeci-patruzeci de ani.
+otîzlap adv. reciclând de treizeci ori.
+otîzlarda num. aproximativ treizeci.
+otkadayangan adj. refractar. // ●otkadayangan tola — şamotă.
+otlak s. păşune; pajişte; izlaz; imaş. // ●dak otlagî — păşune alpină.
+otlama s. păşunat; păscut.
+otlamak v.i., v.t. a paşte; a păşuna.
+otlangan s. îmburuienat.
+otlanma s. îmburuienare.
+otlanmak v.i. a se îmburuiena.
+otlanuw s. îmburuienare.
+otlatma s. păscut; păstorire.
+otlatmak v.t. a duce să pască; a paşte.
+otlatuw s. păscut; păstorire.
+otlaw s. păşunat; păscut.
+otlî adj. 1. otrăvit; otrăvitor; veninos; toxic. 2. înflăcărat; pasionat. 3. ierbos; buruienos.
+otlîk s. 1. fâneață. 2. ochi de aragaz. 3. ierbar. 4. toxicitate. 5. buruienişte; pârloagă.
+otsóndírgen s. 1. pompier. 2. extinctor.
+otsóndírgenler s., pl. pompieri.
+ot-suw s. foc şi apă.
+otşaluw s. tunderea ierbii; cosit.
+otşapalagan s. prăşitor.
+otşapalaw s. praşilă; prăşit.
+otşaşkan s. (mil.) aruncător de flăcări.
+otşî adj. erbivor; rumegător.
+otşîlar s., pl. erbivore; rumegătoare.
+ottay adj. focos. // ●ottay dúşman — duşman de moarte.
+ova s. câmpie; şes.
+Ova, Şukur/Çukur- s. (topon.) ("Depresiunea") Ciucurova (jud. Tulcea).
+oval adj. oval; eliptic.
+ovalîk s. câmpie; şes.
+owakît adv. atunci.
+oy s. 1. părere; opinie; cuget; gând. 2. (pol.) vot; votare; sufragiu. // ●oy bermek — a da votul; a vota. ●oy ğúrsetmek — a gândi; a cugeta. ●oy yantmak — a sugera. ●oyga salmak — a supune la vot. // ●arkadaşîm bam-başka oyda — prietenul meu este cu totul de altă părere. ●gúwen oyî — (pol.) vot de încredere. ●kamuw oyî — opinia publică; referendum. ●kaytaruwğî oy — (pol.) veto. ●mením oyîm — după părerea mea. ●mením oyîm başka — am altă opinie. ●oy hakkî — drept de vot. ●oy sandîgî — urnă de vot. ●oyîma kóre — după părerea mea. ●oylarîñîznî tatarşa yakşî ifade etesíñíz — vă exprimați bine opiniile tătăreşte. ●síz men bír oyda tuwulman — nu sunt de aceeaşi părere cu dumneavoastră. ●tartîlgan oy — abținere (de la vot).
+oy s. cărare; potecă.
+oya s. dantelă. // ●oya yastîgî — pernă de dantelă.
+oyalamak v.t. a dantela; a împodobi cu dantelă.
+oyalangan adj. dantelat.
+oyalanmak v.i. a se dantela; a se împodobi cu dantelă.
+oyalgan adj. votat; ales.
+oyalî adj. dantelat.
+oyalî-tumşuklî-tukan s. (orn.) tucan cu cioc scobit (lat., Ramphastos vitellinus).
+oyandîrma s. galvanizare.
+oyandîrmak v.t. a galvaniza.
+oyandîruw s. galvanizare.
+oyangan adj. galvanizat.
+oyanmak v.i. a se galvaniza.
+oyatîlgan adj. galvanizat.
+oyatîlmak v.i. a se galvaniza.
+oyatkan s. (pol.) elector; votant; alegător.
+oyatmak v.t. a galvaniza.
+oyatuw s. galvanizare.
+oyatuw s. (pol.) alegeri; votare; scrutin.
+oybergen s. (pol.) elector; votant; alegător.
+oyberúw s. (pol.) alegeri; votare; scrutin. // ●oyberúwden geşírmek — a supune la vot. // ●aşîk oyberúw — (pol.) vot deschis. ●oyberúwnúñ netiğesí — rezultatul votului. ●sîrlî oyberúw — (pol.) vot secret.
+oybír adj. unanim.
+oybírlík s. unanimitate; unison.
+oyda adj. abstract. // ●oyda ğúrsetmek — a abstractiza.
+oydagî adj. abstract.
+oydağúrsetílgen adj. abstract; abstractizat.
+oydağúrsetúw s. abstractizare; abstracție.
+oydakî adj. abstract.
+oydaş adj. tovarăş de idei. // ●oydaş toplantîsî — cenaclu.
+oydîrmak v.t. 1. a determina să scobească; a determina să adâncească. 2. a determina să decupeze. 3. a determina să graveze; a determina să sculpteze.
+oyerde adv. fără întârziere; imediat; îndată; numaidecât; deodată. // ●kayerde aş oyerde baş — omniprezent.
+oyğúrsetken s. cugetător.
+oyğúrsetmesí s. reflecție; cugetare; gândire; meditație; speculație.
+oyîk I. adj. scobit; adâncit. II. s. scobitură; cavitate; adâncitură; gaură. // ●haywan oyîgî — vizuină; bârlog; culcuş.
+oyîklî adj. scobit; adâncit.
+oyîlgan adj. 1. scobit; adâncit. 2. decupat. 3. gravat; sculptat.
+oyîlîm s. 1. (fiz., mat.) volum. 2. decupare. 3. scobitură; adâncitură. 4. gravură; sculptură.
+oyîlîm-oyîlîm adj. decupat.
+oyîlma s. 1. decupare. 2. scobire; adâncire. 3. gravare; sculptare.
+oyîlmak v.i. 1. a se scobi; a se adânci. 2. a se decupa. 3. a se grava; a se sculpta.
+oyîluw s. 1. decupare. 2. scobire; adâncire. 3. gravare; sculptare.
+oyîn s. 1. joc; joacă; sport. 2. amuzament; divertisment. 3. reprezentație artistică; piesă; spectacol. 4. interpretare; joc (al unui actor). 5. dans. 6. (fig.) şiretlic; tertip. // ●oyîn bermek — a da spectacole; a da reprezentații. ●oyîn oynatmak — a juca festa cuiva; a-i face figura; a-l înşela; a-l păcăli. ●oyînga kelmek — a i se juca o festă; a fi păcălit. // ●boş oyîn — (sport) scor alb. ●dama oyînî — joc de dame. ●kaytarmalî oyîn — (sport) revanşă. ●kelime oyînî — joc de cuvinte. ●oyîn arkadaşî — partener de joacă. ●oyîn barabarlîkman píttí — meciul s-a terminat la egalitate. ●oyîn bek eglendírúwğí edí — piesa a fost foarte amuzantă. ●oyîn káátí — carte de joc. ●oyîn kamîrî — plastilină. ●oyîn píttí — piesa a fost jucată. ●oyîn sahnesí — ring de dans. ●oyîn ustasî — coregraf. ●oyînnî súygen — jucăuş. ●oyînnîñ bírtaalanmasî/tekrarî — (sport) rejucarea meciului. ●oyînnîñ síptí temsilí — premiera piesei. ●şatraş oyînî — (sport) joc de şah. ●top oyînlarî — (sport) jocuri cu mingea.
+oyînbaz s. clovn.
+oyîndankaytmagan adj. tenace; insistent; stăruitor; perseverent; răbdător.
+oyîndankaytmama s. tenacitate; insistență; stăruință; perseverență; răbdare.
+oyîndankaytmaz adj. tenace; insistent; stăruitor; perseverent; răbdător.
+oyîngaakelúw s. festă; păcăleală; renghi.
+oyîngakelgen adj. înşelat; păcălit.
+oyîngakelmegen adj. dejucat.
+oyîngakelmeme s. dejucare.
+oyînğak s. jucărie.
+oyînğî s. 1. (sport) jucător; sportiv. 2. dansator. 3. actor; actriță; interpret; artist. // ●beğeríklí oyînğî — actor talentat. ●şatraş oyînğîsî — (sport) şahist.
+oyînğîlîk I. adj. artistic. II. s. actorie.
+oyînhesabî s. (sport) scor. // ●barabarlîk oyîn hesabî — (sport) scor egal.
+oyînsîzgağîsî s. coregraf.
+oyînsîzgasî I. adj. coregrafic. II. s. coregrafie.
+oyîntîşî s. (sport) ofsaid.
+oykî s. nuvelă.
+oykîğî s. nuvelist.
+oykîğîlîk s. nuvelistică.
+oylagan s. votant; ratificator.
+oylama s. votare; scrutin; ratificare.
+oylamadan adv. cum o fi; la întâmplare; pe dibuite; alandala.
+oylamak v.t. a vota; a ratifica. // ●oylap tapmak — a inventa.
+oylangan adj. votat; ratificat; dezbătut; deliberat.
+oylanmak v.i. a fi votat; a fi ratificat; a fi gândit; a se dezbate; a se delibera.
+oylap-şîgargan s. descoperitor; inventator.
+oylap-tabîlgan adj. descoperit; inventat.
+oylap-tapkan adj. inventator; inventiv.
+oylaşîk adj. deliberativ.
+oylaşîm s. dezbatere; deliberare.
+oylaşma s. dezbatere; deliberare.
+oylaşmak v.t. a dezbate; a delibera.
+oylaşuw s. dezbatere; deliberare.
+oylaw s. votare; scrutin; ratificare.
+oylîk s. (geogr.) oază; limbă de pământ.
+oyma s. 1. scobire; adâncire. 2. decupare. 3. gravare; sculptare. 4. xilografie. // ●oyma kalemí — daltă. ●oymalî pantof — pantofi decupați.
+oymağî s. xilograf.
+oymağîlîk s. xilografie.
+oymak s. degetar.
+oymak v.t. 1. a grava; a sculpta. 2. a decupa. 3. a scobi; a adânci.
+oymakotî s. (bot.) degetariță; degețel (lat., Digitalis ambigua).
+oymakotî, ğúnlí- s. (bot.) degețel-lânos (lat., Digitalis lanata).
+oymakotî, kîrmîzî- s. (bot.) degețel-roşu (lat., Digitalis purpurea).
+oymakşîk s. (dim.) degetar micuț.
+oymaşîk s. (dim.) degetar micuț.
+oyna s. oină.
+oynagan I. adj. nestabil; instabil. II. s. jucător; dansator. // ●ata-tuta oynama — jonglerie.
+oynaganmerkezlí adj. (mat.) excentric.
+oynaganmerkezlík s. (mat.) excentricitate.
+oynak I. adj. 1. (fiz.) mobil. 2. (d. oameni) inconstant; nestatornic; schimbător; instabil. 3. (d. femei) uşuratică; frivolă. 4. jucăuş; neastâmpărat; zburdalnic; ştrengar. II. s. (anat.) articulație. // ●oynak yerí — (anat.) încheietură.
+oynak súyegí s. (anat.) patelă; rotulă.
+oynaklagan adj. jucăuş.
+oynaklamak v.i. a se juca; a se distra.
+oynaklaşmak v.i. a flirta.
+oynaklaşuw s. flirt.
+oynaklaw s. joc; joacă; distracție.
+oynaklawğî adj. distractiv.
+oynaklîk s. 1. (fiz.) mobilitate. 2. (fig.) inconstanță; nestatornicie; instabilitate. 3. (fig.) nehotărâre; neseriozitate. 4. frivolitate. 5. neastâmpăr; zburdălnicie; ştrengărie.
+oynalmak v.i. 1. a fi jucat; a se interpreta. 2. a fi periclitat. 3. (sport) a fi jucat; a fi practicat; a se disputa.
+oynama s. joacă; joc; distracție.
+oynamagan adj. imobil; imobilizat; țintuit.
+oynamak A. v.i. a se juca; a se distra. B. v.t. 1. (d. actori) a juca; a interpreta. 2. (sport) a juca; a practica; a disputa. 3. (fig.) a periclita; a se juca cu…; // ●ata-tuta oynamak — a jongla. ●ateş men oynamak — a se juca cu focul; a-şi asuma un mare risc. ●barut man oynamak — a se juca cu focul. ●başînda kózí oynamak — a-i juca cuiva ochii în cap. ●ğer ğerínden oynamak — a se cutremura pământul. ●şatraş oynamak — a juca şah. ●sekíríp oynamak — a se zbengui. ●tabla oynamak — a juca table. ●top oynamak — (sport) a juca fotbal. ●vals oynamak — a valsa. ●voley oynamak — a juca volei. ●yerínden oynamak — a se scrânti; a se luxa. // ●búgún ne filmler oynay? — ce filme rulează astăzi?; ●ğenábísí şatraş oynay — dumnealui joacă şah. ●kaysî takîmlar oynay? — ce echipe joacă astăzi?; ●o ózín sawlugîman oynay — el se joacă cu sănătatea sa. ●oynamak zamanî — timp de joacă.
+oynamama s. imobilitate; imobilizare; țintuire.
+oynaş s. iubit; iubită; drag.
+oynaşmak v.i. 1. a se juca împreună; a se zbengui; a se hârjoni. 2. a flirta. // ●túrtúşúp/iteşíp oynaşmak — a se hârjoni.
+oynaşuw s. 1. joacă laolaltă; zbenguială; hârjoneală. 2. flirt.
+oynatîlgan adj. păcălit.
+oynatîlmak v.i. a se păcăli.
+oynatkan adj. înşelător; amăgitor.
+oynatma s. păcălire. // ●el-kol oynatmasî — gest; gesticulare.
+oynatmak v.t. 1. a determina să joace. 2. (fiz.) a deplasa din loc; a mişca din loc. 3. (fig.) a păcăli; a trage pe sfoară. // ●akîlîn oynatmak — a-şi pierde mințile; a înnebuni. ●el-kol oynatmak — a da din mâini; a gesticula. ●kíşí oynatmak — a purta lumea pe degete; a înşela oamenii. ●kóz-kaş oynatmak — a arunca ocheade; a face cuiva cu ochiul; a-şi da ochii peste cap. ●oyîn oynatmak — a juca festa cuiva; a-i face figura; a-l înşela; a-l păcăli. ●parmagînda oynatmak — a juca pe cineva pe degete.
+oynatmama s. imobilizare; țintuire.
+oynatmamak v.t. a imobiliza; a țintui; a nu mişca; a determina să nu joace. // ●kîlîn oynatmamak — a nu-şi mişca un fir de păr; a încremeni; a înlemni.
+oynatuw s. păcălire.
+oynatuwğî adj. amăgitor.
+oynaw s. joacă; joc; distracție.
+oy-oydan adv. din potecă în potecă.
+oysemen conj. pe când; în timp ce; când colo; în realitate; de fapt.
+oyşîk s. (dim.) cărăruie; potecuță.
+oyustasî s. cugetător; gânditor.
+oyuw s. 1. scobire; adâncire. 2. decupare. 3. gravare; sculptare.
+oyuwğî s. sculptor; gravor.
+oyuwğuluk s. sculptură; gravură.
+oyuwlî adj. 1. scobit; adâncit. 2. decupat. 3. gravat; sculptat.
+oyyantmasî s. sugestie.
+ozaman adv. atunci.
+ozan s. 1. rapsod; bard; trubadur; menestrel; tălmăci. 2. poet.
+ozgarîlgan adj. condus; petrecut; însoțit; călăuzit.
+ozgarîlmak v.i. a fi condus; a fi petrecut; a fi însoțit; a fi călăuzit.
+ozgarmak v.t. a conduce; a petrece; a însoți; a călăuzi. // ●sápírlerní ozgarsañîz! — vă rugăm să conduceți oaspeții!;
+ozgaruw s. conducere; petrecere; însoțire; călăuzire.
+ozgaruwğî s. conducător; însoțitor; călăuzitor.
+ozîlgan adj. întrecut; depăşit.
+ozîlmak v.i. a fi întrecut; a fi depăşit.
+ozîlmaz adj. neîntrecut.
+ozîş s. 1. întrecere; concurs; competiție. 2. (sport) partidă; joc; meci. // ●bayrak ğaldama ozîşlarî ertelendí — probele de ştafetă la înot s-au amânat. ●bayrak ozîşî — (sport) ştafetă. ●biçikleta ozîşî — (sport) cursă de ciclism. ●dak ozîşlarî — (sport) discipline alpine. ●ğaldaw ozîşî — (sport) competiția de înot. ●ğelkeñ ozîşî — (sport) regata de vele. ●gyúlle atma ozîşî — (sport) aruncarea greutății. ●kírde atma ozîşî — (sport) aruncarea discului. ●mîzrak atma ozîşî — (sport) aruncarea suliței. ●olimpiya ozîşlarî — olimpiadă. ●şekíş atma ozîşî — (sport) aruncarea ciocanului.
+ozîşgúzelí adj. miss; regină a frumuseții.
+ozîşkan s. concurent; competitor.
+ozîşma s. 1. întrecere; concurs; competiție. 2. (sport) partidă; joc; meci.
+ozîşmak v.i. 1. a se întrece; a se depăşi reciproc. 2. a concura.
+ozîşuw s. 1. întrecere; concurs; competiție. 2. (sport) partidă; joc; meci.
+ozîşuwğî s. concurent; competitor.
+ozma s. întrecere; depăşire.
+ozmak v.t. a întrece; a depăşi. // ●ozmak yasak — depăşirea interzisă.
+ozon s. ozon.
+ozonlaşkan adj. ozonizat.
+ozonlaşma s. ozonizare.
+ozonlaşmak v.i. a se ozoniza.
+ozonlaştîrma s. ozonizare.
+ozonlaştîrmak v.t. a ozoniza.
+ozonlî adj. cu ozon; ozonizat.
+ozonlaştîruw s. ozonizare.
+ozonlaşuw s. ozonizare.
+ozuw s. întrecere; depăşire.
 `;
