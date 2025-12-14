@@ -14,7 +14,7 @@ malayiz s., adj. malaez/malaezian.
 Malayiziye s. (topon.) Malaezia.
 malayiziyelí s., adj. malaez/malaezian.
 ok s. (abreviere pentru „okka” = kilogram) kg 
-partiy s. parte; party.
+partiy s. petrecere; party.
 Şînğa s. (topon.) Xinjiang, China.
 Teksas s. (topon.) Texas.
 Virjiniye s. (topon.) Virginia.
