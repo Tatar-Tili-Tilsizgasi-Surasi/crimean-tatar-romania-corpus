@@ -1,6 +1,7 @@
 
 import React, { useState, useEffect, useRef, useMemo } from 'react';
 import { CorpusEntry } from '../types';
+import { Words } from '../data/data_for_translator';
 
 interface VirtualKeyboardProps {
     entries: CorpusEntry[];
@@ -137,7 +138,21 @@ const VirtualKeyboard: React.FC<VirtualKeyboardProps> = ({ entries }) => {
         // Group 2: Sentence delimiters (. ? !)
         const tokenizerRegex = /([a-zA-ZáÁçÇğĞíÍîÎñÑóÓşŞúÚţŢ]+(?:['\-][a-zA-ZáÁçÇğĞíÍîÎñÑóÓşŞúÚţŢ]+)*)|([.?!]+)/g;
 
-        // Pass 1: Identify Definite Proper Nouns (capitalized in middle of sentence OR in Dictionary source)
+        // Process Extra Words for proper nouns and text stream
+        const extraWordsList = Words.split(',').map(s => s.replace(/\s*\(.*?\)/g, '').trim()).filter(Boolean);
+        
+        // Add proper nouns from extra words (capitalized ones)
+        extraWordsList.forEach(w => {
+            const tokens = w.split(/[\s\-]/);
+            tokens.forEach(t => {
+                const clean = t.replace(/^[']+|[']+$/g, '');
+                if (clean && /^[A-ZÁÇĞÍÎÑÓŞÚŢ]/.test(clean)) {
+                    properNouns.add(clean);
+                }
+            });
+        });
+
+        // Pass 1: Identify Definite Proper Nouns from Corpus
         entries.forEach(entry => {
             const isDictionary = entry.source.includes('Dictionary');
             const matches = entry.text.matchAll(tokenizerRegex);
@@ -191,9 +206,8 @@ const VirtualKeyboard: React.FC<VirtualKeyboardProps> = ({ entries }) => {
             }
         });
 
-        // Pass 2: Build Frequency and Bigram Maps
-        entries.forEach(entry => {
-            const matches = entry.text.matchAll(tokenizerRegex);
+        // Helper to process token streams for Freq/Bigram
+        const processTokenStream = (matches: IterableIterator<RegExpMatchArray>) => {
             let isStartOfSentence = true;
             let prevWord: string | null = null;
             
@@ -208,7 +222,7 @@ const VirtualKeyboard: React.FC<VirtualKeyboardProps> = ({ entries }) => {
                 }
 
                 if (wordToken) {
-                    // Filter out Roman numerals (uppercase IVXLCDM)
+                     // Filter out Roman numerals (uppercase IVXLCDM)
                     if (/^[IVXLCDM]+$/.test(wordToken)) {
                         continue;
                     }
@@ -287,7 +301,18 @@ const VirtualKeyboard: React.FC<VirtualKeyboardProps> = ({ entries }) => {
                     isStartOfSentence = false;
                 }
             }
+        };
+
+        // Pass 2: Build Frequency and Bigram Maps from Entries
+        entries.forEach(entry => {
+            processTokenStream(entry.text.matchAll(tokenizerRegex));
         });
+
+        // Pass 3: Process Extra Words
+        // Joining with ". " ensures they are treated as separate sentences if comma-separated, preserving "Start of Sentence" logic for proper noun casing check,
+        // but since we pre-filled properNouns from this list based on capitalization, `processTokenStream` will correctly handle them.
+        const extraText = extraWordsList.join('. ');
+        processTokenStream(extraText.matchAll(tokenizerRegex));
 
         const sortedBigrams = new Map<string, string[]>();
         bigramMap.forEach((nextMap, currentWord) => {
