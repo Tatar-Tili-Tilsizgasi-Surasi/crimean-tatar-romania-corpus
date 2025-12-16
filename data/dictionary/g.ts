@@ -278,4 +278,79 @@ geşme s. 1. trecere; traversare; pasaj. 2. depăşire; penetrație. // ●geşm
 geşmeden adv. fără să treacă. // ●kóp geşmeden — nu mult după aceea.
 geşmegen adj. 1. care nu trece; care nu are trecere. 2. (d. legi, dispoziții) fără valabilitate; ieşit din vigoare; expirat; invalidat; nul. // ●sózí geşmegen — fără trecere; fără influență.
 geşmek A. v.i. 1. a trece pe la; a merge; a circula. 2. a se abate (oprindu-se undeva). 3. (d. mărfuri) a avea trecere; a avea căutare. 4. a fi pomenit; a fi menționat. 5. a se termina; a lua sfârşit. 6. (şcol.) a promova; a trece. 7. (d. timp) a se scurge; a trece. 8. (d. oameni) a îmbătrâni. 9. (d. plante) a se veşteji; a se ofili; a se usca. 10. (d. fructe) a fi prea copt; a fi trecut. 11. a fi considerat; a fi luat drept… ; B. v.t. 1. a trece; a sări (peste ceva). 2. a traversa; a parcurge; a străbate. 3. a întrece; a depăşi. 4. a pătrunde; a răzbate. 5. a omite; a trece cu vederea; a uita. 6. a lăsa; a abandona; a renunța (la…). 7. a molipsi; a contamina. // ●akîlîndan geşmek — a-i trece prin minte; a-i da prin gând. ●aldga geşmek — a avansa; a înainta; a trece în frunte; a o lua înainte; a călăuzi; a conduce. ●añlatmadan geşmemek — a preciza; a specifica. ●atî geşmek — a i se pomeni numele; a fi nominalizat. ●atlap geşmek — a sări peste…; a omite; a escalada. ●başîndan geşmek — a cădea pe capul cuiva; a i se întâmpla; a păți. ●eñ yúksek noktadan geşmek — a culmina. ●ğarmaşîp geşmek — a escalada. ●ğaşînîp geşmek — a se furişa; a se strecura; a se fofila. ●ğeríne geşmek — a trece în locul cuiva; a-l înlocui. ●ğerníñ túbúne geşmek — a-i veni cuiva să intre în pământ. ●ilerí geşmek — a avansa; a înainta; a trece în frunte; a trece în față. ●imtannî geşmemek — a pica examenul. ●íş íşten geşmek — a nu mai fi de nicio treabă; a deveni inutil; a fi prea târziu. ●íşínden geşmek — a avea un presentiment; a presimți. ●íşíne geşmek — a-l pătrunde. ●kelíp geşmek — a trece. ●kertesín geşmek — a depăşi măsura. ●kulagîndan geşmek — a-i trece cuiva pe la ureche. ●kuwup geşmek — a se succeda; a se perinda; a se înşira. ●makbulga geşmek — a fi admis; a fi acceptat. ●modasî geşmek — a se demoda; a nu mai fi la modă. ●ózínden geşmek — a-şi pierde cunoştința; a nu mai şti de sine; a leşina. ●píkírínden geşmek — a-i trece prin minte. ●sózí geşmek — a avea cuvânt greu; a avea trecere; a fi prețuit. ●taaruzga geşmek — a trece la ofensivă. ●teşíp geşmek — a străpunge; a perfora. ●ústúnden geşmek — a trece peste…; a necinsti; a viola. ●uşup geşmek — a trece în zbor. ●zamanî geşmek — a-i trece vremea; a se învechi; a îmbătrâni. // ●aylanîşta aldîma geşeğeklí boldî — a vrut să mă depăşească în curbă. ●bilet geşmiy — biletul nu este valabil. ●bír kaş yîl geştí — au trecut câțiva ani. ●ğaz kurî geştí — vara a fost uscată. ●geşmege iğaze beríñíz! — permiteți-mi să trec! ; ●kópírní geşíñíz! — treceți podul! ; ●korkma, bonlar geşer! — nu-ți fie teamă, acestea vor trece! ; ●sózí geşer — (d. oameni) influent; cu trecere.
+geşmíş I. adj. trecut; vechi. II. s. trecut. // ●bo kíşíníñ geşmíşí — trecutul acestui om. ●geşmíş bolsîn! — însănătoşire grabnică! ;
+geşmíşlík s. trecut. // ●geñíş geşmíşlík — (gram.) preterit.
+geşmíşte adv. în trecut.
+geşmíşten adv. din trecut.
+geşúw s. 1. trecere; tranzit. 2. trecere; traversare; pasaj. 3. depăşire; penetrație. // ●ğayaw geşúwí — trecere pentru pietoni. ●kapangan engel geşúwí — trecere la nivel cu bariere.
+geşúwğí adj. 1. trecător; de scurtă durată; efemer. 2. temporar; provizoriu; tranzitoriu; interimar. 3. (med.) molipsitor; contagios; transmisibil. // ●geşúwğí hálde — în mod provizoriu. ●geşúwğí hewes — capriciu. ●geşúwğí kabiliyet — permis temporar. ●geşúwğí şáre — paleativ.
+geşúwğímabet s. aventură; legătură amoroasă întâmplătoare.
+geşúwğímabetşí s. aventurier; persoană care caută aventuri amoroase.
+geşúwğúlúk s. interimat; provizorat.
+getíştírúw s. transmisie; comunicație.
+geveze adj. flecar; palavragiu.
+gevezelík s. flecăreală; pălăvrăgeală.
+gez s. (bot.) mojdrean; urm; frasin-de-munte (lat., Fraxinus ornus).
+gezdírmek v.t. a plimba. // ●kózín gezdírmek — a cerceta cu privirea; a-şi învârti ochii. ●sóz gezdírmek — a purta vorbe; a duce vorba; a bârfi. ●ústúne gezdírmek — a presăra deasupra… ;
+gezegen I. adj. plimbăreț. II. s. (astr.) planetă.
+gezegenbílímğísí s. astrolog.
+gezegenbílímí I. adj. astrologic. II. s. astrologie.
+gezegenbílímlí adj. astrologic.
+gezegenlerarasî adj. interplanetar.
+gezenek s. coridor; culoar; hol; galerie.
+gezer adj. 1. călător; ambulant. 2. ambulatoriu. // ●gezer kasta — (med.) bolnav ambulatoriu.
+gezetan adj. plimbăreț.
+gezgen-albatros s. (orn.) albatros călător (lat., Diomedea exulans).
+gezgen-ğayka s. (orn.) albatros călător (lat., Diomedea exulans).
+gezgenlap s. zvon.
+gezgensóz s. zvon.
+gezílmek v.i. 1. a se plimba. 2. a fi vizitat.
+gezíntí s. 1. plimbare; excursie. 2. coridor; culoar; hol; galerie.
+gezíp-dolaşatan adj. plimbăreț.
+gezíp-dolaşuw s. cutreierare; peregrinare; străbatere.
+gezíp-tozgan adj. hoinar; rătăcitor; vagabond; vântură-lume; aventurier.
+gezíp-tozma s. hoinăreală; plimbare; vagabondaj; vânturare.
+gezíp-tozuw s. hoinăreală; plimbare; vagabondaj; vânturare.
+gezíş s. plimbare; cutreierare; colindare; vizită.
+gezíşken adj. plimbăreț; pribeag.
+gezíşme s. peregrinare; plimbare.
+gezíşmek A. v.i. a umbla; a se plimba. B. v.t. a cutreiera; a colinda; a străbate.
+gezme s. plimbare.
+gezmek A. v.i. 1. a umbla; a merge. 2. a se plimba. B. v.t. a vizita; a vedea. // ●ányakka-mínyakka gezmek — a umbla de colo până colo; a nu avea stare; a se fâțâi. ●ayaklarnîñ arasînda gezmek — a sta în picioarele cuiva; a-l încurca. ●boş gezmek — a umbla în dorul lelii; a umbla fără rost; a hoinări. ●gezíp dolaşmak — a se plimba; a hoinări; a da o raită. ●gezíp tozmak — a se plimba; a hoinări. ●kollarda gezmek — a fi ținut ca în palmă. ●laf gezmek — a umbla vorba; a se zvoni. ●tebdil gezmek — a umbla deghizat. ●tíllerde gezmek — a umbla din gură în gură; a i se duce vestea. // ●babamnî gezmege şîgardîm — l-am scos pe tata la plimbare. ●gezmekte payda yok — plimbatul n-are folos. ●maksatîñ gezmektír — scopul tău este plimbarea. ●men men gezmege şîgarsîñ mî? — vrei să ieşi la plimbare cu mine? ; ●papîr man gezgím kele — aş vrea să fac o croazieră.
+gezúw s. 1. călătorie; voiaj. 2. plimbare. // ●kîdîruwğuluk gezúwí — excursie turistică.
+gezúwğí I. s. excursionist; turist. II. s., adj. ambulant. // ●gezúwğí túğğar — negustor ambulant. ●gezúwğí yîldîz — planetă.
+gezúwğí-martî s. (orn.) lup de mare (lat., Stercorarius pomarinus).
+gezúwğúlúk s. călătorie; voiaj.
+Ghana s. (topon.) Ghana.
+ghanalî s., adj. ghanez.
+gibí postp. ca şi; la fel cu; aşa cum; precum; după cum. // ●gibí kelmek — a părea; a da impresia de… ; // ●bala gibí — precum copii; pueril. ●bo kabak bal gibí tatlî — dovleacul acesta este dulce ca mierea. ●kerek gibí şalîşmay — nu funcționează cum trebuie. ●kîdîruwğî gibí keldím — am venit ca turist. ●ólím gibí úrkútken — macabru.
+gidon s. ghidon.
+gilotina s. ghilotină.
+girdap s. vârtej de apă; vâltoare.
+gişew s. ghişeu. // ●kaysî gişewde zarf satîla? — la ce ghişeu se vând plicuri? ;
+gitar s. (muz.) chitară.
+gitarğî s. (muz.) chitarist.
+gizem s. mister.
+gizemğí s. mistic.
+gizemğíleşken adj. mistificat.
+gizemğíleştírme s. mistificare.
+gizemğíleştírmek v.t. a mistifica.
+gizemğíleştírúw s. mistificare.
+gizemğílík s. misticism.
+gizemlí adj. misterios; tainic.
+gísímlendírílgen adj. materializat; personificat; întruchipat.
+gíz s. taină; enigmă; secret.
+gízleme s. ascundere; disimulare; tăinuire.
+gízlemek v.t. 1. a ascunde; a dosi. 2. a ține în secret; a tăinui (ştiri, informații).
+gízlengen adj. ascuns; disimulat; tăinuit.
+gízlenmek v.i. 1. a se ascunde. 2. a se furişa; a se strecura.
+gízlew s. ascundere; disimulare; tăinuire.
+gízlí adj. 1. ascuns; dosit. 2. tăinuit. 3. tainic; misterios. 4. latent. // ●gízlí tutmak — a ascunde; a tăinui.
+gízlíğe adv. pe ascuns; în taină; în secret; clandestin.
+gízlíğílík s. ocultism.
+gízlítutuw s. ascundere; tăinuire.
+gîda s. hrană; aliment.
+gîdalandîrmak v.t. a hrăni; a alimenta.
+gîdalandîruwğî adj. hrănitor; nutritiv.
+gîdalanmak v.i. a se hrăni; a se alimenta.
 `;
