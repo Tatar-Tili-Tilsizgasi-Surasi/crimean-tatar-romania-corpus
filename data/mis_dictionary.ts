@@ -2,7 +2,7 @@ export const misDictionaryRawText: string = `
 Awustin s. (topon.) Austin.
 Çikago s. Chicago.
 çm s. (abreviere pentru „çentimetre” = centimetru) cm
-Ferduwsiy s. (antrop. m., prsn.) nume legendar persan.
+Ferdusiy s. (antrop. m., prsn.) nume legendar persan.
 Fukuşima s. (topon.) Fukushima, Japan.
 gayîn s. numele literei «غ» din scrierea arabă.
 Ğadîlar Bayramî s. Halloween.
