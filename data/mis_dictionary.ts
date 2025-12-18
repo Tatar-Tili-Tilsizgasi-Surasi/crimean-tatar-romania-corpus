@@ -12,9 +12,9 @@ Kaliforniye s. (topon.) California.
 kaf s. numele literei «ق» din scrierea arabă.
 Kîş-Babay s. 1. „Tatăl Iernii” (un bărbat care aduce cadouri în ajunul Anului Nou). 2. Moș Crăciun.
 koktayil s. cocktail.
-Korasan s. (antrop. m., prsn.) nume legendar persan.
-Korezm s. (antrop. m., prsn.) nume legendar persan.
-Korezmiy, El- s. (antrop. m., prsn.) nume legendar persan. // ● El-Korezmiy ifadesí — (fon.) predictibilitate (termen special folosit în fonetica limbii tătare).
+Korasan s. (topon., ist.) Khorassan.
+Korezm s. (topon., ist.) Khwarazm.
+Korezmiy, El- s. (antrop. m., prsn.) "Khwarezmian" // ● El-Korezmiy ifadesí — (fon.) predictibilitate (termen special folosit în fonetica limbii tătare).
 malayiz s., adj. malaez/malaezian.
 Malayiziye s. (topon.) Malaezia.
 malayiziyelí s., adj. malaez/malaezian.
