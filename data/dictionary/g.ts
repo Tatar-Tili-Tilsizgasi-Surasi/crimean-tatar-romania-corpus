@@ -449,7 +449,7 @@ grafoloğiyağî s. grafolog.
 grafoloğiyalî adj. grafologic.
 gram s. gram.
 gramatika s. gramatică.
-gramatikal adj. gramatical. // ●tíl sîzgasî óznesí — (gram.) subiect gramatical.
+gramatikal adj. gramatical. // ●tílsîzgasî óznesí — (gram.) subiect gramatical.
 gramatikalî adj. gramatical.
 gramer s. gramatică.
 gramofon s. gramofon.
