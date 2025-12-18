@@ -28,6 +28,6 @@ partiy s. petrecere; party.
 şîşkan s. şoarece.
 Teksas s. (topon.) Texas.
 Virjiniye s. (topon.) Virginia.
-zeban s. (lingv., prsn.) limbă; vorbire. //● zeban-î farsiy/parsiy — iz.prsn. limbă persană.
+zeban s. (lingv., prsn.) limbă; vorbire. //● zeban-î farsiy/parsiy — iz.prsn. limba persană.
 zombiy s. zombi.
 `;
