@@ -24,6 +24,7 @@ parslî adj. persan; iranian.
 parsşa adv. în limba persană.
 pisiy s. pisică.
 partiy s. petrecere; party.
+santur s. (muz.) ţambal.
 Şînğa s. (topon.) Xinjiang, China.
 şîşkan s. şoarece.
 Teksas s. (topon.) Texas.
