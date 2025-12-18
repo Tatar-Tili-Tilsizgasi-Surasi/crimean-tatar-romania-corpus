@@ -353,4 +353,140 @@ gîda s. hrană; aliment.
 gîdalandîrmak v.t. a hrăni; a alimenta.
 gîdalandîruwğî adj. hrănitor; nutritiv.
 gîdalanmak v.i. a se hrăni; a se alimenta.
+gîdalî adj. hrănitor; nutritiv.
+gîdasîz adj. nehrănitor; lipsit de valoare nutritivă.
+gîdasîzlîk s. malnutriție.
+gîdayiy adj. alimentar.
+gîna s. 1. îndestulare; abundență; belşug. 2. (fig.) saturație; dezgust.
+gîpta s. invidie; pizmă.
+gîrnata s. (muz.) clarinet.
+gîrnatağî s. (muz.) clarinetist.
+gîrtlak s. (anat.) laringe. // ●gîrtlak sesí — (lingv.) sunet gutural. ●gîrtlak tartîkawazî — (lingv.) consoană postvelară.
+gîrtlakbaşî adj. (fon.) postvelar; gutural; din gât.
+gîrtlakbaşîndan adv. gutural; din gât.
+gîrtlakkakelúw s. încăierare.
+gîrtlakkapagî s. (anat.) epiglotă.
+gîyîk s. 1. (agr.) mraniță; gunoi; îngrăşamânt; fertilizator. 2. baligă de oaie.
+gîyîklama s. îngrăşare; fertilizare.
+gîyîklamak A. v.i. (d. oi) a se băliga. B. v.t. 1. (d. sol) a îngrăşa; a fertiliza. 2. (d. oi) a băliga; a murdări de baligă; a umple de baligă.
+gîyîklangan adj. (d. sol) îngrăşat; fertilizat.
+gîyîklanmak v.i. (d. sol) a se îngrăşa; a se fertiliza.
+gîyîklaw s. îngrăşare; fertilizare.
+gîyîklî adj. (d. sol) îngrăşat; fertilizat.
+gladiyator s. gladiator.
+glanda s. (anat.) glandă.
+glawukom s. (med.) glaucom.
+gliçerina s. glicerină.
+global I. adj. 1. global; mondial; universal. 2. total. II. adv. global; în ansamblu.
+glop s. planeta Pământ; glob pământesc; glob.
+glukoza s. (chim.) glucoză.
+gluten s. gluten.
+gnoseoloğik adj. (fil.) gnoseologic.
+gnoseoloğiya I. adj. (fil.) gnoseologic. II. s. (fil.) gnoseologie.
+gnoseoloğiyağî s. (fil.) gnoseolog.
+gnoseoloğiyalî adj. (fil.) gnoseologic.
+gnostiçism s. (fil.) gnosticism.
+gnostik s., adj. (fil.) gnostic.
+gol s. (sport) gol. // ●gol aşamak — (sport) a primi un gol. ●gol atmak — (sport) a marca gol. ●gol bolmak — (sport) a se înscrie gol. // ●golnî kím attî? — cine a marcat golul? ;
+golf s. (sport) golf.
+gondola s. gondolă.
+gondolağî s. gondolier.
+goniyo adj. gonio.
+goniyometre s. (tehn.) goniometru.
+gonk s. gong.
+gonokok s. gonococ; microbul blenoragiei.
+gonore s. (med.) gonoree; blenoragie.
+gonorelí adj. (med.) bolnav de gonoree.
+gorila s. (zool.) gorilă (lat., Gorilla gorilla).
+gotik adj. gotic. // ●gotik hárfler — litere gotice. ●gotik píşím — stil gotic. ●gotik tarzda — în stil gotic. ●gotik yazî — scriere gotică.
+góden s. (anat.) colon.
+gómelegí, kafatasî- s. (ent.) strigă; cap-de-mort; suflet-de-strigoi (lat., Acherontia atropos).
+gómelegí, kapîsta- s. (ent.) albiliță; fluture-alb; fluture-de-varză (lat., Pieris brassicae).
+gómelek s. 1. fluture. 2. (tehn.) paletă; fluture.
+gómelek, ğîykîldagan- s. (ent.) strigă; cap-de-mort; suflet-de-strigoi (lat., Acherontia atropos).
+gómelekotî s. (bot.) papanaşi; cercură; mohorel (lat., Trifolium arvense).
+gómelek-salebí s. (bot.) gemănariță (lat., Orchis papilionacea).
+gómeş s. fagure de miere.
+góñíl s. 1. inimă. 2. voință. 3. dorință; poftă. 4. dragoste; afecțiune; ataşament. 5. consimțământ; asentiment. 6. mândrie; orgoliu; vanitate. 7. stare sufletească. // ●góñíl baylamak — a-şi lega inima de cineva; a se îndrăgosti; a se devota. ●góñíl bermek — a-şi dărui inima cuiva; a se îndrăgosti; a se devota. ●góñíl kaptîrmak — a i se fura inima; a fi fermecat; a se îndrăgosti. ●góñílden şîgarmak — a scoate pe cineva de la inimă; a nu-l mai avea la inimă. ●góñílí aşîlmak — a se înveseli; a se distra. ●góñílí bolmak — a avea tragere de inimă. ●góñílí şókmek — a-şi pierde inima; a se descuraja. ●góñílí túşmek — a i se strânge inima; a se posomorî; a se întrista. ●góñílín almak/etmek — a-i face pe plac; a-l mulțumi; a-l satisface. ●góñílín karartmak — a-i strica cuiva inima; a-l întrista; a-l mâhni. ●góñílín okşalamak — a-i ține cuiva inima; a-l consola. ●góñílíne túşmek — a-i cădea cu drag; a-i cădea la inimă; a-l îndrăgi. // ●góñíl borîşî — mulțumire; gratitudine. ●góñílí bol — cu inimă largă. ●góñílí ganiy — mărinimos; darnic. ●góñílíñ taza bolsa — dacă ți-e sufletul curat.
+góñílaluw s. 1. satisfacere; mulțumire. 2. mulțumire; satisfacție.
+góñílaşîlmasî s. delectare; desfătare; înveselire; înseninare.
+góñílaşkan adj. distractiv.
+góñílbaylagan adj. amorezat; îndrăgostit.
+góñílbaylaw s. amor; amorezare; dragoste; îndrăgostire.
+góñílbergen adj. amorezat; îndrăgostit.
+góñílberúw s. amor; amorezare; dragoste; îndrăgostire.
+góñílden adv. din toată inima.
+góñílíalîngan adj. satisfăcut; mulțumit; împăcat.
+góñílíaşîk adj. vesel; voios; bine dispus.
+góñílíaşîlgan adj. delectat; desfătat; distrat; înveselit; vesel; dispus.
+góñílíkarargan adj. mâhnit; trist; posomorât; afectat.
+góñílíokşalangan adj. 1. consolat; alinat. 2. alintat; dezmierdat.
+góñílíokşalanmaz adj. neconsolat.
+góñílíşókken adj. decepționat; demoralizat; deprimat; descumpănit; descurajat; dezamăgit; deziluzionat; dezolat.
+góñílítaşîgan adj. euforic.
+góñílítúşken adj. posomorât; mâhnit; întristat.
+góñílkapkan adj. pasionant.
+góñílkaptîrgan adj. pasionat.
+góñílkaptîrmasî s. pasiune; slăbiciune.
+góñíllí s., adj. voluntar. // ●ganiy góñíllí — generos; darnic. ●kara góñíllí — mâhnit.
+góñíllílík s. voluntarism.
+góñílokşalagan adj. alintător.
+góñílokşalamasî s. 1. alinare; consolare. 2. alintare; dezmierdare.
+góñílsíz I. adj. modest; simplu. II. adv. fără tragere de inimă; fără chef; în silă; trist.
+góñílsízlík s. 1. demobilizare; descurajare; demoralizare. 2. amărăciune; deprimare; întristare; mâhnire; tristețe; posomorâre.
+góñílşókmesí s. decepție; demoralizare; deprimare; descurajare; dezamăgire; deziluzie; dezolare.
+góñílşóktírgen adj. descurajant; dezolant.
+góñíltaşîmasî s. euforie.
+góñíltúşmesí s. mâhnire; posomorâre; întristare.
+grafik s., adj. grafic. // ●grafik sanatî — artă grafică.
+grafika s. grafică.
+grafikağî s. grafician.
+grafit s. (geol.) grafit.
+grafitlí adj. (geol.) grafitat.
+grafoloğik adj. grafologic.
+grafoloğiya I. adj. grafologic. II. s. grafologie.
+grafoloğiyağî s. grafolog.
+grafoloğiyalî adj. grafologic.
+gram s. gram.
+gramatika s. gramatică.
+gramatikal adj. gramatical. // ●tíl sîzgasî óznesí — (gram.) subiect gramatical.
+gramatikalî adj. gramatical.
+gramer s. gramatică.
+gramofon s. gramofon.
+granadalî s., adj. grenadian.
+granat s. (geol.) granat.
+granatrengí adj. grena.
+granit s. granit.
+granula s. granulă.
+granulasiya s. granulație; granulozitate.
+granulit s. (geol.) granulit.
+grat s. (mat.) grad.
+gravitasiya s. (fiz.) gravitație.
+gravitasiyalî adj. (fiz.) gravitațional.
+gravura s. gravură.
+gravurağî s. gravor.
+gravurağîlîk s. gravură.
+grayder s. (constr.) greder; maşină de profilat drumuri.
+gref s. grefă; transplant.
+grefleme s. grefă; grefare; transplant; transplantare.
+greflemek v.t. a grefa; a transplanta.
+greflengen adj. grefat; transplantat.
+greflí adj. grefat; transplantat.
+grekoroman s. (sport) lupte greco-romane.
+grena adj. grena.
+Grenada s. (topon.) Grenada.
+grepfurt s. grepfrut (fruct).
+grepfurtteregí s. (bot.) grepfrut (arbore) (lat., Citrus paradisi).
+greva s. grevă.
+grevağî s. grevist.
+gril s. grătar.
+gripa s. (med.) gripă.
+gripaj s. (tehn.) gripare.
+griy adj. cenuşiu; gri; sur.
+grup s. grup. // ●ğañîdan gruplarga ayîrîlma — regrupare. ●şalgîğî grubî — taraf.
+grupa s. grupă.
+gruplaşma s. regrupare.
+gruplaşmak v.i. a se regrupa.
+gruplaştîrmak v.t. a grupa; a regrupa.
+guç num. (mong.) treizeci.
 `;
