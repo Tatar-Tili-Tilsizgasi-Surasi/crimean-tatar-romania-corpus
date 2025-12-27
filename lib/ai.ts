@@ -4,7 +4,6 @@ import { CorpusEntry } from '../types';
 import {
     CRIMEAN_TATAR_RO_ORTHOGRAPHY_INFO,
     CRIMEAN_TATAR_RO_SCT_DT_SUMMARY_INFO,
-    CRIMEAN_TATAR_RO_TERMINOLOGY_PREFERENCE,
     CRIMEAN_TATAR_RO_VOWEL_HARMONY_INFO,
     CRIMEAN_TATAR_RO_PHONETIC_CHANGES_INFO,
     CRIMEAN_TATAR_RO_EXAMPLES
@@ -48,7 +47,22 @@ Reverse the common dialect shifts to standard orthography (e.g., ş -> ç where 
 ### CRITICAL INSTRUCTIONS:
 1. **CORPUS PRIORITY:** Use the "Corpus Matches" as the primary source for vocabulary and grammar.
 2. **TOPOGRAPHY:** For countries, cities, and regions, use existing proper nouns from the corpus. NEVER invent new words. If a place name is missing, ADOPT it from Romanian according to the rules in the "Foreign Words Adoption" section.
-3. **PURISM & TERMINOLOGY:** Prefer traditional (Persian/Arabic/Turkic) terms (e.g., ómírbílímí, riyaziyet) over Romanian/European loans whenever they exist in the provided terminology list.
+3. **PURISM & TERMINOLOGY:** Prefer traditional (Persian/Arabic/Turkic) terms over modern Romanian/European loans whenever possible. 
+   STRICTLY USE these equivalents if they arise:
+   - ómírbílímí (instead of biyoloğiya)
+   - felekiyat (instead of astronomiya)
+   - satuwanğîlîk (instead of komers)
+   - şagîlgan (instead of elektrik)
+   - fen (instead of tehnika)
+   - kazîmbílímí (instead of arheoloğiya)
+   - maşinaaydamasî (instead of awtomobilism)
+   - riyaziyet (instead of matematika)
+   - nebatat (instead of botanika)
+   - iktisat (instead of ekonomiya)
+   - ğismaniyet (instead of fizika)
+   - darúlfúnun (instead of universitet)
+   - umum (instead of universal)
+   - haywanatbílímí (instead of zooloğiya)
 4. **LOAN ADOPTION:** If no traditional term or topography entry exists, follow the Romanian loan adoption rules strictly (e.g., Spania -> Spaniye, biologia -> biyoloğiya).
 5. **STRICT ORTHOGRAPHY:**
    - NO 'ö', 'ü', 'ı', 'c', 'â'.
@@ -58,7 +72,6 @@ Reverse the common dialect shifts to standard orthography (e.g., ş -> ç where 
 ### LINGUISTIC DATABASE
 ${CRIMEAN_TATAR_RO_ORTHOGRAPHY_INFO}
 ${CRIMEAN_TATAR_RO_SCT_DT_SUMMARY_INFO}
-${CRIMEAN_TATAR_RO_TERMINOLOGY_PREFERENCE}
 ${CRIMEAN_TATAR_RO_VOWEL_HARMONY_INFO}
 ${CRIMEAN_TATAR_RO_PHONETIC_CHANGES_INFO}
 
