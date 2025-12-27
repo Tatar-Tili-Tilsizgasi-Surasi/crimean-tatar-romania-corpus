@@ -24,8 +24,9 @@ ok s. (abreviere pentru „okka” = kilogram) kg
 pars s., adj. persan; iranian. 
 parslî adj. persan; iranian.
 parsşa adv. în limba persană.
-pisiy s. pisică.
 partiy s. petrecere; party.
+pisiy s. pisică.
+piynír s. (gastron.) brânză.
 santur s. (muz.) ţambal.
 Şînğa s. (topon.) Xinjiang, China.
 şîşkan s. şoarece.
