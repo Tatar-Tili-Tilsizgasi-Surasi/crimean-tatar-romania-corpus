@@ -1,6 +1,6 @@
 export const misDictionaryRawText: string = `
 Awustin s. (topon.) Austin.
-Çikago s. Chicago.
+Çikago s. (topon.) Chicago.
 çm s. (abreviere pentru „çentimetre” = centimetru) cm
 dasitan s. (lit.) epic.
 Ferdusiy s. (antrop. m., prsn.) nume legendar persan.
@@ -8,7 +8,7 @@ Fukuşima s. (topon.) Fukushima, Japan.
 gayîn s. numele literei «غ» din scrierea arabă.
 Ğadîlar Bayramî s. Halloween.
 Ğañî Sene s. Anul Nou. // ● Ğañî Sene keşesí — Revelion.
-Ğorğiye s. Georgia, USA.
+Ğorğiye s. (topon.) Georgia, USA.
 Kaliforniye s. (topon.) California.
 kaf s. numele literei «ق» din scrierea arabă.
 Kîş-Babay s. 1. „Tatăl Iernii” (un bărbat care aduce cadouri în ajunul Anului Nou). 2. Moș Crăciun.
@@ -19,6 +19,7 @@ Korezmiy, El- s. (antrop. m., prsn.) "Khwarezmian" // ● El-Korezmiy ifadesí �
 malayiz s., adj. malaez/malaezian.
 Malayiziye s. (topon.) Malaezia.
 malayiziyelí s., adj. malaez/malaezian.
+mazdayasna s. (relig.) zoroastrism.
 ok s. (abreviere pentru „okka” = kilogram) kg 
 pars s., adj. persan; iranian. 
 parslî adj. persan; iranian.
@@ -31,5 +32,8 @@ santur s. (muz.) ţambal.
 Teksas s. (topon.) Texas.
 Virjiniye s. (topon.) Virginia.
 zeban s. (lingv., prsn.) limbă; vorbire. //● zeban-î farsiy/parsiy — iz.prsn. limba persană.
+Zerúdúşt s. (antrop. m., prsn.) Zoroastru; Zarathustra.
+zerúdúştşí s., adj. (relig.) zoroastrist.
+zerúdúştşúlúk s. (relig.) zoroastrism.
 zombiy s. zombi.
 `;
