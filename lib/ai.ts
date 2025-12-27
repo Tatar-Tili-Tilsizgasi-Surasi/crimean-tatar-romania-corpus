@@ -10,6 +10,7 @@ import {
 } from '../data/promptData';
 import { foreignWordsAdoptionInfo } from '../data/foreign_words_adoption';
 
+// Use a single instance for efficiency
 const ai = new GoogleGenAI({ apiKey: process.env.API_KEY });
 
 export async function getAITranslation(
@@ -18,97 +19,61 @@ export async function getAITranslation(
     targetLang: string,
     contextMatches: CorpusEntry[] = []
 ): Promise<string> {
-    const distinctContext = Array.from(new Set(contextMatches.map(e => `${e.text} <=> ${e.translation}`))).slice(0, 50);
+    // Reduced slice from 50 to 15 to significantly improve latency
+    const distinctContext = Array.from(new Set(contextMatches.map(e => `${e.text} <=> ${e.translation}`))).slice(0, 15);
     const contextString = distinctContext.join('\n');
 
     let specificTaskInstruction = '';
     if (sourceLang === 'Crimean Tatar (Standard)' && targetLang === 'Crimean Tatar (Romania)') {
         specificTaskInstruction = `
-### SPECIAL TASK: DIALECT CONVERSION (Standard CT -> Romania CT)
-You are converting Standard Crimean Tatar to the Romania (Dobruja) dialect.
-STRICTLY APPLY these shifts:
-- **Vowels:** ö -> ó, ü -> ú, ı -> î (or í depending on harmony), i -> í (often reduced).
-- **Consonants:** ç -> ş (MANDATORY), c -> ğ (MANDATORY), f -> p (authentic words), v -> w (authentic words).
-- **Lexicon:** Replace Standard CT words with Dobrujan equivalents where they differ (e.g., use 'balaban' instead of 'büyük', 'kóp' instead of 'çoq').
-- **Grammar:** Use 'man/men' for 'with' instead of '-nen/-len'.
-`;
+### DIALECT CONVERSION: Standard CT -> Romania CT
+- Vowels: ö->ó, ü->ú, ı->î, i->í.
+- Consonants: ç->ş, c->ğ, f->p, v->w.
+- Replace 'büyük' with 'balaban', 'çoq' with 'kóp'.
+- Use 'man/men' for 'with'.`;
     } else if (sourceLang === 'Crimean Tatar (Romania)' && targetLang === 'Crimean Tatar (Standard)') {
-        specificTaskInstruction = `
-### SPECIAL TASK: DIALECT CONVERSION (Romania CT -> Standard CT)
-You are converting the Romania (Dobruja) dialect back to Standard Crimean Tatar.
-Reverse the common dialect shifts to standard orthography (e.g., ş -> ç where appropriate, ğ -> c, ó -> ö, ú -> ü).
-`;
+        specificTaskInstruction = `### DIALECT CONVERSION: Romania CT -> Standard CT`;
     } else {
-        specificTaskInstruction = `Translate from ${sourceLang} to ${targetLang}. Ensure the ${targetLang === 'Crimean Tatar (Romania)' ? 'Crimean Tatar (Romania)' : sourceLang} adheres strictly to its specific orthography and vocabulary rules.`;
+        specificTaskInstruction = `Translate from ${sourceLang} to ${targetLang}.`;
     }
 
-    const systemInstruction = `You are an expert linguist specializing in the **Crimean Tatar language as spoken in Romania (Dobruja dialect)**.
+    const systemInstruction = `You are an expert linguist for the Crimean Tatar language in Romania (Dobruja dialect).
 
-### CRITICAL INSTRUCTIONS:
-1. **CORPUS PRIORITY:** Use the "Corpus Matches" as the primary source for vocabulary and grammar.
-2. **TOPOGRAPHY:** For countries, cities, and regions, use existing proper nouns from the corpus. NEVER invent new words. If a place name is missing, ADOPT it from Romanian according to the rules in the "Foreign Words Adoption" section.
-3. **PURISM & TERMINOLOGY:** Prefer traditional (Persian/Arabic/Turkic) terms over modern Romanian/European loans whenever possible. 
-   STRICTLY USE these equivalents if they arise:
-   - ómírbílímí (instead of biyoloğiya)
-   - felekiyat (instead of astronomiya)
-   - satuwanğîlîk (instead of komers)
-   - şagîlgan (instead of elektrik)
-   - fen (instead of tehnika)
-   - kazîmbílímí (instead of arheoloğiya)
-   - maşinaaydamasî (instead of awtomobilism)
-   - riyaziyet (instead of matematika)
-   - nebatat (instead of botanika)
-   - iktisat (instead of ekonomiya)
-   - ğismaniyet (instead of fizika)
-   - darúlfúnun (instead of universitet)
-   - umum (instead of universal)
-   - haywanatbílímí (instead of zooloğiya)
-4. **LOAN ADOPTION:** If no traditional term or topography entry exists, follow the Romanian loan adoption rules strictly (e.g., Spania -> Spaniye, biologia -> biyoloğiya).
-5. **STRICT ORTHOGRAPHY:**
-   - NO 'ö', 'ü', 'ı', 'c', 'â'.
-   - USE ONLY: 'ó', 'ú', 'î', 'í', 'ğ', 'ş', 'ñ'.
+RULES:
+1. TOPOGRAPHY: Use proper nouns for countries/cities from context. If missing, adopt from Romanian. NEVER invent.
+2. PURISM: Prefer traditional terms (ómírbílímí, felekiyat, riyaziyet, nebatat, iktisat, darúlfúnun, haywanatbílímí) over Romanian loans.
+3. LOANS: If no traditional term exists, follow the Romanian adoption rules strictly (e.g., -logia -> -loğiya).
+4. ORTHOGRAPHY: NO 'ö', 'ü', 'ı', 'c', 'â'. USE: 'ó', 'ú', 'î', 'í', 'ğ', 'ş', 'ñ'.
+5. CORPUS: Use provided matches for vocabulary priority.
 
----
-### LINGUISTIC DATABASE
+DATABASE:
 ${CRIMEAN_TATAR_RO_ORTHOGRAPHY_INFO}
 ${CRIMEAN_TATAR_RO_SCT_DT_SUMMARY_INFO}
 ${CRIMEAN_TATAR_RO_VOWEL_HARMONY_INFO}
 ${CRIMEAN_TATAR_RO_PHONETIC_CHANGES_INFO}
-
-### FOREIGN WORDS ADOPTION (RULES & EXAMPLES)
 ${foreignWordsAdoptionInfo}
-
-### REFERENCE EXAMPLES
-${CRIMEAN_TATAR_RO_EXAMPLES}
----
-`;
+${CRIMEAN_TATAR_RO_EXAMPLES}`;
 
     const userPrompt = `
 ${specificTaskInstruction}
-
-Input Text (${sourceLang}):
-"${text}"
-
-Corpus Matches (Vocabulary Context - HIGH PRIORITY):
-${contextString || 'No direct corpus matches.'}
-
-Output only the translation in ${targetLang}:
-`;
+Input (${sourceLang}): "${text}"
+Context:
+${contextString || 'None.'}
+Output only the ${targetLang} translation:`;
 
     try {
         const response = await ai.models.generateContent({
             model: 'gemini-3-flash-preview',
+            contents: [{ parts: [{ text: userPrompt }] }],
             config: {
                 systemInstruction: systemInstruction,
                 temperature: 0.1,
             },
-            contents: userPrompt,
         });
 
-        return response.text?.trim() || "";
-
+        return response.text?.trim() || "Translation unavailable.";
     } catch (error) {
         console.error("AI Translation Error:", error);
-        return "Translation failed. Please check your connection and try again.";
+        return "Translation failed. Please try again.";
     }
 }
