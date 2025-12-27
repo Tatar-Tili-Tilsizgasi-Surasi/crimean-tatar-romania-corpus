@@ -4,6 +4,8 @@ import { CorpusEntry } from '../types';
 import {
     CRIMEAN_TATAR_RO_ORTHOGRAPHY_INFO,
     CRIMEAN_TATAR_RO_SCT_DT_SUMMARY_INFO,
+    CRIMEAN_TATAR_RO_TERMINOLOGY_PREFERENCE,
+    CRIMEAN_TATAR_RO_FOREIGN_ADOPTION_RULES,
     CRIMEAN_TATAR_RO_VOWEL_HARMONY_INFO,
     CRIMEAN_TATAR_RO_PHONETIC_CHANGES_INFO,
     CRIMEAN_TATAR_RO_EXAMPLES
@@ -17,11 +19,9 @@ export async function getAITranslation(
     targetLang: string,
     contextMatches: CorpusEntry[] = []
 ): Promise<string> {
-    // 1. Construct Context Matching String
     const distinctContext = Array.from(new Set(contextMatches.map(e => `${e.text} <=> ${e.translation}`))).slice(0, 50);
     const contextString = distinctContext.join('\n');
 
-    // 2. Customized Instruction based on Language Pair
     let specificTaskInstruction = '';
     if (sourceLang === 'Crimean Tatar (Standard)' && targetLang === 'Crimean Tatar (Romania)') {
         specificTaskInstruction = `
@@ -43,21 +43,23 @@ Reverse the common dialect shifts to standard orthography (e.g., ş -> ç where 
         specificTaskInstruction = `Translate from ${sourceLang} to ${targetLang}. Ensure the ${targetLang === 'Crimean Tatar (Romania)' ? 'Crimean Tatar (Romania)' : sourceLang} adheres strictly to its specific orthography and vocabulary rules.`;
     }
 
-    // 3. Build the Massive System Prompt
     const systemInstruction = `You are an expert linguist specializing in the **Crimean Tatar language as spoken in Romania (Dobruja dialect)**.
-This dialect has unique orthography, phonology, and lexicon compared to Standard Crimean Tatar or Turkish.
 
 ### CRITICAL INSTRUCTIONS:
-1. **CORPUS PRIORITY:** The "Corpus Matches" provided below are your ABSOLUTE primary source for vocabulary. If a word is in the corpus matches, use that exact translation.
-2. **STRICT ORTHOGRAPHY for Crimean Tatar (Romania):**
+1. **CORPUS AND DATA PRIORITY:** The "Corpus Matches" and provided terminology lists are your ABSOLUTE primary source.
+2. **TOPOGRAPHY:** Use existing proper nouns for countries, cities, and regions. NEVER invent new words for topography. If a translation is missing, ADOPT it from Romanian using the provided rules.
+3. **TERMINOLOGY PREFERENCE:** Use traditional (Persian/Arabic/Turkic) terms (e.g., ómírbílímí, felekiyat) over modern Romanian/European loans whenever they exist.
+4. **LOAN ADOPTION:** If no traditional term or topography match exists, follow the Romanian loan adoption rules (e.g., -logia -> -loğiya).
+5. **STRICT ORTHOGRAPHY:**
    - NO 'ö', 'ü', 'ı', 'c', 'â'.
-   - USE ONLY: 'ó', 'ú', 'î' (back unrounded), 'í' (front unrounded), 'ğ' (/dʒ/), 'ş' (/ʃ/ - replaces most 'ç'), 'ñ'.
-3. **AUTHENTICITY:** Prefer authentic Dobrujan vocabulary (often Nogay-influenced or archaic) over modern Turkish loanwords unless they are established academic terms.
+   - USE ONLY: 'ó', 'ú', 'î', 'í', 'ğ', 'ş', 'ñ'.
 
 ---
-### LINGUISTIC DATABASE (STRICT ADHERENCE REQUIRED)
+### LINGUISTIC DATABASE
 ${CRIMEAN_TATAR_RO_ORTHOGRAPHY_INFO}
 ${CRIMEAN_TATAR_RO_SCT_DT_SUMMARY_INFO}
+${CRIMEAN_TATAR_RO_TERMINOLOGY_PREFERENCE}
+${CRIMEAN_TATAR_RO_FOREIGN_ADOPTION_RULES}
 ${CRIMEAN_TATAR_RO_PHONETIC_CHANGES_INFO}
 ${CRIMEAN_TATAR_RO_VOWEL_HARMONY_INFO}
 
@@ -80,10 +82,10 @@ Output only the translation in ${targetLang}:
 
     try {
         const response = await ai.models.generateContent({
-            model: 'gemini-2.5-flash',
+            model: 'gemini-3-flash-preview',
             config: {
                 systemInstruction: systemInstruction,
-                temperature: 0.3, // Low temp for accuracy and adherence to rules
+                temperature: 0.1,
             },
             contents: userPrompt,
         });
