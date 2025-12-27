@@ -13,6 +13,7 @@ milk chocolate → sútlí çokolata "chocolate with (includes) milk"
 soccer match → fotbal meçí "match of soccer"
 botanic energy → botanika enerğiyasî "energy of botanic"
 Romanian passport → ruman paşaportî
+the keyboard of the PC can't show the letter A with circumflex → bílgísayarnîñ klawiyaturasî şapkalî A hárfíní kóstere-almay
 
 Which kind or which one of loans words (Romanian loans) to use?
 Terms wich do not exist in the language, example ençiklopediya (enciclopedie)
