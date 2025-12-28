@@ -1,5 +1,6 @@
 export const misDictionaryRawText: string = `
 Awustin s. (topon.) Austin.
+bardak-erígí s. prună.
 Çikago s. (topon.) Chicago.
 çm s. (abreviere pentru „çentimetre” = centimetru) cm
 dasitan s. (lit.) epic.
