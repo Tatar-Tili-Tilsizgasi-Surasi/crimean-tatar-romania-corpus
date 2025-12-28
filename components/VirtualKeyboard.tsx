@@ -127,134 +127,95 @@ const VirtualKeyboard: React.FC<VirtualKeyboardProps> = ({ entries }) => {
     const inputRef = useRef<HTMLTextAreaElement>(null);
     const longPressTimer = useRef<ReturnType<typeof setTimeout> | null>(null);
     
-    // Prediction Model (Bigram + Frequency)
+    // Prediction Model
     const predictionModel = useMemo(() => {
+        const casingMap = new Map<string, Set<string>>();
         const freqMap = new Map<string, number>();
         const bigramMap = new Map<string, Map<string, number>>();
-        const properNouns = new Set<string>();
-        const lowercaseOccurrences = new Set<string>();
 
-        // Regex to tokenize:
-        // Group 1: Words (alphabetic + dialect characters + apostrophe/hyphen). NO NUMBERS.
-        // Group 2: Sentence delimiters (. ? !)
         const tokenizerRegex = /([a-zA-ZáÁçÇğĞíÍîÎñÑóÓşŞúÚţŢ]+(?:['\-][a-zA-ZáÁçÇğĞíÍîÎñÑóÓşŞúÚţŢ]+)*)|([.?!]+)/g;
-
-        // Note: Words in brackets () are Romania equivalents and are excluded
         const extraWordsList = Words.split(',').map(s => s.replace(/\s*\(.*?\)/g, '').trim()).filter(Boolean);
-        
-        // Pass 0: Pre-scan for all lowercase and proper nouns across both datasets
-        extraWordsList.forEach(w => {
-            const tokens = w.split(/[\s\-]/);
-            tokens.forEach(t => {
-                const clean = t.replace(/^[']+|[']+$/g, '');
-                if (!clean) return;
-                if (/^[A-ZÁÇĞÍÎÑÓŞÚŢ]/.test(clean)) {
-                    properNouns.add(clean);
-                } else {
-                    lowercaseOccurrences.add(clean.toLowerCase());
-                }
-            });
-        });
 
-        entries.forEach(entry => {
-            const matches = entry.text.matchAll(tokenizerRegex);
-            let isStart = true;
-            for (const match of matches) {
-                if (match[2]) { isStart = true; continue; }
-                if (match[1]) {
-                    const word = match[1];
-                    const isCapitalized = /^[A-ZÁÇĞÍÎÑÓŞÚŢ]/.test(word);
-                    if (!isCapitalized) {
-                        lowercaseOccurrences.add(word.toLowerCase());
-                    } else if (!isStart) {
-                        properNouns.add(word);
-                    }
-                    isStart = false;
-                }
-            }
-        });
-
-        // Strict Proper Nouns: words seen capitalized that NEVER appear in lowercase elsewhere
-        const strictProperNounsMap = new Map<string, string>();
-        properNouns.forEach(pn => {
-            const lower = pn.toLowerCase();
-            if (!lowercaseOccurrences.has(lower)) {
-                strictProperNounsMap.set(lower, pn);
-            }
-        });
-
-        // Helper to process token streams for Freq/Bigram
-        const processTokenStream = (matches: IterableIterator<RegExpMatchArray>) => {
-            let isStartOfSentence = true;
+        const processText = (text: string) => {
+            const matches = text.matchAll(tokenizerRegex);
             let prevWord: string | null = null;
-            
-            for (const match of matches) {
-                const wordToken = match[1];
-                const punctToken = match[2];
 
-                if (punctToken) {
-                    isStartOfSentence = true;
+            for (const match of matches) {
+                if (match[2]) { // Sentence ender
                     prevWord = null;
                     continue;
                 }
+                const word = match[1];
+                if (!word || /^[IVXLCDM]+$/.test(word)) continue;
 
-                if (wordToken) {
-                    if (/^[IVXLCDM]+$/.test(wordToken)) continue;
+                const lower = word.toLowerCase();
+                if (!casingMap.has(lower)) casingMap.set(lower, new Set());
+                casingMap.get(lower)!.add(word);
 
-                    let processedWord = wordToken;
-                    const lowerToken = wordToken.toLowerCase();
-
-                    // Casing Enforcement Rule:
-                    // If a word is a "Strict Proper Noun" (only seen capitalized in data),
-                    // only show it in its capitalized form.
-                    const strictForm = strictProperNounsMap.get(lowerToken);
-
-                    if (strictForm) {
-                        processedWord = strictForm;
-                    } else if (isStartOfSentence) {
-                        // For regular words at start of sentence, look for any known proper form
-                        let foundProper = null;
-                        for (const pn of properNouns) {
-                            if (pn.toLowerCase() === lowerToken) {
-                                foundProper = pn;
-                                break;
-                            }
-                        }
-                        processedWord = foundProper || lowerToken;
-                    } else {
-                        // Standard behavior for non-strict words
-                        processedWord = properNouns.has(wordToken) ? wordToken : lowerToken;
-                    }
-
-                    freqMap.set(processedWord, (freqMap.get(processedWord) || 0) + 1);
-
-                    if (prevWord) {
-                        if (!bigramMap.has(prevWord)) bigramMap.set(prevWord, new Map());
-                        const nextMap = bigramMap.get(prevWord)!;
-                        nextMap.set(processedWord, (nextMap.get(processedWord) || 0) + 1);
-                    }
-                    
-                    prevWord = processedWord;
-                    isStartOfSentence = false;
+                // Initial collection of counts
+                freqMap.set(word, (freqMap.get(word) || 0) + 1);
+                if (prevWord) {
+                    if (!bigramMap.has(prevWord)) bigramMap.set(prevWord, new Map());
+                    const nextMap = bigramMap.get(prevWord)!;
+                    nextMap.set(word, (nextMap.get(word) || 0) + 1);
                 }
+                prevWord = word;
             }
         };
 
-        entries.forEach(entry => processTokenStream(entry.text.matchAll(tokenizerRegex)));
-        processTokenStream(extraWordsList.join('. ').matchAll(tokenizerRegex));
+        entries.forEach(e => processText(e.text));
+        processText(extraWordsList.join('. '));
 
-        const sortedBigrams = new Map<string, string[]>();
-        bigramMap.forEach((nextMap, currentWord) => {
-            const sortedNext = Array.from(nextMap.entries())
-                .sort((a, b) => b[1] - a[1])
-                .slice(0, 5)
-                .map(item => item[0]);
-            sortedBigrams.set(currentWord, sortedNext);
+        // Enforce Proper Noun Casing Rules
+        const forceCasing = new Map<string, string>();
+        casingMap.forEach((variants, lower) => {
+            // A word is a "Strict Proper Noun" if it ONLY ever appears starting with a capital letter
+            const hasLowercaseForm = Array.from(variants).some(v => !/^[A-ZÁÇĞÍÎÑÓŞÚŢ]/.test(v));
+            if (!hasLowercaseForm) {
+                // Find most frequent capitalized form
+                let bestForm = lower; // fallback
+                let max = -1;
+                variants.forEach(v => {
+                    const c = freqMap.get(v) || 0;
+                    if (c > max) { max = c; bestForm = v; }
+                });
+                forceCasing.set(lower, bestForm);
+            }
         });
 
-        const sortedFreq = Array.from(freqMap.entries())
+        // Rebuild Frequency and Bigram maps with enforced casings
+        const finalFreq = new Map<string, number>();
+        const finalBigram = new Map<string, Map<string, number>>();
+
+        const getForced = (w: string) => forceCasing.get(w.toLowerCase()) || w;
+
+        freqMap.forEach((count, word) => {
+            const forced = getForced(word);
+            finalFreq.set(forced, (finalFreq.get(forced) || 0) + count);
+        });
+
+        bigramMap.forEach((nextMap, word) => {
+            const forcedWord = getForced(word);
+            if (!finalBigram.has(forcedWord)) finalBigram.set(forcedWord, new Map());
+            const finalNextMap = finalBigram.get(forcedWord)!;
+            nextMap.forEach((count, nextWord) => {
+                const forcedNext = getForced(nextWord);
+                finalNextMap.set(forcedNext, (finalNextMap.get(forcedNext) || 0) + count);
+            });
+        });
+
+        const sortedFreq = Array.from(finalFreq.entries())
             .sort((a, b) => b[1] - a[1])
-            .map(item => item[0]);
+            .map(x => x[0]);
+
+        const sortedBigrams = new Map<string, string[]>();
+        finalBigram.forEach((nextMap, word) => {
+            const sorted = Array.from(nextMap.entries())
+                .sort((a, b) => b[1] - a[1])
+                .slice(0, 5)
+                .map(x => x[0]);
+            sortedBigrams.set(word, sorted);
+        });
 
         return { sortedFreq, sortedBigrams };
     }, [entries]);
