@@ -913,4 +913,230 @@ gyúm s. ghium; bidon. // ●teneke gyúmí — canistră.
 ğamkóz I. adj. avar; lacom. II. s. (iht.) rechin (lat., Selachoidei sp.).
 ğamlî adj. 1. cu geam. 2. cu geam; cu geamuri; sticlos. // ●ğamlî miydanşa — verandă. ●renklí ğamlî penğíre — vitraliu.
 ğamlîk s. 1. geamlâc; marchiză. 2. vitrină. // ●túkáan ğamlîgî — vitrină.
+ğamlîk-íşelík s. sticlărie; obiecte de sticlă.
+ğamşîk s. cercevea; ramă; cadru; toc.
+ğamtî s. păr pubian.
+ğamtókken s. sticlar.
+ğan s. 1. suflet. 2. viață. 3. forță; putere; vigoare; tonus. 4. persoană; ins. 5. înviorare; însuflețire; înfrigurare; vervă; vivacitate. 6. ființă; vietate; viețuitoare; creatură; făptură. // ●ğan atmak — a dori din suflet; a tânji după… ; ●ğan kulagîman seslemek — a fi numai urechi; a asculta cu atenție. ●ğan şegíşmek — a se zbate între viață şi moarte; a agoniza; a intra în comă. ●ğanî awurmak — a-l durea sufletul. ●ğanî ğanmak — a-l arde pe cineva la suflet; a i se rupe sufletul. ●ğanî ístemek — a-i da inima ghes; a pofti; a dori. ●ğanî sîgîlmak — a-i fi cuiva urât; a se plictisi. ●ğanî şîkmak — a-şi da duhul; a muri; a-şi scoate sufletul; a se extenua; a se speria. ●ğanîn almak — a lua viața cuiva; a-i curma zilele; a-l ucide. ●ğanîn bermek — a-şi da viața; a se jertfi; a muri; a se zbate; a se strădui. ●ğanîn ğakmak — a-i mânca sufletul cuiva. ●ğanîn şîgarmak — a-i scoate sufletul; a-l obosi; a-l extenua. ●ğanîn sîkmamak — a nu se prăpădi cu firea. ●ğanîna tiymek — a-i merge la suflet. ●ğanîndan bukmak — a i se urî cu zilele. ●óz ğanîn almak — a-şi lua viața; a se sinucide. ●óz ğanîndan kóp súymek — a iubi pe cineva din tot sufletul. // ●ğan dostî — prieten bun. ●ğan gúwenğesí — asigurare de persoane. ●ğan man, baş man — cu trup şi suflet. ●ğan sayîmî — recensământul populației. ●ğan tamîrî/tazîlî — punct nevralgic. ●ğanî ístese — dacă doreşte. ●temír ğan — suflet de fier.
+ğan I. adj. 1. (d. străzi) lăturalnic; dosnic. 2. secundar; lateral. II. postp. 1. lângă; în apropiere. 2. alături de… ; III. s. 1. parte; loc. 2. margine; latură. 3. direcție; sens.
+ğana s. (orn.) brumăriță de pădure (lat., Prunella modularis).
+ğana-ğana adv. compătimitor.
+ğanağîsî s. durere; necaz; amărăciune; întristare; mâhnire; tristețe; posomorâre.
+ğanaluw s. asasinare; asasinat; omor; omucidere; ucidere; suprimare; lichidare.
+ğanaluwğî adj. letal; ucigător.
+ğanan s. iubită; amantă.
+Ğanan s. (relig.) Dumnezeu.
+ğanardak s. vulcan. // ●ğanardak awuzî — crater vulcanic. ●ğanardak taşî — rocă vulcanică.
+ğanardakbílímğísí s. vulcanolog.
+ğanardakbílímí s. vulcanologie.
+ğanardakkópígí adj. ponce.
+ğanardaklaşkan adj. vulcanizat.
+ğanardaklaşmak v.i. a se vulcaniza.
+ğanardaklaştîrma s. vulcanizare.
+ğanardaklaştîrmak v.t. a vulcaniza.
+ğanardaklaştîruw s. vulcanizare.
+ğanardaklî adj. vulcanic; vulcanizat. // ●ğanardaklî kawuçuk — cauciuc vulcanizat.
+ğanatkan adj. 1. încântat; fascinat; captivat. 2. ambițios. 3. dornic; doritor.
+ğanattîrgan adj. încântător; fascinant; captivant.
+ğanattîruw s. încântare; fascinație.
+ğanatuw s. 1. încântare; fascinație. 2. ambiție; năzuință; aspirație; dorință; ideal. 3. dorință; jind.
+ğanavar s. 1. fiară; monstru; animal sălbatic. 2. (fig.) criminal. // ●ğanavar dúdúgí — sirenă.
+ğanavarlîk s. ferocitate; cruzime.
+ğanawuymaz adj. ignifug.
+ğanay s. 1. profil. 2. iubită; amantă. // ●ğanayî ayîrîlmak/kabarmak — a se profila; a se reliefa.
+ğanayayîrîlmasî s. profilare; reliefare.
+ğanayayîrmasî s. reliefare; profilare.
+ğanayîayîrîlgan adj. profilat; reliefat.
+ğanayîkabargan adj. profilat; reliefat.
+ğanaykabarmasî s. profilare; reliefare.
+ğanaykabartmasî s. reliefare; profilare.
+ğanberúw s. 1. moarte; sucombare. 2. râvnă; interes; strădanie; osteneală; stăruință; silință.
+ğandan adv. sincer; din suflet. // ●ğandan ístemek — a dori din suflet; a tânji după…; ●ğandan kîşkîrmak — a ovaționa. // ●dawetíñíz úşún ğandan şúkúranlar! — mulțumiri din suflet pentru invitație!; ●ğandan alkîş — ovație. ●ğandan şúkúranlar — mulțumiri din suflet.
+ğandan adv. dintr-o parte; din profil.
+ğandan-ğúrekten adv. din adâncul sufletului; din toată inima.
+ğandanlîk s. sinceritate; intimitate.
+ğandan-tílden adv. sincer; din suflet.
+ğandarma s. jandarmerie; jandarm.
+ğandaş s., adj. susținător; adept.
+ğandaşlîk s. partizanat.
+ğanetí s. (gastron.) muşchi; vrăbioară.
+ğangan adj. 1. (d. o lampă etc.) aprins. 2. bronzat; pârlit. 3. ars. 4. (d. plante) ofilit; veştejit. 5. (fig.) îndurerat. 6. (fig.) păcălit; înşelat. // ●ğangan agaş — rug. ●ğangan kúl — tăciune. ●ğangan yúz — față bronzată.
+ğangan-ğîgîlgan adj. ars; pârjolit; doborât; distrus.
+ğangayakîn adj. sincer; afectuos; prietenos; sociabil; cald; comunicativ.
+ğangayakînlîk s. sinceritate; afecțiune; prietenie; bună-credință.
+ğangîn s. 1. foc; incendiu. 2. (med.) febră. // ●ğangîn kulasî — foişor de foc.
+ğangînğî s. pompier.
+ğangînğîlar s., pl. pompieri.
+ğangîn-mangîn s. foc; incendiu.
+ğangînsóndírgen s. pompier.
+ğangînsóndírgenler s., pl. pompieri.
+ğanğaguw s. asuprire; împilare; maltratare; oprimare; oropsire; persecuție; prigoană; urgisire.
+ğanğakkan adj. 1. dureros; regretabil. 2. supărător; enervant; agasant; iritant. 3. asupritor; opresor; persecutant; prigonitor.
+ğanğanmasî s. 1. simpatie. 2. căință; regret; deplângere. 3. supărare; necaz; durere; îndurerare.
+ğan-ğíger adj. intim; apropiat; drag.
+ğanğoldaşî s. prieten apropiat; soț; soție.
+ğanhîraş adj. groaznic; înfricoşător.
+ğaniy s. asasin; criminal.
+ğanístemesí s. dorință; ideal; jind; năzuință; aspirație.
+ğanîağîgan adj. îndurerat; mâhnit; trist.
+ğanîalîngan adj. omorât; ucis; asasinat.
+ğanîatîlmagan adj. nedoritor.
+ğanîğangan I. adj. 1. supărat; necăjit. 2. îndurerat; maltratat; asuprit; năpăstuit; oprimat; persecutat; prigonit; urgisit. II. s. simpatizant.
+ğanîístemegen adj. nedoritor.
+ğanîk adj. 1. ars. 2. bronzat (la soare). 3. (fig.) necăjit; amărât; îndurerat. // ●ğanîk ótmek — pâine arsă.
+ğanîm interj. 1. dragul meu!; sufletul meu!; 2. fiți bun!; fiți amabil!;
+ğanîm-ğígerím interj. sufletul şi viața mea!;
+ğanîm-kózím interj. dragul meu!; dragă!;
+ğanînatiygen adj. înduioşat.
+ğanînatiyme s. înduioşare.
+ğanînatiysetken adj. înduioşător.
+ğanînatiyúw s. înduioşare.
+ğanînbergen adj. 1. sârguincios; silitor; stăruitor. 2. defunct; mort; răposat.
+ğanînda postp. lângă. // ●úynúñ katînda terek bar — lângă casă sunt pomi.
+ğanînkutargan adj. salvat; eliberat; dezrobit; descătuşat.
+ğanîsîgîlgan adj. plictisit; scârbit; sătul.
+ğanîşîkkan adj. ostenit; vlăguit.
+ğankutargan s., adj. salvator; eliberator; dezrobitor; izbăvitor; mântuitor. // ●ğankutargan kuşak — centură de salvare. ●ğankutargan maşina — ambulanță; salvare.
+ğankutarma s. salvare. // ●ğankutarma kalaşî — colac de salvare. ●ğankutarma kayîgî — barcă de salvare.
+ğankutaruw s. salvare; eliberare; dezrobire; izbăvire; mântuire.
+ğanlanabergen adj. reîncarnat.
+ğanlanaberme s. reîncarnare.
+ğanlanabermek v.i. a se reîncarna.
+ğanlanaberúw s. reîncarnare.
+ğanlanaturgan adj. reîncarnat.
+ğanlanaturma s. reîncarnare.
+ğanlanaturmak v.i. a se reîncarna.
+ğanlandîrgan s., adj. animator.
+ğanlandîrîlgan adj. personificat; întruchipat.
+ğanlandîrma s. animație.
+ğanlandîrmak v.t. a însufleți; a înviora.
+ğanlandîruw s. energizare; reanimare; resuscitare; tonificare.
+ğanlandîruwğî I. adj. întăritor; tonic; tonifiant; analeptic; reconfortant; fortifiant; energizant; intensificator. II. s., adj. animator.
+ğanlangan adj. înviorat.
+ğanlanma s. înviorare; reînviere; înviere.
+ğanlanmak v.i. a se însufleți; a se înviora. // ●bír taa ğanlanmak — a se reîncarna.
+ğanlanuw s. înviere.
+ğanlî I. adj. 1. viu; însuflețit; vivace; tonic. 2. animat; înviorat. II. s. ființă; vietate; viețuitoare; creatură; făptură. // ●ğanlî álem — lumea organică. ●ğanlî múlkiyet — şeptel. ●ğurt ğanlîsî — animal domestic. ●yedí ğanlî — vivace.
+ğanlî-başlî adj. cu trup şi suflet.
+ğanma s. 1. aprindere. 2. bronzare; pârlire. 3. ardere. 4. (d. plante) ofilire; veştejire. 5. (fig.) durere. 6. (fig.) păcălire; înşelare. 7. regret; deplângere; compătimire; părere de rău.
+ğanmagan adj. ignifug.
+ğanmak v.i. 1. a arde. 2. a lua foc; a se aprinde. 3. (d. o lampă etc.) a fi aprins; a lumina. 4. a se bronza; a se pârli. 5. (d. plante) a se ofili; a se veşteji. 6. (fig.) a ustura; a durea. 7. (fig.) a se păcăli; a se înşela. 8. a regreta; a deplânge; a compătimi; a-i părea rău. // ●alewsúz ğanmak — a mocni. ●ateşte ğanmak — a arde în foc şi pară. ●ğanî ğanmak — a-l arde pe cineva la suflet; a i se rupe sufletul. ●ğúregí ğanmak — a-l frige la inimă; a îndura o mare suferință morală; a-i fi milă; a compătimi. ●kúneşte ğanmak — a se arde la soare; a se bronza. ●yawaş-yawaş ğanmak — a mocni. // ●toban ğana — ard paiele.
+ğanmama s. insensibilitate; cruzime.
+ğanmaz adj. 1. ignifug. 2. insensibil; nemilos.
+Ğanpolat s. (antrop. m.) “Cel cu suflet de oțel”.
+ğansawlugî s. sănătate.
+ğansîgîntîsî s. plictiseală.
+ğansîguwğî adj. anost; plicticos; plictisitor.
+ğansîguwğuluk s. plictiseală.
+ğansîragan s. aspirant.
+ğansîralgan adj. dorit; poftit.
+ğansîralmak v.i. a fi dorit; a fi poftit.
+ğansîrama s. dorință; poftă.
+ğansîramak v.t. a dori; a pofti.
+ğansîratmak v.t. a ambiționa.
+ğansîraw s. dorință; poftă.
+ğansíz adj. 1. neînsuflețit. 2. slab; anemic; atonic. // ●ğansíz tuwa/tabiyat — natură moartă.
+ğansízlaşkan adj. 1. slăbit; şubrezit. 2. anemic.
+ğansízlaşma s. 1. slăbire; şubrezire. 2. anemiere.
+ğansízlaşmak v.i. 1. a slăbi; a se şubrezi. 2. a se anemia.
+ğansízlaşuw s. 1. slăbire; şubrezire. 2. anemiere.
+ğansízlîk s. moliciune; neînsuflețire; anemie; atonie.
+ğanşegíşmesí s. 1. agonie. 2. (med.) comă.
+ğanşîgargan adj. epuizant; extenuant; istovitor; obositor; ostenitor; vlăguitor.
+ğanşîk s. traistă; tolbă; desagă.
+ğanşîlgan v.i. a fi zdrobit; a fi strivit.
+ğanşîlmak v.i. a fi zdrobit; a fi strivit.
+ğanşîma s. zdrobire; strivire.
+ğanşîmak v.t. a zdrobi; a strivi.
+ğantaymak v.i. 1. a se apleca; a se înclina. 2. a se culca; a sta în pat.
+ğantaytmak v.t. 1. a apleca; a înclina. 2. a culca.
+ğantayuw s. aplecare; înclinare; culcare.
+ğantîk s. (gastron.) plăcintă tătărească cu carne.
+ğañak s. 1. obraz; față. 2. stâlpul uşii.
+ğañaygan adj. înnoit; reînnoit; primenit; împrospătat; renovat; restaurat; modernizat.
+ğañayma s. înnoire; reînnoire; primenire; împrospătare; renovare; restaurare; modernizare.
+ğañaymak v.i. 1. a se înnoi; a se reînnoi; a se primeni; a se împrospăta. 2. a se renova; a se restaura; a se moderniza.
+ğañaytuw s. înnoire; reînnoire; primenire; împrospătare; renovare; restaurare; modernizare.
+ğañaytuwğî s. înnoitor; novator; inovator.
+ğañayuw s. înnoire; reînnoire; primenire; împrospătare; renovare; restaurare; modernizare.
+ğañgak s. 1. nucă. 2. (bot.) nuc (lat., Juglans regia).
+ğañgaş s. (orn.) ciocântors; avosetă (lat., Recurvirostra avosetta).
+ğañgîr s. ropot; hohot.
+ğañgîragan adj. răsunător; rezonant.
+ğañgîramak v.i. 1. (fiz.) a avea ecou; a rezona; a răsuna. 2. a hohoti.
+ğañgîraşmak v.i. a hohoti laolaltă.
+ğañgîrdagan adj. răsunător; rezonant.
+ğañgîrdama s. răsunet; hohot; ropot.
+ğañgîrdamak v.i. 1. a hohoti. 2. (fiz.) a avea ecou; a rezona; a răsuna.
+ğañgîrdaşmak v.i. a hohoti laolaltă.
+ğañgîrdatmak v.t. a suna.
+ğañgîrdaw s. răsunet; hohot; ropot.
+ğañgîrgan adj. înnoit; reînnoit; primenit; împrospătat; renovat; restaurat; modernizat.
+ğañgîr-ğañgîr adj. cu ropote; cu hohote. // ●ğañgîr-ğañgîr ğawmak — a ploua cu ropote; a ploua cu găleata. ●ğañgîr-ğañgîr ğîlamak — a plânge cu hohote. // ●ğañgîr-ğañgîr kaltîrayman — am frisoane.
+ğañgîrîk s. 1. ecou; răsunet. 2. (fiz.) reflectare; rezonanță.
+ğañgîrîklî adj. 1. cu ecou; răsunător. 2. reflectant; rezonant.
+ğañgîrîkşî s. (fiz.) rezonator; cameră de rezonanță.
+ğañgîrma s. înnoire; reînnoire; primenire; împrospătare; renovare; restaurare; modernizare.
+ğañgîrmak v.i. 1. a se înnoi; a se reînnoi; a se primeni; a se împrospăta. 2. a se renova; a se restaura; a se moderniza.
+ğañgîrtî s. răsunet; hohot; ropot.
+ğañgîrtmak v.i. 1. a se înnoi; a se reînnoi; a se primeni; a se împrospăta. 2. a se renova; a se restaura; a se moderniza.
+ğañgîrtuw s. înnoire; reînnoire; primenire; împrospătare; renovare; restaurare; modernizare.
+ğañgîrtuwğî s. înnoitor; novator; inovator.
+ğañgîruw s. înnoire; reînnoire; primenire; împrospătare; renovare; restaurare; modernizare.
+ğañgîz I. adj. (d. oameni) singur; singuratic; solitar. II. adv. 1. numai; doar; exclusiv. 2. (d. oameni) de unul singur; fără altcineva. // ●way ğañgîzlarga — vai de omul singur.
+ğañgîzlaşkan adj. însingurat.
+ğañgîzlaşma s. însingurare.
+ğañgîzlaşmak v.i. a se însingura.
+ğañgîzlaşuw s. însingurare.
+ğañgîzlîk s. 1. singurătate. 2. pustietate; izolare.
+ğañî I. adj. 1. nou. 2. recent; actual. II. adv. adineauri; de abia; doar ce; tocmai; de curând. // ●eñ ğañî — cel mai nou; modern. ●ğañî bír mutlî sene! — un an nou fericit!; ●ğañî takîm — costum nou. ●ğañî tuwgan bala — infant; prunc. ●ğañî yapîlgan — făcut nou. ●ğañî yîl keşesí — revelion. ●ğañî yîlîñîz múbarek bolsîñ! — un an nou fericit!;
+ğañ-î góñíl iz.prsn. adâncul sufletului.
+ğañ-î góñílden iz.prsn. din adâncul sufletului.
+ğañîdan adv. iar; din nou; de la început. // ●ğañîdan aşîklamak — a reafirma. ●ğañîdan aşmak — a redeschide. ●ğañîdan ğeñmek — a recuceri. ●ğañîdan kazanmak — a redobândi. ●ğañîdan kurmak — a remania. ●ğañîdan saylamak — a realege. ●ğañîdan silaklanmak — a se reînarma. ●ğañîdan takîmlarga ayîrîlmak — a se regrupa. ●ğañîdan tírílmek — a reînvia. // ●ğañîdan gruplarga ayîrîlma — regrupare. ●ğañîdan istihsal — (econ., pol.) reproducție.
+ğañîdanaşîklama s. reafirmare.
+ğañîdanaşîklangan adj. reafirmat.
+ğañîdanaşîklaw s. reafirmare.
+ğañîdanfigelleşken adj. reactivat; răscolit.
+ğañîdanfigelleştírme s. reactivare; răscolire.
+ğañîdanfigelleştírúw s. reactivare; răscolire.
+ğañîdanğeñílgen adj. recucerit.
+ğañîdanğeñme s. recucerire.
+ğañîdanğeñúw s. recucerire.
+ğañîdankurma s. reconstrucție; reorganizare.
+ğañîdankurulgan adj. reconstruit; reorganizat.
+ğañîdankuruw s. reconstrucție; reorganizare.
+ğañîdankuruwğî s. reorganizator.
+ğañîdanpíşímleşken adj. reprofilat.
+ğañîdanpíşímleştírme s. reprofilare.
+ğañîdanpíşímleştírúw s. reprofilare.
+ğañîdansawutlangan adj. reînarmat.
+ğañîdansawutlanma s. reînarmare.
+ğañîdansawutlanuw s. reînarmare.
+ğañîdansaylangan adj. reales.
+ğañîdansaylaw s. realegere.
+ğañîdansînawlangan adj. reexaminat.
+ğañîdansînawlaw s. reexaminare.
+ğañîdantamamlangan adj. reîntregit.
+ğañîdantamamlaw s. reîntregire.
+ğañîdantertípleme s. reorganizare.
+ğañîdantertíplengen adj. reorganizat.
+ğañîdantertíplew s. reorganizare.
+ğañîdantertíplewğî s. reorganizator.
+ğañîdanyapîlgan adj. refăcut; modificat.
+ğañîdanyapma s. refacere; modificare.
+ğañîdanyaratîlgan adj. reînființat.
+ğañîdanyaratuw s. reînființare.
+ğañîdúniya s. lumea nouă.
+ğañîdúniya-kaşunî s. (zool.) nutria (lat., Myocastor coypus).
+ğañîdúniya-pelesenkteregí s. (bot.) copaier (lat., Copaifera officinalis).
+ğañî-ğañî adj. nou-nouț.
+ğañîğetme s. adolescent.
+ğañîğetmelík s. adolescență.
+ğañîğetúw s. adolescent.
+ğañîlarda adv. de abia; doar ce; tocmai; de curând.
+ğañîlîk s. 1. inovație; noutate; transformare; prefacere. 2. veste; ştire; informație. // ●ğañîlîk ketírmek — a inova.
+ğañîlîkşî s. inovator; novator.
+ğañîşîk I. adj. recent; actual. II. adv. adineauri; de abia; doar ce; tocmai; de curând. // ●ğañîşîk temízledím — doar ce am curățat.
+ğañîşîkma s. noutate; ştire; veste.
+ğap s. deal.
 `;
