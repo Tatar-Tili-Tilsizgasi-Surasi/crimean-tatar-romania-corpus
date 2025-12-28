@@ -129,7 +129,6 @@ const VirtualKeyboard: React.FC<VirtualKeyboardProps> = ({ entries }) => {
     
     // Prediction Model
     const predictionModel = useMemo(() => {
-        const casingMap = new Map<string, Set<string>>();
         const freqMap = new Map<string, number>();
         const bigramMap = new Map<string, Map<string, number>>();
 
@@ -148,68 +147,38 @@ const VirtualKeyboard: React.FC<VirtualKeyboardProps> = ({ entries }) => {
                 const word = match[1];
                 if (!word || /^[IVXLCDM]+$/.test(word)) continue;
 
-                const lower = word.toLowerCase();
-                if (!casingMap.has(lower)) casingMap.set(lower, new Set());
-                casingMap.get(lower)!.add(word);
+                // Function to add word/part to maps
+                const addWordToModel = (w: string) => {
+                    freqMap.set(w, (freqMap.get(w) || 0) + 1);
+                    if (prevWord) {
+                        if (!bigramMap.has(prevWord)) bigramMap.set(prevWord, new Map());
+                        const nextMap = bigramMap.get(prevWord)!;
+                        nextMap.set(w, (nextMap.get(w) || 0) + 1);
+                    }
+                    prevWord = w;
+                };
 
-                // Initial collection of counts
-                freqMap.set(word, (freqMap.get(word) || 0) + 1);
-                if (prevWord) {
-                    if (!bigramMap.has(prevWord)) bigramMap.set(prevWord, new Map());
-                    const nextMap = bigramMap.get(prevWord)!;
-                    nextMap.set(word, (nextMap.get(word) || 0) + 1);
+                // Add original word
+                addWordToModel(word);
+
+                // If word contains hyphen, split and add components separately too
+                if (word.includes('-')) {
+                    const parts = word.split('-').filter(p => p.length > 1);
+                    // Note: components don't update bigram context for the next 'full' word to avoid chain pollution
+                    parts.forEach(p => freqMap.set(p, (freqMap.get(p) || 0) + 1));
                 }
-                prevWord = word;
             }
         };
 
         entries.forEach(e => processText(e.text));
         processText(extraWordsList.join('. '));
 
-        // Enforce Proper Noun Casing Rules
-        const forceCasing = new Map<string, string>();
-        casingMap.forEach((variants, lower) => {
-            // A word is a "Strict Proper Noun" if it ONLY ever appears starting with a capital letter
-            const hasLowercaseForm = Array.from(variants).some(v => !/^[A-ZÁÇĞÍÎÑÓŞÚŢ]/.test(v));
-            if (!hasLowercaseForm) {
-                // Find most frequent capitalized form
-                let bestForm = lower; // fallback
-                let max = -1;
-                variants.forEach(v => {
-                    const c = freqMap.get(v) || 0;
-                    if (c > max) { max = c; bestForm = v; }
-                });
-                forceCasing.set(lower, bestForm);
-            }
-        });
-
-        // Rebuild Frequency and Bigram maps with enforced casings
-        const finalFreq = new Map<string, number>();
-        const finalBigram = new Map<string, Map<string, number>>();
-
-        const getForced = (w: string) => forceCasing.get(w.toLowerCase()) || w;
-
-        freqMap.forEach((count, word) => {
-            const forced = getForced(word);
-            finalFreq.set(forced, (finalFreq.get(forced) || 0) + count);
-        });
-
-        bigramMap.forEach((nextMap, word) => {
-            const forcedWord = getForced(word);
-            if (!finalBigram.has(forcedWord)) finalBigram.set(forcedWord, new Map());
-            const finalNextMap = finalBigram.get(forcedWord)!;
-            nextMap.forEach((count, nextWord) => {
-                const forcedNext = getForced(nextWord);
-                finalNextMap.set(forcedNext, (finalNextMap.get(forcedNext) || 0) + count);
-            });
-        });
-
-        const sortedFreq = Array.from(finalFreq.entries())
+        const sortedFreq = Array.from(freqMap.entries())
             .sort((a, b) => b[1] - a[1])
             .map(x => x[0]);
 
         const sortedBigrams = new Map<string, string[]>();
-        finalBigram.forEach((nextMap, word) => {
+        bigramMap.forEach((nextMap, word) => {
             const sorted = Array.from(nextMap.entries())
                 .sort((a, b) => b[1] - a[1])
                 .slice(0, 5)
