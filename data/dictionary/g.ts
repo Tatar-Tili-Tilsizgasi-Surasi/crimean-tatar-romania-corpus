@@ -1139,4 +1139,219 @@ gyúm s. ghium; bidon. // ●teneke gyúmí — canistră.
 ğañîşîk I. adj. recent; actual. II. adv. adineauri; de abia; doar ce; tocmai; de curând. // ●ğañîşîk temízledím — doar ce am curățat.
 ğañîşîkma s. noutate; ştire; veste.
 ğap s. deal.
+ğapalak adj. plat; neted; nivelat; turtit.
+ğapalaklama s. aplatizare; turtire; nivelare; netezire.
+ğapalaklamak v.t. a aplatiza; a turti; a nivela; a netezi.
+ğapalaklangan adj. aplatizat; turtit; nivelat; netezit.
+ğapalaklanma s. aplatizare; turtire; nivelare; netezire.
+ğapalaklanmak v.i. a se aplatiza; a se turti; a se nivela; a se netezi.
+ğapalaklanuw s. aplatizare; turtire; nivelare; netezire.
+ğapalaklaw s. aplatizare; turtire; nivelare; netezire.
+ğap-ğañgîz adj. (d. oameni) singur; singuratic; solitar; de unul singur; fără altcineva.
+ğap-ğañî adj. nou-nouț; foarte nou.
+ğap-ğarîk adj. foarte luminos; intens luminat.
+ğap-ğaş adj. tânăr-tinerel.
+ğaplî adj. deluros.
+ğapma s. 1. închidere; acoperire; învelire; astupare. 2. învelitoare; husă.
+ğapmak v.t. a închide; a acoperi; a înveli; a astupa. // ●kapînî ğabîñîz! — închideți uşa!; ●penğírení ğap! — închide fereastra!;
+ğaptîrgaş s. desagă; traistă.
+ğaptîrma s. fermoar.
+ğaptîrmak v.t. a determina să închidă; a determina să acopere; a determina să învelească; a determina să astupe.
+ğar s. prăpastie; abis; genune; râpă; hău. // ●ğar kabaklî — (anat.) cu orbite adânci.
+ğara s. rană (şi fig.). // ●ğarasî íşlemek — a se inflama; a supura; a puroia (d. răni). ●ğarasî kapanmak — a se închide; a se cicatriza (d. răni).
+ğaraakmasî s. inflamație; supurație; puroiere.
+ğaraíşlemesí s. inflamație; supurație; puroiere.
+ğarakapalmasî s. cicatrizare.
+ğaralagan adj. traumatizant.
+ğaralama s. rănire.
+ğaralamak v.t. a răni.
+ğaralangan adj. rănit.
+ğaralanmak v.i. a se răni; a fi rănit.
+ğaralanmaykalîr adj. invulnerabil.
+ğaralanmaykalma s. invulnerabilitate.
+ğaralanmaykaluw s. invulnerabilitate.
+ğaralaw s. rănire.
+ğaralî adj. rănit; vătămat; lezat.
+ğaraotî s. (bot.) pătlagină; căruțele; iarba-tăieturii (lat., Plantago lanceolata).
+ğaraotî, ğalpak- s. (bot.) pătlagină; iarba-bubei; iarbă-mare (lat., Plantago major).
+ğaraotî, suw- s. (bot.) limbariță (lat., Alisma plantago-aquatica).
+ğarasîakkan adj. inflamat; purulent; supurant.
+ğarasîíşlegen adj. inflamat; purulent; supurant.
+ğarasíz adj. nevătămat.
+ğargak s. piele tăbăcită.
+ğargan adj. spărgător; străpungător.
+ğargaş s. satâr.
+ğargîn s. 1. hibrid între iac şi vacă. 2. (zool.) animal rezultat din încrucişarea vacii cu iacul.
+ğarğar adj. flecar.
+ğariy adj. 1. curgător; fluid. 2. curent; prezent; actual. // ●ğariy hesap — (fin.) cont curent. ●ğariy piyat — preț curent. ●ğariy yîl — anul curent.
+ğariye s. f. sclavă; roabă.
+ğariyet s. lichiditate; fluiditate.
+ğariyethaleketsízlígí I. adj. (fiz.) hidrostatic. II. s. (fiz.) hidrostatică.
+ğariyethaleketsízlíklí adj. (fiz.) hidrostatic.
+ğariyetólşer s. (tehn.) hidrometru; densometru.
+ğariyseriyet s. hidromecanică.
+ğariytedaviy s. (med.) hidroterapie.
+ğarîk s. 1. luminozitate. 2. lumină; rază de lumină; lumina zilei. 3. şliț. // ●ğarîk şaşmak — a da lumină; a luci; a sclipi; a străluci; a lumina. ●kóz ğarîgînday karamak — a îngriji ca pe lumina ochilor; a păzi ca pe lumina ochilor. ●kóz ğarîgînday súymek — a iubi pe cineva ca pe lumina ochilor. // ●ağun ğarîklarî — raze cosmice. ●beta ğarîklarî — (fiz.) raze beta. ●gamma ğarîklarî — raze gama. ●kelgen ğarîk — (fiz.) rază incidentă. ●kîska ğarîklî farlar — farurile fază scurtă. ●kúneş ğarîklarî — raze solare. ●lámbanîñ ğarîgî uzaktan yeşíl bolîp kóríne — din depărtare lumina lămpii se vede verde. ●róntgen ğarîklarî — (fiz.) raze roentgen. ●şagîlganlî ğarîk — lumină electrică. ●yúksekmor ğarîklar — raze ultraviolete.
+ğarîk adj. 1. spart; crăpat; plesnit. 2. (fiz.) frânt.
+ğarîkalgan adj. iluminat.
+ğarîkaluw s. iluminare.
+ğarîk-ğarîk adj. 1. plin cu crăpături; plin cu frânturi; plin cu spărturi; plin cu plesnituri. 2. foarte luminos.
+ğarîkkúre s. fotosferă.
+ğarîklagan adj. luminător; care luceşte; care luminează; care iradiază; care clarifică.
+ğarîklama s. radiație. // ●kúneş ğarîklamasî — radiație solară.
+ğarîklamak v.t. a lumina.
+ğarîklangan adj. 1. iluminat; luminat. 2. (fiz.) iradiat.
+ğarîklanma s. 1. iluminare; luminare. 2. (fiz.) iradiere.
+ğarîklanmak v.i. a se lumina.
+ğarîklanuw s. 1. iluminare; luminare. 2. (fiz.) iradiere.
+ğarîklatma s. iluminare (de ziuă).
+ğarîklatmak v.i. a determina să lumineze.
+ğarîklatuw s. iluminare (de ziuă).
+ğarîklaw s. radiație.
+ğarîklî adj. 1. luminos; clar. 2. luminat; plin de lumină.
+ğarîklîk s. luminozitate.
+ğarîklîsîzgağî s. (tehn.) heliograf.
+ğarîkotî s. (bot.) luminiță; iarba-asinului (lat., Oenothera biennis; Oenothera communis).
+ğarîkólşer s. (fiz.) fotometru.
+ğarîksíz adj. obscur; întunecos; pălit; stins.
+ğarîkşaşkan adj. lucios; sclipitor; strălucitor.
+ğarîkşaşuw s. lucire; sclipire; strălucire.
+ğarîkta adv. pe lumină.
+ğarîktúşken adj. (foto.) expus.
+ğarîktúşúrúw s. (foto.) expunere.
+ğarîlgan adj. spart; crăpat; fisurat; despicat.
+ğarîlma s. 1. străpungere. 2. spargere; spărtură; crăpătură; fisură; despicătură.
+ğarîlmak v.i. a se sparge; a se crăpa; a se fisura; a se despica; a plesni. // ●bawurî ğarîlmak — a-i îngheța cuiva ficații; a se îngrozi.
+ğarîluw s. 1. străpungere. 2. spargere; spărtură; crăpătură; fisură; despicătură.
+ğarkanat s. (zool.) liliac (lat., Vespertilio).
+ğarkuş s. (orn.) fluturaş de stâncă (lat., Tichodroma muraria).
+ğarlî adj. 1. sărac; sărman. 2. prăpăstios; abrupt. // ●zengínleşken ğarlî — arivist.
+ğarma s. 1. străpungere. 2. urluială; păsat; măcinătură mare de porumb sau de mei. 3. (fiz.) difracție. 4. spargere; crăpare; fisurare; despicare. // ●arpa ğarmasî — arpacaş. ●ğemdek ğarmasî — (med.) autopsie.
+ğarmak v.t. 1. a sparge; a crăpa; a fisura; a despica. 2. (mil.) a străpunge. // ●agaş ğarmak — a sparge lemne. ●awuzun-murunun ğarmak — a-i sparge botul. ●kîlnî kîrk ğarmak — a despica firul în patru. ●murunun ğarmak — a-i da cuiva peste nas. // ●kîlnî kîrk ğargan — meticulos.
+ğarmalama s. urluire; măcinare pentru urluială; râşnire pentru urluială.
+ğarmalamak v.t. a urlui; a măcina pentru urluială; a râşni pentru urluială.
+ğarmalangan adj. urluit; măcinat mare; râşnit mare.
+ğarmalanmak v.i. a fi urluit; a fi măcinat pentru urluială; a fi râşnit pentru urluială.
+ğarmalaw s. urluire; măcinare pentru urluială; râşnire pentru urluială.
+ğarmalîk s. cereale; grâne.
+ğarmaşîp-geşílgen adj. escaladat.
+ğarmaşîp-geşúw s. escaladare.
+ğarmaşkan s., adj. cățărător.
+ğarmaşma s. cățărare.
+ğarmaşmak v.i. a se cățăra. // ●ğarmaşîp geşmek — a escalada.
+ğarpîz s. (bot.) apărătoare; izmă-proastă; busuiocul-cerbilor (lat., Mentha pulegium).
+ğartî I. adj. vechi; uzat; perimat. II. s. rablă; vechitură. // ●ğartî úy — cocioabă; coşmelie; magherniță.
+ğartîkalgan adj. rablagit; învechit; şubrezit; degradat; deteriorat.
+ğartîkaluw s. rablagire; învechire; şubrezire; degradare; deteriorare.
+ğaruw s. disecție.
+ğas s. pierdere; pagubă; doliu. // ●ğas tutmak — a purta doliu.
+Ğasim s. (antrop. m., arab.) “Cel colosal”.
+ğaslama s. îndoliere.
+ğaslamak v.t. a îndolia.
+ğaslangan adj. îndoliat.
+ğaslî adj. îndoliat.
+ğastutturuw s. îndoliere.
+ğasus s. spion; agent secret; informator.
+ğasusluk s. spionaj; informații. // ●ğasusluk yapmak — a spiona.
+ğasuslukyapkan adj. iscoditor.
+ğaş s. tânăr. // ●ğaş kîskaayaklî — tânără. ●nenem babamdan ğaş — mama este mai tânără decât tata.
+ğaşargan adj. întinerit.
+ğaşarma s. întinerire.
+ğaşarmak v.i. a întineri.
+ğaşartmak v.t. a întineri; a insufla tinerețe.
+ğaşaruw s. întinerire.
+ğaşîn s. fulger; trăsnet. // ●ğaşîn wurmak — a-l trăsni; a-l fulgera. // ●ğaşîn ğalkîlday — fulgeră.
+ğaşîna-ğaşîna adv. pe ascuns; tiptil; pe furiş.
+ğaşînday adj. fulgerător; iute; instantaneu.
+ğaşîngan adj. ascuns; clandestin; furiş; latent; ocult; pitit; pitulat; tainic; tăinuit; secret.
+ğaşînganañlam s. conotație.
+ğaşînîp-geşken adj. fofilat; furişat; strecurat.
+ğaşînîp-geşme s. fofilare; furişare; strecurare.
+ğaşînlî adj. cu fulgere; fulgerat.
+ğaşînlîk s. (fiz.) paratrăznet.
+ğaşînma s. pitire; pitulare.
+ğaşînmak v.i. a se ascunde; a se dosi; a se piti; a se furişa. // ●ğaşînîp geşmek — a se furişa; a se strecura; a se fofila. ●urbasîn deñíştíríp ğaşînmak — a se travesti.
+ğaşînparlagan s. (fiz.) paratrăznet.
+ğaşînuw s. pitire; pitulare.
+ğaşînwurgan adj. lovit de trăsnet; trăsnit.
+ğaşîrîlgan adj. tăinuit; tainic; secret; ocult.
+ğaşîrma s. tăinuire.
+ğaşîrmak v.t. a ascunde; a dosi; a piti; a camufla.
+ğaşîruw s. 1. ascundere. 2. (mil.) camuflaj; camuflare.
+ğaşîruwğuluk s. ocultism.
+ğaşîruwlî adj. clandestin; dosit; tainic; tăinuit; ocult; ascuns; latent.
+ğaşlar s., pl. tineret; junime.
+ğaşlarday adv. tinereşte.
+ğaşlay adv. de tânăr. // ●ğaşlay ólíp kettí — a murit de tânăr.
+ğaşlîk s. 1. tinerețe. 2. tineret; junime.
+ğaşmak s. 1. feregea. 2. văl; voal.
+ğaşmakbaylagan adj. legat cu văl; învăluit.
+ğaşmakbaylaw s. legare cu văl; învăluire.
+ğaşmaklamak v.t. a pune vălul.
+ğaşmaklanmak v.i. a-şi pune vălul.
+ğaşmaklî adj. cu văl; cu voal.
+ğaşmaklî-delíkaz s. (orn.) gâscă de mare mascată (lat., Sula dactylatra).
+ğaşmaklî-itelge s. (orn.) sfrâncioc cu mască (lat., Lanius nubicus).
+ğaşmaklî-kagay s. (orn.) pescăruşul lui Franklin (lat., Larus pipixcan).
+ğaşmaklî-kalîntumşuk s. (orn.) botgros japonez (lat., Eophona personata).
+ğaşmaklî-karkîldak s. (orn.) chiră cu mască; pescăriță cu mască (lat., Sterna forsteri).
+ğaşmaklî-şaklay s. (orn.) pescăruşul lui Franklin (lat., Larus pipixcan).
+ğaşmaklî-şakrak s. (orn.) botgros japonez (lat., Eophona personata).
+ğaşmaklî-taganak s. (orn.) sfrâncioc cu mască (lat., Lanius nubicus).
+ğaşmaklî-tokîmağî s. (orn.) pasăre-țesător de vitelină cu mască (lat., Ploceus vitellinus).
+ğat I. adj. străin; necunoscut; venetic. II. s. (bot.) secărea (lat., Bromus secalinus). // ●ğat eller — străinătate; locuri străine.
+ğatagan adj. leneş; trândav; puturos; indolent.
+ğataganlîk s. lene; trândăvie; indolență.
+ğatak s. 1. aşternut; pat. 2. (geogr.) albie; matcă. 3. (fig.) cuib. 4. vizuină; bârlog; culcuş. 5. (tehn.) lagăr. 6. cuib; cuibar. // ●ğatak tóşemek — a aşterne patul. // ●asma ğatak — hamac. ●ballar ayîrî-ayîrî ğataklarda yuklaylar — copiii dorm în paturi separate. ●bilalî ğatak — (tehn.) rulment. ●ğatak odasî — dormitor. ●ğatak órtísí — cuvertură. ●ğatak şarşafî — cearşaf de pat. ●ğatak takîmî — garnitură de pat. ●herkezníñ íşínde arslan ğatagî bar — în fiecare există un culcuş de leu. ●maden ğatagî — zăcământ.
+ğatakbaşî s. căpătâi.
+ğatakkana s. cămin; internat.
+ğataklî adj. cu paturi de dormit. // ●ğataklî okîl — şcoală cu internat. ●ğataklî vagon — vagon de dormit.
+ğataksíz adj. fără paturi; fără internat. // ●ğataksíz mektep/okîl — şcoală fără internat.
+ğatalak I. adj. (med.) tifoid. II. s. (med.) tifos; febră tifoidă; lingoare. // ●lekelí ğatalak — (med.) tifos exantematic.
+ğatalakotî s. (bot.) iarbă-de-lingoare; mărul-cucului (lat., Lysimachia punctata).
+ğatay adj. (mat.) orizontal. // ●ğatay sîzîk — (mat.) orizontală. ●ğatay sîzîk — (mat.) linie orizontală.
+ğatellí s. străin; necunoscut; venetic.
+ğatestetik adj. inestetic.
+ğatîk adj. culcat; înclinat; oblic.
+ğatîm s. 1. (geogr.) pantă; povârniş; versant; coastă. 2. înclinare; aplecare.
+ğatîrîm s. (fin.) investiție; alocare; depunere. // ●ğatîrîm bankasî — bancă de investiții.
+ğatîrîmğî s. (fin.) depunător; deponent; investitor; întreprinzător.
+ğatîrmak v.t. (fin.) a investi.
+ğatîş s. culcare; înclinare.
+ğatkan adj. culcat; aplecat; înclinat.
+ğatkîn adj. 1. aplecat; înclinat. 2. priceput; capabil; destoinic.
+ğatkînlîk s. 1. înclinație; vocație. 2. pricepere; capacitate; destoinicie.
+ğatkîzdîrma s. investiție.
+ğatkîzdîrmak v.t. 1. a determina să se culce. 2. a investi. // ●balanî ğatkîzdîrmak — a culca copilul. ●para ğatkîzdîrmak — a face o depunere; a investi; a economisi (fin.). // ●para ğatkîzdîrağak bolaman — doresc să depun bani.
+ğatkîzdîruw s. investiție.
+ğatkîzdîruwğî I. s. (econ.) depunător; deponent; investitor; întreprinzător. II. s., adj. tranchilizant.
+ğatkîzmak v.t. 1. a culca. 2. a investi.
+ğatlîk s. străinătate; ținuturi străine.
+ğatma s. culcare. // ●ğatma sáátí — oră de culcare.
+ğatmak v.i. 1. a se culca; a se întinde. 2. (d. plante) a se apleca; a se culca. 3. a înnopta; a petrece noaptea (undeva). 4. a zăcea (bolnav). 5. a sta în pat. 6. (fig.) a trândăvi; a lenevi. // ●awurup ğatmak — a zăcea bolnav. ●bala şîgarmaga ğatmak — (d. păsări) a cloci ouăle. ●eğel tóşegínde ğatmak — a zăcea pe patul de moarte. ●ğerde ğatmak — a zăcea căzut la pământ. ●kúlmekten ğerlerge ğatmak — a tăvăli de râs. ●kursagîn totîrîp ğatmak — a sta cu burta la soare. ●mápíste ğatmak — a zăcea puşcărie. ●paranîñ ústúnde ğatmak — a avea bani la ciorap; a fi doldora de bani. ●tóşekte/kasta ğatmak — a zăcea bolnav la pat; a fi țintuit la pat. // ●ğatar kursakka alîngan láj — medicament care se ia înainte de culcare. ●ğatkan yerínden tur-almay — nu se poate ridica din pat. ●toñkayîp ğatîr — zace răsturnat.
+ğatrasiyonal adj. (mat.) irațional.
+ğatsîramak v.i. (d. copiii mici) a fi nemulțumit de prezența unui străin; a se simți stingher.
+ğatuşun adj. ireal.
+ğatuw s. culcare.
+Ğavit/Ğawit s. (antrop. m., prsn.) “Cel veşnic”.
+ğaw s. inamic; duşman.
+ğaway adj. (mat.) vertical.
+ğawbolgan adj. învrăjbit.
+ğawboluw s. învrăjbire.
+ğawğa adv. în duşmănie.
+ğawluk s. 1. batistă. 2. duşmănie. // ●ğawluknî ğoytkan ettí — a făcut batista pierdută.
+ğawmak v.i. (d. precipitații) a cădea. // ●ğañgîr-ğañgîr ğawmak — a ploua cu ropote; a ploua cu găleata. ●kar ğawmak — a ninge. ●şuwurgalî kar ğawmak — a viscoli. // ●burşak man ğawun ğawa — plouă cu grindină. ●ğawmaga tura — stă să plouă. ●ğawun ğawa — plouă. ●ğawun ğawağak — va ploua. ●kar ğawa — ninge. ●kar ğawgan bolsa da suwuk tuwul — deşi a nins, nu e frig. ●keşege ğawun ğawa — la noapte plouă. ●keşe-kúndúz kar ğawdî — a nins zile şi nopți. ●men keleğekte ğawun ğawa edí — când să vin ploua. ●sabaga iktimal kar ğawar — mâine dimineață e posibil să ningă. ●sen kelgenden berítlí toktamadan kar ğawa — de când ai venit tu ninge fără încetare. ●yarînga mutlakka ğawun ğawar — mâine sigur va ploua.
+ğawrawugî, diyúka- s. (orn.) cinteză diuca (lat., Diuca diuca).
+ğawrawugî, kar- s. (orn.) cinghiță alpină (lat., Montifringilla nivalis).
+ğawrawugî, taw- s. (orn.) cinteză de iarnă (lat., Fringilla montifringilla).
+ğawrawuk s. (orn.) cinteză; cintezoi (lat., Fringilla coelebs).
+ğawrawuk, kara-kózlí- s. (orn.) cintezoi de Oregon (lat., Junco hyemalis).
+ğawrawuk, mawî- s. (orn.) cinteză albastră (lat., Fringilla teydea).
+ğawrîn s. spate; spinare.
+ğawşan s. (bot.) pelin (lat., Artemisia absinthium).
+ğawşan, ak- s. (bot.) pelin-alb (lat., Artemisia austriaca).
+ğawşan, kara- s. (bot.) lemnul-Domnului; lemnuş; alimon (lat., Artemisia abrotanum).
+ğawşanî, ğaga- s. (bot.) peliniță; iarba-sfintei-Sofia (lat., Artemisia pontica).
+ğawşanî, sîpîrga- s. (bot.) pelin-de-mături (lat., Artemisia scoparia).
+ğawşanî, sîtma- s. (bot.) năfurică; buruiană-de-țară; mătură-turcească (lat., Artemisia annua).
 `;
