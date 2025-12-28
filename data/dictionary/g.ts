@@ -489,4 +489,208 @@ gruplaşma s. regrupare.
 gruplaşmak v.i. a se regrupa.
 gruplaştîrmak v.t. a grupa; a regrupa.
 guç num. (mong.) treizeci.
+guçin num. (mong.) treizeci.
+gudubet adj. urât; diform; hidos; hâd.
+gudubetlík s. urâțenie; diformitate.
+gufran s. (relig.) milă; mărinimie.
+gunuw-ğerení s. (zool.) gnu (lat., Connochaetes gnou).
+guraw num. (mong.) trei.
+gurban num. (mong.) trei.
+Gurre s. (cron.) prima zi a lunii conform calendarului musulman.
+gurur s. infatuare.
+gururlî adj. 1. mândru. 2. îngâmfat; orgolios.
+gusúl s. (relig.) spălare rituală a corpului pentru purificare; abluțiune.
+guşa s. (med.) guşă.
+guvernator s. guvernator.
+guvernatorlîk s. guvernare.
+guwarana s. (bot.) guarana (lat., Paullinia cupana; Paullinia sorbilis).
+guwayak s. (bot.) guaiac (lat., Guaiacum officinalis; Guaiacum sanctum).
+Guyana s. (topon.) Guyana.
+gúbre s. 1. (agr.) mraniță; gunoi; îngrăşamânt; fertilizator. 2. baligă; bălegar.
+gúbreleme s. (d. sol) îngrăşare; fertilizare.
+gúbrelemek v.t. (d. sol) a îngrăşa; a fertiliza.
+gúbrelengen adj. (d. sol) îngrăşat; fertilizat.
+gúbrelenmek v.i. (d. sol) a se îngrăşa; a se fertiliza.
+gúbrelew s. (d. sol) îngrăşare; fertilizare.
+gúbrelí adj. (d. sol) îngrăşat; fertilizat.
+gúdúm s. mânuire; manipulare; dirijare; teleghidare.
+gúdúmğí s. mânuitor; manipulant; dirijor.
+gúdúmğúlúk s. mânuire; manipulare; dirijare; teleghidare.
+gúdúmleme s. mânuire; manipulare; dirijare; teleghidare.
+gúdúmlemek v.t. a mânui; a manipula; a dirija; a teleghida.
+gúdúmlengen adj. mânuit; manipulat; dirijat; teleghidat.
+gúdúmlenmek v.i. a se mânui; a se manipula; a se dirija; a se teleghida.
+gúdúmlew s. mânuire; manipulare; dirijare; teleghidare.
+gúdúmlí adj. mânuit; manipulat; dirijat; teleghidat. // ●gúdúmlí balon — dirijabil; aerostat; balon.
+gúdúrdegen adj. răsunător.
+gúdúrdeme s. tunet; vuiet; trăsnet. // ●ğawun gúdúrdemesí — ropot de ploaie.
+gúdúrdemek v.i. a tuna; a bubui; a vui; a răsuna. // ●kók gúdúrdemek — a tuna. // ●kók gúdúrdiy — tună.
+gúdúrdew s. tunet; vuiet; trăsnet.
+gúdúrtí s. gălăgie; zgomot; tunet; bubuitură.
+gúdúrtúğí adj. gălăgios.
+gúdúrtúlí adj. gălăgios; zgomotos.
+gúl s. 1. trandafir; roză. 2. floare. // ●bo gúl mí? — acesta este trandafir? ; ●gúl demetí — buchet de trandafiri. ●gúl tatlîsî — dulceață de trandafiri.
+gúl, ğîr- s. (bot.) măceş; trandafir-sălbatic (lat., Rosa canina).
+gúl, múslí- s. (bot.) trandafir-moscat (lat., Rosa moschata).
+Gúlbahar s. (antrop. f., prsn.) "Floare de primăvară”.
+gúlbeser s. (bot.) castravete (lat., Cucumis sativus).
+gúlbeser, aşşî- s. (bot.) plesnitoare; pocnitoare; castravete-sălbatic (lat., Ecballium elaterium).
+Gúldenstádt'níñ-kîzîlkuyrugî s. (orn.) codroş cu aripă albă (lat., Phoenicurus erythrogaster).
+gúl-hatmiy s. (bot.) nalbă; nalbă-de-grădină; rujulină (lat., Althaea rosea).
+gúlí, aguw- s. (bot.) rododendron; smirdar; bujor-de-munte; trandafir-de-munte; iederă (lat., Rhododendron kotschyi).
+gúlí, ayuw- s. (bot.) bujor (lat., Paeonia officinalis).
+gúlí, it- s. (bot.) măceş; trandafir-sălbatic (lat., Rosa canina).
+gúlí, kaálp- s. 1. păducea; gherghină. 2. (bot.) păducel; gherghin (lat., Crataegus monogyna).
+gúlí, kúneş- s. (bot.) roua-cerului (lat., Drosera rotundifolia).
+gúlí, sírke- s. (bot.) răsură; ruxandră (lat., Rosa gallica).
+gúlí, tabîrga- s. (bot.) trandafir-moscat (lat., Rosa moschata).
+gúlístan s. grădină de trandafiri; rosarium.
+gúl-kagay s. (orn.) pescăruş roz (lat., Rhodostethia rosea).
+gúl-kapîstasî s. (bot.) varză-de-Bruxelles (lat., Brassica oleracea gemmifera).
+gúl-kelem s. (bot.) conopidă; cartafiol (lat., Brassica oleracea botrytis).
+gúl-kuralayî s. (orn.) mugurar trandafiriu (lat., Carpodacus roseus).
+gúller s., pl. rozacee.
+gúllí adj. 1. înflorit; înfloritor; eflorescent. 2. înflorat.
+gúllí-şeşeklí adj. 1. înflorit; înfloritor; eflorescent. 2. înflorat.
+gúlníşan s. rozetă.
+gúlpembe(sí) adj. roz; trandafiriu.
+gúlpembe-taw-peşmegí s. (bot.) ciupercă-de-pădure (lat., Agaricus silvaticus Schaeff).
+gúlpenğíre s. (arhit.) rozetă; rosa mistica; fereastră rotundă compartimentată.
+gúlrengí adj. roz; trandafiriu.
+gúl-şaklay s. (orn.) pescăruş roz (lat., Rhodostethia rosea).
+gúlşen s. grădină de trandafiri; rosarium.
+gúlterek s. (bot.) trandafir; roză (planta) (lat., Rosa).
+gúlúm interj. trandafirul meu! ;
+gúlyaka s. broşă.
+gúl-yúzlí-sewda s. (orn.) amorez cu fața de culoarea piersicii (lat., Agapornis roseicollis).
+gúl-yúzlí-sewdakuşî s. (orn.) amorez cu fața de culoarea piersicii (lat., Agapornis roseicollis).
+gúmeş s. fagure de miere.
+gúmeş-kurtî s. (ent.) găselniță; molia-stupilor (lat., Galleria mellonella).
+gúmrúk s. vamă. // ●gúmrúkten muwaff bolmak — a fi scutit de vamă. // ●gúmrúk káátí — declarație vamală. ●gúmrúk kîzmetkanasî — birou vamal. ●gúmrúk memurî — vameş. ●gúmrúk músaadesí — aprobare de la vamă. ●gúmrúk muwayenesí — control vamal. ●gúmrúk resímí — taxă vamală. ●gúmrúkten muwaff eşiya — obiecte scutite de taxe vamale.
+gúmrúkalîngan adj. vămuit.
+gúmrúkaluw s. vămuire.
+gúmrúkkana s. vamă; clădirea vămii.
+gúmrúkleme s. vămuire.
+gúmrúklemek v.t. a vămui.
+gúmrúklengen adj. vămuit.
+gúmrúklew s. vămuire.
+gúmrúklúk adj. vamal.
+gúmrúkşí s. vameş.
+gúmúş I. adj. de argint. II. s. argint. // ●gúmúş medaliya — medalie de argint. ●gúmúş takîmî — set de argint. ●gúmúş toy — nuntă de argint. ●gúmúş yúzúk — inel de argint.
+gúmúş-akşaterek s. (bot.) arțar argintiu (lat., Acer saccharinum).
+gúmúşbalîgî s. (iht.) aterină (lat., Atherina presbyter).
+gúmúş-beşparmakotî s. (bot.) scrântitoare (lat., Potentilla argentea).
+gúmúşçí s. argintar.
+gúmúşgágáa, ak-başlî- s. (orn.) pescăruş cu cioc argintiu cu cap alb (lat., Lonchura maja).
+gúmúşgágáa, ak-ğayalî- s. (orn.) pescăruş cu cioc argintiu cu târtiță albă; cinteză bengaleză (lat., Lonchura striata).
+gúmúşgágáa, kara-başlî- s. (orn.) pescăruş cu cioc argintiu cu cap negru (lat., Lonchura malacca).
+gúmúşgágáa, pullî-karînlî- s. (orn.) pescăruş cu cioc argintiu solzos (lat., Lonchura punctulata).
+gúmúşgágáasî, Afrika- s. (orn.) pescăruş cu cioc argintiu african (lat., Lonchura cantans).
+gúmúşgágáasî, Hint- s. (orn.) pescăruş cu cioc argintiu indian (lat., Lonchura malabarica).
+gúmúş-ğawunkuşî s. (orn.) ploier argintiu (lat., Pluvialis squatarola).
+gúmúşiy adj. argintiu; de culoare argintie.
+gúmúş-kagay s. (orn.) pescăruş argintiu (lat., Larus argentatus).
+gúmúş-kawak s. (bot.) plop; plop-alb (lat., Populus alba).
+gúmúş-kîrkawul s. (orn.) fazan argintiu (lat., Phasianus nycthemerus; Lophura nycthemera).
+gúmúş-ládin s. (bot.) brad argintiu (lat., Abies concolor).
+gúmúşlemek v.t. a arginta.
+gúmúşlengen adj. argintat.
+gúmúşlí adj. argintat; poleit cu argint.
+gúmúşlúk s. argintărie.
+gúmúş-narus s. (bot.) brad argintiu (lat., Abies concolor).
+gúmúşotî s. (bot.) scrântitoare (lat., Potentilla argentea).
+gúmúş-órdek s. (orn.) rață argintie (lat., Anas versicolor).
+gúmúşrengí adj. argintiu.
+gúmúşsepet s. (bot.) gâscariță (lat., Arabis alpina; Arabis hirsuta).
+gúmúş-suwtorgay s. (orn.) ploier argintiu (lat., Pluvialis squatarola).
+gúmúş-súlgún s. (orn.) fazan argintiu (lat., Phasianus nycthemerus; Lophura nycthemera).
+gúmúş-şaklay s. (orn.) pescăruş argintiu (lat., Larus argentatus).
+gúmúş-şîrşî s. (bot.) brad argintiu (lat., Abies concolor).
+gúmúş-tegenek s. (bot.) turtă; ciortopoloc; ciurul-zânelor (lat., Carlina acaulis).
+gúmúşten adj. de argint.
+gúmúştiy adj. argintiu; ca argintul.
+gúmúştúyme s. (bot.) granat; spilcuță (lat., Chrysanthemum parthenium; Tanacetum parthenium).
+gúmúştúymesí, dak- s. (bot.) vetricea; piretru (lat., Chrysanthemum alpinum; Tanacetum alpinum).
+gúna I. interj. păcat! ; II. s. 1. (relig.) păcat. 2. (fig.) greşeală; vină; culpă. // ●gúna íşlemek — a păcătui; a greşi. ●gúnaga kírmek — a intra în păcat. ●gúnanî kabletmemek — a pleda nevinovat; a se dezvinovăți. ●gúnanî ústúne almak — a lua păcatele asupra sa; a pleda vinovat. ●gúnasîn almak — a-şi face păcate cu cineva; a vorbi cu păcat. ●gúnasîndan boşatmak — a-i spăla păcatele cuiva; a-l ierta; a-l absolvi; a-l amnistia; a grația. // ●gúnadîr — e păcat.
+gúnaatîlgan adj. incriminat.
+gúnaatuw s. incriminare.
+gúnadanboşatkan adj. iertător; îndurător.
+gúnadîr interj. păcat! ;
+gúnakáar s., adj. (relig.) păcătos.
+gúnalî s., adj. (relig.) păcătos.
+gúnanîkabletmeme s. dezvinovățire.
+gúnasîndanboşagan adj. 1. iertat; scuzat; cruțat; absolvit. 2. (jur.) amnistiat; grațiat.
+gúnasîndanboşatîlgan adj. 1. iertat; scuzat; cruțat; absolvit. 2. (jur.) amnistiat; grațiat.
+gúnasîndanboşatkanday adj. scuzabil.
+gúnasîndanboşatuw s. 1. iertare; scuzare; cruțare; absolvire. 2. (jur.) amnistie; grațiere.
+gúnasîz adj. inocent; nevinovat; neprihănit.
+gúnasîzlîk s. inocență; neprihănire.
+gúrğí s., adj. gruzin; georgian.
+gúrğíğe I. adv. în limba georgiană. II. s. (limba) georgiană.
+Gúrğístan s. (topon.) Georgia.
+gúrğístanlî s., adj. gruzin; georgian.
+gúrze s. (zool.) viperă; năpârcă (lat., Vipera berus).
+gúrze, múyúzlí- s. (zool.) viperă-cu-corn (lat., Vipera ammodytes).
+gúwelegí, palamut- s. (bot.) vâsc-de-stejar; mărgăritar (lat., Loranthus Europaeus).
+gúwelek s. (bot.) vâsc (lat., Viscum album).
+gúwen s. încredere; siguranță; securitate; certitudine. // ●gúwenín ğîkmak — a-l teroriza. ●gúwenín sallatmak — a-l intimida. // ●gúwen ğellenmesí/sallanmasî — zdruncinarea încrederii. ●gúwen oyî/sesí — (pol.) vot de încredere. ●gúwenníñ yaman kullanmasî — abuz de încredere.
+Gúwendík s. (antrop. m.) "Cel în care ne-am încrezut”.
+gúwengendiy adv. demn de încredere.
+gúwenğe s. încredințare; asigurare. // ●gúwenğe bermek — a da asigurări. // ●deñíz gúwenğesí — asigurare maritimă. ●ğan gúwenğesí — asigurare de persoane. ●gúwenğe ğúklemesí — poliță de asigurare. ●gúwenğe súresí — termen de garanție. ●ihtiyariy gúwenğe — asigurare facultativă. ●kastalîk gúwenğesí — asigurare de boală. ●kaza gúwenğesí — asigurare de accidente.
+gúwenğeğí s. asigurator.
+gúwenğelí adj. asigurat.
+gúwenğîguw s. intimidare; teroare; terorizare; terorism. // ●gúwenğîguw faaliyetí — acțiune teroristă.
+gúwenğîguwğí s., adj. terorist.
+gúwenílgen adj. sigur.
+gúwenílmez adj. precar; nesigur; evaziv.
+gúwenísallangan adj. intimidat.
+gúwenlík s. încredere; siguranță; securitate; certitudine. // ●gúwenlík divanî — consiliu de securitate.
+gúwenmegen adj. neîncrezător; nesigur.
+gúwenmek v.i. a se bizui; a se încrede; a conta. // ●ğumurdukka gúwenmek — a se bizui pe forța pumnului; a fi violent. ●ózíne gúwenmek — a se simți în stare.
+gúwenmeme s. neîncredere; nesiguranță; insecuritate; incertitudine.
+gúwenmiykalgan adj. neîncrezător; nesigur.
+gúwenmiykalma s. neîncredere; nesiguranță; insecuritate; incertitudine.
+gúwenmiykaluw s. neîncredere; nesiguranță; insecuritate; incertitudine.
+gúwensallatma s. intimidare. // ●gúwensallatma siyasetí — politică de intimidare.
+gúwensallatuw s. intimidare.
+gúwensíz adj. neîncrezător; nesigur.
+gúwensízlík s. neîncredere; nesiguranță; insecuritate; incertitudine.
+gúweş s. ghiveci (şi culin.).
+gúwez adj. violaceu; vioriu; violet.
+Gúyne s. (topon.) Guineea.
+Gúyne-Bissaw s. (topon.) Guineea-Bissau.
+gúynelí s., adj. guineean.
+gúyúk s. (zool.) cerb (lat., Cervus elaphus).
+gúyúklúk s. rezervație pentru creşterea cerbilor; cerbărie.
+gúyúkşe adv. ca cerbii; cerbeşte.
+gúyúktiy adv. ca cerbii; cerbeşte.
+gúzel I. adj. frumos; plăcut; agreabil; bun. II. adv. bine; frumos. III. s. frumos; frumusețe. // ●barometre gúzel hawa kóstere — barometrul indică vreme frumoasă. ●bek gúzel — foarte frumos. ●bek gúzelsíñ — eşti foarte frumoasă. ●dúniyalar gúzelí — cea mai frumoasă din lume; frumoasa frumoaselor. ●eñ gúzel — cel mai frumos. ●fewkaláde gúzel — splendid. ●gúzel laf — compliment. ●gúzel sanatlar — arte frumoase. ●gúzellerníñ gúzelí — frumoasa frumoaselor. ●hawa gúzel — e o vreme frumoasă. ●ne gúzel wuruş — ce lovitură frumoasă.
+gúzeledebiyat s. beletristică.
+gúzelğe adv. 1. binişor; foarte; bine de tot. 2. complet; integral; totalmente; de-a binelea; cu totul; pe deplin.
+gúzel-ğúrgeş s. (bot.) frigurică (lat., Erythrea pulchella).
+gúzelím interj. frumoasa mea! ;
+gúzel-kantarun s. (bot.) frigurică (lat., Erythrea pulchella).
+gúzelkíyíngen adj. ferchezuit; spilcuit; gătit.
+gúzelkíyínúw s. ferchezuire; spilcuire; gătire.
+gúzel-kuyruklî-şîrîldak s. (orn.) greluşel siberian (lat., Locustella certhiola).
+gúzelleşken adj. înfrumusețat.
+gúzelleşme s. înfrumusețare.
+gúzelleşmek v.i. 1. a se găti; a se împodobi. 2. a se face frumos. // ●hawalar gúzelleşe — vremea se face frumoasă.
+gúzelleştírmek v.t. a înfrumuseța.
+gúzelleşúw s. înfrumusețare.
+gúzellík s. 1. frumusețe. 2. bine; blândețe; vorbă bună. // ●gúzellík men — cu frumosul. ●tuwa gúzellík — frumusețe naturală.
+gúzellíkbílímğí adj. estetic.
+gúzellíkbílímğílík s. estetism.
+gúzellíkbílímğísí s. estetician.
+gúzellíkbílímí s. estetică.
+gúzelyazî s. caligrafie.
+gúzeşt s. îngăduință; concesie.
+gúzeştlí adj. îngăduitor; concesie.
+gúzide adj. numeros.
+Gwatemala s. (topon.) Guatemala.
+gwatemalalî s., adj. guatemalez.
+gyúlle s. 1. (mil.) ghiulea; proiectil. 2. (sport) greutate. // ●gyúlle atmak — (sport) a arunca greutatea. // ●gyúlle atma ozîşî — (sport) aruncarea greutății.
+gyúlleğí s. (sport) aruncător de greutate.
+Gyúlnar s. (antrop. f., prsn.) “Floare de rodiu”.
+gyúm s. ghium; bidon. // ●teneke gyúmí — canistră.
 `;
