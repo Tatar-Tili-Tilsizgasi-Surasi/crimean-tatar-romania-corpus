@@ -693,4 +693,224 @@ gyúlle s. 1. (mil.) ghiulea; proiectil. 2. (sport) greutate. // ●gyúlle atma
 gyúlleğí s. (sport) aruncător de greutate.
 Gyúlnar s. (antrop. f., prsn.) “Floare de rodiu”.
 gyúm s. ghium; bidon. // ●teneke gyúmí — canistră.
+ğaba I. adv. 1. inutil; degeaba; în zadar; zadarnic. 2. pe gratis; gratuit. II. s. furcă de lemn; crăcan; cracă ramificată. // ●awuzun ğaba yorîltmak — a-şi strica gura degeaba; a vorbi în zadar.
+ğabadan adv. pe degeaba; pe gratis.
+ğabadan-ğaba adv. degeaba; în zadar; zadarnic; inutil; degeaba; zadarnic; în zadar; în van; pe degeaba; pe gratis.
+ğabadanşabalanma s. zădărnicie.
+ğabaga adv. pe gratis; gratuit.
+ğabagî s. lână (cantitatea tunsă de pe multe oi).
+ğabîk adj. închis; acoperit; învelit; astupat.
+ğabîlgan adj. învelit; acoperit.
+ğabîlmak v.i. a fi închis; a fi acoperit; a fi învelit; a fi astupat.
+ğabînmak v.i. a se închide; a se acoperi; a se înveli; a se astupa.
+ğabîşîk adj. lipit; împreunat.
+ğabîşkak s. (ent.) lindină; ou de păduche.
+ğabîşkan adj. lipicios; cleios; vâscos.
+ğabîşkan-adaşayî s. (bot.) cinsteț; lăpuş; jale-cleioasă; salvie-cleioasă (lat., Salvia glutinosa).
+ğabîşmak v.i. 1. a se lipi; a se încleia. 2. a se prinde; a se fixa. 3. a se tampona; a se ciocni. // ●bogazîna ğabîşmak — a-i pune cuiva mâna în gât; a-l lua de gât; a-l înşfăca; a-i cere socoteală. ●etegíne ğabîşmak — a cădea la poalele cuiva; a se arunca la picioarele cuiva.
+ğabîşmaotî s. (bot.) paracherniță; parietarie; grâul-potârnichii (lat., Parietaria officinalis; Parietaria erecta).
+ğabîştîrîlgan adj. 1. încleiat; lipit. 2. prins; fixat.
+ğabîştîrîlmak v.i. 1. a fi lipit; a fi încleiat. 2. a se prinde; a se fixa.
+ğabîştîrma s. 1. încleiere; lipire. 2. prindere; fixare.
+ğabîştîrmak v.t. 1. a lipi; a încleia. 2. (fig.) a cârpi (o palmă). 3. a tampona; a ciocni. 4. a prinde; a fixa. // ●pul ğabîştîrmak — a timbra.
+ğabîştîruw s. 1. încleiere; lipire. 2. prindere; fixare.
+ğabîştîruwğî s. lipici; clei; adeziv.
+ğabîşuw s. aderare; lipire.
+ğabuw s. închidere; acoperire; învelire; astupare.
+ğadde s. bulevard. // ●ana ğadde — autostradă; magistrală. ●bo ğaddeníñ atî ne? — cum se numeşte acest bulevard? ;
+ğadî I. adj. băbesc. II. s. 1. bătrână; babă. 2. (mitol.) baba-cloanța; vrăjitoare. 3. baubau. // ●kyúpkekírgen ğadî — zgripțuroaică.
+ğadîğa adv. băbeşte.
+ğadîragî, Awustraliye- s. (orn.) fâsă asiatică (lat., Anthus novaescelandiae; Anthus richardi).
+ğadîragî, dak- s. (orn.) fâsă de munte (lat., Anthus spinoletta).
+ğadîragî, Kanariya-Adasî- s. (orn.) fâsa lui Berthelot (lat., Anthus berthelotii).
+ğadîragî, kaya- s. (orn.) fâsă de stâncă (lat., Anthus petrosus).
+ğadîragî, kîr- s. (orn.) fâsă de câmp (lat., Anthus campestris).
+ğadîragî, moñgol- s. (orn.) fâsa lui Blyth (lat., Anthus godlewskii).
+ğadîragî, Paçifik- s. (orn.) fâsă de Pacific (lat., Anthus rubescens).
+ğadîragî, şayîr- s. (orn.) fâsă de luncă (lat., Anthus pratensis).
+ğadîragî, terek- s. (orn.) fâsă de pădure (lat., Anthus trivialis).
+ğadîrak, altîn- s. (orn.) codobatură africană aurie (lat., Tmetothylacus tenellus).
+ğadîrak, kîzîl- s. (orn.) fâsă roşiatică (lat., Anthus cervinus).
+ğadîrak, uzun-gágáalî- s. (orn.) fâsă cu cioc lung (lat., Anthus similis).
+ğadîrak, yeşíl-sîrtlî- s. (orn.) fâsa cu spate măsliniu (lat., Anthus hodgsoni).
+ğafer s. râu; fluviu.
+Ğafer s. (antrop. m., arab.) “Cel tumultuous ca un fluviu”.
+ğaga s. 1. (geogr.) margine; mal; țărm; coastă; litoral. 2. bor de pălărie. // ●ğagaga tartîlmak — a se da la o parte. // ●bonî bír ğagaga sal! — pune asta deoparte! ; ●deñízníñ ğagasî — malul mării; litoral. ●inğe kumlî ğagalar — plaje cu nisip fin. ●Kara Deñíz ğagasî — coasta Mării Negre. ●kúneş ğaga — soarele dogoreşte. ●taw ğagasî — lizieră.
+ğagağak s. combustibil (pt. foc).
+ğaga-ğawşanî s. (bot.) peliniță; iarba-sfintei-Sofia (lat., Artemisia pontica).
+ğaga-karkarasî s. (orn.) egretă cenuşie (lat., Egretta gularis).
+ğagakólí s. (geogr.) lagună.
+ğaga-mideotî s. (bot.) peliniță; iarba-sfintei-Sofia (lat., Artemisia pontica).
+ğaga-şapurî s. (orn.) egretă cenuşie (lat., Egretta gularis).
+ğagayît s. combustibil.
+ğagîlbay s. (orn.) şoimul rândunelelor; şoimul ciocârliilor (lat., Falco subbuteo).
+ğagîlbayğî s. şoimar.
+ğagîlgan adj. aprins; ars; incendiat; uns; gresat.
+ğagîlgan-ğîgîlgan adj. nimicit; distrus; devastat; pustiit; stârpit.
+ğagîlmak v.i. 1. a fi ars; a i se da foc; a fi aprins; a fi incendiat. 2. a fi uns; a fi gresat.
+ğagîlmak-ğîgîlmak v.i. a fi nimicit; a fi distrus; a fi devastat; a fi pustiit; a fi stârpit.
+ğagînmak v.i. a se unge (cu ruj, pudră, cremă).
+ğaguw s. 1. pârjol; incendiere; dogoare. 2. ungere; plasture.
+ğaguwğî adj. 1. arzător; incendiar; dogoritor; pârjolitor (şi fig.). 2. caustic.
+ğaguw-ğîguw s. nimicire; distrugere; devastare; pustiire; stârpire.
+ğaguwğî-ğîguwğî adj. nimicitor; distrugător; devastator; pustiitor.
+ğahil adj. 1. incult; ignorant. 2. novice; ageamiu. // ●kara ğahil — incult; ignorant.
+ğahillík s. 1. ignoranță; incultură. 2. noviciat; lipsă de experiență. // ●ğahillíkten kelmek — a da dovadă de ignoranță.
+ğahillíkten adv. din ignoranță; din incultură; din lipsă de experiență.
+ğak s. obraz; față.
+ğaka s. giacă; jachetă; scurtă; haină.
+ğakî s. giacă; jachetă; scurtă; haină.
+ğakkan adj. 1. arzător; fierbinte; dogoritor; incendiar. 2. dureros; regretabil. 3. usturător. // ●ğakkan bomba — bombă incendiară.
+ğakkan-ğîkkan adj. distrugător; devastator; pârjolitor.
+ğakma s. 1. aprindere; ardere; incendiere. 2. ungere; gresare. 3. fard; vopsea de față. 4. pâine cu unt; sandviş simplu.
+ğakma-ğîkma s. distrugere; devastare; pârjolire.
+ğakmak A. v.i. 1. a fi fierbinte; a arde. 2. (d. soare) a dogorî. 3. a unge; a gresa. B. v.t. 1. a arde; a da foc; a aprinde; a incendia. 2. (d. ardei etc.) a arde; a ustura. 3. (d. soare) a bronza. 4. (d. vânt, soare) a pârli; a ofili; a veşteji. // ●ateşte ğakmak — a pune pe cineva pe foc. ●boya ğakmak — a vopsi; a farda. ●erín boyasî ğakmak — a se ruja. ●ğagîp ğîkmak — a trece prin foc şi sabie; a distruge; a incendia. ●ğagîp kúlún şîgarmak — a incinera. ●ğanîn ğakmak — a-i mânca sufletul cuiva. ●ğípke un ğakmak — a se scuza în fel şi chip; a motiva în fel şi chip. ●gúzel kokî ğakmak — a parfuma. ●kaş ğakmak — a vopsi sprâncenele. ●kîna ğakmak — a vopsi cu kâna. ●kúneş ğakmak — a se arde la soare; a se bronza; a face insolație. ●may ğakmak — a unge cu grăsime; a gresa. ●ótmegíne may ğakmak — a se băga pe sub pielea cuiva; a-l linguşi. // ●maşinam az benzina ğaga — maşina mea consumă puțină benzină. ●şagîlganlî radiyatornî ğagîñîz! — aprindeți radiatorul electric! ;
+ğakmak-ğîkmak v.t. a nimici; a distruge; a devasta; a pustii; a stârpi.
+ğakmaotî s. (bot.) pufuliță; zburătoare (lat., Epilobium angustifolim).
+ğaktîrmak v.t. 1. a determina să ungă; a determina să greseze. 2. a determina să ardă.
+ğal s. (la cai) coamă.
+ğala s. 1. cravată. 2. curea; cordon; centură; brâu; chimir; şerpar; cingătoare.
+ğalagay adj. 1. adulator; elogiator. 2. linguşitor; flatant; măgulitor.
+ğalagaylamak v.t. 1. a adula; a elogia. 2. a linguşi; a flata; a măguli.
+ğalagaylangan adj. 1. adulator; elogiator. 2. linguşitor; flatant; măgulitor.
+ğalagaylanmak v.i. 1. a fi adulat; a fi elogiat. 2. a se linguşi; a fi flatat; a fi măgulit.
+ğalagaylanuw s. 1. adulare; elogiu. 2. linguşire; flatare; măgulire.
+ğalagaylaw s. adulare.
+ğalagaylawğî adj. 1. adulator; elogiator. 2. linguşitor; flatant; măgulitor.
+ğalagaylîk s. 1. adulare; elogiu. 2. linguşire; flatare; măgulire.
+ğalak s. 1. jgheab; uluc; canelură. 2. altoi; inoculare; grefă.
+ğalaklama s. altoire; inoculare; grefare; transplantare.
+ğalaklamak v.t. a altoi; a inocula; a grefa; a transplanta.
+ğalaklangan adj. altoit; inoculat; grefat; transplantat.
+ğalaklaw s. altoire; inoculare; grefare; transplantare.
+ğalaklî adj. 1. altoit; inoculat; grefat; transplantat. 2. cu jgheab; cu uluc; canelat.
+ğalama s. bandă sacră; eşarfă sacră.
+ğalamak v.t. a linge. // ●parmaklarîn ğalamak — a-şi linge degetele. ●şanak/súyek ğalamak — a linge blide; a linguşi cu slugărnicie.
+ğalambaş adj. cu capul descoperit.
+ğalangan adj. lins.
+ğalanmak v.i. a se linge.
+ğalañ I. adj. 1. simplu; neamestecat. 2. nud; despuiat; gol. II. s. câmp; câmpie; şes; stepă.
+ğalañg-ayak adj. descălțat; desculț.
+ğalañgîş adj. 1. nud; despuiat; gol. 2. simplu; neamestecat.
+ğalañ-ğalañ adv. fremătând; palpitând; agitându-se.
+ğalaşmak v.i. a se linge reciproc.
+ğalaşuw s. lingere.
+ğalaw s. drapel; steag; stindard.
+ğalawğî s. 1. lingău. 2. stegar. // ●súyek/şanak ğalawğî — linguşitor.
+ğalawşîk s. steguleț; fanion.
+ğalba, kara- s. (bot.) captalan-negru (lat., Verbascum nigrum).
+ğalba, túylí- s. (bot.) lumânare; lumânărică; corovatic (lat., Verbascum phlomoides).
+ğalba, wakşeşeklí- s. (bot.) lumânărică; coada-lupului (lat., Verbascum thapsus).
+ğalbara-yapîşa adv. cu rugăminți stăruitoare; implorând.
+ğalbargan s. solicitant.
+ğalbarîlgan adj. solicitat.
+ğalbarîş s. 1. rugăminte; implorare; milogeală. 2. solicitare; petiție.
+ğalbarmak v.t. 1. a ruga; a implora; a se milogi. 2. a solicita; a pleda. // ●imdatîna ğalbarmak — a invoca. // ●ğalbaraman! — vă implor! ; ●ne kadar ğalbardîm — cât l-am rugat.
+ğalbaruw s. 1. rugăminte; implorare; milogeală. 2. solicitare; petiție.
+ğalbaruwğî s. 1. solicitant; petent. 2. milog.
+ğaldagan s., adj. înotător.
+ğaldama s. înot. // ●bayrak ğaldama ozîşlarî ertelendí — (sport) probele de ştafetă la înot s-au amânat. ●ğaldama hawuzî — piscină; bazin de înot.
+ğaldamak v.i. a înota.
+ğaldaw s. înot. // ●bakalama ğaldaw — înot bras. ●ğaldaw ozîşî — (sport) competiția de înot. ●sîrtústí ğaldaw — (sport) înot pe spate.
+ğaldawğî s., adj. înotător.
+ğaldawkúrek s. aripioară; aripă; înotătoare (de peşte).
+ğalgîn s. miraj; fata morgana; apa-morților.
+ğalgîz I. adj. (d. oameni) singur; singuratic; solitar. II. adv. 1. numai; doar; exclusiv. 2. (d. oameni) de unul singur; fără altcineva.
+ğalgîzlîk s. 1. pustietate; izolare. 2. singurătate.
+ğalip adj. atrăgător; ispititor; tentant.
+ğaliplí adj. atras; ispitit; tentat.
+ğaliplík s. atracție; ispită; tentație. // ●ğaliplík etmek — a ispiti.
+ğalîn s. 1. flacără; flamă. 2. (la cai) coamă.
+ğalîngan s. 1. solicitant; petent. 2. milog.
+ğalînîş s. rugăminte; implorare; milogeală.
+ğalînmak v.t. a ruga; a implora; a se milogi.
+ğalînuw s. rugăminte; implorare; milogeală.
+ğalkîldagan adj. lucios.
+ğalkîldalgan adj. fulgerat.
+ğalkîldama s. fulgerare; trăsnet.
+ğalkîldamak v.i. a fulgera; a trăsni. // ●ğaşîn ğalkîlday — fulgeră.
+ğalkîldaw s. fulgerare; trăsnet.
+ğalkîltî s. fulgerare; trăsnet.
+ğalkîn s. fulger; trăsnet.
+ğalkînday adj. fulgerător; iute; instantaneu.
+ğalkînlîk s. (fiz.) paratrăznet.
+ğalkînwurgan adj. lovit de trăsnet; trăsnit.
+ğalkîraw s. strălucire; sclipire; lucire; luciu.
+ğalma s. 1. haină matlasată; pufoaică. 2. hrană pentru câini.
+ğalman s. tăiş; lamă (la sabie).
+ğalmap-ğutulgan adj. devorat; înfulecat.
+ğalmap-ğutuw s. devorare; înfulecare.
+ğalpa I. adj. instantaneu; momentan. II. s. 1. (nav.) tangaj. 2. instantaneu. // ●ğalpa wurmak — (nav.) a avea tangaj. // ●ğalpa wurma — (nav.) tangaj. ●gemí ğalpa wura — vasul are tangaj.
+ğalpak adj. lat; larg. // ●ğalpak kîrîm tatarşa — limba tătară crimeană autentică.
+ğalpak-atkulak s. (bot.) ştevie; măcrişul-calului (lat., Rumex patientia; Rumex conglomeratus).
+ğalpak-bakaotî s. (bot.) pătlagină; iarba-bubei; iarbă-mare (lat., Plantago major).
+ğalpakbet(lí) adj. (d. oameni) cu față lătăreață.
+ğalpak-ğaraotî s. (bot.) pătlagină; iarba-bubei; iarbă-mare (lat., Plantago major).
+ğalpak-katîkotî s. (bot.) răcovină (lat., Galium rotundifolium).
+ğalpak-koyanotî s. (bot.) plăcinta-porcului; talpa-ursului (lat., Heracleum palmatum).
+ğalpakkulak s. (bot.) curcubețea; remf; mărul-lupului; lepădătoare (lat., Aristolochia clematitis).
+ğalpaklay adv. lățiş; în sensul lățimii.
+ğalpaklîk s. lățime; lărgime.
+ğalpak-maralmúyúzí s. (bot.) ghizdei-mare (lat., Lotus uliginosus).
+ğalpak-tawlayotî s. (bot.) plăcinta-porcului; talpa-ursului (lat., Heracleum palmatum).
+ğalpakyonğa, sarî- s. (bot.) sulfină; molotru; trifoi-mare; iarbă-de-piatră (lat., Melilotus officinalis).
+ğalpawuruw s. (mar.) tangaj.
+ğalpaygan adj. lărgit; lățit; extins; întins.
+ğalpaymak v.i. a se lărgi; a se lăți; a se extinde; a se întinde.
+ğalpaytmak v.t. a lărgi; a lăți; a extinde; a întinde.
+ğalpayuw s. lărgire; lățire; extindere; întindere.
+ğalpîldagan adj. sclipitor; strălucitor; lucitor.
+ğalpîldama s. sclipire; strălucire; lucire.
+ğalpîldamak v.i. a luci; a străluci; a sclipi.
+ğalpîldatîlgan adj. lustruit; poleit; şlefuit.
+ğalpîldatma s. lustruire; şlefuire.
+ğalpîldatmak v.t. a lustrui; a da luciu; a face să lucească; a şlefui.
+ğalpîldatuw s. şlefuire.
+ğalpîldatuwğî s. lustruitor; şlefuitor.
+ğalpîldaw s. sclipire; strălucire; lucire.
+ğalpîldawuk adj. sclipitor; strălucitor; lucitor.
+ğaltaklamak v.t. 1. a adula; a elogia. 2. a linguşi; a flata; a măguli.
+ğaltaklangan adj. 1. linguşit; flatat; măgulit. 2. adulat; elogiat.
+ğaltaklanma s. gudurare.
+ğaltaklanmak v.i. 1. a se linguşi; a fi flatat; a fi măgulit. 2. a fi adulat; a fi elogiat.
+ğaltaklanuw s. 1. adulare; elogiu. 2. linguşire; flatare; măgulire.
+ğaltaklaw s. adulare.
+ğaltaklawğî adj. 1. linguşitor; flatant; măgulitor. 2. adulator; elogiator.
+ğaltakşî adj. 1. linguşitor; flatant; măgulitor. 2. adulator; elogiator.
+ğaltakşîlîk s. 1. linguşire; flatare; măgulire. 2. adulare; elogiu.
+ğam s. geam; sticlă. // ●ğam parşasî — ciob de sticlă. ●ğam síleğekler árúw şalîşa — ştergătoarele de parbriz funcționază bine.
+ğamamak v.t. a petici; a cârpi.
+ğamandura s. 1. (nav.) geamandură. 2. (tehn.) flotor.
+ğamaralîgî s. glasvand.
+ğamaw s. petic; peticire. // ●ğamaw wurmak — a petici.
+ğamaw-ğamaw adj. plin de cârpeli; plin de petice.
+ğamawğî s. cârpaci.
+ğamawlama s. cârpire; peticire.
+ğamawlamak v.t. a petici; a cârpi.
+ğamawlangan adj. cârpit; peticit.
+ğamawlanmak v.i. a fi peticit; a fi cârpit.
+ğamawlaw s. cârpire; peticire.
+ğamawlî adj. cârpit; peticit.
+ğamawlîkót s. coate-goale.
+ğamawluk s. petic.
+ğamawwurulgan adj. peticit.
+ğamawwuruw s. peticire.
+ğambaz I. adj. viclean; şiret. II. s. 1. acrobat; saltimbanc. 2. geambaş.
+ğambazlîk s. 1. acrobație. 2. viclenie; şiretenie.
+ğambólmesí s. glasvand.
+ğamday adj. sticlos.
+ğamekáan s. 1. vitrină. 2. geamlâc; marchiză.
+ğamğî s. geamgiu. // ●ğamğî mağunî — chit.
+Ğamiy, El- s. (relig., arab.) "Unificatorul"; “Cel care strânge laolaltă; întruneşte şi reuneşte după voia Sa pe oricine; orice; oriunde şi oricând” (unul din cele 99 preafrumoase nume atribuite în Coran lui Dumnezeu/Allah).
+ğamiya s. obşte; popor.
+ğamí s. geamie; moschee.
+ğam-íşe s. sticlărie; obiecte de sticlă.
+ğamîk s. (bot.) linte-de-baltă; lintiță; mătasea-broaştei (lat., Lemna minor).
+ğamîş s. (zool.) bivol (lat., Bos bubalus).
+ğamîz s. 1. (anat.) stinghie. 2. (anat.) vintre.
+ğamkana s. sticlărie; fabrică de sticlă.
+ğamkesken s. diamant (pt. tăiat geamuri).
+ğamkóz I. adj. avar; lacom. II. s. (iht.) rechin (lat., Selachoidei sp.).
+ğamlî adj. 1. cu geam. 2. cu geam; cu geamuri; sticlos. // ●ğamlî miydanşa — verandă. ●renklí ğamlî penğíre — vitraliu.
+ğamlîk s. 1. geamlâc; marchiză. 2. vitrină. // ●túkáan ğamlîgî — vitrină.
 `;
