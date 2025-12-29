@@ -1354,4 +1354,227 @@ gyúm s. ghium; bidon. // ●teneke gyúmí — canistră.
 ğawşanî, ğaga- s. (bot.) peliniță; iarba-sfintei-Sofia (lat., Artemisia pontica).
 ğawşanî, sîpîrga- s. (bot.) pelin-de-mături (lat., Artemisia scoparia).
 ğawşanî, sîtma- s. (bot.) năfurică; buruiană-de-țară; mătură-turcească (lat., Artemisia annua).
+ğawşî s. pețitor; mijlocitor.
+ğawtutulgan adj. duşmănit.
+ğawuk I. adj. aproapiat. II. adv. aproape. III. s. logodnă.
+ğawuklamak v.t. a logodi.
+ğawuklangan adj. logodit.
+ğawuklanma s. logodnă.
+ğawuklanmak v.i. a se logodi.
+ğawuklanuw s. logodnă.
+ğawuklî adj. logodit; logodnic.
+ğawun s. ploaie; precipitație. // ●ğawundan kaşîp burşakka tutulmak — a cădea din lac în puț. // ●burşak man ğawun ğawa — plouă cu grindină. ●ğawun ğawa — plouă. ●ğawun ğawağak — va ploua. ●ğawun gúdúrdemesí — ropot de ploaie. ●ğawun kartasî — (meteo.) hartă pluviometrică. ●ğawun mewsúmí — (meteo.) muson. ●ğawun toktadî — a stat ploaia. ●ğawundan soñra kúneş şîktî — după ploaie a ieşit soarele. ●kar man karîşkan ğawun — ploaie cu zăpadă; lapoviță; măzăriche; zloată. ●keşege ğawun ğawa — la noapte plouă. ●men keleğekte ğawun ğawa edí — când să vin ploua. ●ok ğawunî — ploaie de săgeți. ●yarînga mutlakka ğawun ğawar — mâine sigur va ploua.
+ğawunkuşagî s. curcubeu.
+ğawunkuşî s. (orn.) ploier (lat., Charadrius pluvialis).
+ğawunkuşî, akşa- s. (orn.) prundăraş de sărătură (lat., Charadrius alexandrinus).
+ğawunkuşî, altîn- s. (orn.) ploier auriu (lat., Pluvialis apricaria).
+ğawunkuşî, Amerika-altîn- s. (orn.) ploier american auriu (lat., Pluvialis dominica).
+ğawunkuşî, Asiye- s. (orn.) prundăraş asiatic (lat., Charadrius asiaticus).
+ğawunkuşî, balaban-kum- s. (orn.) prundăraş de deşert (lat., Charadrius leschenaultii).
+ğawunkuşî, balaban-yakalî- s. (orn.) prundăraş gulerat mare (lat., Charadrius hiaticula).
+ğawunkuşî, dak- s. (orn.) prundăraş de munte (lat., Charadrius morinellus).
+ğawunkuşî, Forbes'níñ- s. (orn.) prundăraşul lui Forbes (lat., Charadrius forbesi).
+ğawunkuşî, gúmúş- s. (orn.) ploier argintiu (lat., Pluvialis squatarola).
+ğawunkuşî, kawerengí-yakalî- s. (orn.) prundăraş cu dungi castanii (lat., Charadrius pallidus).
+ğawunkuşî, Kittlitz'níñ- s. (orn.) prundăraşul lui Kittlitz (lat., Charadrius pecuarius).
+ğawunkuşî, kíşkene-kum- s. (orn.) prundăraş de deşert de Mongolia (lat., Charadrius mongolus).
+ğawunkuşî, kíşkene-yakalî- s. (orn.) prundăraş gulerat mic (lat., Charadrius dubius).
+ğawunkuşî, Mîsîr- s. (orn.) ploier egiptean; pasărea-crocodilului (lat., Pluvianus aegyptius).
+ğawunkuşî, Moñgol- s. (orn.) prundăraş de deşert de Mongolia (lat., Charadrius mongolus).
+ğawunkuşî, Paçifik-altîn- s. (orn.) ploier de Pacific auriu (lat., Pluvialis fulva).
+ğawunkuşî, perdelí- s. (orn.) prundăraş semipalmat (lat., Charadrius semipalmatus).
+ğawunkuşî, şayîr- s. (orn.) prundăraş cu coadă ascuțită (lat., Charadrius vociferus).
+ğawunkuşî, tamgalî- s. (orn.) prundăraş de munte (lat., Charadrius morinellus).
+ğawunkuşî, úş-yakalî- s. (orn.) prundăraş cu trei gulere (lat., Charadrius tricollaris).
+ğawunlî adj. ploios; cu precipitații. // ●ğawunlî yîl — an ploios.
+ğawunluk s. pelerină de ploaie.
+ğawunólşegen s. pluviometru.
+ğawunólşeme s. pluviometrie.
+ğawunsuz adj. secetos.
+ğawunsuzluk s. secetă.
+ğawur s. (vet.) rosătură produsă de şa sau de ham pe spatele animalului; sagnă.
+ğawurun s. spate; spinare.
+ğawuz adj. rău; răutăcios; sever; hain; crunt; cumplit; crud; groaznic; feroce.
+ğawuzlaşkan adj. înrăit.
+ğawuzlaşma s. înrăire.
+ğawuzlaşmak v.i. a se înrăi.
+ğawuzlaştîrmak v.t. a înrăi.
+ğawuzlaşuw s. înrăire.
+ğawuzluk s. răutate; severitate; cruzime; ferocitate.
+ğay s. 1. (şi mat.) arc. 2. (astr.) zodia săgetătorului. 3. (muz.) arcuş. 4. (tehn.) resort; arc. 5. paranteză. // ●dayire ğayî — (mat.) arc de cerc. ●ğay íşínde — în paranteză. ●ğeñgí ğayî — arc de triumf. ●şagîlgan/elektrik ğayî — arc electric.
+ğaya s. 1. (anat.) fesă; bucă; crupă. 2. (la păsări) târtiță.
+ğayaw I. adv. (pedestru) pe jos. II. s. pieton. // ●ğayaw ketmek — a merge pe jos. // ●ğayaw asker/ğeñkşí — (mil.) infanterie; infanterist. ●ğayaw geşúwí — trecere pentru pietoni. ●ğayaw kaldîrîmî — trotuar. ●ğayaw kír-almaz — accesul interzis pietonilor. ●ğayaw kópír — punte; pasarelă.
+ğayawgezúw s. promenadă.
+ğayaw-ğalpî adv. (pedestru) pe jos. // ●ğayaw-ğalpî yetíşken — a ajuns pe jos.
+ğayday adj. arcuit.
+ğaygara s. zarvă; larmă; gălagie; tărăboi; vâlvă. // ●íşínde ğaygara kopmak — a se indigna; a se scandaliza; a se supăra; a se revolta.
+ğaygarağî adj. gălăgios; scandalagiu.
+ğaygîn adj. 1. răspândit; împrăştiat; întins. 2. (fig.) cunoscut; frecvent; răspândit.
+ğayğî s. arcaş.
+ğayiz adj. permis; încuviințat; îngăduit; învoit; binevoitor; autorizat.
+ğayîk I. adj. plat; lătăreț. II. s. (topon.) Ural.
+Ğayîk-yapalagî s. (orn.) huhurez mare (lat., Strix uralensis).
+ğayîlgan adj. aşternut; întins.
+ğayîlîm s. salvă. // ●top ğayîlîmî — (mil.) salvă de tun.
+ğayîlma s. revărsare; aşternere; întindere; expansiune; propagare. // ●ğayîlmasîn toktatmak — a localiza.
+ğayîlmak v.i. 1. a fi întins; a fi aşternut. 2. (d. oameni) a se întinde; a se culca. 3. a se răspândi; a se întinde. 4. a se propaga; a se difuza. // ●ğayîlîp otîrmak — a se lăfăi.
+ğayîlmasîtoktagan adj. limitat la un teritoriu redus; localizat.
+ğayîluw s. revărsare; aşternere; întindere; expansiune; propagare.
+ğayîm s. 1. editare; publicare. 2. (fiz.) difuziune.
+ğayîmğî s. (d. persoane) difuzor.
+ğayîmlama s. 1. difuzare. 2. promulgare.
+ğayîmlamak v.t. 1. a publica; a edita. 2. a difuza.
+ğayîmlangan adj. publicat; editat.
+ğayîmlanmagan adj. nepublicat.
+ğayîmlanmaykalgan adj. nepublicat.
+ğayîmlaw s. 1. difuzare. 2. promulgare.
+ğayîmlawğî s. editor.
+ğayîn s. 1. (iht.) somn (lat., Silurus glanis). 2. publicație. 3. emisiune; radioemisiune. // ●ğayînnî bîzmak — a bruia.
+ğayînbîzuw s. bruiaj.
+ğayînîbîzîlgan adj. bruiat.
+ğayînkana s. editură.
+ğayînlama s. 1. tipărire; publicare. 2. transmisiune radio; transmisiune televizată.
+ğayînlamak v.t. 1. a scoate; a publica; a tipări. 2. a transmite (emisiuni radio sau televizate).
+ğayînlangan adj. transmis (d. emisiuni radio sau televizate).
+ğayînlanma s. propagare; transmitere.
+ğayînlanmak v.i. (fiz.) a se propaga; a se transmite.
+ğayînlanuw s. propagare; transmitere.
+ğayînlaw s. 1. tipărire; publicare. 2. transmisiune radio; transmisiune televizată.
+ğayînlawğî s., adj. emițător; transmițător.
+ğayînlî adj. transmis (d. emisiuni radio sau televizate).
+ğayka, ak-kekeşlí- s. (orn.) albatros cu moț alb (lat., Diomedea cauta).
+ğayka, gezgen- s. (orn.) albatros călător (lat., Diomedea exulans).
+ğayka, kara-ayaklî- s. (orn.) albatros cu picioare negre (lat., Diomeda nigripes).
+ğayka, kara-kaşlî- s. (orn.) albatros cu sprâncene negre (lat., Thalassarche melanophrys; Diomedea melanophrys).
+ğayka, kral- s. (orn.) albatros regal (lat., Diomedea epomophora).
+ğayka, sarî-murunlî- s. (orn.) albatros cu nas galben (lat., Diomedea chlororhyncos).
+ğayka, şal-başlî- s. (orn.) albatros cu cap cenuşiu (lat., Diomedea chlorostoma).
+ğayla s. 1. (geogr.) podiş; platou. 2. (tehn.) platou.
+ğaylak s. păşune alpină.
+ğaylandîrîlgan adj. arcuit; curbat; a încovoiat.
+ğaylandîrîlmak v.i. a fi arcuit; a fi curbat; a fi încovoiat.
+ğaylandîrmak v.t. a arcui; a curba; a încovoia.
+ğaylangan adj. arcuit; curbat; a încovoiat.
+ğaylanmak v.i. a se arcui; a se curba; a se încovoia.
+ğaylanuw s. arcuire; curbare; încovoiere.
+ğaylanuwlî adj. (mat.) curbat; curbiliniu.
+ğayma s. răspândire; propagare; difuzare.
+ğaymak v.t. 1. a întinde; a aşterne; a desface; a desfăşura. 2. a răspândi; a difuza; a face cunoscut; a propaga. // ●herşiyní masaga ğaymak — a da toate cărțile pe față. ●kol ğaymak — a face o rugăciune (d. musulmani). ●şuwa ğaymak — (fiz.) a iradia; a răspândi lumină; a radia.
+ğaymalama s. lansare; răspândire.
+ğaymalaw s. lansare; răspândire.
+ğaynak s. gheară. // ●ğaynak kóstermek — a-şi arăta ghearele.
+ğaynaklamak v.t. (d. păsări) a apuca cu ghearele; a prinde în gheare; a zgâria cu ghearele.
+ğaynaklangan adj. zgâriat cu ghearele.
+ğaynaklaşmak v.i. a se bate cu ghearele.
+ğaynaklî adj. cu gheare.
+ğaynaksíz adj. fără gheare.
+ğayrama s. răspândire.
+ğayramak v.t. a împrăştia; a răspândi; a dispersa.
+ğayrangan adj. împrăştiat; răspândit; dispersat.
+ğayranma s. expansiune.
+ğayranmak v.i. a se împrăştia; a se răspândi; a se dispersa.
+ğayranuw s. împrăştiere; răspândire; dispersare.
+ğayratmak v.t. a determina să se împrăştie; a determina să se răspândească; a determina să se disperseze. // ●úyní ğayratmak — a răvăşi casa.
+ğayraw s. propagandă.
+ğayrawğî s. difuzor; propagandist.
+ğayrawlî adj. împrăştiat; răspândit; dispersat.
+ğayuw s. 1. (fin., radiof.) emisie. 2. propagandă.
+ğayuwğî s. difuzor; propagandist.
+ğayvan adj. întins; plat.
+ğaz s. 1. jaz. 2. vară. // ●ğaz kúnaylanîrî — (astr.) solstițiu de vară. ●ğaz kúní — zi de vară. ●ğaz kurî geştí — vara a fost uscată. ●ğaz mewsúmúndemíz — suntem în sezonul de vară. ●ğaz muzikasî — muzică de jazz. ●ğaz naadamî — (sport) olimpiada de vară. ●ğaznîñ dinkalasî — miezul verii. ●ğaznîñ kúní sîğak bolîr — vara este cald.
+ğaz-bağaz adv. din vară în vară.
+ğazda adv. vara; în timpul verii.
+ğazdagî adj. de vară; văratic.
+ğazdagîsî s. cel de vară; cel văratic.
+ğazdakî adj. de vară; văratic.
+ğazdakîsî s. cel de vară; cel văratic.
+ğazdan adv. din vară; din timpul verii.
+ğazdan-ğazga adv. din vară în vară.
+ğazga adv. pentru la vară; la vară.
+ğazgaşîk adv. până la vară.
+ğazgî adj. de vară; văratic.
+ğazgîsî s. cel de vară; cel văratic.
+ğazibe s. 1. (fiz.) atracție; gravitație. 2. (fig.) farmec; încântare; fascinație; vrajă; extaz; beatitudine; transă. // ●ğazibe kanunî — legea gravitației. ●ğazibe kuwatî — forță de atracție.
+ğazibelemek v.t. a atrage; a încânta; a fascina; a extazia.
+ğazibelengen adj. atras; încântat; fermecat; fascinat; extaziat.
+ğazibelenmek v.i. 1. a gravita. 2. a fi atras; a fi încântat; a fi fascinat; a se extazia.
+ğazibelewğí adj. fascinant.
+ğazibelí adj. 1. atrăgător; încântător; fermecător; fascinant. 2. (fiz.) gravitațional. 3. atras; încântat; fermecat; fascinat; extaziat. // ●ğazibelí temaşa — (teatr.) feerie.
+ğazî s. câmp; câmpie; şes; stepă.
+ğazîlgan adj. întins; aşternut; desfăcut; desfăşurat; netezit.
+ğazîlma s. aşternere.
+ğazîlmak v.i. a se întinde; a se aşterne; a se desface; a se desfăşura; a se netezi.
+ğazîluw s. aşternere.
+ğaz-kîş adv. tot anul.
+ğaz-kógerşíní s. (orn.) porumbel migrator; porumbel sălbatic (lat., Ectopistes migratorius).
+ğazlîk I. adj. de vară; văratic. II. s. reşedință de vară; casă de vacanță. // ●ğazlîk takîm — costum de vară. ●ğazlîk tokîma — (text.) țesătură de vară.
+ğazlîk-awğîotî s. (bot.) cocoşel-de-câmp (lat., Adonis aestivalis).
+ğazlîk-keklíkotî s. (bot.) cocoşel-de-câmp (lat., Adonis aestivalis).
+ğazma s. 1. (gastron.) lapte bătut. 2. întindere; aşternere; desfacere; desfăşurare; netezire.
+ğazmak v.t. a întinde; a aşterne; a desface; a desfăşura; a netezi cutele.
+ğaz-órdegí s. (orn.) rață porumbacă (lat., Marmaronetta angustirostris).
+ğazuw s. întindere; aşternere; desfacere; desfăşurare; netezire.
+ğálat s. 1. călău; gâde; gealat. 2. bandit; tâlhar.
+ğebbar s. tiran; despot.
+Ğebbar, El- s. (relig., arab.) "Cel măiestru"; “Cel ce deține puterea de a drege stricăciunea; de a întregi schilozenia; de a desăvârşi nedesăvârşirea”; “Cel a cărui putere de a săvârşi nu cunoaşte margini” (unul din cele 99 preafrumoase nume atribuite în Coran lui Dumnezeu/Allah).
+Ğebber s. (antrop. m., arab.) "Cel iscusit" (unul din cele 400 de nume atribuite în Coran Profetului Muhammed Aliyselam).
+ğebin adj. fricos; laş.
+ğebir s. 1. obligare; forțare; silire; constrângere; coercițiune; determinare. 2. (fiz.) forță. // ●ğebir bolmak — a fi constrâns; a fi obligat; a fi silit; a fi forțat.
+ğebire s. (med.) atelă.
+ğebirlí adj. obligat; forțat; silit; constrâns; determinat.
+ğebíaktarîlgan adj. buzunărit.
+ğebíkesílgen adj. buzunărit.
+ğebren adv. cu forța; cu de-a sila.
+ğebretílgen adj. obligat.
+ğebretmek v.t. a sili; a constrânge; a obliga.
+ğebriy adj. forțat; silit; constrâns; obligat. // ●ğebriy ğúrúş — (mil.) marş forțat.
+ğebriytatil s. grevă.
+ğebriytatilbîzgan s. spărgător de grevă.
+ğebriytatilğí s. grevist.
+ğedit adj. nou; modern.
+ğefa s. chin; suferință.
+ğefte s. (tehn.) bolț.
+ğefteleme s. prindere cu bolțuri.
+ğeftelemek v.t. a prinde cu bolțuri.
+ğeftelengen adj. prins cu bolțuri.
+ğeftelenmek v.i. a se prinde cu bolțuri.
+ğeftelew s. prindere cu bolțuri.
+ğeftelí adj. prins cu bolțuri.
+ğegílgen adj. 1. antrenat; propulsat; pus în mişcare. 2. înhămat; înjugat. 3. (gram.) conjugat. 4. (gram.) declinat.
+ğegílír adj. (gram.) declinabil.
+ğegílme s. 1. înhămare; înjugare. 2. tragere. 3. (gram.) declinare; conjugare. 4. conducere (a unui vehicul).
+ğegílmek v.i. 1. a fi tras. 2. (gram.) a se declina; a se conjuga. 3. a se înhăma; a se înjuga. 4. (d. un vehicul) a fi condus.
+ğegílúw s. 1. înhămare; înjugare. 2. tragere. 3. (gram.) declinare; conjugare. 4. conducere (a unui vehicul).
+ğegím s. ham; harnaşament.
+ğegúwğí adj. motrice.
+ğehalet s. ignoranță; incultură.
+ğehennem s. iad; infern.
+ğehennemiy adj. infernal.
+ğehet s. 1. (geogr., fiz., mat.) pol. 2. parte; loc. 3. direcție; sens. 4. aspect; formă. 5. cauză; motiv. 6. particularitate; caracteristică; trăsătură. // ●ğehet kírdesí — (geogr.) cerc polar. ●kúneş ğehetí — (geogr.) polul sud. ●milliy ğehet — caracteristică națională. ●sîrt ğehetí — (geogr.) polul nord. ●ters ğehet — direcție opusă; revers.
+ğehet-ayuwî s. (zool.) urs-alb; urs-polar (lat., Ursus maritimus).
+ğehetbílímí s. caracterologie.
+ğehetğoklar s. (fiz.) polarizator.
+ğehetínde postp. în direcția; înspre.
+ğehetínden I. adv. sub aspectul; din punct de vedere. II. postp. din partea; din direcția; dinspre.
+ğehetleşken adj. (fiz.) polarizat.
+ğehetleşme s. (fiz.) polarizare.
+ğehetleşmek v.i. (fiz.) a se polariza.
+ğehetleştírmek v.t. (fiz.) a polariza.
+ğehetleşúw s. (fiz.) polarizare.
+ğehetlí adj. 1. (fiz.) polarizat. 2. caracteristic; particular.
+ğehetlík I. adj. polar. II. s. (fiz.) polaritate.
+ğehet-maralî s. (zool.) ren (lat., Rangifer tarandus).
+ğehette postp. spre direcția; înspre.
+ğehetten I. adv. sub aspectul; din punct de vedere. II. postp. din partea; din direcția; dinspre. // ●bír ğehetten — pe de o parte. ●obír ğehetten de — pe de altă parte.
+Ğehet-Yîldîzî s. (astr.) steaua polară.
+ğeken s. (bot.) bambus (lat., Bambusa sp.).
+ğeket s. haină; sacou; veston; jachetă. // ●ğeket terakay geñíş — haina e puțin cam largă. ●terí ğeket — haină de piele. ●ziyafet ğeketí — smoching.
+ğekírme s. strigăt; urlet; răcnet.
+ğekírmek v.i. a zbiera; a țipa.
+ğekírtmek v.t. a determina să zbiere; a determina să țipe.
+ğekírtúwğí s., adj. intrigant; instigator; incitator; provocator; ațâțător.
+ğekírúw s. 1. țipăt; urlet. 2. strigăt; urlet; răcnet.
+ğekken s. propulsor.
+ğekmek v.t. 1. a trage. 2. (gram.) a declina; a conjuga. 3. a înhăma la căruță; a înjuga la căruță. 4. a conduce un vehicul. // ●tapan ğekmek — a grăpa.
+ğektírmek v.t. 1. a determina să tragă. 2. (gram.) a determina să decline; a determina să conjuge. 3. a determina să înhame; a determina să înjuge. 4. a determina să conducă un vehicul.
 `;
