@@ -10,6 +10,7 @@ gayîn s. numele literei «غ» din scrierea arabă.
 Ğadîlar Bayramî s. Halloween.
 ğağîk s. (gastron.) "Cacık"; "Tzatziki"/"Zaziki".
 Ğañî Sene s. Anul Nou. // ● Ğañî Sene keşesí — Revelion.
+ğaprak s. 1. frunză. 2. foaie (şi din aluat).
 Ğorğiye s. (topon.) Georgia, USA.
 Kaliforniye s. (topon.) California.
 kaf s. numele literei «ق» din scrierea arabă.
