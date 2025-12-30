@@ -8,6 +8,7 @@ Ferdusiy s. (antrop. m., prsn.) nume legendar persan.
 Fukuşima s. (topon.) Fukushima, Japan.
 gayîn s. numele literei «غ» din scrierea arabă.
 Ğadîlar Bayramî s. Halloween.
+ğağîk s. (gastron.) "Cacık"; "Tzatziki"/"Zaziki".
 Ğañî Sene s. Anul Nou. // ● Ğañî Sene keşesí — Revelion.
 Ğorğiye s. (topon.) Georgia, USA.
 Kaliforniye s. (topon.) California.
