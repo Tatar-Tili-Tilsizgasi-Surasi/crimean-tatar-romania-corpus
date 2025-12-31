@@ -1,11 +1,10 @@
 export const misDictionaryRawText: string = `
 Awustin s. (topon.) Austin.
+biyğíníslík s. bisexualitate.
 bardak-erígí s. prună.
 Çikago s. (topon.) Chicago.
 çm s. (abreviere pentru „çentimetre” = centimetru) cm
 dasitan s. (lit.) epic.
-ekíğíníslík s. bisexualitate.
-eşğíníslík s. homosexualitate.
 Ferdusiy s. (antrop. m., prsn.) nume legendar persan.
 Fukuşima s. (topon.) Fukushima, Japan.
 gayîn s. numele literei «غ» din scrierea arabă.
@@ -14,6 +13,8 @@ gayîn s. numele literei «غ» din scrierea arabă.
 Ğañî Sene s. Anul Nou. // ● Ğañî Sene keşesí — Revelion.
 ğaprak s. 1. frunză. 2. foaie (şi din aluat).
 Ğorğiye s. (topon.) Georgia, USA.
+heteroğíníslík s. heterosexualitate.
+homoğíníslík s. homosexualitate.
 Kaliforniye s. (topon.) California.
 kaf s. numele literei «ق» din scrierea arabă.
 Kîş-Babay s. 1. „Tatăl Iernii” (un bărbat care aduce cadouri în ajunul Anului Nou). 2. Moș Crăciun.
@@ -36,6 +37,7 @@ santur s. (muz.) ţambal.
 Şînğa s. (topon.) Xinjiang, China.
 şîşkan s. şoarece.
 Teksas s. (topon.) Texas.
+transğíníslík s. transsexualitate.
 Virjiniye s. (topon.) Virginia.
 zeban s. (lingv., prsn.) limbă; vorbire. //● zeban-î farsiy/parsiy — iz.prsn. limba persană.
 Zerúdúşt s. (antrop. m., prsn.) Zoroastru; Zarathustra.
