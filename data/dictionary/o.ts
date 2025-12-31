@@ -1386,4 +1386,299 @@ ozuw s. întrecere; depăşire.
 ótlegen, ak-kara- s. (orn.) parulă alb-negru (lat., Mniotilta varia).
 ótlegen, ak-yúzlí- s. (orn.) dendroica cu obraz alb (lat., Dendroica striata).
 ótlegen, altîn-moyînlî- s. (orn.) dendroica cu gât portocaliu (lat., Dendroica fusca).
+ótlegen, kaplan- s. (orn.) dendroica tigru (lat., Dendroica tigrina).
+ótlegen, koñgîr-karînlî- s. (orn.) dendroica cu piept castaniu (lat., Dendroica castanea).
+ótlegen, şimaliy- s. (orn.) parulă nordică (lat., Parula americana).
+ótlegen, sarî- s. (orn.) dendroica americană galbenă (lat., Dendroica petechia).
+ótlegen, sarî-kekeşlí- s. (orn.) dendroica cu moț galben (lat., Dendroica pensylvanica).
+ótlegen, sarî-yúzlí- s. (orn.) parulă cu glugă (lat., Wilsonia citrina).
+ótlegen, tajlî- s. (orn.) dendroica cu coroană (lat., Dendroica coronata).
+ótlegen, yeşíl-sîrtlî- s. (orn.) dendroica verde (lat., Dendroica virens).
+ótlegení, Kanada- s. (orn.) parulă canadiană (lat., Wilsonia canadensis).
+ótlegení, palmiyer- s. (orn.) dendroica de palmier (lat., Dendroica palmarum).
+ótlí s. veninos.
+ótlík s. (anat.) vezică biliară.
+ótme s. 1. pătrundere; străpungere. 2. tril de păsări. 3. sonoritate.
+ótmegen adj. 1. (gram., d. consoane) surd. 2. (lingv.) sonor. // ●ótmegen tartîkawaz/sessíz/únsúz — (lingv.) consoană surdă.
+ótmek s. 1. pâine. 2. hrană; existență. 3. (fig.) agoniseală. // ●kurî ótmek men keşínmek — a trăi cu pâine uscată. ●ótmegín almak — a-i lua pâinea de la gură. ●ótmegín kazanmak — a-şi câştiga pâinea; a-şi câştiga existența. ●ótmegín taştan şîgarmak — a-şi scoate pâinea din piatră seacă. ●ótmegíne may ğakmak — a se băga pe sub pielea cuiva; a-l linguşi. ●ótmek aşamak — a mânca; a lua masa. // ●akşamga ótmegímíz yetíşmez — nu ne ajunge pâinea pentru diseară. ●bír parşakay ótmek — o bucățică de pâine. ●biyaz ótmek — pâine albă. ●boldî mî ótmek? — a fost suficientă pâinea?; ●eskí/kattî ótmek — pâine veche. ●ğanîk ótmek — pâine arsă. ●kara ótmek — pâine neagră. ●kurî ótmek — pâine goală. ●ótmek fabrikasî — fabrică de pâine. ●ótmek kawgasî — lupta pentru existență. ●ótmek ketíríñíz! — aduceți pâine!; ●ótmek sepetí — coş pentru pâine. ●şawdar ótmegí — pâine de secară. ●tayîn ótmegí — rație de pâine. ●taze ótmek — pâine proaspătă. ●tuzsuz ótmek — pâine fără sare.
+ótmek A. v.i. 1. (d. păsări) a cânta; a ciripi. 2. (d. instrumente de suflat) a răsuna; a cânta; a fluiera. 3. (d. cocoş) a cânta. B. v.t. a trece; a pătrunde; a străpunge; a răzbate; a răzbi. // ●baznasî ótmek — a călca mare. ●baznasî ótmemek — a nu îndrăzni. ●borazanî ótmek — a avea cuvânt greu; a avea trecere; a fi prețuit. ●yaşî ótmek — a înainta în vârstă; a se maturiza. // ●kókírekte balasî man, ótíp pítiyatîrganî man — de la cel cu țâța-n gură pân' la cel cu barba sură.
+ótmekkana s. brutărie.
+ótmekpíşírgen s. brutar.
+ótmekşí s. brutar.
+ótmekteregí s. (bot.) arbore-de-pâine (lat., Artocarpus incisa).
+ótpatlamasî s. groază; sperietură.
+ótpatlatkan adj. groaznic; îngrozitor; înspăimântător.
+ótpatlatuw s. grozăvie; înspăimântare; oroare.
+óttírgen I. adj. mortal; ucigător. II. s. asasin; criminal; ucigaş.
+óttírílgen adj. asasinat; omorât; ucis.
+óttírílmek v.i. a fi asasinat; a fi omorât; a fi ucis.
+óttírme s. asasinare; asasinat; crimă; omor; omucidere; ucidere. // ●insan óttírmesí — omucidere. ●óttírme yúzdesí — criminalitate.
+óttírmebílímğísí s. criminalist.
+óttírmebílímí s. criminologie; criminalistică.
+óttírmek v.t. a asasina; a ucide; a omorî. // ●batîrîp óttírmek — a sugruma; a strangula. ●ózín óttírmek — a-şi face seama; a se sinucide. ●toptan óttírmek — a masacra. ●wakîtîn óttírmek — a-şi omorî timpul.
+óttírúw s. asasinare; asasinat; crimă; omor; omucidere; ucidere. // ●ana-baba óttírúw — uciderea părinților; paricid.
+óttírúwğí I. adj. mortal; ucigător. II. s. asasin; criminal; ucigaş.
+óttorbasî s. (anat.) fiere; vezică biliară; colecist.
+ótúw s. pătrundere; străpungere.
+óz I. adj. 1. propriu; particular; caracteristic; specific; distinctiv. 2. pur; curat; veritabil. 3. meu; mea; tău; ta; său; sa; nostru; noastră; vostru; voastră; lor; dumneavoastră. II. pron. sine. III. s. 1. propria persoană. 2. (fig.) fire; esență; miez; substanță. 3. (anat., bot.) măduvă; miez. // ●óz awuzî man tutulmak — a se da de gol. ●óz ğanîn almak — a-şi lua viața; a se sinucide. ●óz ğanîndan kóp súymek — a iubi pe cineva din tot sufletul. ●óz hawasîn şalmak — a-şi face jocul; a-şi face interesele. ●óz memleketíne kaytmak — a se repatria. ●óz şukurun ózí kazmak — a-şi săpa singur groapa. // ●meseleníñ ózí — esența problemei. ●óz kolî man — cu propria mână. ●óz píkíríñíz — părerea dumneavoastră proprie. ●yalanğînîñ ózí — mincinosul mincinoşilor.
+ózatî s. nume de botez.
+ózatîna adj. autonom; în nume propriu.
+ózatînaidare s. autonomie.
+ózatînaidarelí adj. autonom.
+ózayîruw s. autoreglare.
+ózbarğa s. (fil.) obiectivitate; existență reală a lumii.
+ózbarğalî adj. (fil.) obiectiv; cu existență independentă.
+ózbarğalîk s. (fil.) obiectivitate; existență reală a lumii.
+ózbarlîk s. (fil.) obiectivitate; existență reală a lumii.
+ózbarlîklî adj. (fil.) obiectiv; cu existență independentă.
+ózbaşîna adj. independent; de unul singur; de capul său. // ●ózbaşîna ğúrmek — a umbla de capul său; a umbla liber.
+ózbaşînaidare s. independență.
+ózbaşînaidarelí adj. independent.
+ózbaşlî adj. liber; independent.
+ózbaşlîk s. libertate; independență. // ●ózbaşlîk marebesí — (pol.) război de independență.
+ózbek s., adj. uzbec.
+Ózbekístan s. (topon.) Uzbekistan.
+ózbekístanlî s., adj. uzbec.
+ózbekşe I. adv. în limba uzbecă. II. s. (limba) uzbecă.
+ózberúw s. dăruire; consacrare; sacrificiu.
+ózbolîmlîk s. autobiografie.
+ózdek s. 1. materie; corp. 2. formă; înfățişare.
+ózdekleşken adj. materializat.
+ózdekleşmek v.i. a se materializa.
+ózdekleştírme s. materializare.
+ózdekleştírmek v.t. a materializa.
+ózdekşí s., adj. materialist.
+ózdekşík s. (fiz.) corpuscul; particulă.
+ózdekşílík s. (fil.) materialism. // ●diyalektik ózdekşílík — materialism dialectic.
+ózdeş adj. identic.
+ózdeşlík s. identitate.
+ózegin s. mezin; prâslea.
+ózek s. 1. centru; mijloc; nucleu. 2. sâmbure; sămânță. 3. (fig.) inimă. // ●ózekten kaşîrmak — a centrifuga. // ●almanîñ ózegí — miezul mărului. ●şiylerníñ ózegínde — în mijlocul lucrurilor; în esență; în miez. ●tane ózegí — nucleu atomic.
+ózekkaş adj. centrifug.
+ózekkeğemetílgen adj. centralizat.
+ózekkeğemetúw s. centralizare.
+ózekkesalîngan adj. centrat.
+ózekkesaluw s. centrare.
+ózekkeşalar adj. centripet.
+ózekketartar adj. centripet. // ●ózekketartar kuwat — forță centripetă.
+ózekleşken adj. centralizat; centrat.
+ózekleşmek v.i. a se centraliza; a se centra.
+ózekleştírme s. centralizare; centrare.
+ózekleştírmek v.t. a centraliza; a centra.
+ózeklí adj. 1. (fiz.) nuclear. 2. cu centru; central; centrat; centralizat. // ●ózeklí patlatma — (mil.) bombă nucleară. ●ózeklí zewzek — (mil.) armă nucleară.
+ózeklík s. centralism.
+ózekşí adj. centripet.
+ózekte adj. central; în centru.
+ózektenkaşîrîlgan adj. centrifugat.
+ózektenkaşîrma s. centrifugare.
+ózektenkaşîruw s. centrifugare.
+ózektenkaşîruwğî s. (tehn.) centrifugă.
+ózektenkaşkan adj. centrifug. // ●ózektenkaşkan kuwat — forță centrifugă.
+ózerk adj. autonom.
+ózerklík s. autonomie.
+ózet s. rezumat.
+ózetleme s. rezumare.
+ózetlemek v.t. a rezuma; a face un rezumat.
+ózetlengen adj. rezumat.
+ózetlenmek v.i. a se rezuma.
+ózgeşúwğí adj. altruist.
+ózgeşúwğúlúk s. altruism.
+ózgin s. mezin; prâslea.
+ózgír adj. liber; independent.
+ózgírlík s. libertate; independență.
+ózhaleketleríntuymasî s. chinestezie.
+ózidare s. autonomie.
+ózidarelí adj. autonom.
+ózimzasî s. autograf.
+ózí pron. el însuşi; ea însăşi. // ●uşunnuñ ózí — adevărul gol.
+ózíaşîlgan adj. (mil.) automat; automatic; cu foc automat.
+ózíayîrîlgan adj. autoreglat.
+ózí ístegen adj. benevol; voluntar.
+ózí-kózí adj. identic; leit.
+ózím I. adj. meu; mea; mei; mele. II. pron. eu însumi; eu însămi. // ●men ózím eşítmedím — eu personal n-am auzit. ●ózím kabaátímden — din vina mea. ●ózím kitabîm — cartea mea personală.
+ózímde pron. la mine.
+ózímden pron. de la/dinspre mine.
+ózímdiy pron. ca mine.
+ózíme pron. spre mine; mie.
+ózímíz pron. noi înşine; noi însene.
+ózímízde pron. la noi.
+ózímízden pron. de la/dinspre noi.
+ózímízdiy pron. ca noi.
+ózímízge pron. spre noi; nouă.
+ózímízní pron. pe noi.
+ózímízníñ adj. nostru; noastră; noştri; noastre.
+ózímízníñkí pron. al nostru; a noastră.
+ózímízníñkíler pron. ai noştri; ale noastre.
+ózímízníñkísí pron. al nostru; a noastră.
+ózímkí pron. al meu; a mea.
+ózímkíler pron. ai mei; ale mele.
+ózímkísí pron. al meu; a mea.
+ózímleme s. asimilare; asimilație; însuşire. // ●klorofila ózímlemesí — asimilație clorofiliană.
+ózímlemek v.t. a asimila; a-şi însuşi.
+ózímlengen adj. asimilat; însuşit.
+ózímlenmek v.i. a se asimila; a fi însuşit.
+ózímní pron. pe mine. // ●ózímní bír doktorga kóstereğek bolaman — aş vrea să consult un medic. ●ózímní tanîtayîm! — să mă prezint!;
+ózímníñ adj. meu; mea; mei; mele. // ●ózímníñ bír başkasî — alt eu; alter ego.
+ózín I. adj. său; sa; săi; sale; lui; ei. II. pron. pe el; pe ea. // ●ózín asmak — a se spânzura. ●ózín atmak — a se arunca. ●ózín bek begenmek/saymak — a fi plin de sine; a fi încrezut. ●ózín bermek — a se dedica; a se consacra; a se sacrifica. ●ózín bílmek — a fi lucid; a fi conştient. ●ózín feda etmek — a se sacrifica. ●ózín hakklî kóstermek — a se justifica. ●ózín kaptîrmak — a se lăsa prins de…; a se dedica; a se consacra. ●ózín karamak — a-şi purta de grijă; a se îngriji; a se menaja. ●ózín karatmak — a-şi căuta de sănătate; a se arăta doctorului. ●ózín kaybetmek — a-şi pierde cunoştința; a nu mai şti de sine; a leşina. ●ózín korîmak — a se apăra; a se justifica. ●ózín kóstermek — a se arăta pe sine; a se afirma; a se remarca. ●ózín kózí men kórmek — a vedea cu ochii lui. ●ózín óttírmek — a-şi face seama; a se sinucide. ●ózín tanîtmak — a se prezenta; a se face cunoscut. ●ózín toplamak — a-şi aduna puterile; a-şi veni în cunoştință; a se dezmetici; a se reculege. ●ózín tutmak — a se stăpâni; a se abține. ●ózín wurmak — a se împuşca. ●ózín yerden-yerge wurmak — a se zvârcoli. ●ózín zaptetmek — a se stăpâni; a se abține; a-şi păstra calmul. ●ózín zorlamak — a se strădui; a se sili. // ●o ózín sawlugîman oynay — el se joacă cu sănătatea sa. ●ózín bílmegen — inconştient.
+ózínatkan adj. cutezător.
+ózínatuw s. cutezanță; năpustire.
+ózínbegengen adj. încrezut; trufaş; vanitos.
+ózínbegenmesí s. trufie; vanitate.
+ózínbergen adj. dedicat; devotat; consacrat; fidel; statornic.
+ózínbílgen adj. stăpân pe sine; conştient; lucid; treaz; controlat.
+ózínbílmeden adv. inconştient; necontrolat.
+ózínde pron. la el; la ea. // ●ózínde bolmamak — a nu fi în apele sale. // ●ózínde bar — prin natura sa.
+ózínden pron. de la/dinspre el; de la/dinspre ea; de la/dinspre sine. // ●ózínden bîrakmak — a lăsa de la el; a face concesii. ●ózínden geşmek — a-şi pierde cunoştința; a nu mai şti de sine; a leşina. ●ózínden koşmak — a adăuga de la el; a exagera. ●ózínden şîkmak — a-şi ieşi din fire. // ●ózínden kaberlí — lucid; treaz; conştient. ●ózínden razî/memnun — automulțumit. ●ózínden razîlîk/memnuniyet — automulțumire. ●şalt ózínden şîkkan — irascibil.
+ózíndenbîrakkan adj. îngăduitor; concesiv; tolerant.
+ózíndenfaaliyet s. automatism.
+ózíndenfaaliyetlí adj. automat; automatic. // ●ózíndenfaaliyetlí sáát — ceas automatic.
+ózíndengeşken adj. leşinat; inconştient.
+ózíndengeşme s. leşin; inconştiență.
+ózíndenhaleket s. automatism.
+ózíndenhaleketlí adj. automatic.
+ózíndenketme s. (med.) sincopă; leşin.
+ózíndenkoşuw s. exagerare; exces.
+ózíndenşîguw s. ieşire din fire; răbufnire.
+ózíndentaşlagan adj. altruist.
+ózíndentaşlama s. altruism.
+ózíndentaşlaw s. altruism.
+ózíndiy pron. ca el; ca ea.
+ózíne pron. spre el; spre ea; lui; ei. // ●ózíne gúwenmek — a se simți în stare. ●ózíne kelmek — a-şi veni în cunoştință; a-şi veni în fire; a-şi reveni; a se întrema. ●ózíne koşmak — a-şi face parte; a-şi însuşi; a asimila. ●ózíne pay şîgartmak — a-şi lua un os de ros; a trage spuza pe turta sa; a-şi crea avantaj. ●ózíne tapiy etmek — a-şi trece în subordine; a subordona. ●ózíne tartmak — a trage spre sine; a atrage. // ●ózíne kóre — în felul său. ●ózíne kóre koşaksîz — unic în felul său.
+ózíneidare s. autonomie.
+ózíneidarelí adj. autonom.
+ózínekaragan adj. introspectiv.
+ózínekaraw s. introspecție.
+ózínekelgen adj. dezmeticit; întremat; înviat; înzdrăvenit; reanimat; resuscitat.
+ózínekelúw s. dezmeticire; întremare; înviere; înzdrăvenire; reanimare; resuscitare.
+ózínekîzmet s. autoservire. // ●ózínekîzmet magazasî — magazin cu autoservire.
+ózínekoşîlgan adj. asimilat; adoptat; însuşit.
+ózínekoşuw s. asimilare; adoptare; însuşire.
+ózínemaksus adj. original.
+ózínemaksusluk s. originalitate.
+ózínetartuw s. atragere.
+ózínetenkîyt s. autocritică.
+ózínğekken adj. autopropulsat.
+ózínkaybetken adj. leşinat; inconştient.
+ózínkaybetme s. leşin; inconştiență.
+ózínkí pron. al său; a sa; al lui; a ei.
+ózínkíler pron. ai săi; ale sale; ai lui; ale ei.
+ózínkíleşken adj. asimilat; însuşit.
+ózínkíleşmek v.i. a fi asimilat; a fi însuşit.
+ózínkíleştírílgen adj. asimilat; însuşit.
+ózínkíleştírílmek v.i. a se asimila; a fi însuşit.
+ózínkíleştírmek v.t. a asimila; a-şi însuşi.
+ózínkíleşúw s. asimilare; asimilație; însuşire.
+ózínkísí pron. al său; a sa; al lui; a ei.
+ózínlí adj. intrinsec; imanent.
+ózínóttírgen s. sinucigaş.
+ózínsaygan adj. orgolios; vanitos; trufaş.
+ózínsayuw s. laudă de sine; lăudăroşenie; fală; fudulie; ifose.
+ózíntoplagan adj. 1. întremat; înzdrăvenit. 2. dezmeticit; întremat; înzdrăvenit. 3. dezmeticit; trezit.
+ózíntutkan adj. flegmatic; indiferent; imperturbabil; calm; reținut; stăpânit; cu sânge rece.
+ózínzaptetalmama s. (med.) incontinență.
+ózínzaptetken adj. cu sânge rece; calm; reținut; controlat.
+ózíñ I. adj. tău; ta; tăi; tale. II. pron. tu însuți; tu însăți. // ●ózíñe kel! — vino-ți în fire!;
+ózíñde pron. la tine.
+ózíñden pron. de la/dinspre tine.
+ózíñdiy pron. ca tine.
+ózíñe pron. spre tine; ție.
+ózíñíz pron. voi înşivă; voi însevă. // ●ğenábíñíz tatarğanî ózíñíz úyrenesíñíz mí? — dumneavoastră învățați singur tătăreşte?;
+ózíñízde pron. la voi; la dumneavoastră.
+ózíñízden pron. de la/dinspre voi; de la/dinspre dumneavoastră.
+ózíñízdiy pron. ca voi; ca dumneavoastră.
+ózíñízge pron. spre voi; vouă; spre dumneavoastră; dumneavoastră.
+ózíñízní pron. pe voi; pe dumneavoastră. // ●ózíñízní árúw karañîz! — îngrijiți-vă bine!;
+ózíñízníñ adj. vostru; voastră; voştri; voastre; dumneavoastră.
+ózíñízníñkí pron. al vostru; a voastră; al dumneavoastră; a dumneavoastră.
+ózíñízníñkíler pron. ai voştri; ale voastre; ai dumneavoastră; ale dumneavoastră.
+ózíñízníñkísí pron. al vostru; a voastră; al dumneavoastră; a dumneavoastră.
+ózíñkí pron. al tău; a ta.
+ózíñkíler pron. ai tăi; ale tale.
+ózíñkísí pron. al tău; a ta.
+ózíñní pron. pe tine. // ●ózíñní árúw kara! — ai grijă de tine!;
+ózír s. 1. scuză; iertare. 2. defect; cusur. // ●ózír tílemek — a-şi cere scuze; a se scuza. // ●ózírlerímní sunaman! — scuzele mele!;
+ózírlí adj. 1. scuzat; scuzabil; iertat. 2. defect; cu defect.
+ózíterbiyelengen adj. autodidact.
+ózítúzelgen adj. autoreglat.
+ózíúyrengen adj. autodidact.
+ózkaderidaresí s. autodeterminare.
+ózkorîma s. autoapărare.
+ózkorîw s. autoapărare.
+ózlem s. 1. dor; nostalgie. 2. dorință; aspirație.
+ózlemek v.i. a-i fi dor de; a dori.
+ózlerí pron. ei înşişi; ele înseşi.
+ózlerín pron. pe ei; pe ele.
+ózlerínde pron. la ei; la ele.
+ózlerínden pron. de la/dinspre ei; de la/dinspre ele.
+ózleríndiy pron. ca ei; ca ele.
+ózleríne pron. spre ei; spre ele; lor.
+ózleríñ adj. lor.
+ózleríñkí pron. al lor; a lor.
+ózleríñkíler pron. ai lor; ale lor.
+ózleríñkísí pron. al lor; a lor.
+ózlerníñ adj. lor.
+ózlerníñkí pron. al lor; a lor.
+ózlerníñkíler pron. ai lor; ale lor.
+ózlerníñkísí pron. al lor; a lor.
+ózleşken adj. asimilat; însuşit.
+ózleşmek v.i. a se asimila; a fi însuşit.
+ózleştírílgen adj. asimilat; însuşit.
+ózleştírílmek v.i. a se asimila; a fi însuşit.
+ózleştírme s. asimilare; asimilație; însuşire.
+ózleştírmek v.t. a asimila; a-şi însuşi.
+ózlí adj. 1. plin de conținut; substanțial; cu miez. 2. (d. texte) concis.
+ózlígíastsîzîlgan adj. nuanțat.
+ózlígíayîrîlgan adj. nuanțat.
+ózlígíbaşkalaşkan adj. denaturat.
+ózlígínden adv. de la sine.
+ózlík s. 1. entitate. 2. nuanță. 3. caracter; caracteristică; particularitate; calitate; însuşire; specific. // ●ózlígín başkalaştîrmak — a denatura. ●ózlíkníñ astîn sîzmak ; ózlígín ayîrtmak — a nuanța.
+ózlíkastsîzuwî s. nuanțare.
+ózlíkayîrmasî s. nuanțare.
+ózlíkbaşkalaştîrmasî s. denaturare.
+ózlíkbílímlí s. caracterologie.
+ózlíkleşken adj. caracterizat.
+ózlíkleşmek v.i. a se caracteriza.
+ózlíkleştírme s. caracterizare.
+ózlíkleştírmek v.t. a caracteriza.
+ózmukadderatmuwayyenetí s. autodeterminare.
+ózne s. (gram.) subiect. // ●tílsîzgasî óznesí — (gram.) subiect gramatical.
+ózneğí adj. subiectiv.
+ózneğílík s. subiectivitate.
+óznelí adj. subiectiv.
+óznepís s. individualism; egoism.
+óznepísínbílgen adj. zgârcit; avar; zgârie-brânză.
+óznepíslí adj. individualist; egoist.
+óznepíslík s. individualism; egoism.
+óznepísníñbílmesí s. zgârcenie; avariție.
+ózníñ adj. său; sa; săi; sale; lui; ei. // ●ózníñ úşún — în interes propriu.
+ózníñkí pron. al său; a sa; al lui; a ei; ai săi; ale sale; ai lui; ale ei.
+ózníñkíler pron. ai săi; ale sale; ai lui; ale ei.
+ózníñkísí pron. al său; a sa; al lui; a ei. // ●herkezge ózníñkísín — fiecăruia al său.
+ózómírğolî I. adj. autobiografic. II. s. autobiografie.
+ózómírğollî adj. autobiografic.
+ózómírsîzgalî adj. autobiografic.
+ózómírsîzgasî I. adj. autobiografic. II. s. autobiografie.
+óz-ózí pron. el însuşi; ea însăşi. // ●óz-ózínden tuwgan — spontan; involuntar. ●óz-ózínden tuwuw — spontaneitate.
+óz-ózím pron. eu însumi; eu însămi.
+óz-ózímíz pron. noi înşine; noi însene.
+óz-ózín pron. pe sine însuşi; pe sine însăşi. // ●óz-ózín soramak — a se întreba.
+óz-ózíñ pron. tu însuți; tu însăți.
+óz-ózíñíz pron. voi înşivă; voi însevă.
+óz-ózlerí pron. ei înşişi; ele înseşi.
+ózresímí s. autoportret.
+ózsaygîsî s. amor propriu; orgoliu; vanitate; trufie.
+ózsoyînaşagan adj. canibal.
+ózsoyînaşaw s. canibalism.
+ózsóz s. aforism.
+ózsuw s. suc; sevă.
+ózsuwlî adj. suculent.
+ózsuwluk s. suculență.
+óztanzim s. autoreglare.
+óztanzimlí adj. autoreglat.
+ózterbiyelí adj. autodidact.
+ózterğúmiyhál s. autobiografie.
+ózterğúmiyhállí adj. autobiografic.
+óztúzetúw s. autoreglare.
+ózyaşamsîzgalî adj. autobiografic.
+ózyaşamsîzgasî I. adj. autobiografic. II. s. autobiografie.
 `;
