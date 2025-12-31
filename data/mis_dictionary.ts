@@ -4,6 +4,8 @@ bardak-erígí s. prună.
 Çikago s. (topon.) Chicago.
 çm s. (abreviere pentru „çentimetre” = centimetru) cm
 dasitan s. (lit.) epic.
+ekíğíníslík s. bisexualitate.
+eşğíníslík s. homosexualitate.
 Ferdusiy s. (antrop. m., prsn.) nume legendar persan.
 Fukuşima s. (topon.) Fukushima, Japan.
 gayîn s. numele literei «غ» din scrierea arabă.
