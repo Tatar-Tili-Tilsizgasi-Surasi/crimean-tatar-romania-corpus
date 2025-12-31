@@ -1166,4 +1166,224 @@ ozuw s. întrecere; depăşire.
 ónerílgen adj. propus; oferit; recomandat.
 ónerme s. 1. propunere; ofertă; recomandare. 2. (gram.) propoziție. 3. (fil.) teoremă.
 ónermek v.t. a propune; a oferi; a recomanda.
+ónsen s. (la şa) oblânc.
+ópke s. 1. furie; mânie; ciudă. 2. (anat.) plămân. 3. (med.) tuberculoză; ftizie; oftică. // ●dak kadar ópkem bar — am o supărare cât un munte. ●ópkeden ólgen — a murit de tuberculoză.
+ópkeğí adj. coleric.
+ópkelendírmek v.t. a înfuria; a mânia; a supăra.
+ópkelendírúwğí adj. supărător.
+ópkelenewuygan adj. supărăcios; arțâgos; irascibil.
+ópkelenewuyma s. nervozitate; arțag; irascibilitate.
+ópkelenewuyuw s. nervozitate; arțag; irascibilitate.
+ópkelengen adj. 1. înfuriat; furios; înciudat; mânios; supărat; indignat; revoltat. 2. (med.) tuberculos; ftizic; ofticos.
+ópkelenme s. furie; mânie; ciudă; supărare; indignare; revoltă.
+ópkelenmek v.i. a se înfuria; a se mânia; a se supăra. // ●şalt ópkelengen — coleric.
+ópkelí adj. 1. înfuriat; furios; înciudat; mânios; supărat; indignat; revoltat. 2. (med.) tuberculos; ftizic; ofticos.
+ópkesíz adj. fără mânie; fără furie; fără ciudă.
+ópmek v.t. a săruta; a pupa. // ●awuzundan ópmek — a-i da cuiva o gură; a-l săruta pe gură. ●etek ópmek — a săruta poalele; a se linguşi. ●kol ópmek — a săruta mâna.
+ór adv. sus.
+órde adv. sus; pe partea superioară; deasupra.
+órdegí adj. care este sus; care este deasupra.
+órdegí, Afrika-Murunî- s. (orn.) rață de Cap; sarselă de Cap (lat., Anas capensis).
+órdegí, Amazon- s. (orn.) rață braziliană; rață amazoniană (lat., Amazonetta brasiliensis).
+órdegí, Amerika- s. (orn.) rață leşească (lat., Cairina moschata).
+órdegí, Baykal- s. (orn.) rață mică de Baikal (lat., Anas formosa).
+órdegí, Filipin- s. (orn.) rață filipineză (lat., Anas luzonica).
+órdegí, ğaz- s. (orn.) rață porumbacă (lat., Marmaronetta angustirostris).
+órdegí, Islant-altînkóz- s. (orn.) rața lui Barrow (lat., Bucephala islandica).
+órdegí, kara-Amerika- s. (orn.) rață neagră americană (lat., Melanitta nigra americana).
+órdegí, kara-kózlí-deñíz- s. (orn.) eider roşcat (lat., Polysticta stelleri).
+órdegí, kózíldíríklí-deñíz- s. (orn.) eider cu ochelari (lat., Somateria fischeri).
+órdegí, kral-deñíz- s. (orn.) eider regal (lat., Somateria spectabilis).
+órdegí, kúrekşí-Afrika-Murunî- s. (orn.) rață lopătar de Cap (lat., Anas smithii).
+órdegí, kúrekşí-Awustraliye- s. (orn.) rață lopătar australiană (lat., Anas rhynchotis).
+órdegí, puna-Amazon- s. (orn.) rață puna sud-americană ( lat., Anas puna).
+órdegí, şîjgîruwğî-Amerika- s. (orn.) rață fluierătoare americană (lat., Anas americana).
+órdegí, sîradan-deñíz- s. (orn.) eider (lat., Somateria mollissima).
+órdegí, yeşíl-kanatlî-Amerika- s. (orn.) rață cu aripă verde americană (lat., Anas crecca carolinensis).
+órdek s. (orn.) rață (lat., Anas platyrhynchos domesticus). // ●órdek balasî/bîğîsî — rățuşcă; boboc de rață. ●órdek etí — carne de rață.
+órdek, ak-başlî- s. (orn.) rață cu cap alb (lat., Oxyura leucocephala).
+órdek, ak-pîşkî- s. (orn.) ferestraş mic (lat., Mergus albellus).
+órdek, ak-yúzlí- s. (orn.) rață cu obraz alb (lat., Bucephala albeola).
+órdek, ak-yúzlí-kîl-kuyruklî- s. (orn.) rață cu obrazul alb (lat., Anas bahamensis).
+órdek, alaşa- s. (orn.) rață pătată (lat., Anas flavirostris).
+órdek, altînkóz- s. (orn.) rață sunătoare (lat., Bucephala clangula).
+órdek, boz- s. (orn.) rață pestriță (lat., Anas strepera).
+órdek, gúmúş- s. (orn.) rață argintie (lat., Anas versicolor).
+órdek, kadife- s. (orn.) rață catifelată (lat., Melanitta fusca).
+órdek, kalpaklî-pîşkî- s. (orn.) ferestraş cu glugă (lat., Mergus cucullatus; Lophodytes cucullatus).
+órdek, kara- s. (orn.) rață neagră (lat., Melanitta nigra).
+órdek, kara-başlî- s. (orn.) rață cu cap negru (lat., Heteronetta atricapilla).
+órdek, kawerengí- s. (orn.) rață brună (lat., Anas rubripes).
+órdek, kekeşlí-pîşkî- s. (orn.) ferestraş moțat (lat., Mergus serrator).
+órdek, kestanerengí- s. (orn.) rață castanie (lat., Anas castanea).
+órdek, kíşkene- s. (orn.) rață mică (lat., Anas crecca).
+órdek, kîlkuyruk- s. (orn.) rață sulițar (lat., Anas acuta).
+órdek, kîrmîzî-gágáalî- s. (orn.) rață cu cioc roşu (lat., Anas erythrorhyncha).
+órdek, kîzîl-kúrekşí- s. (orn.) rață lopătar roşie (lat., Anas platalea).
+órdek, kîzîl-sîrtlî- s. (orn.) rață cu spinare roşie (lat., Callonetta leucophrys).
+órdek, koñgîr- s. (orn.) rață roşcată jamaicană (lat., Oxyura jamaicensis).
+órdek, kuruldawğî- s. (orn.) rață cârâitoare (lat., Anas querquedula).
+órdek, kúrekşí- s. (orn.) rață lingurar (lat., Anas clypeata; Spatula clypeata).
+órdek, mawî-kanatlî- s. (orn.) rață cu aripă albastră (lat., Anas discors).
+órdek, oraklî- s. (orn.) rață mică siberiană (lat., Anas falcata).
+órdek, pamuk- s. (orn.) rață mică de bumbac (lat., Nettapus coromandelianus).
+órdek, pîşkî- s. (orn.) ferestraş mare; bodârlău cu ferăstrău (lat., Mergus merganser).
+órdek, şakabaz- s. (orn.) rață arlechin (lat., Histrionicus histrionicus).
+órdek, şîjgîruwğî- s. (orn.) rață fluierătoare europeană (lat., Anas penelope).
+órdek, sarî-gágáalî- s. (orn.) rață cu cioc galben (lat., Anas undulata).
+órdek, tarak- s. (orn.) rață pieptene (lat., Sarkidiornis sylvicola).
+órdek, tel-kuyruklî- s. (orn.) rață de ghețuri (lat., Clangula hyemalis).
+órdek, tolarengí- s. (orn.) rață cărămizie (lat., Anas cyanoptera).
+órdek, yeşílbaş- s. (orn.) rață mare (lat., Anas platyrhynchos).
+órdekí adj. care este sus; care este deasupra.
+órdekíleríndiy adv. ca cele de mai sus.
+órdek-kerdemesí s. (bot.) brâncuță; rapiță-sălbatică (lat., Nasturtium palustre).
+órdekmurun s. (zool.) ornitorinc (lat., Ornithorhynchus anatinus).
+órdek-teresí s. (bot.) brâncuță; rapiță-sălbatică (lat., Nasturtium palustre).
+órden adv. de sus; dinspre partea superioară.
+óre s. (med.) urticarie.
+óreke s. furcă de tors; crăcan; cracă ramificată.
+óren s. ruină; dărâmătură (şi fig.).
+óreñge s. (zool.) rinocer (lat., Rhinoceros).
+óreñgebóğek s. (ent.) băligar-cu-corn; caraban; nasicorn (lat., Oryctes nasicornis).
+óreñgekuş s. (orn.) pasărea-rinocer; corbul cu corn (lat., Bucorvus abyssinicus).
+óreñgekuş, boz- s. (orn.) pasărea rinocer toko cenuşie (lat., Tockus nasutus).
+óreñge-tezíkşí s. (ent.) caraban; nasicorn; băligar-cu-corn (lat., Oryctes nasicornis).
+órf s. obicei; datină.
+órfiy adj. strămoşesc; din datină.
+órge adv. în sus; spre partea superioară.
+órgí s. 1. împletire; împletitură. 2. (anat.) plex.
+órgín adj. organizat; orânduit.
+órgít s. organizație. // ●sindikat órgítí — organizație de sindicat.
+órgítleme s. organizare.
+órgítlemek v.t. a organiza.
+órgítlengen adj. organizat.
+órgítlenmek v.i. a se organiza.
+órgítlí adj. organizat.
+órgítşí s. organizator.
+órí s. construcție; clădire.
+órílgen adj. croşetat; împletit; tricotat.
+órílmek v.i. a fi împletit; a fi tricotat; a fi croşetat.
+órím s. împletitură; obiect tricotat; obiect croşetat. // ●şáş órímí — împletitură de păr.
+órímğegí, kanara- s. (ent.) tarantulă (lat., Lycosa tarentula).
+órímğek s. (ent.) păianjen. // ●órímğek ğîlîmî — păienjeniş; pânză de păianjen.
+órínde adv. în susul.
+órínden adv. din susul.
+óríne adv. spre susul.
+órkeş s. (la cămile) cocoaşă.
+órme s. 1. împletire; tricotare; tricotaj; croşetare. 2. pulover.
+órmek v.t. a împleti; a tricota; a croşeta. // ●başîna şorap órmek — a-i coace cuiva turta; a i-o coace.
+órmeler s., pl. tricotaje.
+órpek s. basma; batic.
+órseñ s. 1. înflăcărare; ardoare; entuziasm. 2. frenezie.
+órseñke s., adj. entuziast; exaltat; înflăcărat; înfocat; emotiv.
+órseñleme s. înflăcărare; emoționare.
+órseñlemek v.i. 1. a se înflăcăra; a se entuziasma. 2. a se emoționa.
+órseñlenme s. înflăcărare; emoționare.
+órseñlenmek v.i. 1. a se înflăcăra; a se entuziasma. 2. a se emoționa.
+órseñletken adj. entuziasmant; emoționant.
+órseñletmek v.t. 1. a determina să se înflăcăreze; a determina să se entuziasmeze. 2. a emoționa; a înflăcăra.
+órseñletúwğí adj. entuziasmant; emoționant.
+órseñlí adj. înflăcărat; cuprins de ardoare; entuziasmat; emotiv; frenetic.
+órt-bastîr s. acoperire; muşamalizare.
+órtí s. învelitoare; husă. // ●órtí bastîrmak — a înveli cu pânză; a muşamaliza. // ●ğatak órtísí — cuvertură. ●sîpîra/masa órtísí — față de masă.
+órtíbasîlgan adj. voalat; muşamalizat.
+órtíbastîruw s. muşamalizare.
+órtíbasuw s. muşamalizare. // ●órtíbasuw etmek — a înveli cu pânză; a muşamaliza.
+órtík adj. acoperit; învelit.
+órtílgen adj. 1. învelit; acoperit; închis. 2. muşamalizat.
+órtílgen-basîlgan adj. acoperit; muşamalizat.
+órtílmegen adj. neacoperit.
+órtílmek v.i. 1. a fi acoperit; a fi învelit. 2. (d. o uşă) a fi închis. 3. (fig.) a fi ascuns; a fi muşamalizat.
+órtílmiykalgan adj. neacoperit.
+órtísíz adj. neacoperit.
+órtíşken adj. corespunzător; potrivit; compatibilitate.
+órtíşme s. corespondență; potrivire; compatibilitate.
+órtíşmegen adj. necorespunzător; nepotrivit; incompatibil.
+órtíşmek v.i. a corespunde; a se potrivi.
+órtíşmeme s. nepotrivire; incompatibilitate.
+órtíşmiykalgan adj. necorespunzător; nepotrivit; incompatibil.
+órtíşmiykalîr adj. necorespunzător; nepotrivit; incompatibil.
+órtíşmiykalma s. nepotrivire; incompatibilitate.
+órtíşmiykaluw s. nepotrivire; incompatibilitate.
+órtíştírme s. ajustare; potrivire; brodire; nimerire.
+órtíştírmek v.t. a ajusta; a potrivi; a brodi; a nimeri.
+órtme s. 1. acoperire; tapiserie. 2. (fig.) muşamalizare.
+órtmek v.t. 1. a acoperi; a înveli. 2. a închide (uşa). 3. (fig.) a ascunde; a muşamaliza. // ●başîn órtmek — a se îmbrobodi.
+órtúw s. acoperire; învelire; închidere; ascundere; muşamalizare.
+órtúwğí s. tapițer.
+órtúwlí adj. acoperit; învelit; închis; ascuns; muşamalizat.
+órúw s. împletitură; tricotare; tricotaj; croşetare. // ●órúwún şeşmek — a se despleti. // ●ğun órúwí — tricotaj de lână.
+órúwlí adj. împletit; tricotat; croşetat.
+óse-óse adv. progresiv.
+ósímlík s. 1. plantă. 2. plantație. // ●ósímlík evrení — regnul vegetal. ●ósímlík mayî — untdelemn. ●sús ósímlígí — plantă ornamentală. ●tîbiy ósímlík — plantă medicinală.
+ósímlíkbílímğí adj. botanic.
+ósímlíkbílímí s. botanică.
+ósímlíkler s., pl. vegetație; floră.
+ósímlíksíz adj. (d. munți) pleşuv.
+ósímlíksízlík s. (d. munți) pleşuvie.
+ósímlíkşí s., adj. vegetarian; vegetal.
+ósíş s. 1. mărire; intensificare. 2. mărire; creştere; dezvoltare; progres.
+ósken adj. 1. mărit; intensificat. 2. mărit; crescut; dezvoltat; spornic.
+óskendeñíz s. (geogr.) flux.
+ósme s. 1. mărire; intensificare. 2. mărire; creştere; dezvoltare; progres.
+ósmek v.i. 1. a se mări; a se intensifica. 2. (d. ape, prețuri) a creşte; a se umfla. 3. a se mări; a creşte; a se dezvolta; a progresa. // ●endamî ósmek — a lua proporții. ●kursagî ósmek — a face burtă; a-i creşte pântecele; a lua în pântece. ●murunî bek ósmek — a-şi lua nasul la purtare; a se obrăznici. ●sayîsî ósmek — a creşte numeric. // ●yaşasîn, óssín, şeşek atsîn! — trăiască, crească şi înflorească!;
+ósmelí adj. crescător; intensiv.
+óstíre s. (zool.) stridie (lat., Ostrea edulis).
+óstírgen adj. crescător; intensificator.
+óstírgeş s. lupă. // ●óstírgeş astînda — sub lupă.
+óstírílgen adj. 1. mărit; intensificat. 2. mărit; crescut; dezvoltat; educat; prăsit.
+óstírme s. 1. mărire; intensificare. 2. mărire; creştere; dezvoltare; educare; prăsire.
+óstírmek v.t. 1. a mări; a intensifica. 2. a mări; a creşte; a dezvolta; a educa; a prăsi.
+óstírúwğí adj. augmentativ.
+ósúw s. mărire; intensificare. // ●memleketníñ ósúw tasawurî — planul de dezvoltare a țării. ●ulkanîñ ósúwí — dezvoltarea țării.
+óş s. răzbunare; resentiment. // ●óşín almak — a-şi scoate un foc de la inimă; a se răzbuna.
+óşalgan adj. răzbunător; vindicativ.
+óşek s. bârfă; clevetire. // ●óşek kaynatmak — a sporovăi; a bârfi; a cleveti.
+óşek-fesat s. bârfă şi intrigă.
+óşekkaynatuw s. flecăreală; sporovăială; taifas.
+óşeklemek adj. a bârfi; a calomnia.
+óşeklengen adj. bârfit; calomniat.
+óşekşí s. bârfitor; clevetitor.
+óşekşílík s. bârfă; clevetire.
+óşerk s. încercare; tentativă; test; eseu.
+óşerkşí s. eseist.
+óşerkşílík s. eseistică.
+óşíalîngan adj. răzbunat.
+óşíktírílgen adj. instigat; incitat; provocat; ațâțat; întărâtat.
+óşíktírílmek v.i. a se instiga; a se incita; a se provoca; a se ațâța; a se întărâta.
+óşíktírme s. 1. diversiune. 2. instigare; incitare; provocare; ațâțare; întărâtare.
+óşíktírmek v.t. a instiga; a incita; a provoca; a ațâța; a întărâta.
+óşíktírúw s. 1. instigare; incitare; provocare; ațâțare; întărâtare. 2. diversiune.
+óşíktírúwğí s., adj. intrigant; instigator; incitator; provocator; ațâțător.
+ót s. 1. (anat.) fiere; bilă; vezică biliară; colecist. 2. fiere; venin. // ●ót kusmak — a vărsa fiere; a fi mânios. ●ótí kopmak/patlamak — a-i crăpa fierea; a se speria.
+óteberí adv. puțin; întrucâtva; într-o oarecare măsură. // ●óteberí aldga ketíñíz! — mergeți puțin mai înainte!;
+óter adj. penetrant.
+ótíkopkan adj. îngrozit; înspăimântat; speriat.
+ótímlí adj. (lingv.) sonor.
+ótímsíz adj. (lingv.) surd.
+ótípatlagan adj. îngrozit; înspăimântat; speriat.
+ótíş s. (d. păsări şi instrumente de suflat) cântec; cântat.
+ótíşmek v.i. (d. păsări) a cânta laolaltă; a ciripi laolaltă.
+ótken adj. 1. pătrunzător; acut. 2. precedent; anterior; trecut. 3. pătrunzător; străpungător. 4. răsunător. 5. (d. păsări) cântător. // ●ótken kuş — pasăre cântătoare. ●ótken ómír — antecedent. ●ótken tartîkawaz/sessíz/únsúz — (lingv.) consoană sonoră. ●ótken uşlî — ascuțit; tăios.
+ótken-ak-kuyruklî-suwbúrkút s. (orn.) vultur pescar african (lat., Haliaeetus vocifer).
+ótken-esmer-atmağa s. (orn.) ulie cântătoare (lat., Melierax metabates).
+ótken-Gabar-atmağasî s. (orn.) ulie cântătoare de Gabar (lat., Micronisus gabar).
+ótkengefigelleşken adj. retroactiv.
+ótken-geşken adj. 1. precedent; anterior; trecut. 2. trecător.
+ótken-kîlîşotî s. (bot.) sovârvariță (lat., Hypericum acutum).
+ótken-kuw s. (orn.) lebădă de iarnă (lat., Cygnus cygnus).
+ótken-şalî-boztorgayî s. (orn.) ciocârlie de tufiş (lat., Mirafra cantillans).
+ótken-sayrak s. (orn.) sturz cântator (lat., Turdus philomelos).
+ótken-tokîrawun s. (orn.) cocor american (lat., Grus americana).
+ótken-torgay s. (orn.) vrabie cântătoare (lat., Melospiza melodia).
+ótken-turna s. (orn.) cocor american (lat., Grus americana).
+ótkísesí s. (anat.) fiere; vezică biliară; colecist.
+ótkízdírmek v.t. 1. a face să cânte. 2. a face să răsune. 3. a face să pătrundă; a face să străpungă; a face să răzbată; a face să răzbească.
+ótkopargan adj. înspăimântător.
+ótkopartkan adj. groaznic; îngrozitor; înspăimântător.
+ótkopmasî s. groază; sperietură.
+ótlegen, ak-kara- s. (orn.) parulă alb-negru (lat., Mniotilta varia).
+ótlegen, ak-yúzlí- s. (orn.) dendroica cu obraz alb (lat., Dendroica striata).
+ótlegen, altîn-moyînlî- s. (orn.) dendroica cu gât portocaliu (lat., Dendroica fusca).
 `;
