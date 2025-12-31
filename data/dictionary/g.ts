@@ -1866,4 +1866,119 @@ gyúm s. ghium; bidon. // ●teneke gyúmí — canistră.
 Ğenubiy-Amerika s. (topon.) America de Sud.
 ğenubiy-amerikalî s., adj. sud-american.
 ğenubiy-boz-itelge s. (orn.) sfrâncioc cenuşiu sudic (lat., Lanius meridionalis).
+ğenubiy-boz-taganak s. (orn.) sfrâncioc cenuşiu sudic (lat., Lanius meridionalis).
+ğenubiy-dew-boraganğî s. (orn.) petrel gigant sudic (lat., Marconectes giganteus).
+Ğenubiy-Kore s. (topon.) Coreea de Sud.
+ğenubiy-korelí s., adj. sud-coreean.
+ğenup s. (geogr.) sud; miazăzi.
+ğenup-garp s. (geogr.) sud-vest.
+ğenup-kutubî-martîsî s. (orn.) lup de mare de Polul Sud (lat., Stercorarius maccormickii).
+ğenuplî adj. meridional; sudic.
+ğenup-şark s. (geogr.) sud-est.
+ğeñ s. 1. mânecă. 2. pănuşă.
+ğeñge s. cumnată (soție a fratelui mai mare sau a unei rude mai în vârstă).
+ğeñgen adj. învingător; cuceritor; victorios; triumfător.
+ğeñgiy s. (dim., fam.) cumnățică (soție a fratelui mai mare sau a unei rude mai în vârstă).
+Ğeñgiz s. (antrop. m.) “Războinicul”.
+ğeñgí s. victorie; triumf. // ●ğeñgí ğayî — arc de triumf.
+ğeñgíl adj. 1. uşor (şi fig.). 2. uşor; care cântăreşte puțin. 3. (fig.) uşuratic. // ●kolî ğeñgíl bolmak — a avea mână uşoară (ca medic). // ●ğeñgíl muzika — muzică uşoară. ●ğeñgíl sanaye — industrie uşoară. ●ğeñgíl sîklet — (sport) categoria uşoară. ●ğeñgíl topşî — artilerie uşoară.
+ğeñgíl-ğeñgíl adv. uşor-uşor; uşor; facil.
+ğeñgílleşken adj. uşurat.
+ğeñgílleşme s. uşurare.
+ğeñgílleşmek v.i. a deveni mai uşor; a se uşura (şi fig.).
+ğeñgílleştírmek v.t. a uşura (şi fig.).
+ğeñgílleştírúw s. facilitare; înlesnire; uşurare; alinare.
+ğeñgílleşúw s. uşurare.
+ğeñgíllík s. 1. uşurare; uşurință. 2. facilitate.
+ğeñgílsínmek v.i. a nu da importanță; a nesocoti; a i se părea uşor.
+ğeñgíltaban s. baftă; şansă.
+ğeñílgen adj. învins; înfrânt. // ●ğeñílgenge şeref! — glorie victimei!; ●way ğeñílgenlerge — vai de învinşi.
+ğeñílme s. înfrângere.
+ğeñílmegen adj. neînvins; neînfrânt.
+ğeñílmek v.i. a fi înfrânt; a fi învins.
+ğeñílmeme s. invincibilitate.
+ğeñílmez adj. imbatabil; invincibil; dârz; neînduplecat.
+ğeñílmiykalgan adj. neînfrânt; neînvins.
+ğeñílmiykalîr adj. imbatabil; invincibil; dârz; neînduplecat.
+ğeñílmiykalma s. invincibilitate; dârzenie.
+ğeñílmiykaluw s. invincibilitate; dârzenie.
+ğeñílúw s. înfrângere.
+ğeñk s. luptă; război.
+ğeñkkealîngan adj. (mil.) încorporat; înrolat; recrutat.
+ğeñkkealuw s. (mil.) încorporare; înrolare; recrutare.
+ğeñkkekarşî adj. antirăzboinic.
+ğeñklík s. militarism; militărie.
+ğeñkşí s. războinic; soldat; militar. // ●atlî ğeñkşí — (mil.) cavalerie; cavalerist. ●ğayaw ğeñkşí — (mil.) infanterie; infanterist. ●ğeñkşí úğretí — (mil.) soldă. ●ğetek ğeñkşí — (mil.) rezervist. ●ódelgen ğeñkşí — (mil.) mercenar. ●taze ğeñkşí — (mil.) recrut.
+ğeñkşílík s. militarism; militărie.
+ğeñlí adj. cu mâneci. // ●ğeñlí anter — rochie cu mânecă. ●ğeñlí kólekse — cămaşă cu mâneci. ●kîska ğeñlí — cu mânecă scurtă. ●uzun ğeñlí — cu mânecă lungă.
+ğeñme s. victorie; biruință; triumf. // ●zorlîklarnîñ ğeñmesí — înfrângerea greutăților.
+ğeñmek v.t. a învinge; a înfrânge; a birui. // ●ğañîdan ğeñmek — a recuceri. ●nepísín ğeñmek — a se stăpâni; a nu da frâu liber sentimentelor. ●sîzgî/ğerge/pwan hesabîman ğeñmek — a câştiga la puncte (sport). // ●hakkem kararî man ğeñdí — a învins prin decizia arbitrului. ●keldík, kórdík, ğeñdík — am venit, am văzut, am învins.
+ğeñúw s. victorie; biruință; triumf. victorie; biruință; triumf.
+ğeñúwğí adj. învingător; victorios; biruitor; triumfător.
+ğeodez s. geodez.
+ğeodeziya s. geodezie.
+ğeodeziyağî s. geodez.
+ğeofizika s. geofizică.
+ğeografik adj. geografic.
+ğeografiya I. adj. geografic. II. s. geografie.
+ğeografiyağî s. geograf.
+ğeografiyalî adj. geografic.
+ğeoloğik adj. geologic.
+ğeoloğiya I. adj. geologic. II. s. geologie.
+ğeoloğiyağî s. geolog.
+ğeoloğiyalî adj. geologic.
+ğeolok s. geolog.
+ğeometrik adj. geometric.
+ğeometriya s. geometrie.
+ğeometriyalî adj. geometric.
+ğep s. 1. buzunar. 2. (mil.) breşă; spărtură. 3. (anat.) vezică; băşică. // ●ğebí tutmak — a-l ține buzunarul; a-l ține baierele pungii; a-i da mâna să…; ●ğebínde şağan/akrep bolmak — a avea arici în buzunare; a fi zgârcit. ●ğep kesmek/aktarmak — a buzunări; a fura din buzunare. ●ğepten aşamak — a trăi din seul său. // ●ğep defterí — carnețel. ●ğep sáátí — ceas de buzunar. ●ğep sózlígí — dicționar de buzunar.
+ğepaktargan s. hoț de buzunare.
+ğepaktarmasî s. furt din buzunare; buzunăreală.
+ğepare s. (bot.) pătrunjel (lat., Petroselinum hortense).
+ğepare, múslí- s. (bot.) asmățui; hasmațuchi (lat., Anthriscus cerefolium).
+ğeparesí, it- s. (bot.) pătrunjelul-câinelui; cucută-mică (lat., Aethusa cynapium).
+ğeparesí, tana- s. (bot.) asmățui; hasmațuchi (lat., Anthriscus silvestris).
+ğephe I. adj. frontal. II. s. 1. (anat.) frunte. 2. (arhit.) fronton; fațadă. 3. (mil.) front. // ●ğephe almak — a lua poziție; a lua atitudine.
+ğepheğe adv. frontal.
+ğephelík I. adj. frontal. II. s. (arhit.) fronton.
+ğepkana s. (mil.) muniții; arsenal.
+ğepkanalîk s. (mil.) depozit de muniții.
+ğepkesken s. hoț de buzunare.
+ğepkesme s. furt din buzunare; buzunăreală.
+ğepparasî s. bani de buzunar.
+ğepşí s. hoț de buzunare.
+ğepşík s. 1. buzunăraş. 2. (anat.) veziculă; băşicuță.
+ğepşílík s. furt din buzunare.
+ğer I. adv. jos. II. s. 1. pământ; sol; teren. 2. loc. 3. ținut; regiune. 4. post; funcție; serviciu. 5. moment potrivit; prilej; ocazie. 6. (astr.) Pământ. // ●ğer ğerínden oynamak — a se cutremura pământul. ●ğer men bír etmek — a face una cu pământul. ●ğer tutmak — a ocupa loc; a rezerva un loc. ●ğer ústúnden sílmek — a rade de pe fața pământului. ●ğerge kómmek — a îngropa în pământ. ●ğerín almak — a-i lua cuiva locul. ●ğerín bermek — a-i ceda cuiva locul. ●ğerín deñíştírmek — a-i schimba locul; a-l permuta. ●ğerín tapmak — a-şi găsi locul; a se localiza. ●ğerín tutmak — a ține loc de...; a ține locul cuiva; a-l substitui. ●ğerínde tura-almamak — a nu-şi mai găsi locul; a nu mai avea răbdare. ●ğeríne geşmek — a trece în locul cuiva; a-l înlocui. ●ğerníñ túbúne geşmek — a-i veni cuiva să intre în pământ. ●kúlmekten ğerlerge ğatmak — a tăvăli de râs. // ●bo ğer ayîruwlî — acest loc e ocupat. ●ğer katî — parter. ●ğerímní sízge beriyím — vă ofer locul meu.
+ğerastî I. adj. subteran. II. s. subsol. // ●ğerastî suwî — apă subterană. ●ğerastî trení — metro.
+ğerastîğol s. tunel.
+ğerastîkat s. (constr.) subsol.
+ğerat s. (med.) puroi; abces.
+ğeratkakarşî adj. antiseptic; antiinflamator.
+ğeratlangan adj. septic; inflamat; purulent; supurant.
+ğeratlanma s. inflamare; inflamație; supurație; puroiere; flegmon.
+ğeratlanmak v.i. a se inflama; a supura; a puroia.
+ğeratlanuw s. inflamare; inflamație; supurație; puroiere; flegmon.
+ğeratlî adj. septic; inflamat; purulent; supurant.
+ğerawuşturma s. deplasare; clintire; transfer; urnire.
+ğerawuşturuw s. deplasare; clintire; transfer; urnire.
+ğerberítlí s. (astr.) perigeu.
+ğerbílímğísí s. geolog.
+ğerbílímí s. geologie.
+ğerbílímlí adj. geologic.
+ğerde adv. jos. // ●ğerde ğatmak — a zăcea căzut la pământ.
+ğerdegí adj. de jos.
+ğerdegísí s. cel de jos.
+ğerdekí adj. de jos.
+ğerdekísí s. cel de jos.
+ğerden adv. de jos. // ●ğerden kókke şík — foarte mult; imens.
+ğerdeñíştírgen adj. deplasat; mutat; strămutat; dislocat.
+ğerdeñíştírme s. deplasare; mutare; strămutare; dislocare.
+ğerdeñíştírúw s. deplasare; clintire; transfer; urnire.
+ğerdesí s. cel de jos.
+ğerdesín adv. pe cel de jos.
+ğerdesínde adv. la cel de jos.
+ğerdesínden adv. de la cel de jos.
+ğerdesíndiy adv. ca cel de jos.
+ğerdesíne adv. spre cel de jos.
 `;
