@@ -1981,4 +1981,266 @@ gyúm s. ghium; bidon. // ●teneke gyúmí — canistră.
 ğerdesínden adv. de la cel de jos.
 ğerdesíndiy adv. ca cel de jos.
 ğerdesíne adv. spre cel de jos.
+ğerdesíñ adj. celui de jos.
+ğerek s. (bot.) anin; arin (lat., Alnus).
+ğerek, ak- s. (bot.) anin-alb; arin-alb (lat., Alnus incana).
+ğerek, kara- s. (bot.) anin-negru; arin-negru (lat., Alnus glutinosa).
+ğerek, yeşíl- s. (bot.) liliac-de-munte; aninaş (lat., Alnus viridis).
+ğer-elmasî s. (bot.) nap-porcesc; gulie; topinambur (lat., Helianthus tuberosus).
+ğereme s. despăgubire.
+ğeren s. (zool.) antilopă; gazelă (lat., Antilopinae sp.).
+ğerení, gunuw- s. (zool.) gnu (lat., Connochaetes gnou).
+ğer-feslegení s. (bot.) trepădătoare (lat., Mercurialis annua).
+ğerfizikasî s. geofizică.
+ğer-fîstîgî s. arahidă; alună-de-pământ (fruct).
+ğer-fîstîgîteregí s. (bot.) arahidă (plantă) (lat., Arachis hypogaea).
+ğerge I. adv. jos; în jos; în pământ. II. s. 1. linie; aliniament; rând; rang; grad; clasă. 2. (sport) punct. // ●ayaklarîn ğerge basmak — a fi cu picioarele pe pământ. ●ğerge hesabî man ğeñmek — a câştiga la puncte (sport). ●ğerge kazanmak — a câştiga puncte (sport). ●ğerge kírgendiy bolmak — a-i veni cuiva să intre în pământ. ●ğerge salmak — a pune jos. // ●ğerge otîrayîk! — să stăm jos!; ●ufkiy ğerge — (mat.) orizontală.
+ğergearasî adj. interliniar; între linii; între rânduri.
+ğerge-ğerge adj. aliniat; rânduit; gradat; clasificat.
+ğergekaragan adj. rezervat; reticent.
+ğergeleme s. liniere; aliniere; rânduire; clasificare.
+ğergelemek v.t. a linia; a alinia; a rândui; a clasifica.
+ğergelengen adj. liniat; aliniat; rânduit; clasificat.
+ğergelenmegen adj. neclasificat; nealiniat.
+ğergelenmek v.i. a se linia; a se alinia; a se rândui; a se clasifica.
+ğergelenmiykalgan adj. neclasificat; nealiniat.
+ğergelew s. liniere; aliniere; rânduire; clasificare.
+ğergelí adj. 1. liniat; aliniat; rânduit; clasificat. 2. clasificat; categorisit.
+ğergen adj. disprețuitor.
+ğergendiy adj. reprobabil.
+ğergesíz adj. neclasificat; nealiniat.
+ğergesízlík s. nealiniere.
+ğergí s. (lit.) satiră.
+ğergíleme s. satirizare.
+ğergílemek v.t. a satiriza.
+ğergílengen adj. satirizat.
+ğergílew s. satirizare.
+ğergílí adj. satiric; satirizat.
+ğergín adj. vicios.
+ğergínlík s. viciu.
+ğer-ğer adv. din loc în loc; pe alocuri; pe sărite.
+ğer-ğewezí s. (bot.) antonică (lat., Chaerophyllum aromaticum).
+ğerğí adj. terestru.
+ğer-ğurt s. reşedință; domiciliu; rezidență.
+ğerhaleketí s. cutremur; seism.
+ğerhaleketíólşer s. seismometru.
+ğerhaleketísîzgağîsî s. seismograf.
+ğerhaleketísîzgasî s. seismografie.
+ğeride s. 1. ziar. 2. registru; catalog. // ●kitap ğeridesí — catalog de cărți. ●muzewníñ ğeridesí — catalogul muzeului. ●núfus ğeridesí — registru de stare civilă.
+ğerime s. despăgubire. // ●ğerime salmak — a despăgubi. // ●ğerime darbesí — (sport) lovitură de pedeapsă. ●ğerime kanasî — (sport) careul de pedeapsă.
+ğerimeleme s. despăgubire.
+ğerimelemek v.t. a despăgubi.
+ğerimelengen adj. despăgubit.
+ğerimelenmek v.i. a fi despăgubit.
+ğerimelew s. despăgubire.
+ğerimesínalgan adj. despăgubit.
+ğeriy I. s. (ist.) ostaş; războinic. II. s., adj. militar. // ●kullukşî ğeriy — (mil.) servant.
+ğeriyan s. 1. curs; curent (şi fig.). 2. (electr.) curent. // ●almaşlî ğeriyan — (electr.) curent alternativ. ●ğeriyan bola — se face curent. ●hawa ğeriyanî — curent de aer. ●mútemadiy/dalgasíz ğeriyan — (electr.) curent continuu. ●şagîlgan/elektrik ğeriyan — curent electric. ●sîğak ğeriyan — termocurent; curent termic.
+ğeriyanetken adj. desprins din curent; derivat.
+ğeriyanîndanayîrîlgan adj. desprins din curent; derivat.
+ğeriyanîndanayîruw s. desprindere din curent; derivare.
+ğeriye s. militarism; militărie.
+ğeriyleşken adj. militarizat.
+ğeriyleşmek v.i. a se militariza.
+ğeriyleştírme s. militarizare.
+ğeriyleştírmek v.t. a militariza.
+ğeriyleştírúw s. militarizare.
+ğeriylík s. militarism; militărie.
+ğeriysíz adj. demilitarizat.
+ğeriysízleşken adj. demilitarizat.
+ğeriysízleşmek v.i. a se demilitariza.
+ğeriysízleştírme s. demilitarizare.
+ğeriysízleştírmek v.t. a demilitariza.
+ğeriysízleştírúw s. demilitarizare.
+ğerílgen adj. disprețuit; desconsiderat; repudiat.
+ğerínawuşturgan adj. deplasat; clintit; transferat; urnit.
+ğerínde I. adj. relevant; oportun. II. adv. 1. pe loc; imediat. 2. la locul său.
+ğerínden adv. de la locul său.
+ğeríndenkopkan adj. deplasat; mutat; dislocat; dezrădăcinat; eradicat.
+ğeríndenkopma s. deplasare; mutare; dislocare; dezrădăcinare; eradicare.
+ğeríndenkopmama s. inamovibilitate.
+ğeríndenkopmaykalîr adj. inamovibil.
+ğeríndenkopmaykalma s. inamovibilitate.
+ğeríndenkopmaykaluw s. inamovibilitate.
+ğeríndenkopmaz adj. inamovibil.
+ğeríndenoynagan adj. clintit; urnit.
+ğeríndenoynatuw s. clintire; urnire.
+ğeríndeñíştírgen adj. deplasat; clintit; transferat; urnit.
+ğeríne adv. spre locul său; în contrapartidă.
+ğerínegeşílgen adj. 1. suplinit; înlocuit. 2. înlocuit.
+ğerínegeşken adj. suplinitor; înlocuitor.
+ğerínegeşúw s. suplinire; înlocuire.
+ğeríntapkan adj. stabilit într-un anumit loc; localizat.
+ğeríntotîrgan adj. înlocuitor; suplinitor.
+ğeríntutkan adj. înlocuitor; suplinitor.
+ğerítutulgan adj. înlocuit; suplinit.
+ğer-îşanî s. (zool.) şoarece-de-câmp (lat., Microtus arvalis).
+ğerkabîgî s. (geogr.) scoarța terestră; suprafața pământului; sol.
+ğerkazkan s. (constr.) excavator; dargă.
+ğerke s. (zool.) veveriță-zburătoare (lat., Pteromys volans).
+ğer-kestanesí s. (bot.) alunele; baraboi (lat., Chaerophyllum bulbosum).
+ğerkîbîrdamasî s. cutremur; seism.
+ğer-kók s. cerul şi pământul; toată lumea.
+ğerkúre(sí) s. (geogr.) glob terestru; palaneta Pământ.
+ğerlí I. adj. 1. local; din partea locului. 2. autohton; indigen. 3. relevant; oportun. II. s. localnic; băştinaş.
+ğerlí-ğerínde adv. 1. amănunțit; detaliat. 2. complet; cu totul; în întregime. 3. relevant; oportun.
+ğerlí-ğersíz adj. inoportun; nepotrivit; irelevant.
+ğerlî-ğurtlî adj. domiciliat.
+ğerme s. dispreț; desconsiderare; repudiere.
+ğermek v.t. a disprețui; a desconsidera; a repudia.
+ğermelí adj. peiorativ; depreciativ; disprețuitor.
+ğermen s. (biol.) germen.
+ğeroynamasî s. cutremur; seism.
+ğerozar s. (astr.) apogeu.
+ğerózekşí adj. (astr., fil.) geocentric.
+ğerpenegí, eşek- s. (bot.) plesnitoare; pocnitoare; castravete-sălbatic (lat., Ecballium elaterium).
+ğerpenek s. (bot.) castravete (lat., Cucumis sativus).
+ğerrah s. (med.) chirurg.
+ğerrahiy adj. (med.) chirurgical. // ●ğerrahiy múdahale — (med.) intervenție chirurgicală.
+ğerrahlîk s. (med.) chirurgie.
+ğerrahmaşasî s. (med.) extractor; forceps.
+ğersakîzî s. (geol.) bitum.
+ğer-sarmaşîgî s. (bot.) silnic; nejelnică; piperul-apelor (lat., Glechoma hederacea).
+ğersíz adj. inoportun; nepotrivit; irelevant.
+ğersíz-ğurtsuz adj. fără locuință; fără cămin; fără patrie.
+ğersîzgağîsî s. topograf.
+ğersîzgalî adj. topografic.
+ğersîzgasî I. adj. topografic. II. s. topografie. // ●ğersîzgasî kartasî — hartă topografică.
+ğersuw s. zeu; zeiță.
+Ğersuw s. (mitol., în şamanism) zeița pământurilor şi a apelor.
+Ğersuw-Álem s. (topon.) ("Lumea Zeilor") Ierusalim.
+ğerşalkalanmasî s. cutremur; seism.
+ğerşegímí s. (fiz.) gravitație.
+ğerşegímlí adj. (fiz.) gravitațional.
+ğertamîrî s. (bot.) morcov (lat., Daucus carota sativa).
+ğertartar adj. ponderabil.
+ğertartîmî s. (fiz.) gravitație. // ●ğertartîmî kanunî — legea gravitației.
+ğertartîmlî adj. (fiz.) gravitațional.
+ğertartma s. ponderabilitate.
+ğertartmama s. imponderabilitate.
+ğertartmaz adj. imponderabil.
+ğertartmazlîk s. imponderabilitate.
+ğertartuw s. ponderabilitate.
+ğertazîlî s. (bot.) morcov (lat., Daucus carota sativa).
+ğertóle s. 1. celulă; carceră; arest. 2. pivniță; beci. 3. chilie.
+ğertóleğí s. pivnicer.
+ğerústí adj. suprateran; de suprafață. // ●ğerústí suwî — apă supraterană.
+ğer-wakît s., adj. (gram.) locativ. // ●ğer-wakît kelíşí — (gram.) cazul locativ.
+ğer-yerleşme s. loc sau localitate; locuri şi localități. // ●ğer-yerleşme atî — toponim.
+ğeryuwarlagî s. (geogr.) glob terestru; palaneta Pământ.
+ğeryúzí s. (geogr.) scoarța terestră; suprafața pământului; sol.
+ğeryúzíbílímğísí s. geograf.
+ğeryúzíbílímí I. adj. geografic. II. s. geografie. // ●fizikiy ğeryúzíbílímí — geografie fizică. ●iktisatiy ğeryúzíbílímí — geografie economică. ●siyasiy ğeryúzíbílímí — geografie politică.
+ğeryúzíbílímlí adj. geografic.
+ğeryúzísuwlarî s. hidrografie.
+ğeryúzítúrlenmebílímğísí s. topolog.
+ğeryúzítúrlenmebílímí s. topologie.
+ğesamet s. 1. măreție; grandoare. 2. dimensiune; volum.
+ğesametleme s. dimensionare.
+ğesametlemek v.t. a dimensiona.
+ğesametlengen adj. dimensionat.
+ğesametlew s. dimensionare.
+ğesametlí adj. mare; voluminos; încăpător.
+ğesametsíz adj. neîncăpător.
+ğesaret s. curaj; îndrăzneală. // ●bír-bíríne ğesaret bermek — a se încuraja reciproc. ●ğesaret almak — a prinde inimă; a căpăta curaj. ●ğesaret bermek — a încuraja. ●ğesaretí kesílmek — a i se tăia inima; a-şi pierde curajul.
+ğesaretalgan adj. 1. încurajat; stimulat; îmbărbătat; îndemnat. 2. (med.) excitat.
+ğesaretbergen adj. încurajator.
+ğesaretberúw s. 1. încurajare; stimulare; îmbărbătare; îndemn. 2. (med.) excitare.
+ğesaretberúwğí I. adj. stimulant. II. s. stimulent.
+ğesaretíkesílgen adj. demoralizat; descurajat; descumpănit.
+ğesaretkesílmesí s. demoralizare; descurajare; descumpănire.
+ğesaretkesken adj. demoralizant; descurajator; descurajant.
+ğesaretlendírgen adj. încurajator.
+ğesaretlendírílgen adj. încurajat.
+ğesaretlendírme s. încurajare.
+ğesaretlendírmek v.t. a încuraja.
+ğesaretlendírúw s. încurajare.
+ğesaretlengen adj. îndrăzneț; care a prins inimă; care a căpătat curaj.
+ğesaretlenme s. îndrăzneală; curaj.
+ğesaretlenmek v.i. a îndrăzni; a prinde inimă; a căpăta curaj.
+ğesaretlenúw s. îndrăzneală; curaj.
+ğesaretlí adj. curajos; îndrăzneț.
+ğesaretsíz adj. fricos; timid.
+ğesaretsízbîrakma s. intimidare; timorare; demoralizare; descurajare; descumpănire.
+ğesaretsízkalgan adj. intimidat; timorat; demoralizat; descurajat; descumpănit.
+ğesaretsízleşken adj. descurajat.
+ğesaretsízleşme s. descurajare.
+ğesaretsízleşmek v.i. a se descuraja.
+ğesaretsízleştírgen adj. descurajant.
+ğesaretsízleştírmek v.t. a descuraja.
+ğesaretsízleşúw s. descurajare.
+ğesaretsízlík s. timiditate; descurajare; teamă; sfială.
+ğeset I. adj. cadaveric. II. s. cadavru.
+ğesettiy adj. cadaveric.
+ğest s. gest.
+ğesur adj. curajos; îndrăzneț.
+ğet I. adj. strămoşesc; ancestral. II. s. 1. străbun. 2. (ist.) get.
+ğet-beğet I. adj. strămoşesc; ancestral; neaoşi; get-beget. II. adv. din moşi strămoşi; get-beget. III. s. moşii şi strămoşii.
+ğetek I. adj. de rezervă. II. s. 1. rezervă; stoc. 2. remorcă. 3. conducere; administrare; coordonare; dirijare. // ●ğetek tutmak — a ține în rezervă; a stoca. ●ğetekke almak — a remorca. // ●ğetek arabasî — remorcă. ●ğetek asker/ğeñkşí — (mil.) rezervist. ●ğetek basamak — scară de serviciu. ●ğetek parşa — (tehn.) piesă de schimb. ●ğetek subay — ofițer de rezervă.
+ğetekkealîngan adj. remorcat.
+ğetekkealuw s. remorcare.
+ğetekleme s. remorcare.
+ğeteklemek v.t. a remorca.
+ğeteklengen adj. remorcat.
+ğeteklew s. remorcare.
+ğeteklí adj. 1. remorcat; condus; administrat; coordonat; dirijat. 2. cu remorcă.
+ğetekşí s. 1. remorcher. 2. conducător; administrator; coordonator; dirijor.
+ğetekşílík s. conducere; administrare; coordonare; dirijare.
+ğetektutulgan adj. stocat.
+ğetektutuw s. stocare.
+ğetenek s. capacitate.
+ğeteneklí adj. capabil; înzestrat.
+ğeterlík s. 1. suficiență; îndestulare. 2. capacitate; competență.
+ğetersíz adj. insuficient; nesatisfăcător.
+ğetersízlík s. insuficiență; incapacitate. // ●kaálp ğetersízlígí — (med.) insuficiență cardiacă.
+ğetím s., adj. orfan.
+ğetímkana s. orfelinat.
+ğetímsíz adj. 1. needucat; neinstruit. 2. (peior.) imatur. 3. prost; neghiob.
+ğetímsízlík s. 1. lipsă de educație; lipsă de instruire. 2. prostie; neghiobie.
+ğetíşken adj. 1. suficient. 2. copt; matur. // ●erten ğetíşken — precoce.
+ğetíşkín adj. (d. persoane) matur; major.
+ğetíşkínlík s. (d. persoane) maturitate; majorat.
+ğetíşme s. suficiență. // ●ğínísiy ğetíşme — pubertate.
+ğetíşmegen adj. 1. nesatisfăcător. 2. necopt; imatur.
+ğetíşmek A. v.i. a se maturiza; a se emancipa. B. v.t. 1. a ajunge; a prinde din urmă. 2. a prinde; a ajunge; a sosi (la timp). 3. a fi suficient; a ajunge. 4. a atinge; a ajunge; a răzbi. 5. a deveni; a ajunge. 6. (d. plante) a creşte; a se dezvolta.
+ğetíşmeme s. 1. imaturitate. 2. insuficiență.
+ğetíşmemek v.i. a fi insuficient; a nu ajunge.
+ğetíştírgen I. adj. distributiv. II. s. distribuitor.
+ğetíştírmek v.t. 1. a determina să ajungă; a determina să fie suficient. 2. a creşte; a aduce la maturitate (copii, animale). 3. a cultiva (plante). 4. a transmite; a comunica; a aduce la cunoştință. 5. (econ.) a produce. // ●para ğetíştírmek — a strânge bani; a economisi.
+ğetíştírúw s. 1. (d. pământ) cultură. 2. (econ.) producție.
+ğetíştírúwğí s. producător.
+ğetíşúw s. suficiență.
+ğetke s. autoritate; prestigiu.
+ğetkelí adj. autoritar; prestigios.
+ğetken adj. 1. suficient. 2. (d. copii) mare; crescut; maturizat. // ●ğetken bala — copil mare.
+ğetkene s. fragă-de-pădure.
+ğetkí s. 1. competență; autoritate. 2. atribuție; autorizare; împuternicire; mandatare. // ●ğetkí bermek — a autoriza; a împuternici. // ●hukuk ğetkísí — (jur.) jurisdicție.
+ğetkílemek v.t. a autoriza; a abilita; a împuternici; a mandata.
+ğetkílendírme s. abilitare; autorizare; împuternicire; mandatare.
+ğetkílendírmek v.t. a autoriza; a abilita; a împuternici; a mandata.
+ğetkílendírúw s. abilitare; autorizare; împuternicire; mandatare.
+ğetkílengen adj. abilitat; autorizat; împuternicit; mandatat.
+ğetkílí adj. 1. competent. 2. autorizat; abilitat; împuternicit; mandatat. // ●ğetkílí kíşí — (jur.) persoană fizică. ●ğetkílí makamlar — foruri competente. ●ğetkílí temsílğí — reprezentant; împuternicit.
+ğetkín adj. perfect; desăvârşit; ideal.
+ğetkínleşken adj. perfecționat; desăvârşit; idealizat.
+ğetkínleşmek v.i. a se perfecționa; a se desăvârşi; a fi idealizat.
+ğetkínleştírme s. perfecționare; desăvârşire; idealizare.
+ğetkínleştírmek v.t. a perfecționa; a desăvârşi; a idealiza.
+ğetkínleştírúw s. perfecționare; desăvârşire; idealizare.
+ğetkínlík s. perfecțiune; desăvârşire.
+ğetkísíz adj. 1. incompetent. 2. neîmputernicit; fără împuternicire; imperfect.
+ğetkísízleşken adj. neutralizat.
+ğetkísízleştírme s. neutralizare.
+ğetkísízleştírmek v.t. a neutraliza.
+ğetkísízleştírúw s. neutralizare.
+ğetkísízlík s. neîndreptățire; incompetență.
+ğetkízdírílgen adj. 1. însoțit; acompaniat. 2. dus; transportat; trimis; transmis.
+ğetkízdírme s. (tehn.) transmisie; transmisiune. // ●ğetkízdírme bakanlîgî/nazirlígí — (pol.) ministerul transporturilor.
+ğetkízdírmek v.t. a duce; a transporta; a face să ajungă la…; a duce de mână. // ●saklaw/korîma man ğetkízdírmek — a escorta.
+ğetkízdírúw s. 1. ducere; transport; transportare; transmitere. 2. (tehn.) transmisie; transmisiune.
+ğetkízdírúwğí s. curier; transportator; însoțitor.
+ğetkízdírúwğúlúk s. transportare; curierat; însoțire.
+ğetkízmek v.t. a transmite.
+ğetme s. suficiență.
+ğetmegen adj. insuficient; neîndestulător.
 `;
