@@ -1678,4 +1678,192 @@ gyúm s. ghium; bidon. // ●teneke gyúmí — canistră.
 ğelkuwgan, kama-kuyruklî- s. (orn.) ielcovan cu coadă-pumnal; furtunar cu coadă-pumnal; pasărea-furtunii cu coadă-pumnal (lat., Puffinus pacificus).
 ğelkuwgan, kara-tumşuklî- s. (orn.) furtunar; pasărea-furtunii (lat., Puffinus puffinus).
 ğelkuwgan, kíşkene- s. (orn.) ielcovan mic; furtunar mic; pasărea-furtunii mică ( lat., Puffinus assimilis).
+ğelkuwgan, kúlrengí- s. (orn.) ielcovan cenuşiu; furtunar cenuşiu; pasărea-furtunii cenuşie (lat., Puffinus griseus).
+ğelkuwgan, pembe-ayaklî- s. (orn.) ielcovan cu picior roz ; furtunar cu picioare roz; pasărea-furtunii cu picioare roz (lat., Puffinus carneipes).
+ğelkuwganî, Ağem- s. (orn.) ielcovan persan; furtunar persan; pasărea-furtunii persană (lat., Puffinus persicus).
+ğelkuwganî, Balear- s. (orn.) ielcovan de Baleare; furtunar de Baleare; pasărea-furtunii de Baleare (lat., Puffinus mauretanicus).
+ğelkuwganî, kúntuwar- s. (orn.) ielcovan estic; furtunar estic; pasărea-furtunii estică ( lat., Puffinus yelkouan).
+ğelkuwganî, Yeşíl-Murun- s. (orn.) ielcovan de Insulele Capului Verde; furtunar de Insulele Capului Verde; pasărea-furtunii de Insulele Capului Verde (lat., Calonectris edwardsii).
+ğelkuwganî, yoda- s. (orn.) ielcovan de tropice; furtunar de tropice; pasărea-furtunii de tropice (lat., Puffinus lherminieri).
+ğellat s. 1. călău; gâde; gealat. 2. bandit; tâlhar.
+ğelleme s. 1. legănare; balansare; pendulare; oscilare. 2. fluturare; unduire. 3. vânturare. 4. trap.
+ğellemek A. v.i. a merge la trap. B. v.t. 1. a legăna; a balansa; a determina să penduleze; a determina să oscileze. 2. a flutura; a undui. 3. a vântura. // ●balanî kolînda ğellemek — a legăna copilul în brațe. ●başîn ğellemek — a clătina din cap; a da din cap. ●bayrak ğellemek — a flutura steagul. ●ğelpaze ğellemek — a-şi face vânt cu evantaiul. ●kaşîk ğellemek — a mânca cu poftă. ●kol ğellemek — a flutura mâna. ●kuyruk ğellemek — a da din coadă; a se gudura; a se linguşi; a se bucura. ●otnî ğellemek — a ațâța focul. // ●ğel terekní ğelliy — vântul leagănă copacul.
+ğellengen adj. 1. legănat; balansat; oscilant. 2. fluturat; unduit. 3. vânturat.
+ğellenme s. 1. fluturare; unduire. 2. legănare; balansare; pendulare; oscilare. 3. vânturare. // ●gúwen ğellenmesí — zdruncinarea încrederii.
+ğellenmek v.i. 1. a se legăna; a se balansa; a pendula; a oscila. 2. a se flutura; a se undui. 3. a se vântura. // ●bayrak ğelden ğellene — steagul se leagănă din cauza vântului.
+ğellenúw s. 1. fluturare; unduire. legănare; balansare; pendulare; oscilare. 2. legănare; balansare; pendulare; oscilare. fluturare; unduire. 3. vânturare. vânturare.
+ğellenúwğí adj. fluctuant; oscilant.
+ğelletmek v.t. 1. a legăna; a balansa; a determina să penduleze; a determina să oscileze. 2. a flutura; a undui. 3. a vântura.
+ğellew s. 1. legănare; balansare; pendulare; oscilare. 2. fluturare; unduire. 3. vânturare. 4. trap.
+ğelliy-ğelliy adv. legănat; balansat.
+ğellí adj. 1. neghiob; nerod; idiot; prostănac. 2. (med.) reumatic.
+ğellílík s. neghiobie; nerozie; idioțenie; prostie.
+ğellímurun(lî) adj. insolent; arogant.
+ğellímurunluk s. insolență; aroganță.
+ğelmawuz s. căpcăun.
+ğelme s. tăiş; lamă (la sabie).
+ğelp s. 1. chemare; convocare. 2. (jur.) citație. 3. (mil.) ordin de chemare.
+ğelpaze s. 1. evantai; ventilator. 2. (tehn.) ventilator; suflantă. // ●ğelpaze ğellemek/sallamak — a-şi face vânt cu evantaiul. // ●may kuwatî ğelpaze — (tehn.) ventilator hidraulic.
+ğelpazeburumğa s. (tehn.) turbosuflantă.
+ğelpazekuyrugî, Çetti'níñ- s. (orn.) stufărică (lat., Cettia cetti).
+ğelpazekuyrugî, kamîş- s. (orn.) stufărică (lat., Cettia cetti).
+ğelpazekuyruk s. (orn.) stufărică pătată (lat., Cisticola juncidis).
+ğelpazekuyruk, súrmelí- s. (orn.) stufărică dungată (lat., Scotocerca inquieta).
+ğelpazekuyruk, şegertkíğí- s. (orn.) stufărică lăcustar (lat., Spiloptila clamans).
+ğelpetílgen adj. chemat; convocat.
+ğelpetílmek v.i. a fi chemat; a fi convocat.
+ğelpetme s. chemare; convocare.
+ğelpetmek v.t. a chema; a convoca.
+ğelpíldeme s. 1. (tehn.) aerisire; ventilație; tirant; suflantă. 2. (fiziol.) vânturi. 3. vânturare; ventilare; fluturare. 4. batere din aripi. 5. suflare; suflu; adiere.
+ğelpíldemek A. v.i. 1. (fiziol.) a da vânturi. 2. a sufla. 3. a bate din aripi. B. v.t. a sufla; a vântura; a ventila; a flutura.
+ğelpíldew s. 1. (tehn.) aerisire; ventilație; tirant; suflantă. 2. (fiziol.) vânturi. 3. vânturare; ventilare; fluturare. 4. batere din aripi. 5. suflare; suflu; adiere.
+ğelpílgen adj. 1. vânturat; ventilat; fluturat. 2. suflat.
+ğelpíltí s. 1. (tehn.) aerisire; ventilație; tirant; suflantă. 2. (fiziol.) vânturi. 3. vânturare; ventilare; fluturare. 4. batere din aripi. 5. suflare; suflu; adiere.
+ğelpíme s. 1. (tehn.) aerisire; ventilație; tirant; suflantă. 2. vânturare; ventilare; fluturare. 3. suflare; suflu; adiere. 4. batere din aripi. 5. (fiziol.) vânturi.
+ğelpímeburumğa s. (tehn.) turbosuflantă.
+ğelpímek A. v.i. 1. a sufla. 2. a bate din aripi. 3. (fiziol.) a da vânturi. B. v.t. a sufla; a vântura; a ventila; a flutura.
+ğelplí adj. chemat; convocat.
+ğelse s. 1. adunare; şedință; conferință. 2. (jur.) instanță. // ●eñge ğelsesí — conferință de pace. ●zirve ğelsesí — conferință la nivel înalt.
+ğelseğí s. conferențiar.
+ğelşalar s. (tehn.) aerisire; ventilație; tirant.
+ğelşeşegí s. (bot.) anemonă (lat., Anemone sp.).
+ğelşeşegí, karağíger- s. (bot.) popâlnic-iepuresc; trei-răi (lat., Hepatica nobilis; Anemone hepatica).
+ğelşeşegí, sarî- s. (bot.) păştiță; floarea-paştelui; găinuşe; dediței-galbeni (lat., Anemone ranunculoides).
+ğelşeşegí, taw- s. (bot.) oiță; dediței-de-pădure; floarea-vântului (lat., Anemone silvestris).
+ğeltakta s. windsurf.
+ğeltaktağî s. surfist.
+ğeltaktağîlîk s. surfist.
+ğeltartar s. (tehn.) aerisire; ventilație; tirant.
+ğem s. 1. hrană pentru animale; nutreț; furaje. 2. momeală (şi fig.). 3. (mat.) adunare; însumare; sumă; total. 4. suveran; monarh; şah; şahinşah. // ●aldatuwğî ğem — momeală. ●ayakastî ğem — nutreț verde. ●ğem kutugî — iesle; troacă.
+Ğem s. (antrop. m., arab.) "Suveranul".
+ğemaát s. 1. mulțime; adunare; public. 2. obşte; comunitate; lume. 3. societate; colectivitate. // ●ğemaát defterí — registru de stare civilă. ●ğemaátke koşîlmagan — nesociabil.
+ğemaátkekoşîlmaz adj. necomunicativ; nesociabil.
+ğemal s. (d. oameni) frumusețe; chip frumos.
+Ğemal s. (antrop. m., arab.) "Cel cu chip frumos".
+Ğemaleddin/Ğemalettin s. (antrop. m., arab.) “Frumusețea credinței”.
+Ğemaziyúlahir s. (cron.) a 6-a lună a anului conform calendarului musulman.
+Ğemaziyúlewwel s. (cron.) a 5-a lună a anului conform calendarului musulman.
+ğembe s. postav.
+ğembeğí s. postăvar.
+ğembeğílík s. postăvărie.
+ğembeşeşegí s. (bot.) primulă; ciuboțica-cucului (lat., Primula veris).
+ğembeşeşegí, úyken- s. (bot.) țâța-vacii (lat., Primula elatior).
+ğemdek s. cadavru; hoit; stârv; leş; mortăciune. // ●ğemdek ğarmasî — (med.) autopsie.
+ğemdektiy adj. cadaveric.
+ğemetílgen adj. adunat; reunit.
+ğemetílmek v.i. a fi adunat; a fi reunit.
+ğemetmek v.t. a aduna; a reuni.
+ğemetúw s. adunare; reunire.
+ğemil adj. (d. oameni) cu chip frumos.
+Ğemil s. (antrop. m., arab.) “Cel cu chip frumos”.
+ğemile s. amabilitate; gentilețe; galanterie; curtoazie.
+Ğemile s. (antrop. f., arab.) “Cea cu chip frumos”.
+ğemiy I. adj. (mat.) adunat; total; însumat. II. s. (gram.) plural. // ●ğemiy tewúke — istorie generală.
+ğemiyet s. 1. adunare; reuniune; uniune. 2. societate; asociație; organizație. 3. ceremonie. 4. (sport) divizie; ligă. 5. (mat.) adunare; însumare; sumă; total. 6. monarhie. // ●ğemiyetten túşmek — a retrograda. // ●bírínğí ğemiyet — prima ligă. ●edebiy ğemiyet — (lit.) societate literară. ●insan ğemiyetí — societatea omenească. ●zanaatşîlar ğemiyetí — breaslă.
+ğemiyetlí adj. ceremonios; fastuos; somptuos; pompos; bombastic.
+ğemiyetşí s. monarhist.
+ğemiyettentúşken adj. retrogradat.
+ğemiyettentúşúw s. retrogradare.
+ğemiyğe adv. complet; integral; totalmente; de-a binelea.
+ğemíş s. fruct. // ●ğemíş yapmak — a face fructe; a da roade; a rodi. // ●asîrlarğak at kîldawlarnîñ ğemíşlerí — roadele luptelor de secole. ●çitrik ğemíşler — citrice. ●ğemíş bakşasî — livadă. ●ğemíş ezmesí — pastă de fructe. ●ğemíş şelpegí — tartă. ●ğemíş teregí — pom. ●ğemíşler yeşíl bolsa — dacă fructele sunt verzi. ●kurî ğemíş — fructe uscate.
+ğemíşan s. 1. păducea; gherghină. 2. (bot.) păducel; gherghin (lat., Crataegus monogyna).
+ğemíşan, beşinelí- s. (bot.) păducel; ramn (lat., Crataegus oxyacantha).
+ğemíşçí s. 1. pomicultor. 2. fructar; persoană care vinde fructe.
+ğemíşçílík s. 1. pomicultură. 2. fructărie; prăvălie unde se vînd fructe.
+ğemíşlendírme s. fructificare; eficientizare.
+ğemíşlendírmek v.t. a fructifica; a eficientiza.
+ğemíşlendírúw s. fructificare; eficientizare.
+ğemíşlengen adj. fructificat; eficientizat.
+ğemíşlenmek v.i. a se fructifica; a se eficientiza.
+ğemíşlí adj. fructifer; cu fructe. // ●ğemíşlí bombon — bomboane cu fructe. ●ğemíşlí kamîr aşî — găluşcă. ●ğemíşlí şelpek — prăjitură cu fructe.
+ğemíşlík s. fructieră. // ●ayaklî ğemíşlík — fructieră cu picior.
+ğemíşsuwî s. suc; sirop.
+ğemíşsuwlî adj. suculent.
+ğemíşsuwluk s. suculență.
+ğemíşşekerí s. fructoză; levuloză.
+ğemíşyapma s. rodire.
+ğemlegen adj. (d. animale ierbivore) umflat; balonat.
+ğemleme s. (d. animale ierbivore) umflare; balonare.
+ğemlemek v.i. (d. animale ierbivore) a se umfla; a se balona.
+ğemlew s. (d. animale ierbivore) umflare; balonare.
+ğemlík s. 1. iesle; troacă. 2. (fig.) mită; şperț; ciubuc. 3. hrană pentru animale; nutreț; furaje. 4. momeală (şi fig.). // ●ğemlík aşamak — a lua mită.
+ğemlíkalgan s. şperțar; ciubucar; corupt; care ia mită.
+ğemlíkbergen adj. corupător.
+ğemlíkberúw s. mituire; corupere.
+ğemlíkşí s. (fig.) şperțar; ciubucar; corupt; care ia mită.
+ğena s. (biol.) genă.
+ğenabet adj. nespălat; spurcat.
+ğenah s. (mil.) flanc.
+ğenaze I. adj. mort; neînsuflețit; cadaveric. II. s. 1. mort; corp neînsuflețit; cadavru. 2. înmormântare; înhumare. // ●ğenaze alayî — cortegiu funerar; procesiune funerară; funeralii. ●ğenaze arabasî — catafalc. ●ğenaze paytonî — dric.
+ğenazediy adj. cadaveric.
+ğenazesíğîyîlgan adj. înmormântat.
+ğenábílerí pron. dumnealor; dânşii; dânsele. // ●ğenábílerí añlattîlar, eglendíler — dumnealor au discutat, s-au simțit bine. ●ğenábílerí geşen pazar keldíler — dumnealor au venit duminica trecută.
+ğenábílerín pron. pe dumnealor; pe dânşii; pe dânsele.
+ğenábílerínde pron. la dumnealor; la dânşii; la dânsele.
+ğenábílerínden pron. de la/dinspre dumnealor; de la/dinspre dânşii; de la/dinspre dânsele.
+ğenábíleríndiy pron. ca dumnealor; ca dânşii; ca dânsele.
+ğenábíleríne pron. spre dumnealor; spre dânşii; spre dânsele; dumnealor; dânşilor; dânselor.
+ğenábíleríñ adj. dumnealor; dânşilor; dânselor.
+ğenábíleríñkí pron. al/a dumnealor; al/a dânşilor; al/a dânselor.
+ğenábíleríñkíler pron. ai/ale dumnealor; ai/ale dânşilor; ai/ale dânselor.
+ğenábíleríñkísí pron. al/a dumnealor; al/a dânşilor; al/a dânselor.
+ğenábílerníñ adj. dumnealor; dânşilor; dânselor.
+ğenábílerníñkí pron. al/a dumnealor; al/a dânşilor; al/a dânselor.
+ğenábílerníñkíler pron. ai/ale dumnealor; ai/ale dânşilor; ai/ale dânsele.
+ğenábílerníñkísí pron. al/a dumnealor; al/a dânşilor; al/a dânselor.
+ğenábíñ pron. dumneata. // ●ğenábíñ degeníñ bolsîn — fie cum spui dumneata. ●ğenábíñ kelmiyğek edíñ de? — parcă dumneata nu trebuia să vii?; ●ğenábíñde yaluw yok — dumneata n-ai ruşine.
+ğenábíñde pron. la dumneata.
+ğenábíñden pron. de la/dinspre dumneata.
+ğenábíñdiy pron. ca dumneata.
+ğenábíñe pron. dumitale.
+ğenábíñíz pron. dumneavoastră. // ●bonî ğenábíñízge sakladîm — pe aceasta am păstrat-o pentru dumneavoastră. ●ğenábíñíz kayerlísíñíz? — dumneavoastră de unde sunteți de origine?; ●ğenábíñíz kaysî netiğelerge bardîñîz? — dumneavoastră ce rezultate ați obținut?; ●ğenábíñíz men bír túşúnğede tuwulman — nu sunt de aceeaşi părere cu dumneavoastră. ●ğenábíñíz onî tanîysîñîz mî? — dumneavoastră îl cunoaşteți?; ●ğenábíñíz tatarğanî ózíñíz úyrenesíñíz mí? — dumneavoastră învățați singur tătăreşte?;
+ğenábíñízde pron. la dumneavoastră.
+ğenábíñízden pron. de la/dinspre dumneavoastră.
+ğenábíñízdiy pron. ca dumneavoastră.
+ğenábíñízge pron. spre dumneavoastră.
+ğenábíñízní pron. pe dumneavoastră.
+ğenábíñízníñ adj. dumneavoastră.
+ğenábíñízníñkí pron. al/a dumneavoastră.
+ğenábíñízníñkíler pron. ai/ale dumneavoastră.
+ğenábíñízníñkísí pron. al/a dumneavoastră.
+ğenábíñní pron. pe dumneata.
+ğenábíñníñ adj. dumitale.
+ğenábíñníñkí pron. al/a dumitale.
+ğenábíñníñkíler pron. ai/ale dumitale.
+ğenábíñníñkísí pron. al/a dumitale.
+ğenábísí pron. dumnealui; dumneaei; dânsul; dânsa. // ●ğenábísí doktor boldî — dumnealui a devenit doctor. ●ğenábísí hemen kayttî — dumneaei s-a întors îndată. ●ğenábísí ingilizğe bîzîk konîşa — dumnealui vorbeşte prost englezeşte. ●ğenábísí ne ístese yapar — dumneaei face ce vrea. ●ğenábísí şatraş oynay — dumnealui joacă şah.
+ğenábísín pron. pe dumnealui; pe dumneaei; pe dânsul; pe dânsa. // ●bo arada ğenábísín kórmedím — în acest răstimp nu l-am văzut pe dumnealui. ●ğenábísín kórmekten tanîyman — pe dumneaei o cunosc din vedere. ●yok, ğenábísín tanîmayman — nu, pe dumnealui nu-l cunosc.
+ğenábísínde pron. la dumnealui; la dumneaei; la dânsul; la dânsa.
+ğenábísínden pron. de la/dinspre dumnealui; de la/dinspre dumneaei; de la/dinspre dânsul; de la/dinspre dânsa.
+ğenábísíndiy pron. ca dumnealui; ca dumneaei; ca dânsul; ca dânsa.
+ğenábísíne pron. spre dumnealui; spre dumneaei; spre dânsul; spre dânsa; dumnealui; dumneaei; dânsului; dânsei.
+ğenábísíñ adj. dumnealui; dumneaei; dânsului; dânsei.
+ğenábísíñkí pron. al/a dumnealui; al/a dumneaei; al/a dânsului; al/a dânsei.
+ğenábísíñkíler pron. ai/ale dumnealui; ai/ale dumneaei; ai/ale dânsului; ai/ale dânsei.
+ğenábísíñkísí pron. al/a dumnealui; al/a dumneaei; al/a dânsului; al/a dânsei.
+ğenáp s. domn. // ●ğenáp Ğemal — domnul Ğemal. ●sayîn ğenápler — stimați domni.
+ğendere s. 1. (tehn.) presă. 2. (geogr.) defileu; strâmtoare; chei.
+ğeneral s. (mil.) general.
+ğenerator s. (fiz.) generator.
+ğenetik adj. genetic.
+ğenetika s. genetică.
+ğeneza s. geneză.
+ğengáver s., adj. luptător; războinic.
+ğengáverlík s. vitejie; bravură.
+ğengel s. junglă.
+ğengellík s. hățiş.
+ğenin s. (fiziol.) făt.
+ğennem s. iad; infern.
+ğennemiy adj. infernal.
+ğennet s. rai; paradis. // ●ğennetke kaytmak — a se preface în rai; a prospera.
+ğennet-añkutî s. (orn.) călifar neo-zeelandez (lat., Tadorna variegata).
+ğennetkekaytkan adj. propăşit; prosper.
+ğennetkekaytuw s. propăşire; prosperitate.
+ğennetkuşî s. (orn.) pasărea-paradisului (lat., Paradisaea apoda).
+ğenubiy adj. sudic; de sud.
+Ğenubiy-Afrika s. (topon.) Africa de Sud.
+ğenubiy-afrikalî s., adj. sud-african.
+Ğenubiy-Amerika s. (topon.) America de Sud.
+ğenubiy-amerikalî s., adj. sud-american.
+ğenubiy-boz-itelge s. (orn.) sfrâncioc cenuşiu sudic (lat., Lanius meridionalis).
 `;
