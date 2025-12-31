@@ -958,4 +958,212 @@ ozonlî adj. cu ozon; ozonizat.
 ozonlaştîruw s. ozonizare.
 ozonlaşuw s. ozonizare.
 ozuw s. întrecere; depăşire.
+óbek s. grămadă; morman; stivă; movilă.
+óbet I. adj. (anat.) pectoral; piept. II. s. (anat.) piept; sân; mamelă.
+óbetşík s. (anat.) mamelon; sfârc.
+óbetuşî s. (anat.) mamelon; sfârc.
+óbiy s. (dim.) pupic.
+óbílgen adj. sărutat; pupat.
+óbílmek v.i. a fi sărutat; a fi pupat.
+óbíş s. sărut; sărutare; pup.
+óbíşmek v.i. a se săruta; a se pupa.
+óbúw s. sărutare; pup.
+ódef/ódew s. 1. sarcină; datorie; obligație. 2. (şcol.) temă.
+ódeflí/ódewlí adj. însărcinat; împuternicit (cu o misiune).
+ódegen s., adj. plătitor.
+ódek s. (anat.) esofag.
+ódeleğek adj. de plătit; plătibil; scadent.
+ódelgen adj. plătit; achitat. // ●ódelgen ğeñkşí — (mil.) mercenar.
+ódelmek v.i. a se plăti; a se achita.
+ódeme s. 1. plată; achitare. 2. amortizare; rambursare. 3. plată; despăgubire. // ●ódeme tartmasî — balanță de plăți. ●ódeme wakîtî — (fin.) scadență.
+ódemek v.t. 1. a plăti; a achita. 2. a plăti; a despăgubi. 3. (econ.) a amortiza. // ●kaytarîp ódemek — a rambursa. ●taksit men ódemek — a plăti în rate. ●zahmetín ódemek — a-i plăti osteneala; a-l răsplăti; a-l retribui. ●zararîn ódemek — a-i achita prejudiciul; a-l despăgubi. // ●hemen ódiyğekmen — plătesc imediat. ●kasaga ódeñíz! — plătiți la casă!; ●kímge ódemem lázîm? — cui trebuie să plătesc?; ●satuwğuga ódeñíz! — plătiți vânzătorului!; ●şúndí ódiyğek bolaman — doresc să plătesc acum.
+ódemelí adj. rambursabil.
+ódenek s. indemnizație; alocație.
+ódentí s. cotizație.
+ódetílgen adj. taxat; făcut să plătească; executat.
+ódetme s. taxare; punere la plată; executarea debitorilor.
+ódetmek v.t. a taxa; a face să plătească; a executa debitori.
+ódewğí s. platnic; plătitor.
+ódíl s. premiu; recompensă.
+ódílberúw s. premiere.
+ódíllí adj. premiat; recompensat.
+óf interj. of!; uf!;
+ófke s. 1. furie; mânie; ciudă. 2. (anat.) plămân. 3. (med.) tuberculoză; ftizie; oftică.
+ófkeğí adj. coleric.
+ófkelendírmek v.t. a înfuria; a mânia; a supăra.
+ófkelendírúwğí adj. supărător.
+ófkelenewuygan adj. supărăcios; arțâgos; irascibil.
+ófkelenewuyma s. nervozitate; arțag; irascibilitate.
+ófkelenewuyuw s. nervozitate; arțag; irascibilitate.
+ófkelengen adj. 1. înfuriat; furios; înciudat; mânios; supărat; indignat; revoltat. 2. (med.) tuberculos; ftizic; ofticos.
+ófkelenme s. furie; mânie; ciudă; supărare; indignare; revoltă.
+ófkelenmek v.i. a se înfuria; a se mânia; a se supăra.
+ófkelí adj. 1. înfuriat; furios; înciudat; mânios; supărat; indignat; revoltat. 2. (med.) tuberculos; ftizic; ofticos.
+ófkeotî s. (bot.) pulmonariță; plămânărică; cuscrişor; mierea-ursului (lat., Pulmonaria officinalis).
+ófkesíz adj. fără mânie; fără furie; fără ciudă.
+ógíne postp. dinaintea; în fața. // ●ógíne şîgîlgan — întâmpinat.
+ógínetúşúlgen adj. călăuzit.
+ógít s. sfat; povață; învățătură.
+ógítlemek v.t. a sfătui; a povățui.
+ógítlí adj. sfătuit; povățuit.
+ógítşí s. sfătuitor; povățuitor.
+ógíy adj. 1. vitreg. 2. de pripas. // ●ógíy ana — mamă vitregă. ●ógíy baba — tată vitreg. ●ógíy kardaş — frate vitreg.
+ógíylík s. vitregie.
+ógíysíregen adj. nostalgic; stingher.
+ógíysíreme s. nostalgie; dor; stinghereală.
+ógíysíremek v.i. a se simți străin; a-i fi dor; a se simți stingher.
+ógíz s. 1. bou. 2. (astr.) zodia taurului. // ●ógíz yeríne salmak — a lua pe cineva de bou. // ●ógíz arabasînday — (d. oameni) lent; foarte încet. ●ógíz yîlî — (cron.) anul boului (conform vechiului calendar tătăresc). ●ógízníñ ógízí — boul boilor.
+ógízdiy adv. ca boul; de-a-n boulea. // ●ógízdiy ókírmek — a urla ca un bou. ●ógízdiy şalîşmak — a munci ca un bou.
+ógízğe adv. ca boul; de-a-n boulea. // ●ógízğe ókírmek — a urla ca un bou.
+ógízí, ğupar- s. (zool.) bou-moscat (lat., Ovibos moschatus).
+ógízí, zebuw- s. (zool.) zebu (lat., Bos indicus).
+ógíz-kómbelegí s. (bot.) gogoaşă; răsuflătoarea-pământului (lat., Lycoperdon bovista).
+ógízkózí s. (bot.) margaretă; mărgărită; ochiul-boului (lat., Chrysanthemum leucanthemum; Tanacetum leucanthemum).
+ógízlík s. 1. grosolănie; bădărănie; impolitețe; indecență. 2. agresivitate.
+ógíz-moyînlî-aynak s. (orn.) ibis amazonian (lat., Theristicus caudatus).
+ógíz-moyînlî-ibis s. (orn.) ibis amazonian (lat., Theristicus caudatus).
+ógízşík s. (dim.) bouşor; bouț; boulean.
+ók I. postp. din față; dinaintea; din fața. II. s. partea din față; partea de dinainte; față. // ●ógín almak — a prevedea; a preîntâmpina; a avansa; a o lua înainte. ●ógín kesmek — a intercepta; a tăia calea; a tâlhări. // ●ók sîra — rândul din față. ●ók yagî — partea de dinainte.
+ókíníş s. regret; căință; remuşcare; vaiet; văicăreală.
+ókíníşlí adj. regretabil; cu regret.
+ókínme s. regret; căință; remuşcare; vaiet; văicăreală.
+ókínmek v.i. a regreta; a se căi; a avea remuşcări; a se plânge; a se văita; a se văicări.
+ókínúw s. regret; căință; remuşcare; vaiet; văicăreală.
+ókínúwğí adj. regretabil.
+ókíre-ókíre adv. cu strigăte; cu țipete. // ●ókíre-ókíre ğîlamak — a plânge în hohote.
+ókírme s. 1. zbierăt; țipăt; urlet; chiot. 2. răget.
+ókírmek v.i. 1. a zbiera; a țipa; a urla; a chiui. 2. a rage. // ●ógízğe/ógízdiy ókírmek — a urla ca un bou.
+ókírtmek v.t. 1. a determina să zbiere; a determina să țipe. 2. a determina să ragă.
+ókírtúwğí s., adj. intrigant; instigator; incitator; provocator; ațâțător.
+ókírúw s. 1. zbierăt; țipăt; urlet; chiot. 2. răget.
+ókke adv. spre înainte.
+ókse s. 1. (fig.) momeală; ademenire. 2. clei.
+ókseleme s. încleiere; ademenire.
+ókselemek v.t. a încleia; a ademeni.
+ókselengen adj. încleiat; ademenit.
+ókselenmek v.i. a se încleia; a se ademeni.
+ókselewğí adj. ademenitor.
+ókselí adj. 1. (fig.) momit; ademenit. 2. încleiat. 3. cleios.
+óksí s. tăciune; cărbune.
+óksír interj. hapciu!;
+óksírík s. (med.) tuse.
+óksírme s. (med.) strănut; tuse.
+óksírmek v.i. a strănuta; a tuşi. // ●ğútkúrúp óksíremen — strănut şi tuşesc.
+óksíz s., adj. orfan.
+óksízlík s. viață de orfan; vitregie. // ●balalîktan óksízlíkníñ aşşî daamîn tattî — din copilărie a gustat amărăciunea de a fi orfan. ●tuyum óksízlígí — (med.) anestezie.
+óksóz s. prefață; cuvânt înainte; introducere.
+ókşe s. 1. toc (la pantofi). 2. (anat.) călcâi. // ●ókşe parşasî — flec.
+ókşelí adj. cu toc (la pantofi). // ●ókşelí pantof — pantofi cu toc.
+ókşesíz adj. fără toc (la pantofi).
+ókselí-selbe s. (bot.) cinsteț; lăpuş; jale-cleioasă; salvie-cleioasă (lat., Salvia glutinosa).
+ókseotî s. (bot.) vâsc (lat., Viscum album).
+ókseotî, meşe- s. (bot.) vâsc-de-stejar; mărgăritar (lat., Loranthus Europaeus).
+ókseotî-sayragî s. (orn.) sturz de vâsc (lat., Turdus viscivorus).
+óksíríkotî s. (bot.) podbal; ropan (lat., Tussilago farfara).
+óksíz-şulluk s. (orn.) becațină solitară (lat., Gallinago solitaria).
+óktakî s. (gram.) prepoziție.
+óktakîlî adj. (gram.) prepozițional.
+ókte adv. în față; înainte. // ●ókte turganlar — notabilitate; fruntaş.
+óktegí adj. de față.
+óktekí adj. de față.
+óktem adj. semeț; trufaş; mândru; falnic.
+óktemlík s. semeție; trufie; mândrie; fălnicie.
+ókten adv. din față; anticipat.
+óleğeklí adj. muritor.
+ólgen adj. răposat; mort; muritor. // ●ólgenlerníñ yúzdesí — mortalitate. ●ópkeden ólgen — a murit de tuberculoză.
+ólgensoñ adj. după moarte; post mortem.
+ólí I. adj. mort; cadaveric; neînsuflețit; mortuar. II. s. mort; cadavru. // ●ólí tíl — limbă moartă. ●yarî tírí, yarî ólí — pe jumătate viu, pe jumătate mort.
+ólídiy adj. cadaveric.
+ólíkana s. morgă.
+ólím s. moarte; sucombare. // ●ólím dereğesí — rata mortalității. ●ólím fayizí — mortalitate. ●ólím ğezasî — (jur.) pedeapsa cu moartea. ●ólím gibí úrkútken — macabru. ●ólím sebebí — cauza morții. ●ólím tewúkesí — data decesului. ●ólímden burun — înainte de moarte. ●ólímden soñra basîlgan — postum. ●tabiy/tuwa ólím — moarte naturală.
+ólímdensoñ adj. după moarte; post mortem.
+ólímdenuyandîruw s. reînviere.
+ólímdenuyangan adj. reînviat.
+ólímdenyangan adj. reînviat.
+ólímdenyantuw s. reînviere.
+ólímğí adj. ucigător. // ●ólímğí kastalîk — boală ucigătoare.
+ólím-kalîm adj. vital; pe viață şi pe moarte. // ●ólím-kalîm talaşmasî — luptă pe viață şi pe moarte.
+ólímlí adj. muritor. // ●dúniya ólímlí — lumea e muritoare.
+ólímsíz adj. etern; nemuritor.
+ólímsízleşken adj. eternizat; imortalizat.
+ólímsízleşme s. eternizare; imortalizare.
+ólímsízleşmek v.i. a se eterniza; a se imortaliza.
+ólímsízleştírílgen adj. eternizat; imortalizat.
+ólímsízleştírílmek v.i. a se eterniza; a se imortaliza.
+ólímsízleştírmek v.t. a eterniza; a imortaliza.
+ólímsízleştírúw s. eternizare; imortalizare.
+ólímsízleştírúwlí adj. eternizat; imortalizat.
+ólímsízlík s. eternitate; nemurire.
+ólínmek v.i. a se muri.
+ólmeden adv. înainte de moarte; ante mortem.
+ólmegenşík adv. înainte de moarte; ante mortem.
+ólmek v.i. 1. a muri; a sucomba (şi fig.). 2. (d. plante) a se ofili; a se veşteji; a se trece; a muri. 3. a ieşi din uz; a nu mai fi la modă; a trece. // ●aştan ólmek — a muri de foame. ●eğelímen ólmek — a muri de moarte bună. ●kúlmekten ólmek — a se prăpădi de râs. // ●ğaşlay ólíp kettí — a murit de tânăr.
+ólmez adj. nemuritor; nepieritor. // ●ólmez ğîr — cântec nemuritor.
+ólmezlík s. nemurire. // ●ólmezlík suwî — elixir.
+ólmezşeşek s. (bot.) siminoc; imortelă (lat., Helichrysum arenarium).
+ólmezşeşek, sarî- s. (bot.) imortelă-galbenă (lat., Helichrysum orientale).
+ólmez-tegenek s. (bot.) ghimpe-pădureț (lat., Ruscus aculeatus).
+ólmiykalîr adj. nemuritor; nepieritor.
+ólmiykalma s. nemurire.
+ólmiykaluw s. nemurire.
+ólşe s. măsură; mărime. // ●ólşesín almak — a-i lua măsura; a-l măsura. // ●uzunluk ólşesí — măsură de lungime.
+ólşealuw s. măsurare.
+ólşek s. 1. baniță; dublă (la grâu etc.). 2. (mat., geogr.) scară. 3. măsură; mărime.
+ólşelealmaz adj. incalculabil.
+ólşelgen adj. 1. măsurat. 2. măsurabil.
+ólşelme s. măsurare.
+ólşelmek v.i. a fi măsurat; a se măsura.
+ólşelmez adj. nemăsurabil; incomensurabil.
+ólşelmiykalîr adj. incalculabil; incomensurabil; nemăsurabil.
+ólşeme s. 1. măsurare; dimensionare; etalonare. 2. (fig.) cântărire; estimare. 3. (fig.) moderare; cumpătare; ponderare; temperare; înfrânare. // ●alan ólşemesí — măsurarea suprafeței. ●ólşeme şerítí — ruletă.
+ólşemek v.t. 1. a măsura; a dimensiona; a etalona. 2. (fig.) a cântări; a estima. 3. (fig.) a modera; a cumpăta; a pondera; a tempera; a înfrâna. // ●ólşep píşmek — a măsura înainte de a croi; a măsura şi a croi; a cumpăni. // ●ólşep píşmegen — nesăbuit.
+ólşep-píşílgen adj. măsurat; cumpănit; chibzuit.
+ólşep-píşúw s. măsurare; cumpănire; chibzuire.
+ólşetmek v.t. 1. a face să măsoare; a face să dimensioneze; a determina să etaloneze. 2. (fig.) a face să cântărească; a determina să estimeze. 3. (fig.) a face să modereze; a determina să fie cumpătat; a face să pondereze; a determina să tempereze; a face să înfrâneze.
+ólşew s. 1. măsurare; mărime; dimensiune; etalon. 2. cumpătare; moderație. 3. (în producție) normă. // ●ólşewun aşmak — a întrece măsura. // ●bír ólşewgeşík — într-o oarecare măsură. ●ne ólşewde? — în ce măsură?; ●ólşew bírímí — unitate de măsură. ●ólşewden ziyade — peste măsură. ●sert ólşewler — măsuri severe.
+ólşewgekelgen adj. măsurabil.
+ólşewgekelmez adj. nemăsurabil.
+ólşewleme s. măsurare; dimensionare; etalonare.
+ólşewlemek v.t. a măsura; a dimensiona; a etalona.
+ólşewlí adj. 1. măsurat; etalonat; dimensionat. 2. )fig., d. oameni) moderat; cumpătat; ponderat; temperat; înfrânat.
+ólşewlúk s. moderație; cumpătare; ponderare; temperare; înfrânare.
+ólşewsúz adj. fără măsură; nechibzuit; nesocotit; necugetat; necumpătat; nesăbuit.
+ólşewsúzlúk s. lipsă de măsură; nesocotință; nechibzuință; necugetare; necumpătare; nesăbuință.
+ólşí s. măsură; etalon; dimensiune (şi mat.).
+ólşím s. 1. măsurătoare; măsurare. 2. calcul final; rezultat.
+ólşímleme s. judecare; socotire; calculare.
+ólşímlemek v.t. 1. a judeca; a socoti; a calcula. 2. a estima; a aprecia.
+ólúw s. moarte; sucombare.
+ólúwğí adj. muritor.
+Ómer s. (antrop. m., arab.) “Viață”; “Existență”.
+ómíldírík s. armură; platoşă; zale; cuirasă; pieptar.
+ómíldíríklí adj. împlătoşat; înzăuat; cuirasat; blindat.
+ómír s. viață; existență. // ●ómír súrmek — a-şi duce traiul; a-şi petrece viața; a trăi. ●ómírín geşírmek — a-şi duce traiul; a-şi petrece viața; a trăi. ●yaman ómír súrmek — a nu-i fi casa casă şi masa masă. // ●Alla(h) uzun ómír bersín! — să vă dea Domnul viață îndelungată!; ●ómír uzunlugî — longevitate. ●ómírí bolgan kadar — atât cât are de trăit; toată viața. ●ómírín kalk úşún berdí — şi-a dat viața pentru popor. ●ómírníñ kúzí — toamna vieții. ●ótken ómír — antecedent. ●tabiy ómír — viață normală. ●uzun ómír yaşama — longevitate. ●uzun ómírler! — la mulți ani!; viață îndelungată!; ●uzun ómírler! — viață îndelungată!; la mulți ani!;
+ómírbílímğísí s. biolog.
+ómírbílímí I. adj. biologic. II. s. biologie.
+ómírbílímlí adj. biologic.
+ómírğe adv. toată viața; pe viață.
+ómírğolî I. adj. biografic. II. s. biografie; curriculum vitae.
+ómírğollî adj. biografic.
+ómírínde adv. în viața lui. // ●ómírínde eşítmek — a auzi în viața lui; a pomeni. ●ómírínde kórmek — a vedea în viața lui; a pomeni.
+ómíríndeeşítílmegen adj. nemaipomenit; extraordinar; nemaivăzut; nemaiauzit; nemaiîntâlnit.
+ómíríndekórílmegen adj. nemaipomenit; extraordinar; nemaivăzut; nemaiauzit; nemaiîntâlnit.
+ómírkimiya s. biochimie.
+ómírkimiyağî s. biochimist.
+ómírkúre s. biosferă.
+ómírlík s. nemurire.
+ómírsíz adj. cu viață scurtă; instabil.
+ómírsízlík s. instabilitate.
+ómírsîzgalî adj. biografic.
+ómírsîzgasî I. adj. biografic. II. s. biografie.
+ómírtamîrî s. (bot.) ginseng; rădăcina-vieții (lat., Panax ginseg).
+ónder I. adj. înalt; grandios; măreț; magnific; suprem. II. s. 1. lider; conducător. 2. (geogr.) munte; înălțime.
+ónderlík s. 1. (geogr.) înălțime; munte. 2. grandoare; măreție; supremație.
+ónem s. importanță; însemnătate; atenție. // ●ónem bermek — a acorda importanță. ●ónem kazanmak — a căpăta importanță. // ●ónemí yok — n-are importanță.
+ónemlí adj. important; însemnat. // ●bek ónemlí — foarte important.
+ónemsíz adj. neimportant; lipsit de importanță; lipsit de însemnătate.
+ónerge s. moțiune; memorandum.
+ónerílgen adj. propus; oferit; recomandat.
+ónerme s. 1. propunere; ofertă; recomandare. 2. (gram.) propoziție. 3. (fil.) teoremă.
+ónermek v.t. a propune; a oferi; a recomanda.
 `;
