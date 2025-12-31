@@ -1577,4 +1577,105 @@ gyúm s. ghium; bidon. // ●teneke gyúmí — canistră.
 ğekken s. propulsor.
 ğekmek v.t. 1. a trage. 2. (gram.) a declina; a conjuga. 3. a înhăma la căruță; a înjuga la căruță. 4. a conduce un vehicul. // ●tapan ğekmek — a grăpa.
 ğektírmek v.t. 1. a determina să tragă. 2. (gram.) a determina să decline; a determina să conjuge. 3. a determina să înhame; a determina să înjuge. 4. a determina să conducă un vehicul.
+ğel s. 1. vânt. 2. (med.) reumatism. 3. (fiziol.) vânturi. // ●ğel almak — a-şi face vânt; a-şi lua avânt; a porni cu viteză. ●ğel esmek — a bate vântul; a adia. ●ğel kaşîrmak — a da vânturi. // ●bayrak ğelden ğellene/sallana — steagul se leagănă din cauza vântului. ●ğel ese — suflă vântul. ●ğel eseğek — va bate vântul. ●ğel hîzî — viteza vântului. ●ğel kastalîgî — (med.) reumatism. ●ğel terekní ğelliy/sallay — vântul leagănă copacul. ●ğel tírmení — moară de vânt. ●keskín ğel — vânt aspru. ●kuwatlî ğel — vânt puternic.
+ğelal s. măreție; grandoare; glorie.
+Ğelal s. (antrop. m., arab.) "Cel măreț".
+Ğelaleddin/Ğelalettin s. (antrop. m., arab.) “Măreția credinței”.
+ğelatina s. gelatină.
+ğelbege s. (orn.) pitulice mică; sălcăriță (lat., Phylloscopus collybita).
+ğelbege, esmer- s. (orn.) pitulice întunecată (lat., Phylloscopus fuscatus).
+ğelbege, ğuka- s. (orn.) pitulice grațioasă (lat., Prinia gracilis).
+ğelbege, kíşkene- s. (orn.) pitulice cu sprâncene galbene (lat., Phylloscopus inornatus).
+ğelbege, kíşkene-yeşíl- s. (orn.) pitulice verzuie (lat., Phylloscopus trochiloides).
+ğelbege, koğa-başlî- s. (orn.) pitulice măslinie (lat., Phylloscopus schwarzi).
+ğelbege, tajlî- s. (orn.) pitulice cu coroană (lat., Phylloscopus coronatus).
+ğelbege, yeşíl- s. (orn.) pitulice verde (lat., Phylloscopus nitidus).
+ğelbegesí, Brook'nîñ-yaprak- s. (orn.) pitulice Brook (lat., Phylloscopus subviridis).
+ğelbegesí, Hume'níñ- s. (orn.) pitulicea lui Hume (lat., Phylloscopus humei).
+ğelbegesí, Iberiye- s. (orn.) pitulice iberiană (lat., Phylloscopus ibericus).
+ğelbegesí, Kawkaz- s. (orn.) pitulice caucaziană (lat., Phylloscopus sindianus lorenzii).
+ğelbegesí, kúntuwar- s. (orn.) pitulice balcanică (lat., Phylloscopus orientalis).
+ğelbegesí, orman- s. (orn.) pitulice sfârâitoare (lat., Phylloscopus sibilatrix).
+ğelbegesí, Pallas'nîñ- s. (orn.) pitulice sprâncenată (lat., Phylloscopus proregulus).
+ğelbegesí, Radde'níñ- s. (orn.) pitulice măslinie (lat., Phylloscopus schwarzi).
+ğelbegesí, sewet- s. (orn.) pitulice fluierătoare (lat., Phylloscopus trochilus).
+ğelbegesí, tarla-yaprak- s. (orn.) pitulice de câmpie (lat., Phylloscopus neglectus).
+ğelbegesí, yaprak- s. (orn.) pitulicea lui Hume (lat., Phylloscopus humei).
+ğelbetílgen adj. captivat; fascinat.
+ğelbetílmek v.i. a fi captivat; a fi fascinat.
+ğelbetken adj. captivant; fascinant.
+ğelbetmek v.t. a captiva; a fascina.
+ğelbetúw s. captivare; fascinare.
+ğelbetúwğí adj. captivant; fascinant.
+ğelbílímğísí s. (med.) reumatolog.
+ğelbílímí s. (med.) reumatologie.
+ğele s. funie de priponit; pripon.
+ğeleleme s. priponire.
+ğelelemek v.t. a priponi.
+ğelelengen adj. priponit.
+ğelelew s. priponire.
+ğelelí adj. priponit.
+ğelen s. 1. limită. 2. graniță; frontieră. // ●ğelen tîşî etmek — a expulza; a exila. // ●dewlet ğelení — frontieră de stat. ●ğelen baylam figelí — (gram.) gerunziu limitativ. ●ğelen elametí — bornă de hotar. ●ğelen teğawuzî — forțarea frontierei.
+ğelendeş adj. limitrof; vecin. // ●ğelendeş ulkalar — țările limitrofe.
+ğelendeşlík s. vecinătate.
+ğelenleme s. delimitare; mărginire; limitare.
+ğelenlemek v.t. 1. a determina; a stabili. 2. a limita; a delimita; a demarca.
+ğelenlengen adj. 1. limitat; delimitat; demarcat. 2. determinat; stabilit.
+ğelenlenmek v.i. a se limita.
+ğelenlertîşî adj. extrateritorial.
+ğelenleşmek v.i. a se mărgini.
+ğelenlew s. delimitare; mărginire; limitare.
+ğelenlewğí adj. limitator; limitativ. // ●ğelenlewğí edat — (lingv.) particulă limitativă.
+ğelenlí adj. 1. limitat; delimitat; demarcat. 2. determinat; stabilit. // ●ğelenlí sayîda — în număr limitat. ●ğelenlí súrelí — pentru un timp.
+ğelensíz adj. 1. nedeterminat; nestabilit. 2. nelimitat; nedelimitat.
+ğelenşúnas adj. modest.
+ğelenşúnaslîk s. modestie.
+ğelentaşî s. bornă de hotar.
+ğelep s. negustor de vite.
+ğeleşe, ak-kerdanlî- s. (orn.) silvie de câmp (lat., Sylvia communis).
+ğeleşe, boz- s. (orn.) silvie de zăvoi (lat., Sylvia borin).
+ğeleşe, kara-başlî- s. (orn.) silvie cu cap negru; pitulice cu cap negru; purceluşă neagră (lat., Sylvia atricapilla).
+ğeleşe, kara-moyînlî- s. (orn.) silvie cu gât negru (lat., Sylvia rueppelli).
+ğeleşe, kíşkene- s. (orn.) silvie mică (lat., Sylvia curruca).
+ğeleşe, kíşkene-kara-başlî- s. (orn.) silvie mediteraneană (lat., Sylvia melanocephala).
+ğeleşe, kózíldíríklí- s. (orn.) silvie cu ochelari (lat., Sylvia conspicillata).
+ğeleşe, mîyîklî- s. (orn.) silvie roşcată (lat., Sylvia cantillans).
+ğeleşe, pembe-karînlî- s. (orn.) silvie caucaziană (lat., Sylvia mystacea).
+ğeleşe, sîzîklî- s. (orn.) silvie porumbacă (lat., Sylvia nisoria).
+ğeleşesí, Arap- s. (orn.) silvie arabă; silvie de Marea Roşie (lat., Sylvia leucomelaena).
+ğeleşesí, Atlas- s. (orn.) silvie de Atlas (lat., Sylvia deserticola).
+ğeleşesí, bakşa- s. (orn.) silvie de grădină (lat., Sylvia hortensis).
+ğeleşesí, Dartford'nîñ- s. (orn.) silvie de tufiş (lat., Sylvia undata).
+ğeleşesí, Kîbrîs- s. (orn.) silvie de Cipru (lat., Sylvia melanothorax).
+ğeleşesí, koraylîk- s. (orn.) silvie de tufiş (lat., Sylvia undata).
+ğeleşesí, kúntuwar-bakşa- s. (orn.) silvie estică de grădină (lat., Sylvia crassirostris).
+ğeleşesí, Menetries'níñ- s. (orn.) silvie caucaziană (lat., Sylvia mystacea).
+ğeleşesí, Rúppell'níñ- s. (orn.) silvie cu gât negru (lat., Sylvia rueppelli).
+ğeleşesí, Sardiniye- s. (orn.) silvie sardă (lat., Sylvia sarda).
+ğeleşesí, şól- s. (orn.) silvie de deşert (lat., Sylvia nana).
+ğeleşesí, Yemen- s. (orn.) silvie de Yemen (lat., Parisoma buryi; Sylvia buryi).
+ğelil adj. 1. maiestuos; măreț; impunător. 2. sublim; desăvârşit.
+Ğelil, El- s. (relig., arab.) "Cel sublim" (unul din cele 99 preafrumoase nume atribuite în Coran lui Dumnezeu/Allah).
+Ğelile s. (antrop. f., arab.) “Cea sublimă”.
+ğelím s. clei; lipici.
+ğelímleme s. lipire; încleiere.
+ğelímlemek v.t. a lipi; a încleia.
+ğelímlengen adj. lipit; încleiat.
+ğelímlenmek v.i. a se lipi; a se încleia.
+ğelímlew s. lipire; încleiere.
+ğelímlí adj. 1. lipit; încleiat. 2. lipicios; cleios.
+ğelín s. uger.
+ğelínotî s. (bot.) răsfug; mestecă (lat., Chondrilla juncea).
+ğelínpíşmesí s. (vet.) răsfug; agalactie contagioasă.
+ğelke s. 1. (anat.) ceafă. 2. (anat.) umăr.
+ğelkeñ s. 1. velă; pânză (de corabie). 2. coviltir. // ●ğelkeñ aşmak — (nav.) a ridica pânzele. // ●ğelkeñ bezí — (nav.) foaie de catarg. ●ğelkeñ gemísí — (nav.) corabie cu pânze. ●ğelkeñ ozîşî — (sport) regata de vele.
+ğelkeñğí s. (nav.) cârmaci; timonier; corăbier.
+ğelkeñlí s. 1. corabie. 2. căruță cu coviltir.
+ğelkuwgan s. 1. secundar (la ceas). 2. (tehn.) giruetă. // ●fosforlî ğelkuwganlar — ace fosforescente (la ceas).
+ğelkuwgan, ak-yúzlí- s. (orn.) ielcovan cu față albă; furtunar cu față albă; pasărea-furtunii cu față albă (lat., Calonectris leucomelas).
+ğelkuwgan, balaban- s. (orn.) ielcovan mare; furtunar mare; pasărea-furtunii mare (lat., Puffinus gravis).
+ğelkuwgan, boz- s. (orn.) ielcovan mediteranean; furtunar mediteranean; pasărea-furtunii mediteraneană (lat., Calonectris diomedea).
+ğelkuwgan, kama-kuyruklî- s. (orn.) ielcovan cu coadă-pumnal; furtunar cu coadă-pumnal; pasărea-furtunii cu coadă-pumnal (lat., Puffinus pacificus).
+ğelkuwgan, kara-tumşuklî- s. (orn.) furtunar; pasărea-furtunii (lat., Puffinus puffinus).
+ğelkuwgan, kíşkene- s. (orn.) ielcovan mic; furtunar mic; pasărea-furtunii mică ( lat., Puffinus assimilis).
 `;
