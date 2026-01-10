@@ -33,8 +33,8 @@ parsşa adv. în limba persană.
 partiy s. petrecere; party.
 pisiy s. pisică.
 piynír s. (gastron.) brânză.
-roman s., adj. romi.
-romanğa I. adv. romani. II. s. 
+rom/roman s., adj. romi.
+romğa/romanğa I. adv. romani. II. s. 
 (limba) romani.
 romaniy s., adj. romi, romani.
 santur s. (muz.) ţambal.
