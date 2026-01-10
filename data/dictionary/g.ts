@@ -2364,4 +2364,115 @@ gyúm s. ghium; bidon. // ●teneke gyúmí — canistră.
 ğinekoloğik adj. ginecologic.
 ğinekoloğiya I. adj. ginecologic. II. s. ginecologie.
 ğinekoloğiyağî s. ginecolog.
+ğinekoloğiyalî adj. ginecologic.
+ğinkóz adj. vigilent.
+ğinkózlík adj. vigilență.
+ğinnet s. pierderea facultăților mintale. // ●ğinnet geşírmek — a-şi pierde facultățile mintale; a-şi pierde mințile.
+ğinnetlí adj. năuc; bezmetic; zăpăcit; buimac.
+ğinsenk s. (bot.) ginseng; rădăcina-vieții (lat., Panax ginseg).
+ğirafa s. (zool.) girafă (lat., Giraffa camelopardalis).
+ğirant s. (com.) girant.
+ğirúke s. (anat.) inimă; cord.
+ğismaniy adj. 1. fizic; corporal; material; trupesc. 2. laic. // ●ğismaniy alîştîrma — (sport) exercițiu fizic.
+ğismaniybílím s. fiziologie.
+ğismaniybílímğí s. fiziolog.
+ğismaniybílímlí adj. fiziologic.
+ğismaniyet s. fizică.
+ğismaniyetşí s. fizician.
+ğismaniytedaviy s. (med.) fizioterapie.
+ğiwan s. adolescent.
+ğiwanlîk s. adolescență.
+ğiwanmert adj. generos; mărinimos.
+ğiwanmertlík s. generozitate; mărinimie.
+ğiwanperşemí s. (bot.) coada-şoricelului (lat., Achillea millefolium).
+ğiwar s. împrejmuire.
+ğiyen s. nepot; nepoată (de unchi, mătuşă).
+ğiyez s. dotă; zestre. // ●kelín ğiyezí — trusou.
+ğiyezleme s. înzestrare.
+ğiyezlemek v.t. a da drept zestre; a înzestra.
+ğiyezlengen adj. înzestrat.
+ğiyezlenmek v.i. a se da drept zestre; a se înzestra.
+ğiyezlew s. înzestrare.
+ğiyezlí adj. înzestrat.
+ğiylan s. (zool.) căprioară; cerboaică; ciută (lat., Capreolus capreolus).
+ğiyren adj. (d. cai) roşcat; roib.
+ğíbergen s. expeditor. // ●ğíbergenníñ adresasî — numele expeditorului.
+ğíberílgen adj. 1. expediat; trimis. 2. eliberat. 3. pus în funcțiune; deschis; început; pornit; inaugurat.
+ğíberílmek v.i. 1. a se trimite; a se expedia. 2. a fi eliberat; a i se da drumul. 3. a fi pus în funcțiune; a se deschide; a se începe; a se porni; a se inaugura.
+ğíbermek A. v.m. (precedat de ger. univsl. în -îp/-íp/-up/-úp) a izbucni în…; a se declanşa brusc; a se isca brusc; a se dezlănțui; a se stârni brusc; a începe deodată să…; B. v.t. 1. a trimite; a expedia. 2. a elibera din strânsoare; a elibera din detenție; a da drumul. 3. a pune în funcțiune; a deschide; a începe; a porni; a inaugura. // ●kaber ğíbermek — a da de veste; a informa; a înştiința. ●kaytarîp ğíbermek — a trimite înapoi; a returna. ●kúlúp ğíbermek — a pufni în râs. ●súrgúnge ğíbermek — a trimite în surghiun; a deporta; a exila. // ●kúlúp ğíberdí — a izbucnit în râs. ●uzaktan-uzak selam ğíbere — transmite salutări din depărtări.
+ğíberúw s. 1. expediere; trimitere. 2. eliberare. 3. punere în funcțiune; deschidere; începere; pornire; inaugurare.
+ğíbígen adj. umezit; umed; îmbibat cu apă; igrasios.
+ğíbíme s. 1. umezire; îmbibare cu apă. 2. umezeală; umiditate. 3. igrasie.
+ğíbímek v.i. a se umezi; a se îmbiba cu apă.
+ğíbítme s. înmuiere; umezire; udare.
+ğíbítmek v.t. a umezi; a îmbiba cu apă.
+ğíbítúw s. înmuiere; umezire; udare.
+ğíger I. adj. (med.) hepatic. II. s. (anat.) ficat.
+ğígít I. adj. 1. îndrăzneț; curajos; viteaz; brav. 2. loial; cinstit; sincer. II. s. flăcău; voinic.
+ğígítlík s. 1. îndrăzneală; curaj; vitejie; bravură. 2. loialitate; cinste; sinceritate.
+ğígítlíkhaleketí s. aventură; acțiune îndrăzneață.
+ğígítlíkhaleketlí adj. aventuros.
+ğígítlíkhaleketşí s. aventurier; persoană îndrăzneață.
+ğígítşe adv. voiniceşte.
+ğíğílík s. (bot.) cătină-albă (lat., Hippophae rhamnoides).
+ğílbíz I. adj. (mat.) spiralat; elicoidal. II. s. 1. (zool.) melc (lat., Helicidae sp.). 2. (arhit.) volută. 3. (mat.) arc spiral; arc elicoidal; spirală; elicoidă.
+ğílbíz, kabîksîz- s. (zool.) melc-fără-casă; limax (lat., Limax sp.).
+ğílbízí, limaks- s. (zool.) melc-fără-casă; limax (lat., Limax sp.).
+ğílbíz-kerení s. (orn.) uliu de melci (lat., Rostrhamus sociabilis).
+ğílbíz-şaylagî s. (orn.) uliu de melci (lat., Rostrhamus sociabilis).
+ğílík s. (anat.) măduvă. // ●ğílígíne íşlemek — a-i pătrunde până în măduva oaselor. ●ğílígíne kadar suwlanmak — a se uda până la oase. ●suwuk ğílígíne túşmek — a-i intra frigul în oase. // ●arka/bel ğílígí — (anat.) măduva spinării. ●ğílígíne kadar — până în măduva oaselor.
+ğílíklí adj. cu măduvă. // ●ğílíklí súyek — os cu măduvă.
+ğímrí adj. zgârcit; avar; zgârie-brânză.
+ğímrílík s. zgârcenie; avariție.
+ğínapet adj. nespălat; spurcat.
+ğínís s. 1. gen; soi; fel; categorie. 2. (biol.) rasă; specie. 3. sex. 4. genealogie. 5. (gram.) gen. // ●ğínís atî — cal de rasă. ●ğínís karîştîrmasî — hibridare. ●ğínísí karîşîk — metis. ●tarafsîz/deñgelí ğínís — (gram.) genul neutru.
+ğínísbílímí s. genealogie.
+ğínísbílímlí adj. genealogic.
+ğínísiy adj. sexual; genital. // ●ğínísiy ğetíşme — pubertate. ●ğínísiy takatsîzlîk/zayîflîk — (med.) impotență. ●ğínísiy tanîşma — (med.) relație sexuală. ●ğínísiy yaktan takatsîz/zayîf — (med.) impotent. ●tuwgan arasînda ğínísiy tanîşma — incest.
+ğínískarîşmasî s. hibridizare; încrucişare; corcire.
+ğíníslí adj. sexuat; cu sex.
+ğíníslík I. adj. genealogic. II. s. sexualitate.
+ğíníssíz adj. 1. asexuat; fără sex. 2. (gram.) neutru.
+ğíníssízlík s. (gram.) genul neutru.
+ğíp s. ață; sfoară. // ●ğípke tartmak — a ridica în ştreang; a spânzura. ●ğípke un ğakmak — a se scuza în fel şi chip; a motiva în fel şi chip. ●kîrk kapînîñ ğíbín şalmak — a bate pe la toate uşile. ●pamîknî ğípke baylamak — a face ceva de mântuială. // ●bír tomalak ğíp — un ghem de ață. ●ğíp parşasî — scamă. ●ğíp uşî — urmă; indiciu. ●sarî ğíp — ață galbenă.
+ğípbúgúw s. (text.) filare; depănare.
+ğípketartîlgan adj. atârnat în ştreang spânzurat; strangulat.
+ğípketartuw s. atârnare în ştreang; spânzurare; strangulare.
+ğíp-kurtî s. (ent.) trichină.
+ğíplíkkana s. filatură.
+ğír s. (text.) creton.
+ğírím s. dimensiune; volum.
+ğírímlí adj. dimensional.
+ğírít s. suliță; lance (şi sport). // ●ğírít atmak — (sport) a arunca cu sulița.
+ğírítşí s. lăncier; sulițaş.
+ğísím s. corp; materie. // ●billúr ğísímí — (anat.) cristalin. ●kattî ğísím — (fiz.) corp solid. ●wak ğísím — corpuscul.
+ğísímlendírme s. materializare; personificare; întruchipare.
+ğísímlendírmek v.t. a materializa; a întruchipa; a personifica.
+ğísímlendírúw s. materializare; personificare; întruchipare.
+ğísímlengen adj. întruchipat; întrupat; materializat.
+ğísímlenme s. materializare; întruchipare; întrupare; personificare.
+ğísímlenmek v.i. a se materializa; a se întruchipa; a se transpune.
+ğísímlenúw s. materializare; întruchipare; întrupare; personificare.
+ğísímşík s. (fiz.) corpuscul; particulă. // ●beta ğísímşík — (fiz.) particulă beta.
+ğíyíz interj. guiț!;
+ğíyízdeme s. guițat.
+ğíyízdemek v.i. a guița.
+ğíyízdew s. guițat.
+ğíyízdí s. guițat.
+ğîbîrdama s. foit; neastâmpăr; forfotă; fâțâială; mişcare.
+ğîbîrdamak v.i. a se foi; a forfoti; a se fâțâi; a se mişca. // ●kurtî bolganday ğîbîrdamak — a avea viermi neadormiți; a-l apuca strechea.
+ğîbîrdaşma s. colcăială; forfotă; viermuire.
+ğîbîrdaşmak v.i. a colcăi; a forfoti; a mişuna; a viermui.
+ğîbîrdaşuw s. colcăială; forfotă; viermuire.
+ğîbîrdaw s. foit; neastâmpăr; forfotă; fâțâială; mişcare.
+ğîbîrdawuk adj. neastâmpărat; zburdalnic; ştrengar.
+ğîbîrdawukluk s. neastâmpăr; zburdălnicie; ştrengărie.
+ğîbîr-ğîbîr I. interj. fâş-fâş!; II. s. foit; neastâmpăr; forfotă; fâțâială; mişcare. // ●ğîbîr-ğîbîr etmek — a nu avea stare; a se foi; a se fâțâi.
+ğîbîrtî s. foit; neastâmpăr; forfotă; fâțâială; mişcare.
+ğîgîk adj. dărâmat; prăbuşit; distrus.
+ğîgîlayazgan adj. poticnit; împiedicat.
+ğîgîlayazma s. poticnire; împiedicare.
+ğîgîlayazmak v.i. a fi pe punctul de a cădea; a se împiedica.
+ğîgîlayazuw s. poticnire; împiedicare.
+ğîgîlgan adj. căzut; ruinat; prăvălit; prăbuşit.
 `;
