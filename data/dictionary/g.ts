@@ -2243,4 +2243,125 @@ gyúm s. ghium; bidon. // ●teneke gyúmí — canistră.
 ğetkízmek v.t. a transmite.
 ğetme s. suficiență.
 ğetmegen adj. insuficient; neîndestulător.
+ğetmek A. v.i. a ajunge; a fi suficient. B. v.t. 1. a mâna; a îmboldi (animale, vite). 2. a remorca. // ●akîlî ğetmek — a-l duce capul; a fi în toate mințile; a înțelege; a pricepe; a-şi da seama. ●aşîktîruwğî ğetmek — a deveni grabnic; a deveni urgent. ●kolîndan ğetíp aketmek — a duce de mână pe cineva. ●kulagîna ğetmek — a-i ajunge cuiva la ureche. ●kúşí ğetmek — a putea; a fi capabil. ●kuwatî ğetmek — a sta în puterea cuiva.
+ğetmeme s. insuficiență; lipsă.
+ğetmemek v.i. a fi insuficient; a nu fi destul; a lipsi.
+ğetten-ğetke adv. din moşi strămoşi; get-beget.
+ğetúw s. suficiență.
+ğetvel s. 1. listă; tabel. 2. riglă; linie. 3. canal; viaduct. // ●hesap ğetvelí — (mat.) riglă de calcul. ●kerrat ğetvelí — (mat.) tabla înmulțirii. ●pwan ğetvelí — punctaj. ●suwal ğetvelí — chestionar. ●yañgîş ğetvelí — erată.
+ğevdet s. puritate.
+ğevval adj. energic; vioi; ager.
+ğevvallîk s. agerime; agilitate; iuțeală.
+Ğevvat/Ğewat s. (antrop. m., arab.) "Cel darnic"; "Cel generos" (unul din cele 400 de nume atribuite în Coran Profetului Muhammed Aliyselam).
+ğewahir s. pietre prețioase.
+ğewahirğí s. bijutier; giuvaergiu.
+ğewap s. răspuns; replică. // ●ğewap almak — a primi răspuns. ●ğewap bermek — a da răspuns; a răspunde. // ●bolîmlî ğewap — răspuns afirmativ. ●bolîmsîz ğewap — răspuns negativ. ●ela ğewap — răspuns perfect. ●katiy ğewap — răspuns categoric.
+ğewaplandîrmak v.t. a da un răspuns; a răspunde.
+ğewaplaşkan adj. a corespondent.
+ğewaplaşma s. corespondență.
+ğewaplaşmak v.i. a coresponda.
+ğewapsîz adj. fără răspuns.
+ğewat adj. generos; mărinimos; darnic.
+ğewatlîk s. generozitate; mărinimie; dărnicie.
+ğewez s. nucă. // ●ğewez kadar — cât o nucă. ●ğewez mayî — ulei de nucă.
+ğewez, múslí- s. nucşoară; nucă-tămâioasă.
+ğewezğargan s. spărgător de nuci.
+ğewezí, bewa- s. nucşoară; nucă-tămâioasă.
+ğewezí, ğer- s. (bot.) antonică (lat., Chaerophyllum aromaticum).
+ğewezí, hindístan- s. (bot.) cocotier (lat., Cocos nucifera).
+ğewezí, kola- s. (bot.) cola (lat., Cola nitida; Cola Acuminata).
+ğewezí, malakka- s. (bot.) anacardier (lat., Anacardium orientale).
+ğewez-îşanî s. (zool.) pârş; alunar (lat., Muscardinus avellanarius).
+ğewezkuşî s. (orn.) alunar; gaiță de munte (lat., Nucifraga caryocatactes).
+ğewezlí adj. cu nuci. // ●ğewezlí lokîm — rahat cu nuci.
+ğewezteregí s. (bot.) nuc (lat., Juglans regia).
+ğewher s. 1. esență; substanță. 2. minereu. 3. piatră prețioasă.
+ğewherğí s. giuvaergiu.
+ğez I. adj. de aramă; de cupru. II. s. 1. (mil.) coif. 2. cupru; aramă. // ●ğez kalpak — (mil.) coif.
+ğeza s. pedeapsă; sancțiune. // ●ğeza bermek — a pedepsi; a sancționa. ●ğeza kórmek — a primi o pedeapsă; a suporta o condamnare. ●ğezasîn kaytarmak — (jur.) a comuta pedeapsa cuiva. ●ğezasîn tartmak — a-şi ispăşi pedeapsa. // ●awur ğeza — (jur.) muncă silnică. ●eskí ğezalar — antecedente penale. ●eweliyat ğezalarî — antecedente penale. ●ğeza atîşî — (sport) lovitură de pedeapsă. ●ğeza dawasî — (jur.) proces penal. ●ğeza hukugî — (jur.) drept penal. ●ğeza kanunî — (jur.) cod penal. ●ğeza muhakkeme usulî — (jur.) procedură penală. ●ğeza sahasî — (sport) careul de pedeapsă. ●ğeza takibatî — (jur.) urmărire penală. ●idam ğezasî — (jur.) pedeapsă capitală. ●kelmegenler úşún ğeza — pedeapsă pentru cei care nu au venit. ●kewde/kótek ğezasî — pedeapsă corporală. ●kúrek ğezasî — (jur.) muncă silnică. ●kúrek ğezasî algan — ocnaş. ●naktiy ğeza — amendă. ●ólím ğezasî — (jur.) pedeapsa cu moartea. ●para ğezasî — amendă.
+ğezaalgan adj. condamnat; osândit; pedepsit; sancționat.
+ğezaberúw s. condamnare; osândă; pedeapsă; sancționare.
+ğezalandîrîlgan adj. pedepsit; sancționat; penalizat.
+ğezalandîrîlmagan adj. nepedepsit; nesancționat; nepenalizat.
+ğezalandîrîlmak v.i. a se pedepsi; a se sancționa; a se penaliza.
+ğezalandîrma s. pedepsire; sancționare; penalizare.
+ğezalandîrmak v.t. a pedepsi; a sancționa; a penaliza.
+ğezalandîruw s. pedepsire; sancționare; penalizare.
+ğezalangan adj. pedepsit; penalizat; sancționat.
+ğezalanmaykalgan adj. nepedepsit; nesancționat.
+ğezalî adj. pedepsit; sancționat; penalizat.
+ğezasîz adj. nepedepsit; nesancționat; nepenalizat.
+ğezaúyí s. închisoare.
+Ğezayir s. (topon.) Algeria.
+Ğezayir-kúrteşígí s. (orn.) țiclean algerian (lat., Sitta ledanti).
+ğezayirlí s., adj. algerian.
+Ğezayir-menewşesí s. (bot.) saschiu; iederă; brebenoc (lat., Vinca herbacea).
+ğezayiy adj. penal; disciplinar.
+ğezbe s. ibric.
+ğezde s. cumnat (soțul surorii mai mici).
+ğezden adj. de aramă; de cupru.
+ğezdiy adj. arămiu.
+ğezğí s. arămar; cazangiu.
+ğezir s. 1. (bot.) rădăcină. 2. (geogr.) reflux. 3. (mat.) rădăcină; radical. // ●ğezir işaretí — (mat.) radical.
+ğezrengí adj. arămiu.
+ğezriy adj. radical; rădăcinos.
+ğezriyleşken adj. radicalizat.
+ğezriyleşme s. radicalizare.
+ğezriyleşmek v.i. a se radicaliza.
+ğezriyleştírme s. radicalizare.
+ğezriyleştírmek v.t. a radicaliza.
+ğezriyleştírúw s. radicalizare.
+ğezriyleşúw s. radicalizare.
+ğibilliyet s. natură; esență.
+ğibre s. tescovină.
+Ğibutiy s. (topon.) Djibuti.
+ğida s. lance; suliță.
+ğidağî s. lăncier; sulițaş.
+ğidalaşmak v.i. a se bate cu sulițele.
+ğiddiy adj. 1. serios; grav; important. 2. real. // ●ğiddiyge almak — a lua în serios.
+ğiddiybolmagan adj. neserios.
+ğiddiybolmama s. neseriozitate.
+ğiddiyet s. seriozitate; gravitate; importanță. // ●kemaliy ğiddiyet — deosebită seriozitate.
+ğiddiyğe adv. serios.
+ğiddiyleşmek v.i. a deveni serios.
+ğiddiylík s. seriozitate; gravitate; importanță.
+ğigara s. țigară.
+ğihan s. lume; univers. // ●ğihan harbî — (pol.) război mondial.
+ğihangir adj. stăpânitor; cuceritor; cotropitor.
+Ğihangir s. (antrop. m., prsn.) “Cuceritorul lumii”.
+Ğihanşah s. (antrop. m., prsn.) "Şahul universului".
+ğihat s. (la musulmani) război sfânt.
+ğihaz s. (tehn.) aparat. // ●ğihaznîñ tanîtma ilanî — instrucțiuni de folosire a aparatului. ●hazîm ğihazî kastalîklarî — (med.) afecțiuni ale aparatului digestiv. ●tamîzdîruw ğihazî — distilator. ●tasarruf ğihazî — (tehn.) economizor. ●televiziyon ğihazî — televizor.
+ğihazlar s., pl. aparataj; aparatură.
+ğihet s. înclinație.
+ğila s. luciu; lustru; poleială; lac; vernis. // ●tîrnak ğilasî — lac de unghii.
+ğilalama s. lustruire; poleire; lăcuire; vernisare.
+ğilalamak v.t. a lustrui; a da luciu; a polei; a lăcui; a vernisa.
+ğilalangan adj. lustruit; poleit; lăcuit; vernisat.
+ğilalaw s. lustruire; poleire; lăcuire; vernisare.
+ğilalî adj. lustruit; poleit; lăcuit; vernisat.
+ğilt s. 1. piele; epidermă; ten. 2. copertă (de carte). 3. tom; volum (carte). // ●ğilt kastalîgî — (med.) boală de piele.
+ğiltbílímğísí s. dermatolog.
+ğiltbílímí I. adj. dermatologic. II. s. dermatolog.
+ğiltbílímlí adj. dermatologic.
+ğiltiy adj. dermatologic.
+ğiltiye s. dermatologie.
+ğiltiyeğí s. dermatolog.
+ğiltlemek v.t. a determina să lege (cărți etc.).
+ğiltlí adj. (d. cărți) legat.
+ğiltşí s. (tipogr.) legător.
+ğilve s. cochetărie.
+ğilvelenmek v.i. a cocheta.
+ğilvelí adj. cochet.
+ğimnastika s. gimnastică.
+ğimnastikağî s. gimnast.
+ğin s. (relig.) ființă de foc.
+ğinas s. calambur.
+ğinayet s. crimă. // ●ğinayet fayizí — criminalitate.
+ğinayetbílímğísí s. criminalist.
+ğinayetbílímí s. criminologie; criminalistică.
+ğinayetşí s. criminal; asasin; ucigaş.
+ğinekoloğik adj. ginecologic.
+ğinekoloğiya I. adj. ginecologic. II. s. ginecologie.
+ğinekoloğiyağî s. ginecolog.
 `;
