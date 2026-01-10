@@ -5,14 +5,12 @@ bardak-erígí s. prună.
 çm s. (abreviere pentru „çentimetre” = centimetru) cm
 dasitan s. (lit.) epic.
 ekíğíníslí/ekísekslí adj. bisexuat.
-Ferdusiy s. (antrop. m., prsn.) nume legendar persan.
 Fukuşima s. (topon.) Fukushima, Japan.
 gayîn s. numele literei «غ» din scrierea arabă.
 Ğadîlar Bayramî s. Halloween.
 ğağîk s. (gastron.) "Cacık"; "Tzatziki"/"Zaziki".
 Ğañî Sene s. Anul Nou. // ● Ğañî Sene keşesí — Revelion.
 ğaprak s. 1. frunză. 2. foaie (şi din aluat).
-Ğorğiye s. (topon.) Georgia, USA.
 Kaliforniye s. (topon.) California.
 kaf s. numele literei «ق» din scrierea arabă.
 Kîş-Babay s. 1. „Tatăl Iernii” (un bărbat care aduce cadouri în ajunul Anului Nou). 2. Moș Crăciun.
