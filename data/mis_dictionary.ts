@@ -6,6 +6,7 @@ bardak-erígí s. prună.
 çm s. (abreviere pentru „çentimetre” = centimetru) cm
 dasitan s. (lit.) epic.
 Ferdusiy s. (antrop. m., prsn.) nume legendar persan.
+fírawun/pírawun s. (ist.) faraon.
 Fukuşima s. (topon.) Fukushima, Japan.
 gayîn s. numele literei «غ» din scrierea arabă.
 Ğadîlar Bayramî s. Halloween.
