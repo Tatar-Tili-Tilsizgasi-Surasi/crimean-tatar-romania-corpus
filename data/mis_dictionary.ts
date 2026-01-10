@@ -1,12 +1,11 @@
 export const misDictionaryRawText: string = `
 Awustin s. (topon.) Austin.
-biyğíníslík s. bisexualitate.
 bardak-erígí s. prună.
 Çikago s. (topon.) Chicago.
 çm s. (abreviere pentru „çentimetre” = centimetru) cm
 dasitan s. (lit.) epic.
+ekíğíníslí/ekísekslí adj. bisexuat.
 Ferdusiy s. (antrop. m., prsn.) nume legendar persan.
-fírawun/pírawun s. (ist.) faraon.
 Fukuşima s. (topon.) Fukushima, Japan.
 gayîn s. numele literei «غ» din scrierea arabă.
 Ğadîlar Bayramî s. Halloween.
@@ -14,8 +13,6 @@ gayîn s. numele literei «غ» din scrierea arabă.
 Ğañî Sene s. Anul Nou. // ● Ğañî Sene keşesí — Revelion.
 ğaprak s. 1. frunză. 2. foaie (şi din aluat).
 Ğorğiye s. (topon.) Georgia, USA.
-heteroğíníslík s. heterosexualitate.
-homoğíníslík s. homosexualitate.
 Kaliforniye s. (topon.) California.
 kaf s. numele literei «ق» din scrierea arabă.
 Kîş-Babay s. 1. „Tatăl Iernii” (un bărbat care aduce cadouri în ajunul Anului Nou). 2. Moș Crăciun.
@@ -26,7 +23,6 @@ Korezmiy, El- s. (antrop. m., prsn.) "Khwarezmian" // ● El-Korezmiy ifadesí �
 malayiz s., adj. malaez/malaezian.
 Malayiziye s. (topon.) Malaezia.
 malayiziyelí s., adj. malaez/malaezian.
-mazdayasna s. (relig.) zoroastrism.
 ok s. (abreviere pentru „okka” = kilogram) kg 
 pars s., adj. persan; iranian. 
 parslî adj. persan; iranian.
@@ -34,19 +30,10 @@ parsşa adv. în limba persană.
 partiy s. petrecere; party.
 pisiy s. pisică.
 piynír s. (gastron.) brânză.
-rom/roman s., adj. romi.
-romğa/romanğa I. adv. romani. II. s. 
-(limba) romani.
-romaniy s., adj. romi, romani.
 santur s. (muz.) ţambal.
 Şînğa s. (topon.) Xinjiang, China.
 şîşkan s. şoarece.
 Teksas s. (topon.) Texas.
-transğíníslík s. transsexualitate.
 Virjiniye s. (topon.) Virginia.
-zeban s. (lingv., prsn.) limbă; vorbire. //● zeban-î farsiy/parsiy — iz.prsn. limba persană.
-Zerúdúşt s. (antrop. m., prsn.) Zoroastru; Zarathustra.
-zerúdúştşí s., adj. (relig.) zoroastrist.
-zerúdúştşúlúk s. (relig.) zoroastrism.
 zombiy s. zombi.
 `;
