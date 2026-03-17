@@ -541,4 +541,128 @@ hayranlî adj. cu mirare; cu uimire; cu uluială.
 hayranlîk s. mirare; uimire; uluială. // ●hayranlîk tuymak — a admira.
 hayrat s. 1. binefacere. 2. instituŃie filantropică.
 hayret s. mirare; uimire; stupefacŃie; perplexitate; consternare. // ●hayretke tüşürmek — a uimi; a ului. // ●hayrette bîrakmak — a uimi; a ului. // ●hayrette kalmak — a se zăpăci; a fi uluit. // ●hayretke kaldîm — mă mir. // ●ne hayret! — ce surpriză!
+hayretberúwğí adj. uluitor; uimitor; fenomenal; surprinzător; impresionant; frapant; izbitor.
+hayretketúşken adj. uimit; uluit; consternat.
+hayretketúşúrgen adj. uluitor; uimitor; fenomenal; surprinzător; impresionant; frapant; izbitor.
+hayrettebîrakkan adj. buimăcitor; bulversant; năucitor; tulburător.
+hayrettekalgan adj. uimit; uluit; consternat.
+haysiyet s. 1. respect; consideraŃie. 2. demnitate; onoare.
+haysiyetlí adj. respectabil; demn.
+haysiyetsíz adj. nedemn.
+haywan s. 1. vietate; fiinŃă. 2. animal. 3. (fig.) prost; nătărău; tâmpit. // ●haywan yerine salmak — a brutaliza. // ●azbar haywanî — animal domestic. // ●dórtayaklî haywan — animal patruped. // ●ğîrtuwğî haywan; aw haywanî — animal de pradă. // ●ğúk haywanî — animal de tracŃiune. // ●haywan álemí — regnul animal. // ●haywan bogî — baligă; bălegar. // ●haywan doktorî — veterinar. // ●haywan mayî — grăsime animală. // ●haywan oyîgî — vizuină; bârlog; culcuş. // ●haywan pazarî — obor. // ●haywan şañî — talangă. // ●memelí haywanlar — mamifere. // ●úy haywanî — animal domestic. // ●úy haywanlarî — şeptel. // ●yabanî haywan — sălbăticiune; animal sălbatic.
+haywanalîştîrgan s. dresor.
+haywanalîştîrmasî s. dresaj; dresare.
+haywanasîrawğî adj. zootehnic.
+haywanasîrawğusî s. zootehnician.
+haywanasîrawî s. zootehnie.
+haywanat s. animale. // ●haywanat bakşasî — grădină zoologică.
+haywanatbílímğísí s. zoolog.
+haywanatbílímí I. adj. zoologic. II. s. zoologie.
+haywanatbílímlí adj. zoologic.
+haywanbílímğísí s. zoolog.
+haywanbílímí I. adj. zoologic. II. s. zoologie.
+haywanbílímlí adj. zoologic.
+haywanfenğísí s. zootehnician.
+haywanfení s. zootehnie.
+haywanfenlí adj. zootehnic.
+haywanğî s. zootehnician.
+haywanğîlîk s. zootehnie.
+haywaniy adj. animalic; animal.
+haywankana s. 1. grădină zoologică. 2. menajerie.
+haywanlaşkan adj. îndobitocit.
+haywanlaşma s. îndobitocire.
+haywanlaşmak v.i. a se îndobitoci.
+haywanlaşuw s. îndobitocire.
+haywanterbiyelegen s. dresor.
+haywanterbiyesí s. dresaj; dresare.
+haz s. plăcere; satisfacŃie; deliciu.
+hazalgan adj. încântat; vrăjit.
+Hazaplar/Azaplar s. (topon.) Tătaru (jud. ConstanŃa).
+hazin adj. trist; melancolic.
+hazine s. 1. (fin.) tezaur; vistierie. 2. comoară. 3. depozit.
+hazineğí s. trezorier; vistiernic.
+haziran s. (cron.) iunie. // ●haziran ayînda — în luna iunie.
+hazîm s. digestie; digerare; mistuire. // ●hazîm aygîtî — (anat.) aparat digestiv. // ●hazîm ğihazî kastalîklarî — (med.) afecŃiuni ale aparatului digestiv. // ●kayriy kabil hazîmlî — (med.) nedigerabil.
+hazîmiy adj. digestiv.
+hazîmlî adj. digerabil.
+hazîmsîzlîk s. indigestie. // ●hazîmsîzlîgîm bar — am indigestie.
+hazlî adj. plăcut; agreabil; simpatic.
+hazmetílgen adj. asimilat; digerabil; digerat; mistuit.
+hazmetmek v.t. 1. a digera; a mistui; a asimila. 2. (fig.) a suporta; a tolera.
+hazmetúw s. digestie; mistuire; asimilaŃie.
+haznedar s. trezorier.
+hazret s. maiestate; excelenŃă; alteŃă.
+hazretlí adj. maiestuos.
+hazzetílgen adj. agreat; simpatizat.
+hazzetílmek v.i. a plăcea.
+hazzetken s. simpatizant.
+hazzetmeden adv. fără plăcere.
+hazzetmek v.i. a-i plăcea; a-i tihni; a fi amator de…; a fi iubitor de…; a face haz; a-i plăcea; a agrea; a simpatiza.
+hazzetmemek v.i. a nu suporta; a nu-i plăcea; a nu-i tihni; a nu-i plăcea; a nu agrea; a nu simpatiza.
+hál s. 1. (gram.) gerunziu. 2. stare; situaŃie; circumstanŃă. 3. comportare; conduită. 4. (gram.) caz. 5. forŃă; putere. 6. (fig.) dificultate; necaz. // ●hálí kalmamak — a-şi scoate sufletul; a se extenua; a se ramoli. // ●hálín soramak — a întreba pe cineva de sănătate. // ●hálínden taymak — a ajunge rău; a decădea; a se ramoli. // ●toz háline ketírmek — a transforma în pulbere; a pulveriza. // ●aksiy hálde — în caz contrar. // ●bo hálde — în acest caz; aşadar; deci. // ●emin hálde — cu hotărâre; cu siguranŃă. // ●geşúwğí hálde — în mod provizoriu. // ●hál fiil — (gram.) modul gerunziu. // ●hál men şartlar — circumstanŃă. // ●heşbír hálde — în niciun caz. // ●ifrat hál — situaŃie critică; urgenŃă. // ●imkáansîz hál — situaŃie imposibilă. // ●múğerret hál — (gram.) cazul nominativ; cazul absolut. // ●ortalîk agargan hálínde — cu toate că se luminase. // ●ruhiy hál — moral. // ●şahsiy hál — stare civilă. // ●şakîrma hálí — (gram.) cazul vocativ. // ●tîn hálí — moral.
+hálá adv. încă; deocamdată; până acum.
+hálet s. stare; situaŃie.
+háletiy adj. de stare; de situaŃie.
+hálet-í neziy iz.prsn. agonie.
+hálet-í ruhiye iz.prsn. stare sufletească; dispoziŃie.
+hálinekelúw s. devenire; transformare.
+hálineketírúw s. prefacere; transformare.
+hál-í ifrat iz.prsn. situaŃie critică; urgenŃă.
+hálíkalmagan adj. istovit; obosit; ostenit; ramolit; vlăguit.
+hálíkalmama s. decrepitudine; decădere; istovire; osteneală; oboseală; ramoleală; ramolisment; regres.
+hálíkorîlgan s. menŃinut; conservat.
+hálíndentaygan adj. decăzut; istovit; ramolit; regresiv; degradat.
+hálíndentayuw s. decrepitudine; decădere; istovire; osteneală; oboseală; ramoleală; ramolisment; regres.
+hálkaldîrmagan adj. istovitor; ostenitor; vlăguitor; epuizant; extenuant.
+hálkorîgan adj. conservator.
+hálkorîmasî s. menŃinere; conservare.
+hálsíz adj. (d. oameni) slăbit; epuizat.
+hálsízbîrakkan adj. istovitor; ostenitor; vlăguitor; epuizant; extenuant.
+hálsízlîk s. slăbire; epuizare.
+hárf s. literă. // ●balaban hárf — majusculă. // ●baş hárf — iniŃială. // ●gotik hárfler — litere gotice. // ●kanunnuñ hárfí — litera legii.
+hárfiy adj. literal; textual; ad litteram.
+hebeş s., adj. etiopian.
+Hebeşístan s. (topon.) Etiopia.
+hebeşístanlî s., adj. etiopian.
+hedef s. scop; Ńel; Ńintă; obiectiv.
+hediye s. cadou; dar; atenŃie. // ●hediye etmek — a face cadou.
+heft num. (prsn.) şapte.
+heftat num. (prsn.) şaptezeci.
+heğe s. (lingv.) silabă. // ●aşîk heğe — (lingv.) silabă deschisă. // ●kapalî heğe — (lingv.) silabă închisă.
+heğelemek v.t. a silabisi.
+heğelengen adj. silabisit.
+heğelenmek v.i. a se silabisi.
+heğelew s. silabisire.
+heğelí adj. silabic.
+heğemoniya s. hegemonie.
+heğemonlîk s. hegemonie.
+hek s. cretă.
+hekim s. medic; doctor.
+hekimlík I. adj. medical; medicinal. II. s. medicină.
+heksagon s. hexagon.
+heksagonal adj. hexagonal.
+hektar s. hectar.
+hektogram s. hectogram.
+hektolitre s. hectolitru.
+hektometre s. hectometru.
+helak s. 1. moarte; omor; ucidere. 2. distrugere; nimicire.
+helakbílímğísí s. criminalist.
+helakbílímí s. criminologie; criminalistică.
+helakşî s. criminal; asasin; ucigaş.
+helal adj. (relig.) permis; îngăduit.
+helezon s. (mat.) spirală.
+helikopter s. elicopter.
+heliyoterapiya s. (med.) helioterapie.
+heliyum s. heliu.
+helwa s. halva. // ●bír kózí men elmaga, bír kózí men helwaga karamak — a se uita cu un ochi la făină şi cu altul la slănină; a privi cruciş.
+helwa-korîşî s. (bot.) mojdrean; urm; frasin-de-munte (lat., Fraxinus ornus).
+helwa-kókrígí s. (bot.) mojdrean; urm; frasin-de-munte (lat., Fraxinus ornus).
+helwet s., adj. elveŃian. // ●helwet penerí — şvaiŃer.
+Helwetiye s. (topon.) ElveŃia.
+helwetiyelí s., adj. elveŃian.
+hem adv. 1. şi. 2. şi încă; ba chiar. // ●bo oda hem balaban hem de aydînlîk — această cameră este mare şi luminoasă. // ●bo yerí suwuk, hem kayet suwuk — aici este rece, ba chiar foarte rece.
+hematit s. (geol.) hematit.
+hematiya s. (anat.) globulă roşie; hematie.
+hemayil s. 1. bandulieră; diagonală. 2. amuletă. 3. colier; colan; salbă.
+hemen adv. 1. imediat; îndată; numaidecât; deodată. 2. aproximativ; cam; aproape. // ●ğenábísí hemen kayttî — dumneaei s-a întors îndată. // ●hemen bolmaz mî? — nu se poate imediat?; // ●hemen ódiyğekmen — plătesc imediat.
 `;
