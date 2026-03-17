@@ -354,7 +354,7 @@ haset s. invidie; gelozie; pizmă.
 hasetlí adj. invidiat; pizmuit.
 hasetşí adj. invidios; gelos; pizmaş.
 Hasibe s. (antrop. f., arab.) “Cea care ține socoteala”.
-Has ip, El- s. (relig., arab.) "Socotitorul"; “Cel care ştie seama tuturor faptelor săvârşite de om” (unul din cele 99 preafrumoase nume atribuite în Coran lui Dumnezeu/Allah).
+Hasip, El- s. (relig., arab.) "Socotitorul"; “Cel care ştie seama tuturor faptelor săvârşite de om” (unul din cele 99 preafrumoase nume atribuite în Coran lui Dumnezeu/Allah).
 hasis adj. 1. avar; zgârcit; zgârie-brânză. 2. (fig.) ticălos; nemernic.
 hasislík s. 1. avariție; zgârcenie. 2. (fig.) ticăloşenie; nemernicie.
 hasiyet s. 1. particularitate; caracteristică; specific. 2. utilizare; folosire.
