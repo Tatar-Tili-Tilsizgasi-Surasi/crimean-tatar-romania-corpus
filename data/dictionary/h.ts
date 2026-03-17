@@ -320,4 +320,117 @@ harbiyleşken adj. militarizat.
 harbiyleştírme s. militarizare.
 harbiyleştírmek v.t. a militariza.
 harb-î mahkeme iz.prsn. (mil.) curte marțială.
+harç s. (constr.) mortar.
+hardal s. (bot.) muştar (lat., Brassica sinapis).
+hardal, biyaz- s. (bot.) muştar-alb (lat., Brassica alba; Sinapis alba).
+hardal, ğîr- s. (bot.) muştar-de-câmp; ridichioară (lat., Sinapis arvensis).
+hardal, kara- s. (bot.) muştar-negru (lat., Brassica nigra; Sinapis nigra).
+harem s. 1. (ist.) harem. 2. soție; nevastă.
+hariğiy adj. 1. extern; exterior. 2. străin; extern. // ●hariğiy mektúp — scrisoare externă.
+harika I. adj. minunat; miraculos. II. s. minune; miracol; minunăție.
+harikuláde adj. extraordinar; excepțional.
+haris adj. lacom; avid.
+Haris s. (antrop. m., arab.) "Cel însetat de credință" (unul din cele 400 de nume atribuite în Coran Profetului Muhammed Aliyselam).
+harîn adj. 1. (d. cai) nărăvaş. 2. încăpățânat; îndărătnic.
+harman s. 1. treieriş; treierat. 2. (agr.) arie. // ●harman basmak — a treiera. // ●harman maşinasî (agr.) — combină.
+Harman, Kara- s. (topon.) ("Aria Neagră") Vadu (jud. Constanța).
+harmanğî s. treierător.
+harmaniy s. pelerină.
+harmantoy s. sărbătoarea treierişului.
+harp s. război. // ●harp aşmak — a declara război. // ●ğihan harbî (pol.) — război mondial.
+harpa s. (muz.) harpă.
+harpağî s. (muz.) harpist.
+harpaşalgan s. (muz.) harpist.
+hars s. cultură; învățătură.
+Harun s. (antrop. m., arab.) Aron.
+has adj. 1. specific; propriu. 2. autentic. 3. special; ales. 4. (ist.) regal; imperial.
+hasalban s. (bot.) rozmarin (lat., Rosmarinus officinalis).
+Hasan/Asan s. (antrop. m., arab.) “Cel frumos”.
+hasar s. pagubă; daună.
+Hasarlîk s. (topon.) Ograjden (Dobrich, Bulgaria).
+hasat s. secerat; seceriş.
+hasbîhal s. conversație intimă.
+haset s. invidie; gelozie; pizmă.
+hasetlí adj. invidiat; pizmuit.
+hasetşí adj. invidios; gelos; pizmaş.
+Hasibe s. (antrop. f., arab.) “Cea care ține socoteala”.
+Has ip, El- s. (relig., arab.) "Socotitorul"; “Cel care ştie seama tuturor faptelor săvârşite de om” (unul din cele 99 preafrumoase nume atribuite în Coran lui Dumnezeu/Allah).
+hasis adj. 1. avar; zgârcit; zgârie-brânză. 2. (fig.) ticălos; nemernic.
+hasislík s. 1. avariție; zgârcenie. 2. (fig.) ticăloşenie; nemernicie.
+hasiyet s. 1. particularitate; caracteristică; specific. 2. utilizare; folosire.
+hasiyetlí adj. 1. caracteristic; specific. 2. folositor; util.
+hasiyetsíz adj. nefolositor; inutil; nefavorabil.
+hasiyetsízlík s. inutilitate.
+hasîl I. adj. provenit; rezultat. II. s. rezultat; recoltă.
+hasîlat s. producție; produse; recoltă.
+hasîm s. 1. duşman; inamic. 2. adversar; rival.
+hasîmlîk s. duşmănie; vrăjmăşie.
+haslîk s. autenticitate.
+hasmane adv. în duşmănie.
+hasret s. 1. dor; nostalgie. 2. dedicație; consacrare. // ●hasret etmek — a consacra; a dedica. ●hasret kalmak — a-i duce dorul; a tânji după…; ●hasretín şekmek — a-i duce dorul; a tânji după…;
+hasretlí adj. 1. nostalgic. 2. dedicat; consacrat.
+hasretme s. dedicație.
+hasretşegílgen adj. căruia i se duce dorul; râvnit.
+hasretşekme s. năzuință.
+hassa s. însuşire; trăsătură; caracteristică.
+hassas adj. 1. sensibil; delicat. 2. sentimental.
+hassasiyet s. 1. sentimentalism. 2. sensibilitate; delicatețe.
+hassaslîk s. 1. sentimentalism. 2. sensibilitate; delicatețe.
+haşarat s. (ent.) insectă; gâză; gândac.
+haşarataşagan adj. insectivor.
+haşaratbílímí s. entomologie.
+haşaratşî adj. insectivor.
+haşarî adj. 1. (d. copii) obraznic; zburdalnic. 2. (d. animale) nărăvaş.
+haşarîlîk s. obrăznicie; zburdălnicie.
+haşhaş s. 1. canabis; marijuana; haşiş. 2. (bot.) mac; paparună; somnişor (lat., Papaver rhoeas; Papaver somniferum).
+haşhaş, tamgalî- s. (bot.) mac-cornut (lat., Glaucium corniculatum).
+haşhaşçî adj. dependent de haşiş; dependent de canabis.
+haşhaşşalar adj. dependent de haşiş; dependent de canabis.
+haşhaştartar adj. dependent de haşiş; dependent de canabis.
+Haşim s. (antrop. m., arab.) "Cel din neamul Haşemiților-distrugătorii diavolului” (unul din cele 400 de nume atribuite în Coran Profetului Muhammed Aliyselam).
+haşin adj. dur; aspru.
+haşinlík s. duritate; asprime.
+Haşir s. (antrop. m., arab.) "Cel ce deşteaptă conştiințele" (unul din cele 400 de nume atribuite în Coran Profetului Muhammed Aliyselam).
+haşiye s. 1. notă marginală; post-scriptum. 2. platcă.
+haşmet s. măreție; grandoare.
+haşmetlí adj. măreț; grandios; maiestuos.
+haşmetpenah s. maiestate.
+Haşmiy s. (antrop. m., arab.) "Cel din neamul Haşemiților-distrugătorii diavolului” (unul din cele 400 de nume atribuite în Coran Profetului Muhammed Aliyselam).
+haşt num. (prsn.) opt.
+haştat num. (prsn.) optzeci.
+haştdah num. (prsn.) optsprezece.
+hat s. 1. grad; limită; măsură. 2. (mat.) termen. 3. (mat.) linie. 4. scriere; scris. 5. drum; cale; rețea. // ●hatnîñ başî — capătul liniei. ●şagîlgan/elektrik hatî — linie electrică. ●şakuliy hat (mat.) — linie verticală. ●telefon/uzak ses hatî — linie telefonică. ●tren kaysî hattan kete? — de la ce linie pleacă trenul?; ●tuwganlîk hatî — linie de rudenie. ●uşak hatî — linie aeriană.
+hata s. eroare; greşeală; vină. // ●dogrîsîzga hatasî — greşeală de ortografie.
+hatalî adj. eronat; greşit; vinovat.
+hatalîk s. culpabilitate.
+hatalîkórílgen adj. incriminat; învinuit; suspect.
+hatalîkórúw s. incriminare; învinuire; suspectare.
+hatasîz adj. nevinovat; inocent; candid.
+hatasîzlîk s. nevinovăție; inocență.
+hatasîzşîkkan adj. disculpat.
+Hatiğe s. (antrop. f., arab.) "Fetiță născută prematur” (numele primei soții a Profetului Muhammed Aliyselam).
+hatim s. pecete; sigiliu.
+Hatim/Katim s. (antrop. m., arab.) "Pecetea" (unul din cele 400 de nume atribuite în Coran Profetului Muhammed Aliyselam).
+hatip s. 1. orator. 2. (relig., la musulmani) propovăduitor; predicator. // ●millet hatibí — tribun.
+Hatip/Katip s. (antrop. m., arab.) "Propovăduitorul " (unul din cele 400 de nume atribuite în Coran Profetului Muhammed Aliyselam).
+hatiplík s. 1. oratorie. 2. (relig., la musulmani) propovăduire; predicare; predică.
+hatîr s. memorie; minte.
+hatîra s. 1. memorie; ținere de minte. 2. amintire; suvenir. // ●hatîra defterí — jurnal de zi.
+hatîrat s. amintiri.
+hatkuruw s. împrejmuire.
+hatlî adj. împrejmuit; limitat; închis.
+hatmiy s. (bot.) nalbă-mare (lat., Althaea officinalis).
+hatmiy, gúl- s. (bot.) nalbă; nalbă-de-grădină; rujulină (lat., Althaea rosea).
+hatnaşúnas adj. insolent; impertinent.
+hatnaşúnaslîk s. insolență; impertinență.
+hatsîz adj. 1. nelimitat; imens. 2. interminabil; nesfârşit; infinit. // ●hatsîz kîymetlí — inestimabil.
+hatşúnas adj. modest.
+hatşúnaslîk s. modestie.
+hattat s. caligraf; scrib.
+hattatlîk s. caligrafie.
+hattá conj. chiar; chiar şi; până şi.
+hatve s. pas (la mers).
+havan s. 1. piuă; piuliță. 2. (mil.) obuzier; mortier.
+havza s. (geogr.) bazin.
+hawa I. adj. climatic; climateric; meteo; meteorologic. II. s. 1. aer; atmosferă. 2. (meteo.) vreme; timp; climă; climat; meteorologie. 3. cer; bolta cerească. 4. vânt. 5. (muz.) cântec; melodie. 6. dispoziție; chef. 7. atmosferă; ambianță. // ●hawa almak — a lua aer; a se aerisi. ●hawa basmak — a comprima aer; a pompa aer. ●hawa bermek — a umfla. ●hawa kaşîrmak — a scăpa aer; a răsufla. ●hawa da kalmak — a rămâne în aer. ●hawaga ketmek — a se duce pe vânturi; a se risipi. ●hawasîn deñíştírmek — a-i schimba aerul; a-l aerisi. ●hawasîn şalmak — a-i cânta cuiva în strună; a-l linguşi. ●hawasîna alîşmak — a se aclimatiza. ●murunî hawa da bolmak — a se ține cu nasul pe sus; a-şi da aere. ●óz hawasîn şalmak — a-şi face jocul; a-şi face interesele. ●paranî hawaga sawurmak — a arunca banii în vânt. // ●barometre gúzel hawa kóstere — barometrul indică vreme frumoasă. ●bîzîk hawa — intemperii. ●bo yerníñ hawasî maga yaradî — aerul de aici mi-a priit. ●búgún hawa kayday? — cum este vremea azi?; ●búgún heş hawa yok — azi nu este niciun pic de vânt. ●hawa aşîk — cerul este senin. ●hawa basînşî/tezígí — presiune atmosferică. ●hawa bîzağakka uşay — se pare că timpul se va strica. ●hawa bîzîldî — s-a stricat vremea. ●hawa boşlîgî (tehn.) — pungă de aer. ●hawa bulutlana — se înnorează. ●hawa bulutlandî — s-a înnorat. ●hawa deñíşeğek — timpul se va schimba. ●hawa ğeriyanî/agîmî — curent de aer. ●hawa gúzel — e o vreme frumoasă. ●hawa kapalî — vremea e închisă. ●hawa nakliyat vasîtasî — mijloc de transport aerian. ●hawa osal — vremea e proastă. ●hawa saldîrmasî (mil.) — raid aerian. ●hawa suwutmasî — aer condiționat. ●hawa tayanagî — bază aeriană. ●hawa teşígí — răsuflătoare; aerisire. ●hawa uşuşúşún músayit tuwul — timpul nu e favorabil pentru zbor. ●hawa yolğîlîgî — călătorie cu avionul. ●hawalar gúzelleşe — vremea se face frumoasă. ●hawasî awur — neaerisit; lipsit de aer; îmbâcsit. ●kara hawasî — climă continentală. ●kîzgîn hawa — caniculă. ●maga kóre hawa hoş — ce-mi pasă mie?; pe mine nu mă afectează. ●men kelgenden soñ hawasî salkîn boldî — vremea s-a răcit după ce am venit eu. ●murunî hawada — cu nasul pe sus. ●mutedil hawa — climă temperată. ●o yerníñ hawasî sert — acolo clima este aspră. ●osal hawa — vreme rea. ●salkîn hawa — vreme răcoroasă. ●zerlenmegen hawa — atmosferă nepoluată.
 `;
