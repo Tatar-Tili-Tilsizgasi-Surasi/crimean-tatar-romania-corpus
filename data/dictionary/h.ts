@@ -433,4 +433,112 @@ hatve s. pas (la mers).
 havan s. 1. piuă; piuliță. 2. (mil.) obuzier; mortier.
 havza s. (geogr.) bazin.
 hawa I. adj. climatic; climateric; meteo; meteorologic. II. s. 1. aer; atmosferă. 2. (meteo.) vreme; timp; climă; climat; meteorologie. 3. cer; bolta cerească. 4. vânt. 5. (muz.) cântec; melodie. 6. dispoziție; chef. 7. atmosferă; ambianță. // ●hawa almak — a lua aer; a se aerisi. ●hawa basmak — a comprima aer; a pompa aer. ●hawa bermek — a umfla. ●hawa kaşîrmak — a scăpa aer; a răsufla. ●hawa da kalmak — a rămâne în aer. ●hawaga ketmek — a se duce pe vânturi; a se risipi. ●hawasîn deñíştírmek — a-i schimba aerul; a-l aerisi. ●hawasîn şalmak — a-i cânta cuiva în strună; a-l linguşi. ●hawasîna alîşmak — a se aclimatiza. ●murunî hawa da bolmak — a se ține cu nasul pe sus; a-şi da aere. ●óz hawasîn şalmak — a-şi face jocul; a-şi face interesele. ●paranî hawaga sawurmak — a arunca banii în vânt. // ●barometre gúzel hawa kóstere — barometrul indică vreme frumoasă. ●bîzîk hawa — intemperii. ●bo yerníñ hawasî maga yaradî — aerul de aici mi-a priit. ●búgún hawa kayday? — cum este vremea azi?; ●búgún heş hawa yok — azi nu este niciun pic de vânt. ●hawa aşîk — cerul este senin. ●hawa basînşî/tezígí — presiune atmosferică. ●hawa bîzağakka uşay — se pare că timpul se va strica. ●hawa bîzîldî — s-a stricat vremea. ●hawa boşlîgî (tehn.) — pungă de aer. ●hawa bulutlana — se înnorează. ●hawa bulutlandî — s-a înnorat. ●hawa deñíşeğek — timpul se va schimba. ●hawa ğeriyanî/agîmî — curent de aer. ●hawa gúzel — e o vreme frumoasă. ●hawa kapalî — vremea e închisă. ●hawa nakliyat vasîtasî — mijloc de transport aerian. ●hawa osal — vremea e proastă. ●hawa saldîrmasî (mil.) — raid aerian. ●hawa suwutmasî — aer condiționat. ●hawa tayanagî — bază aeriană. ●hawa teşígí — răsuflătoare; aerisire. ●hawa uşuşúşún músayit tuwul — timpul nu e favorabil pentru zbor. ●hawa yolğîlîgî — călătorie cu avionul. ●hawalar gúzelleşe — vremea se face frumoasă. ●hawasî awur — neaerisit; lipsit de aer; îmbâcsit. ●kara hawasî — climă continentală. ●kîzgîn hawa — caniculă. ●maga kóre hawa hoş — ce-mi pasă mie?; pe mine nu mă afectează. ●men kelgenden soñ hawasî salkîn boldî — vremea s-a răcit după ce am venit eu. ●murunî hawada — cu nasul pe sus. ●mutedil hawa — climă temperată. ●o yerníñ hawasî sert — acolo clima este aspră. ●osal hawa — vreme rea. ●salkîn hawa — vreme răcoroasă. ●zerlenmegen hawa — atmosferă nepoluată.
+hawaalanî s. — aeroport; aerodrom.
+hawaalgan adj. — aerisit.
+hawaaluw s. — aerisire; inhalare.
+hawabaskan s. — (tehn.) pompă.
+hawabasma s. — (tehn.) pompare.
+hawaberúw s. — umflare; suflare.
+hawabílímğísí s. — meteorolog; climatolog.
+hawabílímí I. adj. — meteorologic; climatologic. II. s. — meteorologie; climatologie.
+hawabílímlí adj. — meteorologic; climatologic.
+hawaboşamasî s. — dezumflare.
+hawadantaşîlgan adj. — aeropurtat.
+hawadeñíştírmesí s. — ventilare; aerisire.
+hawadis s. — ştire; veste; noutate.
+hawagarasî s. — aerogară.
+hawagasawurgan adj. — risipitor; care risipeşte bunuri sau bani.
+hawagasawurulgan adj. — (d. bunuri sau bani) risipit.
+hawagasawuruw s. — (d. bunuri sau bani) risipire.
+hawagazî s. — gaz aerian; gaz de iluminat.
+hawageşírmez adj. — ermetic; etanş.
+hawağî s. — aviator.
+hawağîlîk s. — aviaŃie.
+hawağîlîkkayaragan adj. — (av.) navigabil.
+hawahaleketí adj. — (fiz.) aerodinamic.
+hawahaleketlí adj. — (fiz.) aerodinamic.
+hawakapalmasî s. — înnorare; posomorâre.
+hawakaşîrgan adj. — dezumflat; răsuflat.
+hawakaşîrmaz adj. — ermetic; etanş.
+hawakúre s. — (fiz.) atmosferă.
+hawalandîrma s. — 1. (tehn.) aerisire; ventilaŃie; tirant. 2. decolare.
+hawalandîrmak v.t. — 1. a aerisi. 2. a determina să zboare; a ridica în aer. // ● bírtaa hawalandîrmak — a reîmprospăta aerul.
+hawalanma s. — zbor.
+hawalanmak v.i. — 1. a se aerisi. 2. a zbura; a pluti în aer. 3. a-şi lua zborul; a se înălŃa în aer; a decola.
+hawalanuw s. — zbor.
+hawale s. — 1. (d. bunuri materiale) transfer; predare; înmânare. 2. mandat poştal. 3. (com.) ordin de plată; transfer. // ● hawale etmek — a preda; a încredinŃa. // ● poşta hawalesí — mandat poştal.
+hawalelí adj. — (d. bunuri materiale) transferat; predat; înmânat.
+hawalename s. — mandat poştal.
+hawalimanî s. — aeroport; aerodrom.
+hawalî adj. — 1. melodic. 2. climatic; climateric.
+hawamiydanî s. — aeroport; aerodrom.
+hawanîñğîmşamasî s. — dezgheŃ.
+hawasî s. — (meteo.) vremea; timpul; clima; climatul. // ● hawasî aşîlmak — a se însenina. ● hawasî kapalmak — a se înnora.
+hawasîboşagan adj. — dezumflat; răsuflat.
+hawasîdeñíşken adj. — ventilat; aerisit.
+hawasînaalîşkan adj. — aclimatizat; naturalizat.
+hawasînaalîştîrma s. — aclimatizare; naturalizare.
+hawasînşalgan adj. — flatant; linguşitor; măgulitor.
+hawasînşalmasî s. — flatare; linguşire; măgulire.
+hawasîşalîngan adj. — flatat; linguşit; măgulit.
+hawastasiyasî s. — aerogară.
+hawaşîgarmasî s. — dezumflare; răsuflare.
+hawatartkan adj. — aerisit; ventilat.
+hawatartma s. — aerisire; ventilare.
+hawatartuw s. — aerisire; ventilare.
+hawataşî s. — meteorit.
+hawayiy adj. — 1. aerian; aeropurtat. 2. albastru deschis; bleu; azuriu. 3. (fig.) uşuratic. // ● hawayiy fişek — rachetă; trasor.
+haw-haw interj. — ham!;
+hawlama s. — lătrat.
+hawlamak v.i. — a lătra.
+hawlaw s. — lătrat.
+hawuz s. — 1. bazin; havuz. 2. (nav.) doc. // ● ğaldama hawuzî — piscină; bazin de înot.
+haya s. — (anat.) testicul.
+hayal s. — 1. imaginaŃie; închipuire. 2. vedenie; nălucă; himeră; fantomă; stafie; spectru.
+hayalet s. — vedenie; nălucă; himeră; fantomă; stafie; spectru.
+hayalğî s. — 1. utopist; visător; vizionar. 2. magician; iluzionist; scamator.
+hayalğîlîk s. — magie; iluzionism; scamatorie.
+hayaliy adj. — imaginar; himeric; fantomatic.
+hayal-miyal adj. — confuz; neclar; vag.
+hayalperest adj. — imaginar; himeric; fantomatic.
+hayat s. — 1. cameră de zi. 2. viaŃă; existenŃă (şi fig.). 3. trai; viaŃă. 4. stare; situaŃie. // ● hayatka geşírmek — a transpune în viaŃă. ● hayatka kaytarmak — a aduce pe cineva la viaŃă; a-l însănătoşi; a-l reanima. ● hayatka kózlerín ğummak — a închide ochii; a muri. // ● bîzgîn hayat — viaŃă desfrântă. ● hayat arkadaşî/ğoldaşî — soŃ; soŃie; tovarăş de viaŃă. ● hayatnîñ kayidesí — regula vieŃii.
+hayatiy adj. — vital; fundamental; de bază.
+hayatîm interj. — viaŃa mea!;
+hayatkageşírílgen adj. — transpus în viaŃă; realizat; înfăptuit; exercitat.
+hayatkageşírílír adj. — fezabil.
+hayatkageşírílmez adj. — irealizabil; nefezabil.
+hayatkageşírúw s. — transpunere în viaŃă; realizare; înfăptuire; exercitare.
+hayatkakaytaruw s. — readucere la viaŃă; reanimare; reînviere; resuscitare.
+hayatkakaytkan adj. — reanimat; înviat; reînviat; resuscitat.
+hayatkakaytuw s. — revenire la viaŃă; înviere.
+hayatkakelgen adj. — realizat; înfăptuit.
+haybet s. — prestanŃă; demnitate.
+haybetlemek v.t. — a trata; a cinsti; a ospăta; a onora.
+haybetlenmek v.i. — a fi tratat; a fi cinstit; a fi ospătat; a fi onorat.
+haybetlí adj. — cu prestanŃă; impunător; demn.
+haybetsíz adj. — neimpunător; neimpozant; nedemn.
+Haydar s. — 1. (antrop. m., arab.) “Leul”.
+Haydar-Şíptlík s. — (topon.) ("Moşia lui Haidar") Haidar (jud. Tulcea).
+haydî interj. — hai!; haide!;
+Haydîn s. — (topon., localitate desfiinŃată) Haidîn (jud. ConstanŃa).
+haydut s. — haiduc.
+haydutluk s. — haiducie.
+Hayitiy s. — (topon.) Haiti.
+hayitiylí s., adj. — haitian.
+Hayiy, El- s. — (relig., arab.) "Cel aievea viu" (unul din cele 99 preafrumoase nume atribuite în Coran lui Dumnezeu/Allah).
+hayiz adj. — înzestrat; dotat; prevăzut cu…;
+hayîn s., adj. — trădător; perfid; ticălos.
+hayînlîk s. — trădare; perfidie; ticăloşenie.
+hayît s. — (bot.) mielărea (lat., Vitex agnus castus).
+hayîz s. — menstruaŃie; ciclu.
+haylaz s., adj. — vagabond; derbedeu; haimana.
+hayleker adj. — şiret; şmecher; viclean.
+haylekerlík adj. — şiretenie; şiretlic; şmecherie; viclenie; subterfugiu.
+hayliy adj. — destul de mult; suficient.
+hayran I. adj. — mirat; uimit; uluit. II. s. — admirator; fan. // ● hayran bolmak — a se mira; a se minuna; a admira.
+hayrangakaldîrgan adj. — admirabil.
+hayranlî adj. — cu mirare; cu uimire; cu uluială.
+hayranlîk s. — mirare; uimire; uluială. // ● hayranlîk tuymak — a admira.
+hayrat s. — 1. binefacere. 2. instituŃie filantropică.
+hayret s. — mirare; uimire; stupefacŃie; perplexitate; consternare. // ● hayretke túşúrmek — a uimi; a ului. ● hayrette bîrakmak — a uimi; a ului. ● hayrette kalmak — a se zăpăci; a fi uluit. // ● hayretke kaldîm — mă mir. ● ne hayret! — ce surpriză!;
 `;
