@@ -1016,4 +1016,141 @@ hitabiy adj. oratoric; elocvent; cu elocinŃă; retoric.
 hitap s. adresare.
 hitlerğí s., adj. hitlerist.
 hitlerğílík s. hitlerism.
+hiyeroglifa s. hieroglifă.
+hiza s. 1. aliniere; aliniament. 2. cotă; nivel. // ●hizaga ketírmek — a nivela; a alinia.
+hizagaakelúw s. nivelare; îndreptare.
+hizagakelúw s. nivelare; îndreptare.
+hizalama s. clasament.
+hizalî adj. 1. aliniat. 2. adus la cotă; nivelat.
+hizasîz adj. nealiniat.
+hizasîzlîk s. nealiniere.
+hîfîz s. 1. conservare; păstrare; stocare. 2. memorie; memorare. // ●hîfîz etmek — a conserva; a păstra; a memora; a Ńine minte.
+hîfîzlî adj. 1. conservat; păstrat; stocat. 2. memorat.
+hîfzetmek v.t. 1. a conserva; a păstra; a stoca. 2. a memora; a Ńine minte.
+hînzîr s. (zool.) porc (lat., Sus scrofa domesticus).
+hînzîrğî s. porcar.
+hînzîrlar s., pl. porcine; suine.
+hînzîrlîk adj. porcesc.
+hîrdavat s. 1. articole de fierărie. 2. (fig.) bagatelă; mărunŃişuri; fleacuri.
+hîrka s. surtuc.
+hîrs s. 1. ambiŃie. 2. ciudă; mânie.
+hîrslî adj. 1. mânios; furios. 2. lacom; avar.
+hîrwat s., adj. croat.
+Hîrwatîstan s. (topon.) CroaŃia.
+hîrwatşa I. adv. în limba croată. II. s. (limba) croată.
+hîşîrdama s. foşnet; fâşâit.
+hîşîrdamak v.i. a foşni; a fâşâi.
+hîşîrdatmak v.t. a determina să foşnească; a determina să fâşâie.
+hîşîrdaw s. foşnet; fâşâit.
+hîşîr-hîşîr interj. fâş!;
+hîşîrtî s. foşnet; fâşâit.
+hîşkîrîk s. sughiŃ.
+hîşkîrma s. sughiŃ; icnet.
+hîşkîrmak v.i. a sughiŃa.
+hîşkîruw s. sughiŃ; icnet.
+hîyanet s. trădare; infidelitate; perfidie.
+hîyanetlí adj. trădat.
+hîyanetlík s. trădare; infidelitate; perfidie.
+hîyanetşí adj. trădător; infidel; perfid.
+hîz s. 1. viteză; velocitate. 2. rapiditate; iuŃeală. // ●hîz almak — a-şi lua avânt; a lua viteză. // ●hîzîn arttîrmak — a accelera. // ●hîzîn kesmek — a-i reduce viteza; a-i tăia avântul. // ●azamiy hîz — viteza maximă. // ●azgariy hîz — viteza minimă. // ●ğel hîzî — viteza vântului. // ●hîz kolî — schimbător de viteză. // ●hîz kolîda bîzîk şîktî — s-a dovedit defect şi schimbătorul de viteze. // ●hîz kutugî — cutie de viteze. // ●kanuniy hîz — viteza legală.
+hîzartkan s. accelerator.
+hîzartmasî s. acceleraŃie.
+hîzarttîrmasî s. accelerare.
+hîzazaymasî s. încetinire.
+hîzazaytkan s. încetinitor.
+hîzîartkan adj. accelerat.
+hîzîazaygan adj. încetinit.
+hîzîrellez s. (relig.) ziua morŃilor.
+hîzlandîrma s. accelerare.
+hîzlandîrmak v.t. a accelera; a iuŃi.
+hîzlandîruw s. accelerare.
+hîzlandîruwğî s. accelerator.
+hîzlangan adj. accelerat; iuŃit.
+hîzlanîp-atîlgan adj. avântat; lansat; azvârlit.
+hîzlanîp-atîlma s. avânt; Ńâşnire; salt; lansare; azvârlire.
+hîzlanma s. acceleraŃie.
+hîzlanmak v.i. a se accelera; a prinde viteză.
+hîzlanuw s. acceleraŃie.
+hîzlî adj. rapid; iute; cu viteză. // ●bek hîzlî — vertiginos.
+hîzólşegen s. (tehn.) vitezometru; tahometru.
+hîzsîz adj. încet; lent.
+hîzsîz-hîzsîz adv. încet-încet; încetul cu încetul; uşor; uşurel; încetişor.
+hîzsîzlîk s. încetineală; lentoare.
+hoğa s. 1. (la musulmani) hoge; imam. 2. învăŃător; profesor; antrenor. // ●mektep hoğasî — învăŃător. // ●takîmnîñ hoğasî — antrenorul echipei.
+hoğaakay s. (la musulmani) hoge; imam.
+hoğaakayhapşîrdî s. (bot.) strănutătoare; iarbă-de-strănutat; cănăcei; ciucurei; rotoŃele-albe (lat., Achillea ptarmica).
+hoğalar s., pl. (la musulmani) cler; preoŃime.
+hoğalîk s. 1. (la musulmani) preoŃie. 2. profesorat; profesorime.
+hokey s. hochei. // ●hokey meçí — (sport) meci de hochei.
+hokka s. călimară.
+hol s. coridor; culoar; hol.
+holant s., adj. olandez.
+Holant s. (topon.) Olanda.
+holantlî s., adj. olandez.
+holantşa I. adv. în limba olandeză. II. s. (limba) olandeză.
+holera s. (med.) holeră.
+holeralî adj. (med.) holeric.
+homar s. (zool.) rac-de-mare; homar; stacoj (lat., Homarus vulgaris).
+homeopatiya s. homeopatie.
+Honduras s. (topon.) Honduras.
+honduraslî s., adj. hondurian.
+hop interj. hop!;
+hoplamak v.i. a Ńopăi.
+hoppa adj. uşuratic; neserios; frivol.
+hoppalîk s. neseriozitate; frivolitate.
+hor adj. josnic; demn de dispreŃ. // ●hor karamak — a dispreŃui. // ●hor tutmak — a maltrata.
+hora s. horă. // ●hora tepmek — a juca hora.
+horda s. hoardă; oaste; armată.
+hordabaşî s. (mil.) comandant.
+horlîk s. josnicie; dispreŃ.
+hormon s. hormon.
+hortensiya s. (bot.) hortensie (lat., Hydrangea opuloides).
+hortîm s. 1. (la unele mamifere şi insecte) trompă. 2. tulumbă; furtun. 3. ciclon.
+Horus-surkarlîgaşî s. (orn.) drepnea Horus (lat., Apus horus).
+hostes s. steward; însoŃitor de bord.
+hoş adj. bun; plăcut; agreabil. // ●hoş kórmek — a privi cu ochi buni; a simpatiza; a tolera; a îngădui. // ●hoş kózí men kórmemek — a nu privi cu ochi buni; a dezaproba. // ●hoşîna ketmek — a-i plăcea. // ●bek hoş tuwul — nu e prea plăcut. // ●heş hoşîma ketmiy — nu-mi place deloc. // ●hoş ses — voce plăcută. // ●hoş sóz — compliment. // ●hoş túşler! — vise plăcute!; // ●hoşîmîzga ketmedí — nu ne-a plăcut. // ●maga kóre hawa hoş — ce-mi pasă mie?; pe mine nu mă afectează. // ●sen bek hoşîma ketesíñ — îmi placi foarte mult. // ●temsil bek hoşîma kettí — spectacolul mi-a plăcut foarte mult.
+hoşawazlî adj. melodios.
+hoşînaketken s. bucuros; satisfăcut; simpatizant.
+hoşînaketmegen adj. nemulŃumit; nesatisfăcut; neîmpăcat.
+hoşînaketmeme s. nemulŃumire; insatisfacŃie.
+hoşînaketúw s. bucurie; haz.
+hoşkakelgen adj. plăcut; atrăgător; agreabil; drăgălaş.
+hoşkakelúw s. drăgălăşenie.
+hoşkaketken adj. plăcut; atrăgător; agreabil; simpatic; drăgălaş.
+hoşkaketmez adj. neplăcut; neatrăgător; dezagreabil; odios. // ●atî hoşka ketmez — cu nume dezagreabil; nomina odiosa.
+hoşkarşîlangan adj. binevenit; agreat; simpatizat. // ●hoşkarşîlangan kíşí — persoană agreată; persona grata.
+hoşkarşîlanmaz adj. nesimpatizat; neagreat; intolerabil. // ●hoşkarşîlanmaz kíşí — persoană neagreată; persona non grata.
+hoşkórgen s. binevoitor; îngăduitor; răbdător; tolerant; simpatizant.
+hoşkórílgen adj. agreat; îngăduit; simpatic.
+hoşkórúw s. 1. indulgenŃă; tolerare; îngăduinŃă. 2. bunăvoinŃă; îngăduinŃă; simpatie.
+hoşkórúwğí adj. 1. indulgent; îngăduitor; tolerant. 2. binevoitor; îngăduitor.
+hoşlandîrgan adj. agreabil; plăcut.
+hoşlandîrmak v.i. a plăcea.
+hoşlangan adj. bucuros.
+hoşlanma s. bucurie.
+hoşlanmak v.i. a-i plăcea; a se bucura.
+hoşlanuw s. bucurie.
+hoşlaşîk s. cărare în păr.
+hoşlîk s. bunătate; plăcere.
+hoşniyetlí adj. binevoitor.
+hoşnît adj. satisfăcut; mulŃumit.
+hoşnîtlîk s. satisfacŃie; mulŃumire.
+hoşnîtsîz adj. nesatisfăcut; nemulŃumit.
+hoşnîtsîzlîk s. nemulŃumire.
+hotel s. hotel. // ●hotel defterí — registrul hotelului. // ●kîdîruwğuluk hotelí — hotel turistic.
+hotelğí s. hotelier.
+hoyrat adj. grosolan; mojic; ordinar.
+hoyratlîk s. grosolănie; mojicie.
+hububat s. cereale; grâne.
+Hudson-şamîr-şullugî s. (orn.) sitar de mal de Hudson (lat., Limosa haemastica).
+hudut s. 1. graniŃă; frontieră. 2. limită; capăt; extremitate. // ●hudut salmak — a delimita. // ●hudut tîşîna şîgarmak — a expulza. // ●hudutka kadar kaş kilometre bar? — câŃi kilometri sunt până la frontieră?;
+hudutlî adj. limitat; delimitat.
+hudutsaluw s. delimitare; îngrădire; limitare; plafonare; restrângere; restricŃionare.
+hudutsuz adj. nelimitat; nesfârşit.
+hudutsuzluk s. nesfârşire.
+Huğğa s. (antrop. m., arab.) "Argumentul" (unul din cele 400 de nume atribuite în Coran Profetului Muhammed Aliyselam).
+huğum s. 1. (mil.) asalt; atac. 2. agresiune; invazie. // ●huğumga ketmek — a porni la atac.
+huğumğî I. adj. agresiv; ofensiv. II. s. atacant; invadator; agresor; violator; cotropitor.
+huğumlî adj. agresat; asaltat; invadat.
+hukuk s. 1. drept; justeŃe. 2. legislaŃie. // ●anayasa hukukî — (jur.) drept constituŃional. // ●ayile hukukî — (jur.) codul familiei. // ●genel/adiy hukuk — (jur.) drept comun. // ●ğeza hukukî — (jur.) drept penal. // ●hukuk dawasî — (jur.) proces civil. // ●hukuk ğetkísí — (jur.) jurisdicŃie. // ●hukuk ihtiyariyesí — facultatea de drept. // ●idare hukukî — drept administrativ. // ●milletlerarasî/dewletlerarasî hukuk — (jur.) drept internaŃional. // ●tiğaret hukukî — drept comercial.
 `;
