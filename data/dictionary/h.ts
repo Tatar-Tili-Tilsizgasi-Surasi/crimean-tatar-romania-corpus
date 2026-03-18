@@ -875,4 +875,145 @@ hibe s. donare; donaŃie.
 hidayet s. drum călăuzitor; drumul dreptăŃii; calea întemeiată.
 hiddet s. mânie; furie.
 hiddetlí adj. mânios; furios.
+hidrat s. (chim.) hidrat.
+hidrawulik adj. (tehn.) hidraulic.
+hidrawulika s. (tehn.) hidraulică.
+hidrawulikalî adj. (tehn.) hidraulic.
+hidrodinamik adj. (fiz.) hidrodinamic.
+hidrodinamika s. (fiz.) hidrodinamică.
+hidrodinamikalî adj. (fiz.) hidrodinamic.
+hidroelektrik adj. (electr.) hidroelectric.
+hidroelektriklík s. (electr.) hidroelectricitate.
+hidrografik adj. hidrografic.
+hidrografiya I. adj. hidrografic. II. s. hidrografie.
+hidrografiyalî adj. hidrografic.
+hidroğen s. (chim.) hidrogen. // ●hidroğen bombasî (mil.) — bombă cu hidrogen.
+hidroğenleşken adj. hidrogenat.
+hidroğenleşmek v.i. a se hidrogena.
+hidroğenleştírme s. hidrogenare.
+hidroğenleştírmek v.t. a hidrogena.
+hidroğenlí adj. (chim.) hidrogenos; hidrogenic; hidrogenat. // ●hidroğenlí patlatma (mil.) — bombă cu hidrogen.
+hidrokarbura s. (chim.) hidrocarbură.
+hidrokortizon s. (chim., farm., med.) hidrocortizon.
+hidroloğik adj. hidrologic.
+hidroloğiya I. adj. hidrologic. II. s. hidrologie.
+hidroloğiyağî s. hidrolog.
+hidroloğiyalî adj. hidrologic.
+hidromekanika s. (fiz.) hidromecanică.
+hidrometre s. (tehn.) hidrometru; densometru.
+hidromorf adj. (d. plante) hidromorf.
+hidronawut s. hidronaut.
+hidrosfera s. (geogr.) hidrosferă.
+hidroskop s. (nav.) periscop subacvatic; hidroscop.
+hidrostatic adj. (fiz.) hidrostatic.
+hidrostatika s. (fiz.) hidrostatică.
+hidrostatikalî adj. (fiz.) hidrostatic.
+hidroterapiya s. (med.) hidroterapie.
+hidrotermal adj. hidrotermal.
+hiğap s. sfială; timiditate; pudoare.
+hiğif s. satiră; pamflet. // ●hiğif etmek — a satiriza.
+hiğiflí adj. satiric; satirizat.
+hiğran s. 1. despărŃire; separare. 2. durere; întristare; mâhnire.
+hiğranlî adj. 1. posomorât; întristat; mâhnit. 2. despărŃit; separat.
+hiğret s. 1. emigrare. 2. (relig.) emigrarea Profetului Muhammed Aliyselam de la Mecca la Medina.
+hiğretetken adj. migrator.
+hiğviye s. satiră; pamflet.
+hiğviyelí adj. satiric; satirizat.
+hikáye s. 1. povestire; naraŃiune; relatare. 2. poveste; basm. 3. nuvelă. // ●hikáye etmek — a povesti; a relata; a istorisi.
+hikáyeğí s. 1. povestitor. 2. nuvelist.
+hikáyeğílík s. nuvelistică.
+hikáyelí adj. povestit; narat; relatat.
+hikáyemeselesí s. (lit.) subiect; intrigă; acŃiune.
+hikmet s. 1. înŃelepciune; raŃiune; inteligenŃă. 2. (fig.) cauză; mobil; motiv.
+hilaf s. 1. opunere; opoziŃie. 2. neconcordanŃă; nepotrivire. 3. minciună.
+hilafet s. califat.
+hilal s. semilună.
+hile s. 1. viclenie; şiretlic. 2. falsificare; fals; contrafacere.
+hileğí I. adj. viclean; şiret. II. s. falsificator.
+hileğílík s. prefăcătorie; viclenie.
+hilmiy adj. blând; blajin; răbdător; calm; domol; liniştit; paşnic; potolit; stăpânit; temperat; tihnit.
+Hilmiy/Hílmiy s. (antrop. m., arab.) "Cel blând".
+Hilmiye/Hílmiye s. (antrop. f., arab.) “Cea blândă”.
+himaye s. protecŃie; protejare; ocrotire; susŃinere. // ●himayesíne almak — a lua sub protecŃie.
+himayeğí s., adj. protector; ocrotitor; susŃinător.
+himayelí adj. protejat; ocrotit; susŃinut.
+himera s. himeră; iluzie.
+himeralî adj. himeric.
+himmet s. 1. sprijin; ajutor. 2. muncă; efort; strădanie.
+himmetşí adj. silitor.
+hindiba s. (bot.) andivă; cicoare-de-grădină (lat., Cichorium endivia).
+hindiba, kara- s. (bot.) păpădie (lat., Taraxacum officinale).
+hindiye s. (bot.) ricin; căpuşă (lat., Ricinus communis).
+Hindístan s. (topon.) India.
+Hindístan-Dalayî/Hindístan-Deriyasî s. (hidron.) Oceanul Indian.
+hindístan-erígí s. (bot.) cubeb (lat., Piper cubeba).
+hindístan-ğewezí s. 1. nucă de cocos. 2. (bot.) cocotier (lat., Cocos nucifera).
+hindístanlî s., adj. hindus; indian.
+hint s., adj. hindus; indian.
+hint-awrupalî adj. indo-european.
+Hint-gúmúşgágáasî s. (orn.) pescăruş cu cioc argintiu indian (lat., Lonchura malabarica).
+Hint-ğîlanmoyînî s. (orn.) pasăre gât de şarpe orientală; anhigă orientală (lat., Anhinga melanogaster).
+Hint-kazî s. (orn.) gâscă de India (lat., Anser indicus).
+Hint-kók-kerí s. (orn.) dumbrăveancă albastră indiană (lat., Coracias benghalensis).
+Hint-kók-kuzgunî s. (orn.) dumbrăveancă albastră indiană (lat., Coracias benghalensis).
+Hint-kók-zakşasî s. (orn.) dumbrăveancă albastră indiană (lat., Coracias benghalensis).
+hint-kurmasî s. (bot.) tamarin; tamarind (lat., Tamarindus indica).
+hintmayî s. ulei de ricin.
+hintşe I. adv. în limba hindusă. II. s. (limba) hindusă.
+Hint-tarakayî s. (orn.) fluierar mare; nagâŃ mare (lat., Hoplopterus indicus; Vanellus indicus).
+Hint-tawugî s. (orn.) bibilică; picheriŃă (lat., Numida meleagris).
+Hint-yapalagî s. (orn.) cucuvea indiană pătată (lat., Athena brama).
+hiperbola s. (lit.) hiperbolă.
+hiperbolik adj. (lit.) hiperbolic.
+hipnotism s. hipnotism.
+hipnoza s. hipnoză.
+hipnozağî s. hipnotizator.
+hipodrom s. hipodrom.
+hipofiza s. (anat.) hipofiză.
+hipopotam s. (zool.) hipopotam (lat., Hippopotamus amphibius).
+hipostaza s. (med.) hipostază; congestie.
+his s. 1. simŃ; senzaŃie. 2. sesizare; observare.
+hisar s. (mil.) fort; fortăreaŃă; cetate.
+hislí adj. duios; sentimental.
+hisse s. 1. porŃiune; porŃie; parte; cotă; participare. 2. (fin.) acŃiune. // ●bolîşkan hisselerge ayîrmak — a descompune; a dezagrega; a dezintegra; a dezmembra. // ●hisse ayîrmak/etmek — a-i face cuiva parte din…; a-i aloca. // ●hisse istemek — a-şi cere partea. // ●hisse kapmak — a-şi face parte din…; a-şi însuşi ceva. // ●hisse/pay saklamak — a-i păstra cuiva parte din…; a-i aloca. // ●hisselerge bólmek — a porŃiona. // ●hisselerín şeşmek — a descompune; a dezagrega; a dezintegra; a dezmembra. // ●hisse senetí (fin.) — acŃiune. // ●suwnuñ hisselerín ayîrmasî/sókmesí/şeşmesí (chim.) — hidroliză.
+hisseayîrmasî s. porŃionare; divizare; fragmentare; împărŃeală.
+hissedar s. (fin.) acŃionar; asociat.
+hissegebólúw s. porŃionare; divizare; fragmentare; împărŃeală.
+hisseğí s. (fin.) acŃionar; asociat.
+hisseğík s. (fiz.) corpuscul; particulă.
+hisse-hisse adj. porŃionat.
+hisselergeayîrîlgan adj. porŃionat; divizat; fragmentat; împărŃit.
+hisselergeayîrîlma s. (fiz.) fisiune.
+hisselergeayîrîluw s. (fiz.) fisiune.
+hisselergeayîrma s. porŃionare; divizare; fragmentare; împărŃeală.
+hisselergeayîruw s. porŃionare; divizare; fragmentare; împărŃeală.
+hisselergebólíngen adj. parcelat.
+hisselergebólme s. parcelare.
+hisselergeşeşúw s. descompunere; dezagregare; dezintegrare; dezmembrare.
+hisseleríşeşílgen adj. descompus; dezagregat; dezintegrat; dezmembrat.
+hisselí adj. 1. porŃionat; cotat. 2. (fin.) cu acŃiuni; pe acŃiuni. // ●hisselí şirket — societate pe acŃiuni.
+hissesaluw s. normare.
+hissetílgen adj. simŃit.
+hissetílmek v.i. a se simŃi; a se resimŃi.
+hissetme I. adj. senzorial. II. s. simŃire.
+hissetmek v.t. 1. a simŃi; a resimŃi. 2. a sesiza; a-şi da seama. // ●ewelden hissetmek — a presimŃi.
+hissetmetîşî adj. extrasenzorial.
+hissetúwğí s. senzor.
+hissiy adj. sentimental; sensibil.
+hissiyat s. sentimente.
+hissiykablelvukuw s. presentiment; presimŃire; premoniŃie.
+hissiyşaya s. coproprietate.
+hissiyşayal s., adj. coproprietar.
+histoloğik adj. histiologic.
+histoloğiya I. adj. histiologic. II. s. histiologie.
+histoloğiyalî adj. histiologic.
+hitabe s. discurs; alocuŃiune.
+hitabet s. oratorie; elocvenŃă; elocinŃă; retorică.
+hitabetílgen s. adresant.
+hitabetlí adj. oratoric; elocvent; cu elocinŃă; retoric.
+hitabetmek v.i. a se adresa (cuiva).
+hitabiy adj. oratoric; elocvent; cu elocinŃă; retoric.
+hitap s. adresare.
+hitlerğí s., adj. hitlerist.
+hitlerğílík s. hitlerism.
 `;
