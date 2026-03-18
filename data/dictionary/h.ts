@@ -540,7 +540,7 @@ hayrangakaldîrgan adj. admirabil.
 hayranlî adj. cu mirare; cu uimire; cu uluială.
 hayranlîk s. mirare; uimire; uluială. // ●hayranlîk tuymak — a admira.
 hayrat s. 1. binefacere. 2. instituŃie filantropică.
-hayret s. mirare; uimire; stupefacŃie; perplexitate; consternare. // ●hayretke tüşürmek — a uimi; a ului. // ●hayrette bîrakmak — a uimi; a ului. // ●hayrette kalmak — a se zăpăci; a fi uluit. // ●hayretke kaldîm — mă mir. // ●ne hayret! — ce surpriză!
+hayret s. mirare; uimire; stupefacŃie; perplexitate; consternare. // ●hayretke túşúrmek — a uimi; a ului. // ●hayrette bîrakmak — a uimi; a ului. // ●hayrette kalmak — a se zăpăci; a fi uluit. // ●hayretke kaldîm — mă mir. // ●ne hayret! — ce surpriză!
 hayretberúwğí adj. uluitor; uimitor; fenomenal; surprinzător; impresionant; frapant; izbitor.
 hayretketúşken adj. uimit; uluit; consternat.
 hayretketúşúrgen adj. uluitor; uimitor; fenomenal; surprinzător; impresionant; frapant; izbitor.
