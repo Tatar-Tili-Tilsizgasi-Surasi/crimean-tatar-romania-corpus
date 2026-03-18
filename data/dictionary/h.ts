@@ -764,4 +764,115 @@ hesapbermeme s. iresponsabilitate.
 hesapbermez adj. iresponsabil.
 hesapbermezlík s. iresponsabilitate.
 hesapberúw s. răspundere; responsabilitate.
+hesapetmeden adv. nechibzuit.
+hesapkaalîngan adj. 1. luat în calcul; considerat; apreciat; interpretat. 2. luat în calcul; socotit; calculat; numărat.
+hesapkaalînganday adj. considerabil.
+hesapkaalînganlar s., pl. cei luaŃi în calcul; efectiv.
+hesapkaalînmagan adj. neluat în calcul; neglijat; omis.
+hesapkaalînmaz adj. neglijabil.
+hesapkaalmama s. neglijenŃă; omisiune.
+hesapkaaluw s. 1. luare în calcul; socotire; calcul; numărare. 2. luare în calcul; considerare; apreciere; interpretare.
+hesapkakatîlgan adj. 1. luat în calcul; socotit; calculat; numărat. 2. luat în calcul; considerat; apreciat; interpretat.
+hesapkakatîlmagan adj. neluat în calcul; nesocotit; ignorat.
+hesapkakatmama s. neluare în calcul; nesocotire; ignorare.
+hesapkatuw s. 1. luare în calcul; socotire; calcul; numărare. 2. luare în calcul; considerare; apreciere; interpretare.
+hesapkakelmez adj. nenumărabil; incalculabil.
+hesapkatartuw s. tragere la răspundere.
+hesap-kitap s. calcul; socoteală; instruire; cunoaştere de carte. // ●hesabî-kitabî bolmak — a şti carte.
+hesaplagan s. evaluator.
+hesaplama s. numărare; calcul; socotire; contabilitate.
+hesaplamak v.t. a socoti; a calcula. // ●soñîşîn hesaplamak — a face bilanŃul.
+hesaplanaturgan adj. calculat repetitiv; recalculat.
+hesaplangan adj. numărat; socotit; estimat.
+hesaplangan-ğaşîrîlgan adj. cifrat; codificat.
+hesaplanmak v.i. a se socoti; a se calcula.
+hesaplaşma s. răfuială.
+hesaplaşmak v.i. a se socoti (unul cu altul).
+hesaplaşuw s. răfuială.
+hesaplaw s. numărare; calcul; socotire; contabilitate.
+hesaplawğî s. 1. contabil. 2. (mat.) abac; socotitoare; numărătoare; calculator.
+hesaplayberílgen adj. calculat repetitiv; recalculat.
+hesaplayberme s. calculare repetitivă; recalculare.
+hesaplaybermek v.t. a calcula repetitiv; a recalcula.
+hesaplayturma s. calculare repetitivă; recalculare.
+hesaplayturmak v.t. a calcula repetitiv; a recalcula.
+hesaplayturuw s. calculare repetitivă; recalculare.
+hesaplî adj. 1. măsurat; cumpătat; calculat; ponderat; precaut; prevăzător; prudent. 2. ieftin. 3. aritmetic. // ●hesaplî piyat — preŃ convenabil.
+hesaplîğaşîruw s. cifru; cod; codificare.
+hesaplîk s. (mat.) abac; socotitoare; numărătoare.
+hesaplî-kitaplî s., adj. instruit; ştiutor de carte.
+hesaplîk-kitaplîk s. calcul; socoteală; instruire; cunoaştere de carte.
+hesapsîz adj. 1. nemăsurat; fără măsură; nelimitat. 2. (fig.) imprudent; nechibzuit.
+hesapsîzkarjlagan adj. risipitor.
+hesapsîz-kitapsîz s., adj. analfabet.
+hesapsîzkullanîlgan adj. folosit în exces; abuzat.
+hesapsîzlîk s. imprudenŃă; nechibzuinŃă.
+hesapsîzlîk-kitapsîzlîk s. analfabetism.
+hesapsoramasî s. tragere la răspundere; cererea socotelii.
+hesapşî s. aritmetician.
+hesapyapîlgan adj. calculat; socotit; presupus.
+hesapyapma s. calcul; socotire; presupunere.
+heş I. adj. 1. vreun; vreo. 2. niciun; nicio. II. adv. 1. nici; deloc; nicidecum; nicicând; niciodată; sub nici o formă; cu nici un chip. 2. cândva; vreodată. III. pron. nimic. // ●bo tren heş toktamay — acest tren merge fără oprire. ●bonî heş aytarman mî? — cum aş putea spune aşa ceva?; n-aş spune asta sub nici un motiv! ●búgün heş hawa yok — azi nu este niciun pic de vânt. ●heş bílmiysíñíz mí? — nu ştiŃi deloc? ●heş bolağak şiy tuwul — nu pare nicidecum posibil. ●heş bolmasa — barem; măcar; cel puŃin. ●heş hoşîma ketmiy — nu-mi place deloc. ●heş kaáretmeñíz! — fiŃi fără nicio grijă! ●heş keletan mî? — n-ar veni sub nici un motiv! ●heş memnun tuwul man — nu sunt mulŃumit deloc. ●heş múmkún kórínmiy — nu pare nicidecum posibil. ●heş raátsíz etmedíñíz — nu m-aŃi deranjat deloc. ●heş şúphem yok — nu am nicio îndoială. ●heş tağiz tuwul — nu e niciun deranj. ●heş te — nicidecum; deloc; pentru nimic. ●heş túrlenmez — mereu acelaşi; constant; statornic. ●kazakşa heş añlamayman — nu înŃeleg deloc româneşte. ●mení heş kuwantmaz — nu mă bucură deloc.
+heşbír adj. 1. niciun; nicio. 2. vreun; vreo. // ●heş bír hálde — în niciun caz. ●heş bír maruzluk yok — nu e niciun pericol. ●mením o man heş bír alîp-bereğegím yok — nu am nicio relaŃie cu el.
+heşbírşiy pron. nimic.
+heşbírşiyde pron. la nimic.
+heşbírşiyden pron. din nimic.
+heşbírşiydiy pron. ca nimic.
+heşbírşiyge pron. spre nimic.
+heşbírşiyní pron. pe nimic.
+heşbírşiyníñ adj. care nu aparŃine de nimic.
+heşbírtúrlí adv. deloc; nicidecum; sub nici o formă; cu nici un chip. // ●heş bír túrlí alîşaalmayman — nu pot să mă obişnuiesc deloc.
+heşbírwakît adv. niciodată; nicicând; pentru nimic în lume.
+heşbíryerde adv. nicăieri.
+heşbíryerden adv. de nicăieri.
+heşbíryerge adv. către nicăieri.
+heşbíryerlerde adv. nicăieri.
+heşbíryerlerden adv. de nicăieri.
+heşbíryerlerge adv. către nicăieri.
+heşbírzaman adv. niciodată; nicicând; pentru nimic în lume.
+heşbolmama s. imposibilitate.
+heşbolmayğak adj. imposibil; de nerealizat.
+heşbolmayğaklîk s. imposibilitate.
+heşke pron. spre nimic.
+heşní pron. pe nimic.
+heşníñ adj. care nu aparŃine de nimic.
+heşt num. opt.
+heştat num. optzeci.
+heşte pron. la nimic.
+heşten pron. din nimic.
+heştiy pron. ca nimic.
+Heuglin'níñ-kagayî s. (orn.) pescăruşul lui Heuglin (lat., Larus heuglini).
+Heuglin'níñ-şaklayî s. (orn.) pescăruşul lui Heuglin (lat., Larus heuglini).
+hevariyun s. (relig.) apostol.
+hewes s. dorinŃă; pasiune; plăcere. // ●hewesí kaşmak — a-i pieri pofta. // ●geşúwğí hewes — capriciu. ●hewes ke kóre — după plac; după gust; după pofta inimii; în voie; pe ales; ad libitum.
+heweskaybetmesí s. pierderea interesului; răcire.
+heweslendírgen adj. agreabil; pasionant.
+heweslendírmek v.t. a pasiona; a plăcea.
+heweslengen adj. pasionat.
+heweslenmek v.i. a dori; a fi pasionat.
+heweslenúw s. dorinŃă; pasiune; plăcere.
+heweslí adj. 1. pasionat. 2. amator. 3. iubitor de…
+heweslíkaraw s. contemplare; contemplaŃie.
+hewessîz adj. nedoritor.
+hewkel s. statuie; monument. // ●hewkel otîrtmak — a ridica cuiva o statuie. // ●hewkel bólímí — secŃia de sculptură. ●kíşkene hewkel — statuetă.
+hewkelğí s. sculptor.
+hewkelğílík s. sculptură.
+hewkeltraş s. sculptor.
+hewkeltraşlîk s. sculptură.
+hey interj. hei!; pst!;
+heybe s. desagă; traistă.
+heyet s. 1. misiune; delegaŃie. 2. astronomie. // ●siyasiy heyet — legaŃie; misiune diplomatică. ●tahrir heyetí — redacŃie; colegiu redacŃional.
+heyetşí s. astronom.
+heyyúş s. emoŃie.
+hezaren s. (bot.) nemŃişor; pintenaşi; cizma-cucului (lat., Delphinium consolida; Consolida regalis).
+hezár num. mie.
+hezeran s. (bot.) nemŃişor; pintenaşi; cizma-cucului (lat., Delphinium consolida; Consolida regalis).
+hezimet s. înfrângere; nimicire.
+hezimetlí adj. înfrânt; nimicit.
+hezimetşí adj. distrugător; nimicitor.
+Hibadulla(h) s. (antrop. f., arab.) “Darul lui Allah/Dumnezeu”.
+hibe s. donare; donaŃie.
+hidayet s. drum călăuzitor; drumul dreptăŃii; calea întemeiată.
+hiddet s. mânie; furie.
+hiddetlí adj. mânios; furios.
 `;
