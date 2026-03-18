@@ -665,4 +665,103 @@ hematit s. (geol.) hematit.
 hematiya s. (anat.) globulă roşie; hematie.
 hemayil s. 1. bandulieră; diagonală. 2. amuletă. 3. colier; colan; salbă.
 hemen adv. 1. imediat; îndată; numaidecât; deodată. 2. aproximativ; cam; aproape. // ●ğenábísí hemen kayttî — dumneaei s-a întors îndată. // ●hemen bolmaz mî? — nu se poate imediat?; // ●hemen ódiyğekmen — plătesc imediat.
+hemersen s. 1. măceașă. 2. (bot.) măceș; trandafir-sălbatic (lat., Rosa canina).
+hemfíkír s. tovarăș de idei.
+hemğínís adj. de același gen; de același fel.
+hemhudut adj. limitrof.
+hemoglobina s. (fiziol.) hemoglobină.
+hemograma s. (med.) hemogramă.
+hemorağiya s. (med.) hemoragie.
+hemra s. tovarăș de drum; tovarăș de viață; camarad.
+hemşerí s. consătean.
+hemşíre s. (med.) asistentă; soră.
+hendek s. groapă; șanț; fosă.
+hendekkazkan s. (constr.) excavator.
+hendeklík s. teren accidentat.
+hendese s. geometrie. // ●hendese tízúwí (mat.) — progresie geometrică. // ●şeşímğí/tahliliy hendese (mat.) — geometrie analitică. // ●suratlawğî/tasariy hendese (mat.) — geometrie descriptivă. // ●túzlem hendesesí (mat.) — geometrie plană. // ●uzay hendesesí (mat.) — geometrie în spațiu.
+hendeselí adj. geometric.
+hendesiy adj. geometric. // ●hendesiy tízúw (mat.) — progresie geometrică.
+henúz adv. 1. încă. 2. deja. 3. doar; numai; abia.
+hep adv. 1. tot. 2. iarăși; din nou. 3. și acum; încă. // ●keşe-kúndúz hep ğolda — zi și noapte e pe drum. // ●kún-kúnge hep sîğak bola — de la o zi la alta se face tot mai cald.
+hepánawday I. adj. asemănător; similar. II. adv. tot astfel; analog.
+hepbonday I. adj. asemănător; similar. II. adv. tot astfel; analog.
+hepísí pron. tot; toată; toți; toate. // ●onlarnîñ hepísí keldí — ei au venit toți.
+hepísín pron. pe tot; pe toată; pe toți; pe toate.
+hepísínde pron. la tot; la toată; la toți; la toate.
+hepísínden pron. de la/dinspre tot; de la/dinspre toată; de la/dinspre toți; de la/dinspre toate.
+hepísíndiy pron. ca tot; ca toată; ca toți; ca toate.
+hepísíne pron. spre tot; spre toată; spre toți; spre toate; tuturor; oricui.
+hepísíñ adj. tuturor.
+hepkene conj. totuși; cu toate acestea; orice s-ar zice.
+hepmínawday I. adj. asemănător; similar. II. adv. tot astfel; analog.
+heponday I. adj. asemănător; similar. II. adv. tot astfel; analog.
+hepşonday I. adj. asemănător; similar. II. adv. tot astfel; analog.
+heptagon s. (geom.) heptagon.
+heptagonal adj. (geom.) heptagonal.
+her adj. fiecare; oricare; orice. // ●her iktimalge karşî — pentru orice eventualitate. // ●her túrlí — de orice fel. // ●her zaman — totdeauna; mereu; tot timpul. // ●her zamankî — uzual.
+heraldik adj. eraldic.
+heraldika s. eraldică.
+heraldikalî adj. eraldic.
+herbír adj. fiecare; oricare; orice.
+herbírsí pron. fiecare.
+herbírsín pron. pe fiecare.
+herbírsínde pron. la fiecare.
+herbírsínden pron. de la/dinspre fiecare.
+herbírsíndiy pron. ca fiecare.
+herbírsíne pron. spre fiecare.
+herbírsíñ adj. al fiecăruia.
+herbírşiy pron. orice. // ●herbírşiyge inanawuyma — totul trebuie pus sub semnul îndoielii.
+herbírşiyde pron. la orice.
+herbírşiyden pron. de la/dinspre orice; din orice.
+herbírşiydiy pron. ca orice.
+herbírşiyge pron. spre orice.
+herbírşiyní pron. pe orice.
+herbírşiyníñ adj. care aparține de orice.
+herdemtaze s. (bot.) flori-de-paie; imortelă (lat., Helichrysum bracteatum).
+herdemtaze, sarî- s. (bot.) imortelă-galbenă (lat., Helichrysum orientale).
+hergele s. 1. cal nedresat. 2. (fig.) canalie; lepădătură.
+hergelelík s. crescătorie de cai de rasă; herghelie.
+hergún adv. zilnic; în fiecare zi. // ●hergún ğolga karap bekledík — v-am așteptat în fiecare zi cu ochii spre drum.
+hergúnkí adj. zilnic.
+herğúmerş s. învălmășeală; dezordine.
+herğúmerşlí adj. învălmășit; dezordonat.
+herhálde adv. oricum; în orice caz.
+heríf s. individ; persoană. // ●maw heríf — om rău.
+herkez pron. toți; toată lumea; oricine. // ●herkez bírdiy — toți ca unul. // ●herkezníñ íşínde arslan ğatagî bar — în fiecare există un culcuș de leu. // ●herkezníñ íşíne yaramaz — nu convine oricui. // ●herkezníñ karşîsînda/huzurunda — în prezența tuturor.
+herkezbílgen adj. binecunoscut; recunoscut; arhicunoscut; notoriu.
+herkezde pron. la toți; la toate.
+herkezden pron. de la/dinspre toți; de la/dinspre toate.
+herkezdiy pron. ca toată lumea; comun; obișnuit; ordinar.
+herkezge pron. spre toți; spre toate; tuturor; oricui. // ●herkezge bírdiy — în mod egal. // ●herkezge ózníñ kísín — fiecăruia al său.
+herkezgeğayuw s. trâmbițare; divulgare.
+herkezní pron. pe toți; pe toate; pe oricine.
+herkezníñ adj. care aparține tuturor.
+herkeztanîgan adj. binecunoscut; recunoscut; arhicunoscut; notoriu.
+heroyina s. heroină.
+herşiy pron. tot; toată; toți; toate; orice. // ●herşíyní masaga ğaymak — a da toate cărțile pe față. // ●herşiy ğolînda — totul e în regulă. // ●herşiy hal bolağak — totul se va rezolva. // ●herşiyden ewel — înainte de orice. // ●herşiyí men — cu tot ce are. // ●şúndí herşiy tamam mî? — acum totul e în regulă?;
+herşiyde pron. la tot; la toată; la toți; la toate; la orice.
+herşiyden pron. din orice; de la/dinspre tot; de la/dinspre toată; de la/dinspre toți; de la/dinspre toate; de la/dinspre orice.
+herşiydiy pron. ca tot; ca toată; ca toți; ca toate; ca orice.
+herşiyge pron. spre orice; spre tot; spre toată; spre toți; spre toate; spre orice.
+herşíyní pron. pe tot; pe toată; pe toți; pe toate; pe orice.
+herşíyníñ adj. care aparține de orice.
+herşíy yapkan adj. factotum.
+heryagî postp. împrejurul.
+heryakka adv. spre toate părțile; împrejur.
+heryakta adv. pretutindeni; peste tot; în toate părțile; împrejur.
+heryaktan adv. de pretutindeni; de peste tot; din toate părțile; dimprejur.
+heryerde adv. pretutindeni; peste tot; în toate părțile; împrejur.
+heryerden adv. de pretutindeni; de peste tot; din toate părțile; dimprejur.
+heryerge adv. spre toate părțile; împrejur.
+heryerínde adv. pe tot cuprinsul.
+hesabiy adj. financiar; contabil. // ●hesabiy buhran — criză financiară.
+hesabîaşîlgan adj. descifrat.
+hesabînaşmasî s. descifrare.
+hesabînayazuw s. trecere în cont; imputare; imputație.
+hesap s. 1. aritmetică. 2. calcul; socoteală. 3. (fin.) cont. 4. calcul; apreciere; estimare; presupunere. 5. (sport) scor. 6. măsură; cumpătare; ponderat; precauție; prevedere; prudență. // ●baştan hesapka almak — a preconiza. // ●hesabîn bílmek — a ști socoteala lucrurilor; a fi chibzuit; a fi cumpătat. // ●hesabîn yañğîşmak — a-și greși socotelile. // ●hesabîna kelmek/yaramak — a-i veni la socoteală; a-i conveni. // ●hesabîna yazmak/geşírmek — a pune în socoteala cuiva; a-l ține bun de plată; a-i imputa. // ●hesabînda tabîlmak — a se cifra la…; // ●hesap bermek — a da socoteală cuiva; a răspunde în fața cuiva. // ●hesap soramak — a cere socoteală; a trage la răspundere. // ●hesap yapmak — a-și face socotelile; a calcula; a presupune. // ●hesapka almak — a pune la socoteală; a ține seama de…; a lua în seamă; a bifa. // ●hesapka katmamak — a nu pune la socoteală; a nesocoti; a scăpa ceva din vedere; a trece cu vederea; a omite. // ●hesapka șîkmak — a ieși la socoteală; a ajunge la o rezolvare convenabilă. // ●hesapka tartmak — a cere socoteală; a trage la răspundere. // ●sîzğî/ğerge/pwan hesabî man ğeñmek — a câștiga la puncte (sport). // ●tógerek hesap yapmak — a face socoteală rotundă; a rotunji cifra. // ●banka hesabî (fin.) — cont bancar. // ●ğariy hesap (fin.) — cont curent. // ●hesabî temíz — corect. // ●hesabîm ázír mí? — este gata nota de plată?; // ●hesabîma yaramay — nu-mi convine. // ●hesap ğetvelí (mat.) — riglă de calcul. // ●hesap íşlemí (mat.) — operație aritmetică. // ●hesap mașínasî — mașină de calcul. // ●men hesapta șalt añlayman — eu înțeleg repede la aritmetică. // ●tógerek hesap — socoteală rotundă.
+hesapbergen adj. răspunzător; responsabil.
+hesapbermeme s. iresponsabilitate.
+hesapbermez adj. iresponsabil.
+hesapbermezlík s. iresponsabilitate.
+hesapberúw s. răspundere; responsabilitate.
 `;
