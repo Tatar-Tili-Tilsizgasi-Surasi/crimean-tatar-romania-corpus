@@ -743,9 +743,9 @@ herşiyde pron. la tot; la toată; la toți; la toate; la orice.
 herşiyden pron. din orice; de la/dinspre tot; de la/dinspre toată; de la/dinspre toți; de la/dinspre toate; de la/dinspre orice.
 herşiydiy pron. ca tot; ca toată; ca toți; ca toate; ca orice.
 herşiyge pron. spre orice; spre tot; spre toată; spre toți; spre toate; spre orice.
-herşíyní pron. pe tot; pe toată; pe toți; pe toate; pe orice.
-herşíyníñ adj. care aparține de orice.
-herşíy yapkan adj. factotum.
+herşiyní pron. pe tot; pe toată; pe toți; pe toate; pe orice.
+herşiyníñ adj. care aparține de orice.
+herşiy yapkan adj. factotum.
 heryagî postp. împrejurul.
 heryakka adv. spre toate părțile; împrejur.
 heryakta adv. pretutindeni; peste tot; în toate părțile; împrejur.
